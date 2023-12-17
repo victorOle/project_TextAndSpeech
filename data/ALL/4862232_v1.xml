@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4862232</id>
+    <passage>
+      <infon key="name_3">surname:Qi;given-names:Xiaoyang</infon>
+      <infon key="name_2">surname:Qi;given-names:Xiaoyang</infon>
+      <infon key="name_1">surname:Hussain;given-names:Nida</infon>
+      <infon key="name_0">surname:Davis;given-names:Harold W.</infon>
+      <infon key="article-id_pmid">27160923</infon>
+      <infon key="year">2016</infon>
+      <infon key="article-id_publisher-id">519</infon>
+      <infon key="article-id_pmc">4862232</infon>
+      <infon key="title">Keywords</infon>
+      <infon key="article-id_doi">10.1186/s12943-016-0519-1</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">33</infon>
+      <infon key="volume">15</infon>
+      <infon key="license">
+Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.</infon>
+      <infon key="kwd">Phosphatidylserine Cancer Tumor imaging Contrast agents Saposin C SapC-DOPS</infon>
+      <infon key="name_4">surname:Qi;given-names:Xiaoyang</infon>
+      <offset>0</offset>
+      <text>Detection of cancer cells using SapC-DOPS nanovesicles</text>
+      <annotation id="0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="32" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>55</offset>
+      <text>Unlike normal cells, cancer cells express high levels of phosphatidylserine on the extracellular leaflet of their cell membrane. Exploiting this characteristic, our lab developed a therapeutic agent that consists of the fusogenic protein, saposin C (SapC) which is embedded in dioleoylphosphatidylserine (DOPS) vesicles. These nanovesicles selectively target cancer cells and induce apoptosis. Here we review the data supporting use of SapC-DOPS to locate tumors for surgical resection or for treatment. In addition, there is important evidence suggesting that SapC-DOPS may also prove to be an effective novel cancer therapeutic reagent. Given that SapC-DOPS is easily labeled with lipophilic dyes, it has been combined with the far-red fluorescent dye, CellVue Maroon (CVM), for tumor targeting studies. We also have used contrast agents incorporated in the SapC-DOPS nanovesicles for computed tomography and magnetic resonance imaging, and review that data here. Administered intravenously, the fluorescently labeled SapC-DOPS traversed the blood–brain tumor barrier enabling identification of brain tumors. SapC-DOPS-CVM also detected a variety of other mouse tumors in vivo, rendering them observable by optical imaging using IVIS and multi-angle rotational optical imaging. Dye is detected within 30 min and remains within tumor for at least 7 days, whereas non-tumor tissues were unstained (some dye observed in the liver was transient, likely representing degradation products). Additionally, labeled SapC-DOPS ex vivo delineated tumors in human histological specimens. SapC-DOPS can also be labeled with contrast reagents for computed tomography or magnetic resonance imaging. In conclusion, labeled SapC-DOPS provides a convenient, specific, and nontoxic method for detecting tumors while concurrently offering a therapeutic benefit.</text>
+      <annotation id="2XXx1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="112" length="18"/>
+        <text>phosphatidylserine</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="332" length="26"/>
+        <text>dioleoylphosphatidylserine</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="360" length="4"/>
+        <text>DOPS</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="491" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="616" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="705" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="810" length="14"/>
+        <text>CellVue Maroon</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="826" length="3"/>
+        <text>CVM</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="915" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="1075" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,-</infon>
+        <location offset="1166" length="13"/>
+        <text>SapC-DOPS-CVM</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="1564" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="1633" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="1764" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1903</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>1914</offset>
+      <text>Phosphatidylserine and cancer</text>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="1914" length="18"/>
+        <text>Phosphatidylserine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1944</offset>
+      <text>Phospholipids are arranged asymmetrically in cell membranes, with neutral phospholipids on the outer leaflet and anionic phospholipids, such as phosphatidylethanolamine and phosphatidylserine (PS), located primarily on the inner leaflet of the membrane [1–3]. A translocase, the flippase complex, selective for PE and PS, is an ATP-dependent pump that catalyzes rapid inward migration of these phospholipids [1] to maintain this configuration. Collapse of this asymmetry is an early process in apoptosis that results in the translocation of PS to the exterior of the cell. In a normal cell undergoing apoptosis, the externalized PS serves as a trigger for phagocytes, particularly macrophages, to engulf the cell, minimizing inflammation [4, 5].</text>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="1944" length="13"/>
+        <text>Phospholipids</text>
+      </annotation>
+      <annotation id="2XXx18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="2018" length="13"/>
+        <text>phospholipids</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="2065" length="13"/>
+        <text>phospholipids</text>
+      </annotation>
+      <annotation id="2XXx20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C483858</infon>
+        <location offset="2088" length="24"/>
+        <text>phosphatidylethanolamine</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="2117" length="18"/>
+        <text>phosphatidylserine</text>
+      </annotation>
+      <annotation id="2XXx22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="2137" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C483858</infon>
+        <location offset="2255" length="2"/>
+        <text>PE</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="2262" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="2272" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="2338" length="13"/>
+        <text>phospholipids</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="2485" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="2573" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2692</offset>
+      <text>Although cancer cells and their associated tumor vasculature also exhibit a high level of PS on the outer leaflet [6–9], this externalized phospholipid is not associated with apoptosis. Critically, the mechanisms by which cancer cells actually resist phagocytosis remain incompletely understood [9]. Compared with non-malignant cells, expression of PS on the cell surface is a consistent marker of malignancy in both primary and metastatic cell lines [6–12]. In their study focused on difficult-to-treat primary cancers, including metastatic melanoma, glioblastoma, and metastatic lesions, Riedl et al. [11] demonstrated the specificity of abundant externalized PS for malignant tumors. While virtually all cancer cells exhibit high external PS compared with normal cells, the quantity of surface PS varies widely among different cancer cells, even of the same type [10, 12]. The increase in surface PS has led to the use of a number of proteins or peptides that bind to PS to study apoptotic and tumor cells [2, 4, 13]; among these are annexin A5 (ANXA5), an endogenous anticoagulant protein, and lactadherin (MFGE8) [2, 14], a major glycoprotein in milk that promotes cellular adhesion. Additionally, monoclonal antibodies to PS have been generated that demonstrate anti-tumor activity [6, 15]. All of these have been conjugated to a number of markers to detect the location of PS.</text>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="2782" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="2831" length="12"/>
+        <text>phospholipid</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3041" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="2XXx31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3354" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3434" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3489" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3592" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010455</infon>
+        <location offset="3641" length="8"/>
+        <text>peptides</text>
+      </annotation>
+      <annotation id="2XXx35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3663" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="3920" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="4072" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4080</offset>
+      <text>In this review, we discuss Saposin C-Dioleoylphosphatidylserine (SapC-DOPS), a stable nanovesicle that specifically binds PS but, importantly, also has demonstrated therapeutic properties against a variety of cancer types. Given the specificity of SapC-DOPS for cells that have undergone neoplastic transformation and the resultant enhancement seen on imaging studies owing to the externalization of PS on cancer cells, we review this new paradigm for improved diagnosis and early detection of malignancy that may overcome some of the limitations of current imaging related to the cancer’s type and site or to other underlying medical conditions (e.g., diabetes and kidney disease).</text>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="4107" length="36"/>
+        <text>Saposin C-Dioleoylphosphatidylserine</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="4145" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="4202" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="4328" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="4480" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4765</offset>
+      <text>SapC-DOPS</text>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="4765" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>4775</offset>
+      <text>Generation of SapC-DOPS. Saposin C (SapC) is a low molecular weight, heat-stable protein which can fuse lipid vesicles into cells by binding to phosphatidylserine (PS) in an acidic environment. Mixing SapC with dioleoylphosphatidylserine (DOPS) at a low pH results in the formation of SapC-DOPS vesicles with a mean diameter of ~200 nm. Used with permission © 2015 Glia Media</text>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="4789" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="4879" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="4919" length="18"/>
+        <text>phosphatidylserine</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="4939" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="4986" length="26"/>
+        <text>dioleoylphosphatidylserine</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="5014" length="4"/>
+        <text>DOPS</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="5060" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>5153</offset>
+      <text>Mechanism of cancer cell killing by SapC-DOPS. SapC-DOPS binds to PS-rich patches of cell membranes. Once SapC-DOPS binds, SapC activates acid sphingomyelinase to initiate the ceramide cascade, which results in cell death. Used with permission © 2015 Glia Media</text>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="5189" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="5200" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="5219" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="5259" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002518</infon>
+        <location offset="5329" length="8"/>
+        <text>ceramide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5416</offset>
+      <text>Saposin C (SapC) is a small, fusogenic glycoprotein that is remarkably heat-stable and protease-resistant [16–19]. While SapC itself is non-enzymatic, it is an activator of lysosomal enzymes, particularly acid sphingomyelinase and acid beta-glucosidase, which catalyze the breakdown of sphingomyelin and glucosylceramide into phosphocholine and ceramide, and glucose and ceramide, respectively [20–22]. Although the precise mechanism is unclear, this increase in ceramide levels may result in cell death, as ceramide has been previously implicated in apoptosis [23], possibly through the actions of caspases [24]. In order for SapC to activate these enzymes, it must bind the PS of the intracellular vesicles’ membranes. In vitro, at low pH, SapC and dioleoylphosphatidylserine (DOPS) will spontaneously form nanovesicles with a mean diameter of approximately 200 nm (Fig. 1). The amino- and carboxyl termini of SapC are amphipathic helices that insert into the lipid bilayer, while the middle region is exposed to solvent. Conformational changes of SapC induced by PS interaction suggest a reorientation of the functional helical domains [25]. Importantly, the cytotoxicity of SapC-DOPS positively correlates with the level of surface PS: the higher the external PS, the more effectively SapC-DOPS [10, 12] will bind the cell and trigger the ceramide cascade, ultimately resulting in apoptosis (Fig. 2).</text>
+      <annotation id="2XXx56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013109</infon>
+        <location offset="5702" length="13"/>
+        <text>sphingomyelin</text>
+      </annotation>
+      <annotation id="2XXx57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005963</infon>
+        <location offset="5720" length="16"/>
+        <text>glucosylceramide</text>
+      </annotation>
+      <annotation id="2XXx58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010767</infon>
+        <location offset="5742" length="14"/>
+        <text>phosphocholine</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002518</infon>
+        <location offset="5761" length="8"/>
+        <text>ceramide</text>
+      </annotation>
+      <annotation id="2XXx60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="5775" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002518</infon>
+        <location offset="5787" length="8"/>
+        <text>ceramide</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002518</infon>
+        <location offset="5879" length="8"/>
+        <text>ceramide</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002518</infon>
+        <location offset="5924" length="8"/>
+        <text>ceramide</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="6092" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="6167" length="26"/>
+        <text>dioleoylphosphatidylserine</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="6195" length="4"/>
+        <text>DOPS</text>
+      </annotation>
+      <annotation id="2XXx73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="6378" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="6482" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="6594" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="6652" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="6680" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="6705" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002518</infon>
+        <location offset="6759" length="8"/>
+        <text>ceramide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6830</offset>
+      <text>Main Text</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6840</offset>
+      <text>Use of SapC-DOPS as a tumor detection agent</text>
+      <annotation id="70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="6847" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>6884</offset>
+      <text>Histological sections</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6906</offset>
+      <text>In our lab, the role of PS as a tumor marker has been validated repeatedly for a variety of cancer types [10, 24, 26–30]. In particular, the targeting of PS by SapC-DOPS was demonstrated to be a novel method to achieve accurate and effective identification of cancer cells. The validation of PS as a reliable tumor marker, coupled with the high affinity of SapC-DOPS for PS on a variety of cancer cell surfaces, provides a promising advancement for accurate detection of several cancer types.</text>
+      <annotation id="2XXx75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="6930" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="7060" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="7066" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="7198" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="7263" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="7277" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7401</offset>
+      <text>Tumor detection by SapC-DOPS. SapC-DOPS nanovesicles can be labeled with imaging agents during formulation. For histological specimens and in vivo studies with small animals, optical imaging with the far red fluorophore, CellVue Maroon (CVM) can be used. For in vivo MRI imaging, the gadolinium chelate (Gd-DTAP-BSA) or the ultra-small cuperparamagnetic firon oxide (USPIO) can be incorporated and used as MRI contrast agents. Used with permission © 2015 Glia Media</text>
+      <annotation id="77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="7420" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="7431" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="7622" length="14"/>
+        <text>CellVue Maroon</text>
+      </annotation>
+      <annotation id="177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="7638" length="3"/>
+        <text>CVM</text>
+      </annotation>
+      <annotation id="2XXx81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005682</infon>
+        <location offset="7685" length="10"/>
+        <text>gadolinium</text>
+      </annotation>
+      <annotation id="186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019786,MESH:D012710</infon>
+        <location offset="7705" length="11"/>
+        <text>Gd-DTAP-BSA</text>
+      </annotation>
+      <annotation id="180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="7725" length="41"/>
+        <text>ultra-small cuperparamagnetic firon oxide</text>
+      </annotation>
+      <annotation id="gy137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="7768" length="5"/>
+        <text>USPIO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7868</offset>
+      <text>The lipophilic properties of SapC-DOPS make it an ideal carrier of detection moieties, such as fluorescent markers or clinically applicable contrast agents (Fig. 3). Experiments coupling SapC-DOPS to the far-red fluorescent probe CellVue Maroon (CVM) have been performed to distinguish neoplastic tumor regions on histologic slides and individual patient-derived neoplastic cell lines, as well as in vivo [10, 24, 26–28, 31]. In several studies showing the specificity of this reagent, SapC-DOPS-CVM was internalized by live tumor cells but not normal cells, clearly delineating the tumor in tissue slices. A caveat of using histological slides is that their generation requires slicing the cells, so that SapC-DOPS or other PS detection agents will bind to PS on both the exterior and interior of the membrane. However, fluorescently labeled SapC-DOPS can be used with flow cytometry to distinguish only the externalized PS.</text>
+      <annotation id="83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="7897" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="8055" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="8098" length="14"/>
+        <text>CellVue Maroon</text>
+      </annotation>
+      <annotation id="179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="8114" length="3"/>
+        <text>CVM</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,-</infon>
+        <location offset="8354" length="13"/>
+        <text>SapC-DOPS-CVM</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="8574" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="8593" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="2XXx90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="8626" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="8711" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="8790" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8797</offset>
+      <text>Of particular interest is the role of SapC-DOPS in detecting cancers that pose diagnostic challenges because of the tumor site or the intrinsic properties of the malignancy itself, by targeting surface PS of cancer cells and tumor vessels. Such cancers include glioblastoma and pancreatic adenocarcinoma, each of which carries a devastating prognosis despite years of diagnostic and therapeutic research.</text>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="8835" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="8999" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>9202</offset>
+      <text>Fluorescent SapC-DOPS detection in mice</text>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="9214" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9242</offset>
+      <text>Previous studies have taken in vitro data of fluorescently labeled SapC-DOPS a step further by evaluating diagnostic efficacy in vivo using mouse models. In one such study, mice bearing human neuroblastoma xenografts were injected intravenously with four different reagents: (1) SapC-DOPS conjugated to CVM, (2) unconjugated SapC and CVM, (3) DOPS and CVM, or (4) PBS alone [24]. The mice then underwent optical imaging at time intervals ranging from 0 to 48 h post-injection. The SapC-DOPS-CVM fluorescent signal was diffuse between 0 and 5 h, and had accumulated specifically within the tumor region by 24 h, persisting for up to 100 h. However, there was no fluorescence signal when uncoupled SapC was administered with DOPS-CVM [24]. Similar results were demonstrated by Kaimal et al. [29] in their mouse xenograft models of pancreatic adenocarcinoma and neuroblastoma and a murine rhabdomyosarcoma model. These studies demonstrated the specificity of SapC-DOPS for cells that have undergone neoplastic transformation, with the consequent externalization of PS. As such, this is a new paradigm for improved diagnosis and early detection of malignancy.</text>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="9309" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="9521" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9545" length="3"/>
+        <text>CVM</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9576" length="3"/>
+        <text>CVM</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="9585" length="4"/>
+        <text>DOPS</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9594" length="3"/>
+        <text>CVM</text>
+      </annotation>
+      <annotation id="2XXx115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="9606" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,-</infon>
+        <location offset="9723" length="13"/>
+        <text>SapC-DOPS-CVM</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511,-</infon>
+        <location offset="9965" length="8"/>
+        <text>DOPS-CVM</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="10198" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="10304" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10402</offset>
+      <text>In multi-angle rotational optical imaging (MAROI) to detect SapC-DOPS-CVM in mice [32], we used a rotational bed to obtain the in vivo image. Analysis of the MAROI signal curve provided multispectral and multimodal data derived from complete rotational coverage. We confirmed that optimal imaging depended on correct orientation during positioning; the fluorescence intensity decreased by as much as 9–12 % with each 10°of movement. Use of anatomical landmarks and concurrent X-ray imaging achieved both in vivo localization of the tumor and quantitation of fluorescent marker intensity. These findings can then be used in longitudinal studies to correlate fluorescent signal distribution directly with mapping of tumor location.</text>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,-</infon>
+        <location offset="10462" length="13"/>
+        <text>SapC-DOPS-CVM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>11136</offset>
+      <text>Impediments to clinical detection of malignancy using mulimodality imaging</text>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>11211</offset>
+      <text>Comparison of non-invasive imaging procedures for cancer detection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12243</offset>
+      <text>Among the factors considered when determining an optimal treatment plan for patients diagnosed with cancer, especially important are the size and location of the primary tumor and the extent of metastatic disease, if present. To define these characteristics and facilitate treatment, effective imaging modalities currently available include computed tomography (CT), positron emission tomography (PET), and magnetic resonance imaging (MRI). Each modality can help define cancer staging and diagnosis, but can also be limited in its effectiveness, depending on the type and site of the cancer or the patient’s underlying medical conditions. When such limitations exist, invasive procedures or a combination of diverse imaging techniques may be needed to make a definitive diagnosis; this can be both time-consuming and cost prohibitive (see Table 1).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13096</offset>
+      <text>CT has played a pivotal role in both diagnosis and staging of malignancy for several years. Although CT has been successful in upstaging many cancers at the time of diagnosis to improve treatment outcomes, several limitations prevent its universal applicability in cancer diagnosis, particularly in cases of local, microscopic disease spread. In a study of 957 lymph nodes evaluated from patients with head and neck cancers, Don et al. [33] found that 20 % of malignant lymph nodes had extracapsular spread; almost one third of these nodes were smaller than 10 mm, which is the size cut-off used to define pathological adenopathy on radiographic review. In addition, central necrosis, a common characteristic used to identify malignant lymph nodes by CT, were found primarily in lymph nodes that were 20 mm or larger, suggesting that central necrosis is a late event in metastatic adenopathy. Such findings suggest a deficiency in our ability to detect metastatic disease early in its course [33].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14097</offset>
+      <text>In contrast with CT and MRI, detection by PET imaging has proven superior for regional nodal and distant metastases, but inferior for several primary malignancies [34]. Moreover, PET has very poor spatial resolution, limiting accurate biopsy because of poor localization of the potential malignancy. While this problem can be offset in part by combined PET-CT scanning, defects in registration between the signals can still pose problems with tumor localization [34].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14565</offset>
+      <text>As such, currently available imaging modalities present shortcomings in our ability to detect occult spread of malignancy, which inevitably leads to delays in diagnosis of metastatic disease until it has spread more widely. At that point, few treatment options may remain. Such studies highlight the need for sensitive imaging techniques that focus on specifically revealing malignant cells, rather than probing tentative neoplastic properties of lymph nodes that may imply, but are not always specific for, malignancy.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15085</offset>
+      <text>Detection of intracranial neoplasms, such as glioblastoma multiforme, also poses a diagnostic challenge by currently available imaging techniques. PET imaging, for example, relies on underlying tissue metabolism to detect malignancy, given that neoplastic cells have increased metabolic activity compared with normal tissue. Non-malignant brain tissue, however, has metabolic activity comparable to tumors found in areas outside of the brain. Because intracranial neoplasms cannot be accurately identified on PET imaging, a second mode of imaging is needed to detect either primary or metastatic disease in the brain. Similarly, a CT of the brain can delineate brain lesions but often cannot definitively distinguish neoplastic tumors from other causes of brain lesions, including infections or demyelinating diseases. Therefore, detection of intracranial malignancy currently relies on MRI for evaluation and characterization. Such studies, however, require prolonged acquisition time, which can cause increased motion artifact and result in poor image quality unless the patient is sedated, as for pediatric patients, which increases patient risk.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16235</offset>
+      <text>Beyond accurate detection of malignancy, limitations in current imaging modalities also relate to any underlying medical conditions of the patient. For example, CT imaging often requires an intravenous contrast agent. Contrast can be particularly nephrotoxic for patients with acute or chronic kidney disease. This comorbidity is common in patients at the time of cancer diagnosis because of poor oral intake and prolonged cachexia, and can also be a frequent consequence of several chemotherapeutic regimens. Thus, contrast-enhanced CT imaging is commonly avoided in patients with underlying kidney disease. Similar caution must be taken when using gadolinium contrast for MRI in patients with kidney disease because of the possibility of adverse outcomes, such as nephrogenic systemic sclerosis, which carries a high rate of morbidity and mortality. Limitations in PET imaging occur in diabetic patients, because blood glucose levels can significantly impact tumor uptake of fluorodeoxyglucose (FDG), the agent used to detect malignancy. In these cases, FDG and glucose compete for glucose transport and phosphorylation [35]. Guidelines currently require both tight glycemic control (i.e., glucose levels below 200 mg/dL) before PET imaging and that patients abstain from all glucose-containing food and drink for at least 6 h prior to the study. However, these restrictions have often proven difficult to achieve, thus compromising imaging quality and accuracy. Advances in combined PET/CT [36] and PET/MRI [37] have solved some of these problems. However, the toxicity of contrast agents and their inability to cross the blood–brain barrier limit their effectiveness and demonstrate the necessity for a diagnostic agent with limited side effects, few clinical restrictions, and enhanced specificity for neoplastic cells.</text>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005682</infon>
+        <location offset="16885" length="10"/>
+        <text>gadolinium</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="17156" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019788</infon>
+        <location offset="17212" length="18"/>
+        <text>fluorodeoxyglucose</text>
+      </annotation>
+      <annotation id="2XXx121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019788</infon>
+        <location offset="17232" length="3"/>
+        <text>FDG</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019788</infon>
+        <location offset="17291" length="3"/>
+        <text>FDG</text>
+      </annotation>
+      <annotation id="2XXx123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="17299" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="17319" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="17427" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="17513" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>18064</offset>
+      <text>Detection of malignancy using SapC-DOPS in preclinical studies</text>
+      <annotation id="112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="18094" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18127</offset>
+      <text> a High-resolution MRI of a glioma in a mouse in vivo. MRI was performed at 7T. T2* weighted 3D FLASH sequence (TE/TR = 10 ms/20 ms/FA = 10°) were used with a 320 × 320 × 64 matrix and 3.2 × 3.2 × 0.64 cm FOV resulting in an isotropic 100 mm resolution. Negative contrast enhancement is observed 4 h following SapC-DOPS-USPIO (adapted from [28]). b MicroPET imaging of a glioblastoma in a mouse brain 24 h after administration of SapC-DOPS-124I · (2a) nanovesicles. 2a is a phenol-substituted analog of indodicarbocyanine (DiD). A CT scan was acquired for anatomical co-registration and attenuation correction of the PET data. Concurrent bioluminescence imaging (BLI) confirmed the presence of glioblastoma (adapted from [40]).</text>
+      <annotation id="114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,MESH:C097921</infon>
+        <location offset="18437" length="15"/>
+        <text>SapC-DOPS-USPIO</text>
+      </annotation>
+      <annotation id="172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,MESH:C000614959,MESH:D002232</infon>
+        <location offset="18557" length="21"/>
+        <text>SapC-DOPS-124I · (2a)</text>
+      </annotation>
+      <annotation id="gy198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002232</infon>
+        <location offset="18593" length="2"/>
+        <text>2a</text>
+      </annotation>
+      <annotation id="2XXx128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019800</infon>
+        <location offset="18601" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="gy204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002232</infon>
+        <location offset="18630" length="18"/>
+        <text>indodicarbocyanine</text>
+      </annotation>
+      <annotation id="gy203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002232</infon>
+        <location offset="18650" length="3"/>
+        <text>DiD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18897</offset>
+      <text>To improve MRI sensitivity, shorten scanning time, and improve safety, we have used SapC-DOPS as a carrier for contrast agents. The method of Bogdanov et al. [38] was implemented to encapsulate ferumoxtran-10, an ultra-small super-paramagnetic iron oxide (USPIO) contrast agent, into SapC-DOPS vesicles. The resulting SapC-DOPS-USPIO was used with MRI to detect tumors in mice [29]. The T2 relaxation time (i.e., time for the transverse magnetization to fall to approximately 37 % of its initial value after magnetization) of subcutaneous xenografts of neuroblastomas or pancreatic tumors was decreased by SapC-DOPS-USPIO, thus indicating the uptake of the agent by tumors. This allowed specific detection of the malignancy (Fig. 4a).</text>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="18981" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="19091" length="14"/>
+        <text>ferumoxtran-10</text>
+      </annotation>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="19110" length="41"/>
+        <text>ultra-small super-paramagnetic iron oxide</text>
+      </annotation>
+      <annotation id="gy217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="19153" length="5"/>
+        <text>USPIO</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="19181" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,MESH:C097921</infon>
+        <location offset="19215" length="15"/>
+        <text>SapC-DOPS-USPIO</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511,MESH:C097921</infon>
+        <location offset="19503" length="15"/>
+        <text>SapC-DOPS-USPIO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19634</offset>
+      <text>Additionally, we incorporated the paramagnetic contrast agent, gadolinium, into SapC-DOPS vesicles by using the lipophilic gadolinium chelate, gadolinium-DTPA-bis (stearylamide) [39]. These vesicles produced a 9 % increase in the longitudinal relaxation rate (R1) of orthotopic glioblastoma multiforme tumors in mice within 10 h post-injection, but only minimal changes in normal brain tissue; again this demonstrated improved specificity of tumor detection.</text>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005682</infon>
+        <location offset="19697" length="10"/>
+        <text>gadolinium</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="19714" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005682</infon>
+        <location offset="19757" length="10"/>
+        <text>gadolinium</text>
+      </annotation>
+      <annotation id="187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C077628</infon>
+        <location offset="19777" length="34"/>
+        <text>gadolinium-DTPA-bis (stearylamide)</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20095</offset>
+      <text>We have recently used a phenol-substituted lipophilic dye to label SapC-DOPS with 124I, a positron emitter. We then used this labeled SapC-DOPS for PET imaging. As shown in Fig. 4b we were able to selectively enhance the intracranial glioblastomas with PET scanning [40]. Concurrent studies with SapC-DOPS labeled with 125I instead of 124I indicated that SapC-DOPS specifically targeted the tumor, although some label was detected in the liver and spleen, likely disposal routes.</text>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019800</infon>
+        <location offset="20119" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20162" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000614959</infon>
+        <location offset="20177" length="4"/>
+        <text>124I</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20229" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20391" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000614960</infon>
+        <location offset="20414" length="4"/>
+        <text>125I</text>
+      </annotation>
+      <annotation id="gy227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000614959</infon>
+        <location offset="20430" length="4"/>
+        <text>124I</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20450" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20576</offset>
+      <text>These studies indicate the ability of SapC-DOPS to transverse the blood brain barrier without requiring either alteration of the barrier or direct intracranial administration of the agent [12]. This suggests a potential role for SapC-DOPS in improving the safety and convenience of detecting (and treating) intracranial neoplasms.</text>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20614" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20805" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20907</offset>
+      <text>The pharmacologic safety of SapC-DOPS has been evaluated in mice at 12× the typical therapeutic dose of 4 mg/kg of Sap C and 2 mg/kg of DOPS [24]. Even at these levels, no acute toxicity or weight loss was demonstrated with administration. Furthermore, histological examination of vital organs (i.e., lung, liver, spleen, kidney, heart, brain) revealed neither damage nor toxic changes. Chronic toxicity studies were also performed with injection of 2× therapeutic concentrations of SapC-DOPS weekly for 5 weeks. Again, these studies demonstrated no significant toxicity on histological review of the vital organs listed above [24]. In comparison, the contrast agents currently used for image enhancement during CT and MRI scanning can place patients at risk for kidney damage or systemic disease. Beyond the pharmacologic safety evidence, we compared survival data for mice with pancreatic tumors treated with SapC-DOPS versus control groups. Mice treated with SapC-DOPS lived significantly longer compared with untreated control groups: specifically, all control mice had died by 23 weeks after treatment, while 4 of the 6 SapC-DOPS-treated mice were still alive [10]. Similar results were obtained with a brain tumor model [28]. Mice bearing orthotopic glioblastoma multiforme that were treated with DOPS alone all died within 20 days. However, 25 % of those treated with SapC-DOPS survived at least 350 days. In addition, the tumors were smaller in the SapC-DOPS treated mice. Again, these studies provide pre-clinical data to support the safety of systemic SapC-DOPS administration for diagnostic and therapeutic purposes. Although there is some therapeutic value of SapC-DOPS with the dose that would be injected for diagnostic purposes, multiple doses are generally given to shrink tumors. Additionally, as SapC-DOPS is a nanovesicle it can be loaded with radioisotopes or chemotherapeutic drugs to provide further benefit.</text>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="20935" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="21043" length="4"/>
+        <text>DOPS</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="21390" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="21818" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="21869" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22032" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="2XXx159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042511</infon>
+        <location offset="22210" length="4"/>
+        <text>DOPS</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22282" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22364" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22469" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22579" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22721" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22847</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22859</offset>
+      <text>Our data indicate that the novel and PS-targeted nanovesicle, SapC-DOPS, can be used for exposure of hard to detect malignancies, whether due to size or location. Although further studies are required, our preclinical studies suggest that the tumor–selective nanovesicles may greatly contribute to improving the precision of early cancer diagnosis. In addition, SapC-DOPS may have a therapeutic benefit and be used as a “theranostic” compound. Ongoing studies are to provide support for the inclusion of SapC-DOPS in the battery of tests conducted by oncologists to enhance the accuracy and sensitivity of tumor diagnosis.</text>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="22896" length="2"/>
+        <text>PS</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="22921" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="23221" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="23363" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23488</offset>
+      <text>Ethics approval</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23504</offset>
+      <text>The ethical approval for the animal studies described in this review are provided in the original publications.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>23616</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23630</offset>
+      <text>CT</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23633</offset>
+      <text>computed tomography</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23653</offset>
+      <text>CVM</text>
+      <annotation id="200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="23653" length="3"/>
+        <text>CVM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23657</offset>
+      <text>CellVue Maroon</text>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="23657" length="14"/>
+        <text>CellVue Maroon</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23672</offset>
+      <text>FDG</text>
+      <annotation id="2XXx176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019788</infon>
+        <location offset="23672" length="3"/>
+        <text>FDG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23676</offset>
+      <text>fluorodeoxyglucose</text>
+      <annotation id="156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019788</infon>
+        <location offset="23676" length="18"/>
+        <text>fluorodeoxyglucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23695</offset>
+      <text>MAROI</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23701</offset>
+      <text>multi-angle rotational optical imaging</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23740</offset>
+      <text>MRI</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23744</offset>
+      <text>magnetic resonance imaging</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23771</offset>
+      <text>PET</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23775</offset>
+      <text>positron emission tomography</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23804</offset>
+      <text>PS</text>
+      <annotation id="2XXx178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="23804" length="2"/>
+        <text>PS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23807</offset>
+      <text>phosphatidylserine</text>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="23807" length="18"/>
+        <text>phosphatidylserine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23826</offset>
+      <text>SapC-DOPS</text>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="23826" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23836</offset>
+      <text>saposin C-Dioleophosphatidylserine</text>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="23836" length="34"/>
+        <text>saposin C-Dioleophosphatidylserine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23871</offset>
+      <text>USPIO</text>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="23871" length="5"/>
+        <text>USPIO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23877</offset>
+      <text>ultra-small super-paramagnetic iron oxide</text>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C097921</infon>
+        <location offset="23877" length="41"/>
+        <text>ultra-small super-paramagnetic iron oxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>23919</offset>
+      <text>Competing interests</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>23939</offset>
+      <text>Xiaoyang Qi, Ph.D. is listed as an inventor on the patent for the technology (SapC-DOPS) that is the subject of this research. Consistent with current Cincinnati Children’s Hospital Medical Center policies, the development and commercialization of this technology has been licensed to Bexion Pharmaceuticals, LLC, in which Dr. Qi holds a minor (&lt;5 %) equity interest. This work was supported in part by R01CA158372-01A0 (to X. Qi), R21NS095047-01A0 (to X. Qi), Brain Tumor Center Research Funds and Hematology-Oncology Programmatic Support from University of Cincinnati College of Medicine (to X. Qi), and New Drug State Key Project Grant Number 009ZX09102-205 (to X. Qi).</text>
+      <annotation id="163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D049231,MESH:C042511</infon>
+        <location offset="24017" length="9"/>
+        <text>SapC-DOPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>24615</offset>
+      <text>Authors’ contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>24640</offset>
+      <text>XQ conceived of this review article. HWD and NH participated in its design and helped to draft the manuscript. All authors read and approved the final manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>24803</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

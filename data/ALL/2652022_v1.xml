@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>2652022</id>
+    <passage>
+      <infon key="name_3">surname:Murata;given-names:Hiroshi</infon>
+      <infon key="name_2">surname:Ito;given-names:Yasushi</infon>
+      <infon key="name_1">surname:Inokuchi;given-names:Yuta</infon>
+      <infon key="name_0">surname:Shimazawa;given-names:Masamitsu</infon>
+      <infon key="article-id_pmid">17438523</infon>
+      <infon key="fpage">578</infon>
+      <infon key="year">2007</infon>
+      <infon key="article-id_publisher-id">a62 2006MOLVIS</infon>
+      <infon key="article-id_pmc">2652022</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">13</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the
+        Creative Commons Attribution License, which permits unrestricted use,
+        distribution, and reproduction in any medium, provided the original
+        work is properly cited.</infon>
+      <infon key="journal-title">Molecular Vision</infon>
+      <infon key="name_7">surname:Hara;given-names:Hideaki</infon>
+      <infon key="name_6">surname:Araie;given-names:Makoto</infon>
+      <infon key="lpage">587</infon>
+      <infon key="name_5">surname:Miura;given-names:Masayuki</infon>
+      <infon key="name_4">surname:Aihara;given-names:Makoto</infon>
+      <offset>0</offset>
+      <text>Involvement of ER stress in retinal cell death</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>47</offset>
+      <text>Purpose</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>55</offset>
+      <text>To clarify whether endoplasmic reticulum (ER) stress is involved in retinal cell death, using cultured retinal ganglion cells (RGC-5, a rat ganglion cell line transformed with E1A virus), and transgenic mice ER stress-activated indicator (ERAI) mice carrying a human XBP1 and venus a variant of green fluorescent protein (GFP) fusion gene.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>395</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>403</offset>
+      <text>RGC-5 damage was induced by tunicamycin, and cell viability was measured by double nuclear staining (Hoechst 33342 and either YO-PRO-1 or propidium iodide). The expressions of glucose-regulated protein 78(GRP78)/BiP, the phosphorylated form of eukaryotic initiation factor 2α (p-eIF2α), and C/EBP-homologous (CHOP) protein after tunicamycin (in vitro or in vivo) or N-methyl-D-aspartate (NMDA; in vivo) treatment were measured using immunoblot or immunostaining. ERAI mice carrying the F-XBP1-DBD-venus expression gene were used to monitor ER-stress in vivo. Twenty-four hours after intravitreal injection of tunicamycin or NMDA, or after raising intraocular pressure (IOP), the retinal fluorescence intensity was visualized in anesthetized animals using an ophthalmoscope and in retinal flatmount or cross-section specimens using laser confocal microscopy.</text>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="431" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="504" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="529" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="541" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">OTHER</infon>
+        <location offset="579" length="28"/>
+        <text>glucose-regulated protein 78</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="732" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="769" length="20"/>
+        <text>N-methyl-D-aspartate</text>
+      </annotation>
+      <annotation id="2XXx5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="791" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="1012" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="1027" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1269</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1277</offset>
+      <text>Treatment with tunicamycin induced apoptotic cell death in RGC-5 and also induced production of ER stress-related proteins (BiP, the phosphorylated form of eIF2α, and CHOP protein). In vivo, tunicamycin induced retinal ganglion cell (RGC) loss and thinning of the inner plexiform layer, 7 days after intravitreal injection. In flatmounted retinas of ERAI mice, the fluorescence intensity arising from the XBP-1-venus fusion protein, indicating ER-stress activation, was increased at 24 h after tunicamycin, NMDA, or IOP elevation. In transverse cross-sections from ERAI mice, the fluorescence intensity was first increased in cells of the ganglion cell and inner plexiform layers at 12 and 24 h, respectively, after NMDA injection, and it was localized to ganglion and amacrine cells at 12 and 24 h, respectively, and to microglial cells at 72 h. BiP and CHOP were increased at 12 h after NMDA injection, and the increases persisted for the remainder of the 72 h observation period.</text>
+      <annotation id="2XXx10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="1292" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="1468" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="1771" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="1784" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="1993" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="2166" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>2264</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>2276</offset>
+      <text>These data indicate that ER-stress may play a pivotal role in RGC death, whether induced by NMDA or IOP elevation.</text>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="2368" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2391</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2404</offset>
+      <text>Endoplasmic reticulum (ER) stress is caused by a number of biochemical and physiological stimuli that result in the accumulation of unfolded proteins in the ER lumen, and it is closely associated with the neuronal cell injury caused by vascular and neurodegenerative diseases such as stroke, Alzheimer disease, and Parkinson disease [1-3]. However, little is known about the role, if any, of ER stress in retinal damage.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2825</offset>
+      <text>Retinal ganglion cell (RGC) death is a common feature of many ophthalmic disorders such as glaucoma, optic neuropathies, and retinovascular diseases, such as diabetic retinopathy and retinal vein occlusions. RGC death has been reported to occur via a variety of mechanisms involving, for example, oxidative stress [4], excitatory amino acids [5], nitric oxide (NO) [6], and apoptosis [7]. Glutamate, one of the excitatory amino acids, is the main neurotransmitter in the retinal signaling pathway. Excessive glutamate increases both intracellular Ca2+ and NO production through activation of the N-methyl-D-aspartate (NMDA)-type glutamate receptor, resulting in retinal cell death [8,9]. Recently, Uehara et al. [10] reported that in primary cortical culture, even mild exposure of NMDA induces apoptotic cell death. They demonstrated to be caused by an accumulation of polyubiquitinated proteins and increases in X box binding protein (XBP-1) mRNA splicing and C/EBP-homologous (CHOP) mRNA, representing activation of the unfolded-protein response (UPR) signaling pathway. They also found that protein-disulphide isomerase (PDI), which assists in the maturation and transport of unfolded secretory proteins, prevented the neurotoxicity associated with ER stress. They suggest that neurodegenerative disorders might be mediated by S-nitrosylation of PDI, which would reduce its enzymatic activity. Their results strongly suggest that activation of ER stress may participate in the retinal cell death occurring after NMDA receptor activation and/or ischemic insult. Hence, the purpose of the present study is to examine how ER stress might induce retinal damage both in vitro using cultured retinal ganglion cells (RGC-5, a rat ganglion cell line transformed using E1A virus) and in vivo (using ER stress-activated indicator (ERAI) transgenic mice, in which effective identification of cells under ER-stress conditions is possible in vivo, as described in our previous report) [11]. Use of ERAI mice should provide valuable information regarding the dynamics of ER stress-induced retinal damage.</text>
+      <annotation id="267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018846</infon>
+        <location offset="3144" length="22"/>
+        <text>excitatory amino acids</text>
+      </annotation>
+      <annotation id="2XXx18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="3172" length="12"/>
+        <text>nitric oxide</text>
+      </annotation>
+      <annotation id="2XXx19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="3186" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="3214" length="9"/>
+        <text>Glutamate</text>
+      </annotation>
+      <annotation id="268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018846</infon>
+        <location offset="3236" length="22"/>
+        <text>excitatory amino acids</text>
+      </annotation>
+      <annotation id="2XXx22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="3333" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="3372" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="3381" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="2XXx26">
+        <infon key="type">OTHER</infon>
+        <location offset="3421" length="51"/>
+        <text>N-methyl-D-aspartate (NMDA)-type glutamate receptor</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="3607" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="270">
+        <infon key="type">OTHER</infon>
+        <location offset="3920" length="28"/>
+        <text>protein-disulphide isomerase</text>
+      </annotation>
+      <annotation id="2XXx27">
+        <infon key="type">OTHER</infon>
+        <location offset="4341" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4920</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4928</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4938</offset>
+      <text>Dulbeco's modified Eagles's medium (D-MEM) was purchased from Sigma-Aldrich (St. Louis, MO). The drugs used and their sources were as follows. Tunicamycin was obtained from Calbiochem (San Diego, CA) and Wako (Osaka, Japan). Isoflurane was acquired from Nissan Kagaku (Tokyo, Japan), and fetal bovine serum (FBS) was obtained from Valeant (Costa Mesa, CA).</text>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="4938" length="34"/>
+        <text>Dulbeco's modified Eagles's medium</text>
+      </annotation>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="4974" length="5"/>
+        <text>D-MEM</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="5081" length="11"/>
+        <text>Tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007530</infon>
+        <location offset="5163" length="10"/>
+        <text>Isoflurane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5295</offset>
+      <text>Retinal ganglion cell line (retinal ganglion cell-5) culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5356</offset>
+      <text>Cultures of RGC-5 were maintained in D-MEM supplemented with 10% FBS, 100 U/ml penicillin (Meiji Seika Kaisha, Ltd., Tokyo, Japan), and 100 μg/ml streptomycin (Meiji Seika Kaisha, Ltd.) in a humidified atmosphere of 95% air and 5% CO2 at 37 °C. The RGC-5 cells were passaged by trypsinization every 3 days, as in a previous report [12].</text>
+      <annotation id="2XXx33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5393" length="5"/>
+        <text>D-MEM</text>
+      </annotation>
+      <annotation id="2XXx34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="5435" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="2XXx35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="5502" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="5587" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5695</offset>
+      <text>Cell viability assay after tunicamycin</text>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="5722" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5734</offset>
+      <text>RGC-5 cells were plated at a density of 1000 cells/well in 96-well culture plates (number 3072, Falcon®, Becton Dickinson and Company, Franklin Lakes, NJ). Twenty-four h later, cells were washed twice with D-MEM and then immersed in D-MEM supplemented with 1% FBS plus tunicamycin at 1 to 4 μg/ml. Twenty-four or forty-eight hours after the addition of tunicamycin, cell viability was measured using a single-cell digital imaging-based method employing fluorescent staining of nuclei. Briefly, cell death was assessed on the basis of combination staining with fluorescent dyes [namely, Hoechst 33342 (Molecular Probes, Eugene, OR) and either YO-PRO-1 (Molecular probes) or propidium iodide (PI; Molecular probes)]. Observations were made using an Olympus IX70 inverted epifluorescence microscope (Olympus, Tokyo, Japan). At the end of the above culture period, Hoechst 33342 and YO-PRO-1 or PI dyes were added to the culture medium at 8 μM, 0.1 μM, and 1.5 μM, respectively, for 30 min. Images were collected using a digital camera (Coolpix 4500, Nikon Corp., Tokyo, Japan). In a blind manner, a total of at least 400 cells per condition were counted using image-processing software (Image-J ver. 1.33f, National Institutes of Health, Bethesda, MD). Cell mortality was quantified by expressing the number of YO-PRO-1- or PI-positive cells as a percentage of the number of Hoechst 33342-positive cells.</text>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5940" length="5"/>
+        <text>D-MEM</text>
+      </annotation>
+      <annotation id="2XXx39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5967" length="5"/>
+        <text>D-MEM</text>
+      </annotation>
+      <annotation id="2XXx40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="6003" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="6087" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="6320" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="2XXx49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="6376" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="6407" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="2XXx44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="6425" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="6595" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="6613" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="6625" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="7042" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="7055" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="7106" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7141</offset>
+      <text>Animals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7149</offset>
+      <text>ER-stress-activated indicator (ERAI)-transgenic mice carrying the F-XBP1DDBD-venus expression gene [11] and their background wild-type mice (C57BL/6) aged 8-11 weeks or male adult ddY mice (Japan SLC, Hamamatsu, Japan) weighing 36-43 g for experiments other than the comparison with ERAI-transgenic mice were used, and were kept under controlled lighting conditions (12 h:12 h light/dark). All experiments were performed in accordance with the ARVO statement for the Use of Animals in Ophthalmic and Vision Research, and were approved and monitored by the Institutional Animal Care and Use Committee of Gifu Pharmaceutical University.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7784</offset>
+      <text>Retinal damage induced by N-methyl-D-aspartate (NMDA)-, tunicamycin-, or intraocular pressure (IOP) elevation</text>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7810" length="20"/>
+        <text>N-methyl-D-aspartate</text>
+      </annotation>
+      <annotation id="2XXx53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7832" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="7840" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7894</offset>
+      <text>Male mice were anesthetized with 3.0% isoflurane and maintained using 1.5% isoflurane in 70% N2O and 30% O2, delivered via an animal general anesthesia machine (Soft Lander, Sin-ei industry Co. Ltd., Saitama, Japan). The body temperature was maintained at 37.0 - 37.5 °C with the aid of a heating pad and heating lamp. Retinal damage was induced by injection (2 μl/eye) either of NMDA (Sigma-Aldrich) at 20 mM dissolved in 0.01 M phosphate-buffered saline (PBS) or of tunicamycin at 50 and 500 μg/ml, or (b) by acutely increasing the intraocular pressure (IOP). For NMDA- or tunicamycin-induced injury, the relevant agent was injected into the vitreous body of the left eye under the above anesthesia. In the IOP elevation model, the pupils were dilated with topical 2.5% phenylephrine hydrochloride and 1% tropicamide (Santen Pharmaceuticals Co. Ltd., Osaka, Japan). After topical instillation of 0.4% oxybuprocaine hydrochloride (Santen Pharmaceuticals Co. Ltd.), the anterior chamber was cannulated with a 32-gauge needle connected to a reservoir containing 0.9% NaCl. IOP was elevated by raising the height of the reservoir, maintaining a pressure of 100 mm Hg for 45 min. Retinal ischemia was confirmed by the blanching of the iris and retinal circulation. At the end of the elevated IOP period, the needle was removed, and reperfusion of the retinal vasculature was confirmed by ophthalmoscopic examination (KOM 300; Konan Inc., Nishinomiya, Japan). One drop of levofloxacin ophthalmic solution (Santen Pharmaceuticals Co. Ltd.) was applied topically to the treated eye after each procedure (intravitreal injection or ischemia-reperfusion).</text>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007530</infon>
+        <location offset="7932" length="10"/>
+        <text>isoflurane</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007530</infon>
+        <location offset="7969" length="10"/>
+        <text>isoflurane</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009609</infon>
+        <location offset="7987" length="3"/>
+        <text>N2O</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="7999" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="2XXx59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8274" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="8324" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="8351" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="8362" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8460" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="8469" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010656</infon>
+        <location offset="8666" length="27"/>
+        <text>phenylephrine hydrochloride</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014331</infon>
+        <location offset="8701" length="11"/>
+        <text>tropicamide</text>
+      </annotation>
+      <annotation id="2XXx67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005298</infon>
+        <location offset="8797" length="27"/>
+        <text>oxybuprocaine hydrochloride</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="8960" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="2XXx69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D064704</infon>
+        <location offset="9362" length="12"/>
+        <text>levofloxacin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9544</offset>
+      <text>Monitoring endoplasmic reticulum (ER) stress using ERAI-transgenic mice</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9616</offset>
+      <text>In anesthetized ERAI-transgenic or wild-type mice, retinal damage was induced by injection (2 μl/eye) of either NMDA at 20 mM or tunicamycin at 50 μg/ml into the vitreous body, or by elevating IOP to 100 mmHg for 45 min (see above). Twenty-four hours later, the fluorescence intensity arising from the XBP-1-venus fusion protein, which is translated from the F-XBP1DDBD-venus gene, was visualized in the retina of anesthetized animals using an ophthalmoscope (TRC-50; TOPCON, Tokyo, Japan) fitted with a fluorescence filter. In separate experiments, the distribution and time-course of changes in fluorescence intensity in the retina were measured in retinal flatmount and cross-section specimens using either laser confocal microscopy (Bio-Lad Laboratories, Inc, Hercules, CA) or epifluorescence microscopy (Power BX50; Olympus, Tokyo, Japan). At various times after the intravitreal injections (12, 24, and 72 h), eyes were enucleated, then fixed in 4% paraformaldehyde for 1 h or overnight at 4 °C as preparation for retinal flatmount and retinal cross-section, respectively. For the preparation of retinal flatmounts, detached retinas were flatmounted on slides (MAS COAT; MATSUNAMI GLASS IND., LTD., Osaka, Japan) by making radial incisions. They were then mounted under a coverslip and observed using the epifluorescence microscope. For the preparation of retinal cross-sections, fixed eyes were immersed in 20% sucrose for 48 h at 4 °C, and embedded in optimum cutting temperature (OCT) compound (Sakura Finetechnical Co., Ltd, Tokyo, Japan). Transverse, 10 μm thick cryostat sections were cut and placed onto slides (MAS COAT) under a coverslip, and observed using the laser confocal microscope.</text>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="9728" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="9745" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003043</infon>
+        <location offset="10571" length="16"/>
+        <text>paraformaldehyde</text>
+      </annotation>
+      <annotation id="2XXx73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="11034" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="gy139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11076" length="42"/>
+        <text>optimum cutting temperature (OCT) compound</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11325</offset>
+      <text>Immunoblotting</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11340</offset>
+      <text>RGC-5 cells or mouse retinas were lysed using a cell-lysis buffer (RIPA buffer (R0278; Sigma) with protease (P8340; Sigma Aldrich) and phosphatase inhibitor cocktails (P2850 and P5726; Sigma), and 1 mM EDTA). Cell lysates were solubilized in SDS-sample buffer, separated on 10% SDS-polyacrylamide gels, and transferred to PVDF membrane (Immobilon-P; Millipore, Bedford, MA). Transfers were blocked for 1 h at room temperature with 5% Blocking One-P (Nakarai Tesque, Inc., Kyoto, Japan) in 10 mM Tris-buffered saline with 0.05% Tween 20 (TBS-T), then incubated overnight at 4 °C with the primary antibody. The transfers were then rinsed with TBS-T and incubated for 1 h at room temperature in horseradish peroxidase goat anti-rabbit or goat anti-mouse (Pierce, Rockford, IL) diluted 1:2000. The immunoblots were developed using chemiluminescence (Super Signal® West Femto Maximum Sensitivity Substrate; Pierce), and visualized with the aid of a digital imaging system (FAS-1000; Toyobo CO., LTD, Osaka, Japan). The primary antibodies used were as follows: mouse anti-BiP (BD Bioscience, San Jose, CA), rabbit anti-phospho-eIF2α (Ser51; Cell Signaling, Beverly, MA), rabbit anti-eIF2α (Cell Signaling), mouse anti-CHOP (Santa Cruz, Santa Cruz, CA), and rabbit anti-actin (Santa Cruz).</text>
+      <annotation id="2XXx74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11407" length="11"/>
+        <text>RIPA buffer</text>
+      </annotation>
+      <annotation id="gy149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11508" length="5"/>
+        <text>P2850</text>
+      </annotation>
+      <annotation id="gy143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11518" length="5"/>
+        <text>P5726</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="11542" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="11582" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="11618" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="2XXx83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016679</infon>
+        <location offset="11622" length="14"/>
+        <text>polyacrylamide</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="11662" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+      <annotation id="gy144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11774" length="14"/>
+        <text>Blocking One-P</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965</infon>
+        <location offset="11835" length="20"/>
+        <text>Tris-buffered saline</text>
+      </annotation>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="11867" length="8"/>
+        <text>Tween 20</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965,MESH:D011136</infon>
+        <location offset="11877" length="5"/>
+        <text>TBS-T</text>
+      </annotation>
+      <annotation id="2XXx81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965,MESH:D011136</infon>
+        <location offset="11981" length="5"/>
+        <text>TBS-T</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="12468" length="3"/>
+        <text>Ser</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12631</offset>
+      <text>Immunostaining</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12646</offset>
+      <text>To clarify the distribution and localization of the XBP1-venus fusion protein in the retina of ERAI mice (as seen in the retinal flatmounts and cross sections), double-staining immunocytochemistry was performed. At various times after intravitreal injections (12, 24, and 72 h), eyes were enucleated, fixed in 4% paraformaldehyde overnight at 4 °C, immersed in 20% sucrose for 48 h at 4 °C, and embedded in optimum cutting temperature (OCT) compound (Sakura Finetechnical Co., Ltd, Tokyo, Japan). Transverse, 10 μm thick cryostat sections were cut and placed onto slides MAS COAT (MATSUNAMI GLASS IND., LTD.). Sections were subsequently processed for immunocytochemical localization using antibodies against CHOP (1:100 dilution in PBS; Santa Cruz), glucose-regulated protein 78(GRP78)/BiP (1:100 dilution in PBS), thymus cell antigen 1 (Thy-1; 1:100 dilution in PBS; Serotec Ltd, Oxford UK), microglia (OX-42, 1:100 dilution in PBS; Serotec Ltd), and amacrine cells (HPC-1/Syntaxin, 1:100 dilution in PBS; Santa Cruz). The sections were incubated either (a) with Alexa Fluor-568-conjugated secondary antibody (1:200 dilution in PBS; Molecular Probes, Eugene, OR) for 1 h at room temperature, mounted with a coverslip, and observed under a laser confocal microscope (Bio-Lad Laboratories, Inc), or (b) with biotin-conjugated secondary antibody for 1 h at room temperature, and visualized using a VECTOR M.O.M. Immunodetection kit (Vector, Burlingame, CA). Each image was taken using a digital camera (Coolpix 4500; Nikon, Tokyo, Japan) attached with epifluorescence microscope (Power BX50; Olympus).</text>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003043</infon>
+        <location offset="12959" length="16"/>
+        <text>paraformaldehyde</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="13011" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13378" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx93">
+        <infon key="type">OTHER</infon>
+        <location offset="13396" length="28"/>
+        <text>glucose-regulated protein 78</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13455" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13509" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13575" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13648" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000607448</infon>
+        <location offset="13710" length="15"/>
+        <text>Alexa Fluor-568</text>
+      </annotation>
+      <annotation id="2XXx92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13775" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001710</infon>
+        <location offset="13953" length="6"/>
+        <text>biotin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14249</offset>
+      <text>Histological analysis of mouse retina</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14287</offset>
+      <text>Seven days after the NMDA or tunicamycin injection, eyeballs were enucleated for histological analysis. In mice under anesthesia, produced by an intraperitoneal injection of sodium pentobarbital (80 mg/kg), each eye was enucleated, then kept immersed for at least 24 h at 4 °C in a fixative solution containing 4% paraformaldehyde. Six paraffin-embedded sections (thickness, 3 μm) cut through the optic disc of each eye were prepared in a standard manner, and stained with hematoxylin and eosin. Retinal damage was evaluated as described previously, and three sections from each eye were used for the morphometric analysis. Light-microscope photographs were taken using a digital camera (Coolpix 4500, Nikon) and the cell counts in the ganglion cell layer (GCL) and the thickness of the inner plexiform layer (IPL) at a distance between 350 and 650 μm from the optic disc were measured on the images in a masked fashion by a single observer (Y.I.). Data from three sections (selected randomly from the six sections) were averaged for each eye, and the values obtained were used to evaluate the GCL cell count and the IPL thickness.</text>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="14308" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="14316" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010424</infon>
+        <location offset="14461" length="20"/>
+        <text>sodium pentobarbital</text>
+      </annotation>
+      <annotation id="2XXx97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003043</infon>
+        <location offset="14601" length="16"/>
+        <text>paraformaldehyde</text>
+      </annotation>
+      <annotation id="2XXx98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010232</infon>
+        <location offset="14623" length="8"/>
+        <text>paraffin</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006416</infon>
+        <location offset="14760" length="11"/>
+        <text>hematoxylin</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004801</infon>
+        <location offset="14776" length="5"/>
+        <text>eosin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15422</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15443</offset>
+      <text>Data are presented as the means±SEM. Statistical comparisons were made using a Student's t-test or Dunnett's test, by means of STAT VIEW version 5.0 (SAS Institute Inc., Cary, NC). P&lt;0.05 was considered to be statistically significance.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15681</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15689</offset>
+      <text>Retinal cell death and time-course of changes in endoplasmic reticulum (ER) stress-related protein induced by tunicamycin</text>
+      <annotation id="108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="15799" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15811</offset>
+      <text>We examined whether tunicamycin treatment could induce cell death through ER stress in retinal ganglion cell using RGC-5. Representative fluorescence stainings of nuclei [using Hoechst 33342, YO-PRO-1, and propidium iodide (PI) dyes] are shown in Figure 1A. Vehicle-treated control cells displayed normal nuclear morphology and negative staining with both YO-PRO-1 dye (which stains early apoptotic and later-stage cells) and PI dye (which stains late-stage apoptotic cells; upper panels in Figure 1A). Treatment with tunicamycin led to shrinkage and condensation of nuclei, and to positive staining with each of these dyes (lower panels in Figure 1A). The number of cells exhibiting PI fluorescence was counted, and positive cells were expressed as the percentage of PI- to Hoechst 33342-positive cells (Figure 1B). After treatment with tunicamycin at 1, 2, or 4 μg/ml for 24 h, the percentages of PI-positive cells were 8.3±1.2% (n=6), 13.1±0.9% (n=6), and 11.3±0.6% (n=6), respectively, while in the non-treated control group the percentage was 0.5±0.2% (n=6). After treatment with tunicamycin at 1, 2, or 4 μg/ml for a longer time period (48 h), the corresponding values were 41.5±3.5% (n=6), 43.7±2.1% (n=6), and 50.7±2.6% (n=6), respectively (1.2±0.4% (n=6) for the non-treated control group). Time-course data for the changes in the protein levels of glucose-regulated protein (GRP)78/BiP, the phosphorylated form of eukaryotic initiation factor 2α (eIF2α), total eIF2α, and C/EBP-homologous protein (CHOP) occurring after tunicamycin treatment at 2 μg/ml are shown in Figure 1C. BiP, a biomarker of ER-stress, increased time-dependently throughout the 24 h tunicamycin treatment period, while actin levels remained unchanged. Treatment with tunicamycin time-dependently induced eIF2α phosphorylation, while total eIF2α levels were not changed during the 24 h observation period. CHOP was first detected at 6 h after addition of tunicamycin and persisted thereafter. These data indicate that treatment with tunicamycin can induce expressions of ER stress-related proteins and subsequent apoptotic cell death in RGC-5 culture in vitro.</text>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="15831" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="15988" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="2XXx118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="16003" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="16017" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="16035" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="16167" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="2XXx121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="16237" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="16329" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="16495" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="16579" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="16586" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="2XXx110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="16649" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="16710" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="16896" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="282">
+        <infon key="type">OTHER</infon>
+        <location offset="17169" length="33"/>
+        <text>glucose-regulated protein (GRP)78</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="17341" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="17476" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="17560" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="17747" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="17825" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>17984</offset>
+      <text>Retinal cell death and time-course of changes in endoplasmic reticulum (ER)-stress related proteins induced by tunicamycin. A: Representative fluorescence microscopy showing nuclear stainings for Hoechst 33342 (blue), YO-PRO-1 (green), and propidium iodide (PI, red) at 48 h after addition of tunicamycin at 1 μg/ml. B: The number of cells displaying PI fluorescence was counted at two time-points, and positive cells were expressed as the percentage of PI to Hoechst 33342. Each column represents the mean±SEM (n=6). Double asterisks and double hash marks; p&lt;0.01 versus corresponding control group (Dunnett's test). C: Representative immunoblots showing the time-course of changes in protein levels (GRP78/BiP, phosphorylated-eIF2α, total eIF2α, and CHOP) after tunicamycin treatment at 2 μg/ml.</text>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="18095" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="18180" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089813</infon>
+        <location offset="18202" length="8"/>
+        <text>YO-PRO-1</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="18224" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="18242" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="18277" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="18335" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="18438" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="2XXx129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="18444" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+      <annotation id="2XXx130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="18748" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>18793</offset>
+      <text>Intravitreal injection of tunicamycin induces retinal cell death in mice</text>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="18819" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18866</offset>
+      <text>To clarify whether tunicamycin would induce retinal cell death in vivo, we examined the histological changes in the retina at 7 days after intravitreal injection of tunicamycin. As shown in Figure 2, intravitreal injection of tunicamycin at 0.1 μg/eye (a low dose) induced a significant loss of cells in the retinal ganglion cell layer (GCL), but no thinning of the inner plexiform layer (IPL; versus vehicle-treated retinas). At a high dose of 1μg/eye, tunicamycin significantly decreased both the cell count in GCL and the IPL thickness (versus the non-treated normal retina; Figure 2). On the other hand, no retinal damage was induced by intravitreal injection of an identical volume of vehicle (versus the non-treated retina). Together, these findings suggest that tunicamycin at 0.1 μg/eye (giving an estimated concentration in the vitreous body of approximately 10 μg/ml) induces retinal ganglion cell death at a concentration similar to that inducing exhibiting the apoptotic cell death in RGC-5 in vitro.</text>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="18885" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="19031" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="19092" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="19320" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="19635" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>19883</offset>
+      <text>Intravitreal injection of tunicamycin induces retinal cell death in mice. A: Representative photographs showing non-treated normal retina, vehicle-treated retina, and low-dose (0.1 μg/eye) and high-dose (1 μg/eye) tunicamycin-treated retinas 7 days after intravitreal injection. Quantitative analysis of cell number in ganglion cell layer (B) and thickness of inner plexiform layer (IPL) C: Each column represents the mean±SEM (n=10). Double asterisks p&lt;0.01 versus vehicle-treated control group (Dunnett's test). The horizontal scale bar represents 25 μm and the vertical bar indicates each thickness of IPL.</text>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="19909" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="20097" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20497</offset>
+      <text>Increase in XBP-1-venus fusion protein in the retina in ER stress-activated indicator (ERAI)-transgenic mice</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20606</offset>
+      <text>To investigate whether ER stress is induced in the mouse retina during the early stages of retinal damage in vivo, we used ERAI-transgenic mice carrying the F-XBP1DDBD-venus expression gene, which allows effective identification of cells under ER stress in vivo, as previously described by Iwawaki et al. [11]. Twenty-four h after intravitreal injection of tunicamycin at 0.1 μg or of N-methyl-D-aspartate (NMDA) at 40 nmol, the fluorescence intensity arising from the XBP-1-venus fusion protein was visualized in the retina of anesthetized animals (using an ophthalmoscope) as shown in Figure 3. Both tunicamycin and NMDA increased the fluorescence intensity of this protein, while little change in fluorescence intensity was observed in the control fellow eyes. For further elucidation of this phenomenon, the distribution and time-course of changes in the fluorescence intensity derived from the XBP-1-venus fusion protein were measured in retinal flatmount and transverse sections, as shown in Figure 4A,C. In the flatmounts, such stimulations as NMDA, an intraocular pressure (IOP) elevation, and tunicamycin all induced increases in fluorescence intensity at the time-points indicated in Figure 4A. In the NMDA-treated retinas of ERAI mice, the background fluorescence intensity was time-dependently increased in the period from 12 to 72 h, but little change was observed in the NMDA-treated retinas of wild-type mice.</text>
+      <annotation id="2XXx140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="20963" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="20991" length="20"/>
+        <text>N-methyl-D-aspartate</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21013" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="21208" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21224" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21657" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="21708" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21818" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21991" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22032</offset>
+      <text>Non-invasive imaging of XBP-1-venus fusion protein in ERAI mouse retina in vivo. Twenty-four hours after intravitreal injection of either tunicamycin at 0.1 μg/eye or N-methyl-D-aspartate (NMDA) at 40 nmol/eye, the fluorescence intensity arising from XBP-1-venus fusion protein was visualized in the retinas of anesthetized animals using an ophthalmoscope fitted with a fluorescence filter.</text>
+      <annotation id="2XXx149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="22170" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="22199" length="20"/>
+        <text>N-methyl-D-aspartate</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="22221" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22424</offset>
+      <text>Expression and localization of XBP-1-venus fusion protein in ERAI mouse retinas after various types of retinal damage. A: Representative fluorescence photographs of increased XBP-1-venus fusion protein in ERAI mouse flatmounted retina after N-methyl-D-aspartate (NMDA), intraocular pressure (IOP) elevation, or tunicamycin insult. The fluorescence (green) arising from XBP-1-venus fusion protein was observed under an epifluorescence microscope. The scale bar represents 25 μm. B: Distribution of increased XBP-1-venus fusion protein in retinal cross-sections from ERAI mice after NMDA injection at 40 nmol/eye. The distribution of fluorescence (green) arising from XBP-1-venus fusion protein was observed under a laser confocal microscope. Each large box shows an enlargement of the area within the corresponding small box. C: Localization of XBP-1-venus fusion protein in ERAI mouse retina after NMDA injection. In the retinal nerve fiber layer (upper panels), Thy-1-positive cells (red) can be seen to merge with XBP-1-venus fusion protein (green). In the middle panels, OX-42 (a microglia marker)-positive cells (red) are partly merged with XBP-1-venus fusion protein (green). In the inner plexiform layer (lower panels), HPC-1 (an amacrine marker)-positive cells (red) are merged with XBP-1-venus fusion protein (green).</text>
+      <annotation id="2XXx152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="22665" length="20"/>
+        <text>N-methyl-D-aspartate</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="22687" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="22735" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="23005" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="23322" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23751</offset>
+      <text>These changes in background could reflect increases in the lower part of the ganglion cell layer, such as the inner plexiform layer and neuroepithelial layer, of the retina. In transverse sections, increases in fluorescence intensity were first observed in cells of the GCL and inner plexiform layer at 12 and 24 h, respectively, after NMDA injection, and the increases peaked in GCL cells at 24 h (Figure 4B). The increase in fluorescence had diminished at 72 h after the NMDA injection, but morphologically distinct cells (such as microglia cells) had appeared in GCL. On the other hand, the retinas of wild-type and non-treated ERAI mice showed a low fluorescence intensity (below background), while a slight fluorescence intensity was observed in the neuroepithelial layer of the retina (Figure 4B). These cells merged with Thy-1-positive cells (ganglion cells) and some OX-42-positive cells (microglia) in GCL, and with HPC-1-positive cells (amacrine cells) in IPL (Figure 4C). Together, these results suggest that XBP-1 splicing, representing activation of the ER-stress signal pathway, may be induced in retinal ganglion and amacrine and microglia cells during the early stages of retinal cell damage.</text>
+      <annotation id="2XXx157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="24087" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="24224" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24960</offset>
+      <text>Increases in GRP78/BiP and CHOP in mouse retina after NMDA injection</text>
+      <annotation id="170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25014" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25029</offset>
+      <text>To clarify whether ER stress-related proteins other than XBP-1 are induced in the mouse retina by NMDA stimulation, we examined the changes in BiP, a biomarker of ER stress, in the retina after intravitreal injection of NMDA. As shown in Figure 5B, cell loss in GCL and thinning of IPL were observed at 72 h after NMDA injection (versus non-treated control retinas; Figure 5A). Using immunoblots, as shown in Figure 5C, we found that BiP was significantly increased at 12 h after the NMDA injection, and that the increase persisted for the remainder of the 72 h observation period. Next, we investigated the distribution and time-course of changes in GRP78/BiP and CHOP, a proapoptosis protein, after NMDA injection. In the non-treated control retina, slight immunoreactivities for BiP and CHOP were observed in a number of cells in GCL and IPL (Figure 5D). Increases in these immunoreactivities were observed in retinal ganglion cells at 12 h after NMDA injection, and time-dependent increases were noted in the inner retina (Figure 5D).</text>
+      <annotation id="2XXx160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25127" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25249" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25343" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25513" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25730" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25979" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>26068</offset>
+      <text>Increases in GRP78/BiP and CHOP in retinal extracts following stimulation by intravitreal injection of N-methyl-D-aspartate (NMDA) in mice. A, B: Representative photographs showing retinal cross-sections stained with hematoxylin and eosin after NMDA injection at 40 nmol/eye. C, upper panel: Representative immunoblots showing the time-course of changes in GRP78/BiP protein levels after intravitreal injection of NMDA. C, lower panel: Quantitative analysis of GRP78/BiP band densities. Data are expressed as mean±SEM (n=6) of values (in arbitrary units) obtained for single band density. Double asterisks represents p&lt;0.01 versus vehicle-treated control group (Dunnett's test). D: Immunostainings for GRP78/BiP and CHOP in mouse retina after NMDA injection at 40 nmol. The scale bar represents 25 μm.</text>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="26171" length="20"/>
+        <text>N-methyl-D-aspartate</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="26193" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006416</infon>
+        <location offset="26285" length="11"/>
+        <text>hematoxylin</text>
+      </annotation>
+      <annotation id="2XXx169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004801</infon>
+        <location offset="26301" length="5"/>
+        <text>eosin</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="26313" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="26482" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="26811" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>26872</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26883</offset>
+      <text>In the present study, we could detect pathological changes and time-dependent changes related to ER stress in retinal flatmount and transverse sections and in the retinas of living mice after retinal damage. Moreover, we demonstrated that ER stress signals were activated in the retina in vivo after tunicamycin, elevating IOP, or NMDA treatment.</text>
+      <annotation id="2XXx173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="27183" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="27214" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27230</offset>
+      <text>Agents or conditions that adversely affect ER protein folding lead to an accumulation of unfolded or misfolded proteins in the ER, a condition defined as ER stress. ER stress can be induced by agents or conditions that interfere with (a) protein glycosylation (e.g., glucose starvation, tunicamycin, glucosamine), (b) disulfide-bond formation (e.g., DTT, homocysteine), (c) Ca2+ balance (A23187, thapsigargin, EGTA), and/or (d) a general overloading of the ER with proteins (e.g., viral or non-viral oncogenesis) [1,13,14]. However, little is known about any involvement of ER stress in retinal damage. In the present study, we found that tunicamycin induced the ER stress-associated proteins BiP, p-eIF2α, and CHOP in cultured RGC-5 cells. These protein levels started to increase at 2 to 6 h after the start of tunicamycin treatment, and increased time-dependently until 24 h after the start of the treatment, while apoptotic cell death with condensation and fragmentation of nuclei was observed 24 h later. BiP acts as an ER resident molecular chaperon that is induced by ER stress, and this protein refolds the unfolded proteins, thereby tending to maintain homeostasis in the ER [15,16]. Since CHOP is a member of the CCAAT/enhancer-binding protein family that is induced by ER stress and participates in ER-mediated apoptosis, CHOP may be a key molecule in retinal cell death [17]. In the present study, the phosphorylation of eIF2α was increased concomitantly with the increases in the expression of BiP and CHOP proteins, even through p-eIF2α might be expected to suppress protein synthesis. Boyce et al. [18] reported that selective inhibition of eIF2α dephosphorylation increases both p-eIF2α and CHOP protein. These data suggest that during ER stress, p-eIF2α (inactive form) is still able to stimulate the translation of ATF4 mRNA, thereby increasing the transcription of BiP or CHOP mRNA, but that enough unphosphorylated-eIF2α (active form) may remain to translate BiP and CHOP mRNAs to proteins. On the other hand, we found that staurosporine, which mediates mitochondrial dysfunctions resulting in apoptotic cell death, did not induce any increases in BiP and CHOP proteins in RGC-5 [unpublished data]. Taken together, these findings suggest that persistent ER stress may induce apoptotic cell death through the eIF2α-CHOP signal pathway in RGC-5.</text>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="27497" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="27517" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005944</infon>
+        <location offset="27530" length="11"/>
+        <text>glucosamine</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004220</infon>
+        <location offset="27548" length="9"/>
+        <text>disulfide</text>
+      </annotation>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="27580" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006710</infon>
+        <location offset="27585" length="12"/>
+        <text>homocysteine</text>
+      </annotation>
+      <annotation id="199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="27604" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000001</infon>
+        <location offset="27618" length="6"/>
+        <text>A23187</text>
+      </annotation>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019284</infon>
+        <location offset="27626" length="12"/>
+        <text>thapsigargin</text>
+      </annotation>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004533</infon>
+        <location offset="27640" length="4"/>
+        <text>EGTA</text>
+      </annotation>
+      <annotation id="203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="27869" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="28043" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019311</infon>
+        <location offset="29274" length="13"/>
+        <text>staurosporine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29626</offset>
+      <text>Next, we tried to determine whether tunicamycin could induce retinal damage in vivo. Intravitreal injection of low-dose tunicamycin induced a significant loss of cells in the retinal ganglion cell layer (GCL), but no thinning of the inner plexiform layer (IPL). These findings suggest that retinal ganglion cells are more sensitive to ER stress-induced cell death than other retinal cells. High-dose tunicamycin significantly decreased both the cell count in GCL and the thickness of IPL. The concentration of tunicamycin in the vitreous body after an intravitreal injection of low-dose tunicamycin was estimated to be 10 μg/ml. The tunicamycin concentration achieved within the retina will have been less than this. Interestingly, in the present in vitro study, tunicamycin at 1 to 4 μg/ml induced cell death with an increase in ER-stress signals, suggesting that the in vivo concentration of tunicamycin in the retina was roughly similar to that employed in vitro. Use of tunicamycin at a high dose also led to decreases in IPL, INL (inner nuclear layer), and ONL (outer nuclear layer) in the retina. In guinea pigs, a single subcutaneous injection of tunicamycin at 0.4 mg/kg has been reported to induce hepatotoxicity with dilation of the cisternae of the ER [19]. Furthermore, Zinszner et al. [20] noted that in mice, a single sublethal intraperitoneal injection of tunicamycin (1 mg/kg) induces CHOP expression and subsequent severe histological damage with an increase in TUNEL-positive cells, and a characteristic transient renal insufficiency. They also found that CHOP-deficient mice show an attenuated increase in TdT-mediated dUTP nick-end labeling (TUNEL)-positive cells during the renal damage induced by tunicamycin. These findings suggest that in vivo, tunicamycin-induced retinal cell death is due, at least in part, to an ER-stress mechanism.</text>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="29662" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="29746" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30026" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30136" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30213" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30259" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30389" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30520" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30600" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30780" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="30997" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027078</infon>
+        <location offset="31264" length="4"/>
+        <text>dUTP</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="31345" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="31395" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31489</offset>
+      <text>NMDA receptors may participate in the processes of excitotoxicity and neuronal death in the retina [21,22]. Previous studies have found that TUNEL-positive cells can be observed in the GCL and INL of the mouse retina at an early stage (within 24 h) after an intravitreal injection of NMDA [23,24]. The hallmark of NMDA-induced neuronal death is a sustained increase in the intracellular Ca2+ concentration accompanied by overactivation of vital Ca2+-dependent cellular enzymes [25]. Thus, the signal-transduction pathways for NMDA-mediated cell death in the retina are well studied, but not yet fully understood.</text>
+      <annotation id="285">
+        <infon key="type">OTHER</infon>
+        <location offset="31489" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="31773" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="31803" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="31876" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="31934" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="32015" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32102</offset>
+      <text>To illuminate the role and distribution of ER stress in vivo, we focused on the retina of ERAI mice. Information about the status of ER stress during the course of a given disease might be obtained by crossing an ERAI transgenic mouse (the indicator mouse for ER stress in living cells) with a mouse model of the human disease of interest. In flatmounted retinas, fluorescence was detected following various stimulations [tunicamycin, NMDA, and intraocular pressure (IOP) elevation]. To our knowledge, this is the first report demonstrating that NMDA and ischemic insult (elevating IOP), in addition to tunicamycin, can activate the ER stress signal (measured as the splicing of the XBP-1 and venus fusion gene in ERAI transgenic mice) in the retina in vivo. Interestingly, ER stress was also induced in the retina after a transient IOP elevation, defined as an ischemia-reperfusion model. It has been reported that this model exhibits retinal cell damage similar to that induced by NMDA, and that both of these examples of damage are protected against by MK-801, an NMDA receptor antagonist, and by NO synthetase-inhibitor treatment [8,26]. Although little is known about the precise mechanisms responsible for activation of ER stress after NMDA or IOP elevation (ischemia-reperfusion), both stimuli cause intracellular Ca2+ overload and increased NO production, resulting in apoptotic cell death. Several lines of study suggest that intracellular Ca2+ overload and excessive production of NO deplete Ca2+ in the ER, thereby resulting in ER stress [27,28]. Recently, Uehara et al. [10] reported that NO induces S-nitrosylation of protein-disulphide isomerase (PDI), an enzyme that assists in the maturation and transport of unfolded secretory proteins and thereby helps to prevent the neurotoxicity associated with ER stress. S-nitrosylated-PDI exhibits reduced enzymatic activity and induces cell death through the ER stress pathway. These mechanisms may contribute to the activation of ER stress in the retina after NMDA stimulation or IOP elevation. Accordingly, our findings may provide important new insights into the mechanisms underlying the retinal cell damage induced by NMDA and by ischemia-reperfusion. In transverse retinal sections, we observed an increase in fluorescence intensity within the cells of the ganglion cell layer (GCL) and inner plexiform layer (IPL) at 12 and 24 h, respectively, after NMDA injection. The cells displaying increased fluorescence were ganglion cells (at 12 h after the injection), amacrine cells in IPL (at 24 h), and microglia in GCL (at 72 h). These data indicate that ganglion cells may be more sensitive to ER stress than the other retinal cells examined.</text>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="32524" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="2XXx208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="32537" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="32648" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014415</infon>
+        <location offset="32705" length="11"/>
+        <text>tunicamycin</text>
+      </annotation>
+      <annotation id="237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="33085" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016291</infon>
+        <location offset="33158" length="6"/>
+        <text>MK-801</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">OTHER</infon>
+        <location offset="33169" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="286">
+        <infon key="type">OTHER</infon>
+        <location offset="33202" length="13"/>
+        <text>NO synthetase</text>
+      </annotation>
+      <annotation id="241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="33344" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="33423" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="33451" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="2XXx217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="33551" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="33593" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="33604" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="33703" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="2XXx221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="34121" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="34283" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="34517" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34807</offset>
+      <text>To further clarify the participation of ER stress, we examined the changes in BiP and CHOP in the retina after NMDA-induced injury. We found (a) that NMDA induced BiP proteins in the retina at 12 h after its injection (on the basis of immunoblots), and (b) that, NMDA induced both BiP and CHOP in the retina (especially within retinal ganglion cells and INL) at 12 h after its injection (on the basis of our immunostaining results). The expression of the CHOP gene reportedly increases in the rat retina after intravitreal injection of NMDA [29]. Furthermore, Awai et al. [30] found that treatment with MK-801, an NMDA receptor antagonist, inhibited the increases in CHOP mRNA and protein in the mouse retina that are observed after intravitreal injection of NMDA, and moreover that CHOP-deficient mice were resistant to NMDA-induced retinal damage. However, CHOP-deficient mice partially suppressed the NMDA-induced cell death, and therefore other pathways, such as mitochondrial dysfunction, may be engaged in the retinal cell death. Collectively, the above results indicate that NMDA can cause ER stress in the retina, and that the neurotoxicity induced by NMDA is due in part to a mechanism dependent on CHOP protein induction through excessive ER stress.</text>
+      <annotation id="2XXx225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="34918" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="34957" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35070" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35343" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016291</infon>
+        <location offset="35410" length="6"/>
+        <text>MK-801</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">OTHER</infon>
+        <location offset="35421" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35566" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35628" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35711" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35889" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="35967" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36067</offset>
+      <text>In conclusion, we have identified a close association between ER stress and retinal damage, and our results suggest that the ER stress-signal pathway might be a good target in the treatment of retinal diseases.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>36278</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

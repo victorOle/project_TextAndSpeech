@@ -1,0 +1,4093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181119</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5632347</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Naito;given-names:Masako</infon>
+      <infon key="name_2">surname:Harada;given-names:Tomonori</infon>
+      <infon key="name_1">surname:Mamada;given-names:Kaori</infon>
+      <infon key="name_0">surname:Ohashi;given-names:Akiko</infon>
+      <infon key="article-id_pmid">28534121</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">3060</infon>
+      <infon key="article-id_pmc">5632347</infon>
+      <infon key="title">Keywords</infon>
+      <infon key="article-id_doi">10.1007/s11010-017-3060-7</infon>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="lpage">108</infon>
+      <infon key="fpage">97</infon>
+      <infon key="issue">1</infon>
+      <infon key="volume">435</infon>
+      <infon key="license">
+Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</infon>
+      <infon key="name_10">surname:Ohashi;given-names:Akiko</infon>
+      <infon key="kwd">Tetrahydrobiopterin Dihydrobiopterin Biopterin transport NOS dysfunction Organic anion transporter Equilibrative nucleoside transporter</infon>
+      <infon key="name_9">surname:Takahashi;given-names:Tomihisa</infon>
+      <infon key="name_8">surname:Ohashi;given-names:Akiko</infon>
+      <infon key="name_7">surname:Ohashi;given-names:Akiko</infon>
+      <infon key="name_6">surname:Hasegawa;given-names:Hiroyuki</infon>
+      <infon key="name_5">surname:Aizawa;given-names:Shin</infon>
+      <infon key="name_4">surname:Takahashi;given-names:Tomihisa</infon>
+      <offset>0</offset>
+      <text>Organic anion transporters, OAT1 and OAT3, are crucial biopterin transporters involved in bodily distribution of tetrahydrobiopterin and exclusion of its excess</text>
+      <annotation id="612">
+        <infon key="type">OTHER</infon>
+        <location offset="0" length="26"/>
+        <text>Organic anion transporters</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="type">OTHER</infon>
+        <location offset="55" length="22"/>
+        <text>biopterin transporters</text>
+      </annotation>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="113" length="19"/>
+        <text>tetrahydrobiopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>161</offset>
+      <text>Tetrahydrobiopterin (BH4) is a common coenzyme of phenylalanine-, tyrosine-, and tryptophan hydroxylases, alkylglycerol monooxygenase, and NO synthases (NOS). Synthetic BH4 is used medicinally for BH4-responsive phenylketonuria and inherited BH4 deficiency. BH4 supplementation has also drawn attention as a therapy for various NOS-related cardio-vascular diseases, but its use has met with limited success in decreasing BH2, the oxidized form of BH4. An increase in the BH2/BH4 ratio leads to NOS dysfunction. Previous studies revealed that BH4 supplementation caused a rapid urinary loss of BH4 accompanied by an increase in the blood BH2/BH4 ratio and an involvement of probenecid-sensitive but unknown transporters was strongly suggested in these processes. Here we show that OAT1 and OAT3 enabled cells to take up BP (BH4 and/or BH2) in a probenecid-sensitive manner using rat kidney slices and transporter-expressing cell systems, LLC-PK1 cells and Xenopus oocytes. Both OAT1 and OAT3 preferred BH2 and sepiapterin as their substrate roughly 5- to 10-fold more than BH4. Administration of probenecid acutely reduced the urinary exclusion of endogenous BP accompanied by a rise in blood BP in vivo. These results indicated that OAT1 and OAT3 played crucial roles: (1) in determining baseline levels of blood BP by excluding endogenous BP through the urine, (2) in the rapid distribution to organs of exogenous BH4 and the exclusion to urine of a BH4 excess, particularly when BH4 was administered, and (3) in scavenging blood BH2 by cellular uptake as the gateway to the salvage pathway of BH4, which reduces BH2 back to BH4.</text>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="161" length="19"/>
+        <text>Tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="182" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">OTHER</infon>
+        <location offset="211" length="54"/>
+        <text>phenylalanine-, tyrosine-, and tryptophan hydroxylases</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">OTHER</infon>
+        <location offset="267" length="27"/>
+        <text>alkylglycerol monooxygenase</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">OTHER</infon>
+        <location offset="300" length="12"/>
+        <text>NO synthases</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="330" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="2X47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="358" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="403" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="419" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="582" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="608" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="632" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="636" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="703" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="754" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="798" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="802" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="834" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="980" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="984" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="995" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="1005" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="1162" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="1170" length="11"/>
+        <text>sepiapterin</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1233" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="1256" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="1319" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="1353" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="1474" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="1501" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1576" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1612" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1642" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="1692" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1756" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="1775" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1787" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1792</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1805</offset>
+      <text>(6R)-L-erythro-Tetrahydrobiopterin (BH4) is an essential coenzyme of a group of aromatic amino acid hydroxylases. BH4 is also required by nitric oxide synthases (NOSs) both for enzyme catalysis and for functional dimerization. Further, BH4 is the coenzyme of alkylglycerol monooxygenase which catalyzes irreversible ether lipid metabolism. BH4 is autogenously synthesized in various cells which require this compound as the coenzyme. Inherited BH4 deficiencies are characterized by hyperphenylalaninemia and defective biosynthesis of classic monoamines such as dopamine, noradrenaline, adrenaline, as well as serotonin. BH4 supplementation ameliorates hyperphenylalaninemia in cases of inherited BH4 deficiency and also benefits patients with BH4-responsive phenylketonuria. BH4 therapy using 6RBH4 has been successful in replacing BH4 except in the brain. Once 6RBH4 is administered to animals, presumably including humans, a certain portion is utilized in replacing innate BH4 and is integrated through endogenous metabolic pathways, similar to the intake of vitamins. The most common use of 6RBH4 to date is as an orphan drug for these inherited diseases. However, like most drugs or supplements, its retention in the body is inefficient. According to the guidelines for BH4 therapy, the recommended dose is 5–15 mg/kg of 6RBH4 a day, roughly 600 mg for a 60 kg adult patient. These doses are over several hundred times greater than the 0.98 mg lost daily in urinary excretion which is likely close to the amount of BH4 synthesized daily in healthy humans. BH4 replacement has also drawn increased attention with respect to whether it ameliorates NOS dysfunction in the cardio-vascular system. NOS dysfunction is largely caused by an increase in BH2 relative to BH4, a type of oxidative stress, rather than by a deficiency in BH4. One simple hypothesis was that supplying BH4 in an amount exceeding the endogenous BH4 level would pull the redox balance of BH2 and BH4 in favor of a relative BH4 increase. This hypothesis was likely based on the assumption that the administered BH4 would accumulate in the cell interior keeping its tetrahydro-form. This approach to ameliorating cardio-vascular symptoms caused by NOS dysfunction has had limited success to date. In recent reports of trials on portal hypertension, the authors concluded that “Sapropterin (6RBH4·2HCl) markedly increased tetrahydrobiopterin (BH4) levels, but also levels of its oxidized forms, which may counteract its potential beneficial effects.”</text>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1805" length="34"/>
+        <text>(6R)-L-erythro-Tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1841" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">OTHER</infon>
+        <location offset="1885" length="32"/>
+        <text>aromatic amino acid hydroxylases</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1919" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">OTHER</infon>
+        <location offset="1943" length="22"/>
+        <text>nitric oxide synthases</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2041" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">OTHER</infon>
+        <location offset="2064" length="27"/>
+        <text>alkylglycerol monooxygenase</text>
+      </annotation>
+      <annotation id="643">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004987,MESH:D008055</infon>
+        <location offset="2121" length="11"/>
+        <text>ether lipid</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2145" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2249" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015306</infon>
+        <location offset="2347" length="10"/>
+        <text>monoamines</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="2366" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009638</infon>
+        <location offset="2376" length="13"/>
+        <text>noradrenaline</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004837</infon>
+        <location offset="2391" length="10"/>
+        <text>adrenaline</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012701</infon>
+        <location offset="2414" length="9"/>
+        <text>serotonin</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2425" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2501" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="2X132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2548" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2580" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2598" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2637" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2667" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2780" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2899" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3079" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3130" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3324" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3365" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="3554" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3570" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3634" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3680" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3722" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="3764" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3772" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3799" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3886" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4151" length="11"/>
+        <text>Sapropterin</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4164" length="10"/>
+        <text>6RBH4·2HCl</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4195" length="19"/>
+        <text>tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4216" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4335</offset>
+      <text>In general, an intracellularly functional and hydrophilic compound such as BH4 might be impermeable to the lipid bilayer of the cell membrane. Needless to say, permeation of BH4 across the cell membrane might require appropriate transporters. Although our knowledge of BH4 transport is incomplete, we attempted to clear some of this ambiguity by characterizing the relevant transporter(s) involved in the BH4 transport system. The work addresses three vital areas, A, B, and C, of which the core processes have been unclear due to a lack of knowledge of the crucial transporter(s) involved. A. Short retention of administered BH4. The extreme inefficiency seen after BH4 administration was likely brought about by the short retention of BH4 in the body caused by its massive exclusion into urine and feces; about a 90% gross urinary exclusion, which exceeded more than 60% of the dose, and took place within 2 h in rats. The rapid exclusion to urine essentially occurred via renal tubular secretion, namely, by trans-cellular transport across the tubular epithelial cell layer. These processes obviously involved a form of high-capacity transporter activity. The process was most probably mediated by at least two transporters acting in series, one engaging in uptake on the vascular side in a manner sensitive to probenecid (PBC) and the other controlling secretion to the urine on the lumenal side in a manner sensitive to cyclosporine A (CSA). B. Increase in BH2 after BH4 administration. The exogenous BH4 was delivered throughout the body after systemic oxidation to 7,8BH2, and the BH2 was then reduced back to BH4 by the salvage pathway, resulting in the accumulation of BH4 in target organs such as the liver and kidney. Along this line of exploration, we discovered that ENT1 and ENT2, representatives of equilibrative nucleoside transporter families SLC29A1 and SLC29A2, respectively, were appropriate transporters for providing a gateway for sepiapterin (SP) and 7,8BH2 to enter the BH4 salvage pathway, an essential step in cell-to-cell inter-cellular BH4 redistribution. The ENTs were suspected of being inadequate for such high-capacity transport in the kidney after BH4 administration which represents a highly unnatural event. The putative transporters were distinct from the ENTs which are sensitive to nitrobenzylthioinosine (NBMPR) but less sensitive to PBC. In other words, other transporters must be furnished within the kidney to enable it to proceed with the massive uptake of biopterin species (BP), including BH4 and its oxidized form BH2, which are virtually all derived from the administered 6RBH4. Consequently, they were secreted by the kidney cells to the urine. C. Systemic BH2 scavenging mechanism. In our latest work on the pharmacokinetics of BH4 administration, PBC-sensitive transporter(s) was/were shown to be the key transporter in removing BH2 from the blood. It was also suggested that the PBC-sensitive transporter played a key role in lowering the BH2/BH4 ratio which would otherwise be raised by BH4 administration.</text>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4410" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="613">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008051</infon>
+        <location offset="4442" length="13"/>
+        <text>lipid bilayer</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4509" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4604" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4740" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4961" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="5002" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="5072" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="5649" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="5661" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016572</infon>
+        <location offset="5760" length="14"/>
+        <text>cyclosporine A</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016572</infon>
+        <location offset="5776" length="3"/>
+        <text>CSA</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="5797" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="5807" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="5841" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="5907" length="6"/>
+        <text>7,8BH2</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="5923" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="5952" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6013" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="588">
+        <infon key="type">OTHER</infon>
+        <location offset="6163" length="22"/>
+        <text>nucleoside transporter</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="6288" length="11"/>
+        <text>sepiapterin</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="6301" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="6309" length="6"/>
+        <text>7,8BH2</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6329" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6399" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6516" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001789</infon>
+        <location offset="6655" length="22"/>
+        <text>nitrobenzylthioinosine</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001789</infon>
+        <location offset="6679" length="5"/>
+        <text>NBMPR</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="6708" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="6835" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="6854" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6869" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="6895" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6954" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="7040" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="7112" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="590">
+        <infon key="type">OTHER</infon>
+        <location offset="7132" length="28"/>
+        <text>PBC-sensitive transporter(s)</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="7214" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="591">
+        <infon key="type">OTHER</infon>
+        <location offset="7265" length="25"/>
+        <text>PBC-sensitive transporter</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="7325" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="7329" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="7374" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>7395</offset>
+      <text>We searched for a transporter which was able to uptake BH4 in a PBC-sensitive manner in the kidney. Here, we report that OAT1 and OAT3, representatives of the organic anion transporter families SLC22A6 and SLC22A8, are the plausible biopterin transporters engaging in massive BH4 exclusion in the kidney after BH4 administration. These transporters have been localized at the basolateral membrane of renal tubular epithelium, and they are both sensitive to PBC and have characteristic substrate specificities but with an overlapping preference. Their fundamental features as transporters at the molecular level, such as their substrate selectivity, tissue distribution, and localization of their gene expression, have been extensively studied (for reviews). Accordingly, we first examined whether renal epithelial cells were able to take up BH4 using kidney slices. We then examined whether rOAT1- and rOAT3-expressing LLC-PK1 cells of renal epithelial origin exhibited specific uptake of BH4, BH2 and SP. We confirmed their preference for BH2 and SP, precursors of the BH4 salvage pathway, using a Xenopus oocyte system expressing the respective transporters. Our finding that OAT1 and OAT3 were well suited to acting as a gateway of the salvage pathway of BH4 biosynthesis prompted us to conclude that these transporters played a crucial role in lowering the BH2/BH4 ratio by scavenging BH2 after BH4 administration. As one would expect, the OAT inhibitor PBC, when administered to healthy rats, raised blood BP levels not by BH4 supplementation but by a reduction in the baseline exclusion of endogenous BP in the urine.</text>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="7450" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="7459" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="627">
+        <infon key="type">OTHER</infon>
+        <location offset="7628" length="22"/>
+        <text>biopterin transporters</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="7671" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="7705" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="7852" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8236" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8384" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="8389" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="8397" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="8435" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="8443" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8465" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8653" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="8756" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8760" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="8784" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8794" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="8853" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="8906" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8923" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="9002" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9019</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9041</offset>
+      <text>(6R)-L-erythro-5,6,7,8-Tetrahydrobiopterin dihydrochloride (6RBH4·2HCl) was donated by Suntory (Asubio Pharma, Kobe, Japan) and sepiapterin (SP: 6-lactoyl-7,8-dihydropterin) and 7,8-dihydrobiopterin (BH2) were purchased from Schircks Laboratories (Jona, Switzerland). Methotrexate (MTX) was purchased from Wako (Osaka). Probenecid (PBC: 4-(dipropylsulfamoyl)benzoic acid), p-aminohippuric acid (PAH), penicillin G (PCG), cimetidine (CIM), and estrone sulfate (ES) were obtained from Sigma-Aldrich (St. Louis, MO). Working solutions of hydrophobic chemicals (100-fold concentration over the final concentration) were usually dissolved in an appropriate amount of DMSO and diluted in isotonic salt solution, and the pH of the medium was made neutral if needed. Collagenase (for Xenopus oocyte defolliculation) was purchased from Wako Pure Chemical Industries (Osaka, Japan).</text>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="9041" length="58"/>
+        <text>(6R)-L-erythro-5,6,7,8-Tetrahydrobiopterin dihydrochloride</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="9101" length="10"/>
+        <text>6RBH4·2HCl</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="9169" length="11"/>
+        <text>sepiapterin</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="9182" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="9186" length="27"/>
+        <text>6-lactoyl-7,8-dihydropterin</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="9219" length="20"/>
+        <text>7,8-dihydrobiopterin</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="9241" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="9309" length="12"/>
+        <text>Methotrexate</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="9323" length="3"/>
+        <text>MTX</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="9361" length="10"/>
+        <text>Probenecid</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="9373" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="9378" length="33"/>
+        <text>4-(dipropylsulfamoyl)benzoic acid</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="9414" length="20"/>
+        <text>p-aminohippuric acid</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="9436" length="3"/>
+        <text>PAH</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="9442" length="12"/>
+        <text>penicillin G</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="9456" length="3"/>
+        <text>PCG</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002927</infon>
+        <location offset="9462" length="10"/>
+        <text>cimetidine</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002927</infon>
+        <location offset="9474" length="3"/>
+        <text>CIM</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="9484" length="15"/>
+        <text>estrone sulfate</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="9501" length="2"/>
+        <text>ES</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="9703" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="628">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012492</infon>
+        <location offset="9732" length="4"/>
+        <text>salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9915</offset>
+      <text>BH4 uptake experiments using rat kidney slices</text>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="9915" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9962</offset>
+      <text>Rats (SD: Sprague–Dawley) were obtained from Japan SLC (Hamamatsu, Japan). Kidney slices were prepared essentially according to Wedeen and Weiner and BH4 uptake studies were carried out as described in Prof. Sugiyama’s laboratory, Tokyo University, Department of Pharmaceutical Science. In brief, slices (0.3 mm thick) of whole kidneys from male rats were put in an ice-cold oxygenated incubation buffer containing 120 mM NaCl, 16.2 mM KCl, 1 mM CaCl2, 1.2 mM MgSO4, and 10 mM NaH2PO4/Na2HPO4 adjusted to pH 7.5. Two slices, together weighing 10–20 mg, were randomly selected and then incubated in a 12-well plate with 1 mL of oxygenated incubation buffer containing 6RBH4 in the presence of 1 mM dithiothreitol and other compounds. After incubation at 37 °C for 15 min, they were then rinsed with ice-cold buffer, blotted, and weighed. The slices were soaked in 100 µL of 0.1 M HCl and they were then frozen in liquid nitrogen. Biopterin contents were determined the next day after acid- or alkaline-I2 oxidation as described below.</text>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="10112" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="10384" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="10398" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="10408" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008278</infon>
+        <location offset="10422" length="5"/>
+        <text>MgSO4</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="10439" length="7"/>
+        <text>NaH2PO4</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="10447" length="7"/>
+        <text>Na2HPO4</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="10629" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="10659" length="14"/>
+        <text>dithiothreitol</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="10841" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="10881" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="10891" length="9"/>
+        <text>Biopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11017</offset>
+      <text>PBC administration to rats and collection of blood, urine, and liver and kidney tissues</text>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="11017" length="3"/>
+        <text>PBC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11105</offset>
+      <text>The experimental procedure using rats was almost the same as described in the previous paper except that the rats did not receive 6RBH4. In brief, rats (SD, 8–10-week-old males) were loaded with PBC (200 mg/kg) under anesthesia. Blood and urine were collected for BP determination from individual rats at designated times under long-lasting anesthesia on a warm gel pad for 6 h. The 0-time samples were taken from rats before the drug administration. At 6 h after PBC dosing, the rats were sacrificed to dissect the liver and kidney for BP determination.</text>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="11235" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="11300" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="11369" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="11569" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="11642" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11665</offset>
+      <text>Uptake by cells under a monolayer culture in 96-well culture plates</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11733</offset>
+      <text>LLC-PK1 cells were a generous gift of Dr. Naohiko Anzai, Kyorin University School of Medicine, and rOat1- and rOat3-transfected LLC-PK1 cells were kindly donated by Dr. Hiroyuki Kusuhara (Graduate School of Pharmaceutical Sciences, University of Tokyo). The OAT-transfected cells were maintained as monolayer cultures in Dulbecco’s modified Eagle’s medium (DMEM, GIBCO® Invitrogen) containing 5% fetal calf serum and G418 (400 µg/mL) at 37 °C in 5% CO2/95% air. The non-transfected cells were maintained similarly but without G418. Cells of this naïve cell line were used as the control of the transfected LLC-PK1 cells.</text>
+      <annotation id="614">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12054" length="34"/>
+        <text>Dulbecco’s modified Eagle’s medium</text>
+      </annotation>
+      <annotation id="615">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12090" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="616">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010680</infon>
+        <location offset="12150" length="4"/>
+        <text>G418</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="12182" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="617">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010680</infon>
+        <location offset="12259" length="4"/>
+        <text>G418</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12364</offset>
+      <text>LLC-PK1 cells were plated on a 96-well analytical culture plate (Falcon 3072) and grown to a confluence of 4 × 104 cells/well with 200 µL of the culture medium the day before the experiments. Prior to the uptake experiments, cells were adapted to a “basal culture medium” for 15 min. The “basal culture medium” was a modified Hank’s balanced salt solution which consisted of 137 mM NaCl, 5.37 mM KCl, 0.34 mM Na2HPO4, 0.44 mM KH2PO4, 0.34 mM K2HPO4, 5.5 mM glucose, and 5 mM HEPES, pH 7.4. Most transport experiments were conducted with reagents in the basal medium (100 µL) containing 1 mM dithiothreitol. Removal of the culture medium, leaving cells attached to the substrate, was performed by sucking off the medium with an 18-gauge needle (connected to an aspirator) inserted vertically and lightly touching the bottom of the culture plate. Additional reagents such as pterin substrate (6RBH4, BH2, or SP) with or without other transporter ligands were introduced into the wells following a rinse and replacement with the new medium. Cellular uptake of particular components was allowed for designated times, and the uptake was terminated by a thorough change of medium without the substrate. Cells were then left in the substrate-free medium for 5 min, and subjected to three repeated rinses with ice-cold Ca2+- and Mg2+-containing phosphate-buffered saline (PBS(+)).</text>
+      <annotation id="618">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12690" length="29"/>
+        <text>Hank’s balanced salt solution</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="12746" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="12760" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="12773" length="7"/>
+        <text>Na2HPO4</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="12790" length="6"/>
+        <text>KH2PO4</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="12806" length="6"/>
+        <text>K2HPO4</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="12821" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="12839" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="12955" length="14"/>
+        <text>dithiothreitol</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="13237" length="6"/>
+        <text>pterin</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="13255" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="13262" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="13270" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="13675" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="13685" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="13701" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="2X373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330,MESH:D002118,MESH:D008274</infon>
+        <location offset="13728" length="6"/>
+        <text>PBS(+)</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>13764</offset>
+      <text>Expression of hOAT1 and hOAT3 in Xenopus oocytes</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>13813</offset>
+      <text>African clawed frogs, Xenopus laevis, were purchased from Hamamatsu Seibutsu Kyozai (Hamamatsu, Japan). The gonads were dissected under ice anesthesia and subjected to collagenase treatment (1 mg/mL, 1 h). Mature oocytes were then subjected to manual defolliculation, essentially according to Bianchi and Driscoll.</text>
+      <annotation id="646">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007053</infon>
+        <location offset="13949" length="3"/>
+        <text>ice</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>14130</offset>
+      <text>Vectors hOAT1 and hOAT3 were donated by Dr. A. Anzai, Kyorin University, School of Medicine. They were inserted into pcDNA3.1 (Invitrogen). Complementary RNAs (cRNAs) of hOAT1 and hOAT3 were prepared by in vitro transcription with T7 RNA polymerase in the presence of ribonuclease inhibitor and an RNA cap analog using an mMESSAGE mMACHINE kit (Ambion, Austin, TX). Defolliculated oocytes were injected with 50 ng of the respective cRNAs or the same volume of water as the control and incubated in modified Barth’s solution (82.5 mM NaCl, 2 mM KCl, 1 mM MgCl2, and 5 mM HEPES, pH 7.4) at 19 °C for 2 days.</text>
+      <annotation id="647">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="14590" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="631">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="14637" length="16"/>
+        <text>Barth’s solution</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="14663" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="14674" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="14684" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="14700" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>14746</offset>
+      <text>Transport experiment with Xenopus oocytes</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>14788</offset>
+      <text>Five oocytes each were placed in 100 µL of ND96 buffer (96 mM NaCl, 2 mM KCl, 1 mM MgCl2, and 5 mM HEPES, pH 7.4) containing 1 mM dithiothreitol in the wells of a 96-well plate at 25 °C for 60 min. Pterin uptake was initiated by replacing the medium with 100 μL of solution containing the desired concentration of the required ligands. The uptake was terminated at designated times by washing the oocytes three times with ice-cold ND96 buffer followed by the addition of 70 μL of acid-I2 or alkaline-I2 solution, as described below, for biopterin analysis. Subsequently, the oocytes were crushed evenly using a plastic rod with a flat tip (5-mm diameter), and allowed to oxidize for 60 min. They were then mixed with 70 μL of 4% ascorbic acid in 4 M HClO4 and cooled on ice for 1 h. Precipitates were removed by centrifugation. A slight turbidity remained and was removed by filtering the supernatant through a 3 mm cotton ball using a yellow-tipped pipette (Gilson) pressed against the bottom of the plastic tube (600-μL Eppendorf-type). The clear supernatant was then subjected to HPLC analysis. The endogenous biopterin, 0.020–0.025 pmol/oocyte, was disregarded.</text>
+      <annotation id="594">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="14831" length="11"/>
+        <text>ND96 buffer</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="14850" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="14861" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="14871" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="14887" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="14918" length="14"/>
+        <text>dithiothreitol</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="14986" length="6"/>
+        <text>Pterin</text>
+      </annotation>
+      <annotation id="595">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="15219" length="11"/>
+        <text>ND96 buffer</text>
+      </annotation>
+      <annotation id="596">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000143</infon>
+        <location offset="15268" length="7"/>
+        <text>acid-I2</text>
+      </annotation>
+      <annotation id="597">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000468</infon>
+        <location offset="15279" length="11"/>
+        <text>alkaline-I2</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="15325" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001205</infon>
+        <location offset="15517" length="13"/>
+        <text>ascorbic acid</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C576518</infon>
+        <location offset="15538" length="5"/>
+        <text>HClO4</text>
+      </annotation>
+      <annotation id="598">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007053</infon>
+        <location offset="15558" length="3"/>
+        <text>ice</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="15901" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>15977</offset>
+      <text>Determinations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>15992</offset>
+      <text>Biopterin was determined essentially according to Fukushima and Nixon as described previously. Sepiapterin was not detectable in the extracts of LLC-PK1 or Xenopus oocytes under ordinary conditions. Even after SP was supplied, it was negligibly small in amount, presumably due to the high endogenous activity of sepiapterin reductase. In this study, therefore, uptake of SP and BH2 by LLC-PK1 cells or Xenopus oocytes was determined indirectly using the amount of biopterin present after the acidic oxidation, i.e., the sum of BH2 and BH4.</text>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="15992" length="9"/>
+        <text>Biopterin</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="16087" length="11"/>
+        <text>Sepiapterin</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="16202" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">OTHER</infon>
+        <location offset="16304" length="21"/>
+        <text>sepiapterin reductase</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="16363" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="16370" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16456" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="16519" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="16527" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16532</offset>
+      <text>The BH4 uptake by a given biological sample was expressed as the clearance, using the distribution volume (V d): where </text>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="16536" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16652</offset>
+      <text>In the case of BP uptake by the kidney slices at 15 min in the presence of extracellular BP, [BP](out) (µM), the BP uptake was expressed as: </text>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16667" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16741" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16746" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16765" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16798</offset>
+      <text>For the BP uptake by LLC-PK1 cells in the presence of extracellular BP, [BP](out) (µM) for example, the BP uptake per hour per well of confluent cells was expressed as: </text>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16806" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16866" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16871" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="16902" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16972</offset>
+      <text>For the Xenopus oocytes adapted to the experimental procedure (5 cells per assay): </text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17056</offset>
+      <text>Statistics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17067</offset>
+      <text>Statistical significance was analyzed by Student’s t-test or Williams’ test. The significance of difference between determinations at different times with individual animal groups was analyzed by a paired t-test. The significance of difference between three groups was analyzed by Holm’s test. All data were statistically analyzed using Pharmaco Basic Ver.15.0.1 (Scientist Co. Ltd., Tokyo).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17465</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17473</offset>
+      <text>BH4 uptake by rat kidney slices</text>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17473" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">11010_2017_3060_Fig1_HTML.jpg</infon>
+      <infon key="id">Fig1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>17505</offset>
+      <text>Uptake of 6RBH4 by kidney slices in the presence or absence of typical ligands of organic anion transporters. The kidney slices were prepared as described in “Materials and methods” section. The slices took up 6RBH4 and the uptake was inhibited by OAT ligands. The reagents used were 6RBH4 (10 µM and 3 mM), penicillin G (PCG, 1 mM), probenecid (PBC, 1 mM) and p-aminohippuric acid (PAH, 1 mM). The uptake of BH4 for 15 min was expressed as a portion of the clearance. *P &lt; 0.05, **P &lt; 0.01 (Holm’s test); each point represents the mean ± S.D. (n = 3–7)</text>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17515" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17715" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17789" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="17813" length="12"/>
+        <text>penicillin G</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="17827" length="3"/>
+        <text>PCG</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="17839" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="17851" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="17866" length="20"/>
+        <text>p-aminohippuric acid</text>
+      </annotation>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="17888" length="3"/>
+        <text>PAH</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17914" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>18083</offset>
+      <text>The rat kidney slices taken from the cortex area contained 2.67 ± 0.78 nmol of BP per mg tissue weight, ca. 4-fold more than the whole kidney average (0.68 ± 0.11 nmol/g, P &lt; 0.01). In the uptake experiment, the BP content of the slices increased almost linearly for more than 20 min, 79.5 ± 32.2 nmol/mg at 15 min in the presence of 10 µM 6RBH4, and the clearance was calculated to be 8.7 ± 3.2 µL/(15 min·mg) as depicted in Fig. 1. At a very high concentration of 6RBH4 (3 mM), the uptake was significantly decreased (P &lt; 0.01), suggesting that the process was saturable with regard to BH4, consistent with the carrier-mediated process but not with physicochemical diffusion. Moreover, the process was inhibited by a group of organic anion transporter ligands; namely, through strong inhibition by PBC (80%, P &lt; 0.01) and moderate inhibition by PCG (40%, P = 0.040), a preferred substrate of OAT3, or PAH (50%, P = 0.024), a preferred substrate of OAT1. </text>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="18162" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="18295" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18423" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18549" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18671" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="645">
+        <infon key="type">OTHER</infon>
+        <location offset="18811" length="25"/>
+        <text>organic anion transporter</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="18883" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="18930" length="3"/>
+        <text>PCG</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="18986" length="3"/>
+        <text>PAH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>19075</offset>
+      <text>Kidney slices are known to be one of the best functional systems in vitro with regard to their characteristic uptake which takes place exclusively at the basolateral membrane due to occlusion at the cut ends of the tubular cross section. Accordingly, BH4 uptake by the slices in this manner was accounted for by the basolateral uptake of tubular epithelium. Furthermore, the 80% suppression by PBC strongly suggested that the relevant transporters involved in the BH4 uptake were mostly the organic anion transporters OAT1 and OAT3 which were reported to participate in the removal of various water-soluble compounds in plasma. Although the involvement of other transporters in BH4 removal was not ruled out, the near exclusive participation of the PBC-sensitive transporters in the removal was suggested, and it might be a prerequisite for the rapid release of these compounds to the urine at proximal tubules in rats as observed previously.</text>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19326" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="19469" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19539" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="624">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="19668" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19753" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="2X510">
+        <infon key="type">OTHER</infon>
+        <location offset="19824" length="26"/>
+        <text>PBC-sensitive transporters</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>20018</offset>
+      <text>BH4 uptake by rOat1- or rOat3-transfected LLC-PK1 cells</text>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20018" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">11010_2017_3060_Fig2_HTML.jpg</infon>
+      <infon key="id">Fig2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>20074</offset>
+      <text>Biopterin uptake by rOat1- and rOat3-expressing LLC-PK1 cells and naïve LLC-PK1 cells. Tetrahydrobiopterin uptake by OAT-expressing or naïve LLC-PK1 cells was examined under a monolayer culture (4 × 104 cells/well, 96-well analytical culture plate). a LLC-PK1 cells transfected with rOat1 (left) or with rOat3 (right) were used. The cells were exposed for 1 h to 50 µM 6RBH4 in the absence (gray bars, control labeled “none”) or in the presence (open bars) of OAT ligands (1 mM each except for methotrexate (MTX) at 80 µM). The rOat1- and rOat3-expressing LLC-PK1 cells took up 6RBH4 and the uptake was inhibited by the ligands of OAT1 and OAT3. The OAT ligands used were probenecid (PBC), estronesulfate (ES), p-aminohippuric acid (PAH), penicillin G (PCG), methotrexate (MTX) and cimetidine (CIM). b rOat1-LLC-PK1 cells (left) or rOat3- LLC-PK1 cells (right) were given 50 µM each of 6RBH4, dihydrobiopterin (BH2) or sepiapterin (SP) in the absence (gray bars) or presence (open bars) of 1 mM PBC for 1 h. The resultant biopterin accumulations of BH2 + BH4 were then compared between those in the absence of PBC vs the presence of PBC, and levels of BH4
+vs. BH2 and of BH2
+vs SP. c Uptakes of 6RBH4 and BH2 (50 µM each) by naïve LLC-PK1 cells were also compared (left panel). The uptake of 6RBH4 (50 µM) for 1 h (right panel) was analyzed in the absence (gray bar, labeled “none”) or presence (open bars) of 200 µM nitrobenzylthioinosine (NBMPR) or 1 mM PBC. The uptake of the pterins was expressed as a portion of the clearance. *P &lt; 0.05, **P &lt; 0.01 (Holm’s test); ††
+P &lt; 0.01 (Student’s t-test); each point represents the mean ± S.D. (n = 5–6)</text>
+      <annotation id="G294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="20074" length="9"/>
+        <text>Biopterin</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20161" length="19"/>
+        <text>Tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20443" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="20568" length="12"/>
+        <text>methotrexate</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="20582" length="3"/>
+        <text>MTX</text>
+      </annotation>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20652" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="20746" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="20758" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="20764" length="14"/>
+        <text>estronesulfate</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="20780" length="2"/>
+        <text>ES</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="20785" length="20"/>
+        <text>p-aminohippuric acid</text>
+      </annotation>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="20807" length="3"/>
+        <text>PAH</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="20813" length="12"/>
+        <text>penicillin G</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="20827" length="3"/>
+        <text>PCG</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="20833" length="12"/>
+        <text>methotrexate</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="20847" length="3"/>
+        <text>MTX</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002927</infon>
+        <location offset="20856" length="10"/>
+        <text>cimetidine</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002927</infon>
+        <location offset="20868" length="3"/>
+        <text>CIM</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20960" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="20967" length="16"/>
+        <text>dihydrobiopterin</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="20985" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="20993" length="11"/>
+        <text>sepiapterin</text>
+      </annotation>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="21006" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="21069" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="21096" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="21123" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21129" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="21184" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="21207" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21226" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="21234" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="21245" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="21252" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21269" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="21279" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21366" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001789</infon>
+        <location offset="21491" length="22"/>
+        <text>nitrobenzylthioinosine</text>
+      </annotation>
+      <annotation id="G293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="21530" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="21553" length="7"/>
+        <text>pterins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21778</offset>
+      <text>Transport of BH4 by OAT1 and OAT3 and of BH2 and SP was characterized using rOat1- or rOat3-transfected LLC-PK1 cells, a cell line derived from the kidney of a male pig. As shown in Fig. 2a, rOat1-LLC-PK1 and rOat3-LLC-PK1 cells took up 6RBH4, and these processes were inhibited by known ligands of OAT1 and OAT3. The BH4 uptake was strongly inhibited in rOat1-LLC-PK1 cells by the typical ligands of OAT1, PAH and cimetidine. On the other hand, BH4 uptake by the rOat3-LLC-PK1 cells was inhibited by the ligands of OAT3, ES and PCG. These results are consistent with the reported preference of the respective compounds for rOat1 and rOat3. The respective uptakes of 6RBH4, BH2 and SP by these cells were compared in the presence or absence of PBC (1 mM, Fig. 2b) to ensure that the PBC-sensitive portions of the pterin uptake were distinct from the other processes. Both rOat1-LLC-PK1 and rOat3-LLC-PK1 cells took up BH2 and SP, the precursors of the BH4 salvage pathway, in a PBC-sensitive manner and much more efficiently than their uptake of 6RBH4. The uptake of all three pterins in the presence of PBC was minor and it may have been mediated by transporters other than OAT1 or OAT3. Naïve LLC-PK1 cells were capable of taking up 6RBH4 to a lesser extent than the above transfected cells but they were insensitive to PBC. The naïve cells took up BH2 in preference to BH4 (Fig. 2c, left). The endogenous BH4 uptake by these cells was around 20.7 ± 3.60 nL/(h·4 × 104 cells) and was significantly inhibited by nitrobenzylthioinosine (NBMPR), a typical ENT ligand (P &lt; 0.01) but not by PBC (Fig. 2c, right) suggesting that the uptake was mainly mediated by ENT1, ENT2 as described previously. Hence, our observations of the pterin uptake in the presence or absence of PBC using OAT-transfected LLC-PK1 cells, as shown in Fig. 2b, enabled us to distinguish between the endogenous transporters and those expressed as a result of the transfection. </text>
+      <annotation id="G307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21791" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="21819" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="21827" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22015" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22096" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="22185" length="3"/>
+        <text>PAH</text>
+      </annotation>
+      <annotation id="G299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002927</infon>
+        <location offset="22193" length="10"/>
+        <text>cimetidine</text>
+      </annotation>
+      <annotation id="G309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22224" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="22300" length="2"/>
+        <text>ES</text>
+      </annotation>
+      <annotation id="G301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="22307" length="3"/>
+        <text>PCG</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22445" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="22452" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="22460" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="22522" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="22561" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="22591" length="6"/>
+        <text>pterin</text>
+      </annotation>
+      <annotation id="G315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="22696" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="22704" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22730" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="22756" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22824" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="22855" length="7"/>
+        <text>pterins</text>
+      </annotation>
+      <annotation id="G324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="22882" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23013" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="23100" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23129" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23150" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23186" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001789</infon>
+        <location offset="23291" length="22"/>
+        <text>nitrobenzylthioinosine</text>
+      </annotation>
+      <annotation id="G328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001789</infon>
+        <location offset="23315" length="5"/>
+        <text>NBMPR</text>
+      </annotation>
+      <annotation id="G326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="23366" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="23504" length="6"/>
+        <text>pterin</text>
+      </annotation>
+      <annotation id="G327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="23548" length="3"/>
+        <text>PBC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>23744</offset>
+      <text>Transport of BH4, BH2, and SP by hOAT1- or hOAT3-expressing Xenopus oocytes</text>
+      <annotation id="G331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23757" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23762" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="23771" length="2"/>
+        <text>SP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">11010_2017_3060_Fig3_HTML.jpg</infon>
+      <infon key="id">Fig3</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>23820</offset>
+      <text>Uptake of 6RBH4, BH2, and sepiapterin by hOAT1- and hOAT3-expressing Xenopus oocytes. Xenopus oocytes were individually injected (gray bars) with 50 nL of hOAT1 (a) or hOAT3 (b) cRNA (1 ng/nL). As the control (hatched bars), oocytes were injected with 50 nL of distilled water. The oocytes were then allowed to express the respective transporters at 19 °C for 2 days. In the uptake experiment, all pterins were used at 50 µM. All oocytes injected with either cRNA took up significantly more pterins than the control and the uptake was inhibited by OAT ligands (1 mM each). The OAT ligands used were probenecid (PBC), p-aminohippuric acid (PAH), estronesulfate (ES) and penicillin G (PCG). a 6RBH4, BH2, and sepiapterin (SP) were taken up by hOAT1-expressing oocytes (main panel) for 1 h, and the BH2 uptake was analyzed in the absence (gray bar, labeled “none”) or presence (open bars) of OAT1 ligands (upper panel). (b) Uptake of 6RBH4, BH2, and SP by hOAT3-expressing oocytes (main panel) and inhibition of BH4 uptake by OAT3 ligands in the absence (gray bar, labeled “none”) or presence (open bars) of OAT3 ligands (upper panel). The uptake of the pterins was expressed as a portion of the clearance. *P &lt; 0.05, **P &lt; 0.01 (Holm’s test); each point represents the mean ± S.D. (n = 4–9)</text>
+      <annotation id="G348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23830" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23837" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="23846" length="11"/>
+        <text>sepiapterin</text>
+      </annotation>
+      <annotation id="G353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24081" length="15"/>
+        <text>distilled water</text>
+      </annotation>
+      <annotation id="G354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="24218" length="7"/>
+        <text>pterins</text>
+      </annotation>
+      <annotation id="G355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="24311" length="7"/>
+        <text>pterins</text>
+      </annotation>
+      <annotation id="G351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="24419" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="24431" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="24437" length="20"/>
+        <text>p-aminohippuric acid</text>
+      </annotation>
+      <annotation id="G335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="24459" length="3"/>
+        <text>PAH</text>
+      </annotation>
+      <annotation id="G336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="24465" length="14"/>
+        <text>estronesulfate</text>
+      </annotation>
+      <annotation id="G337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017296</infon>
+        <location offset="24481" length="2"/>
+        <text>ES</text>
+      </annotation>
+      <annotation id="G338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="24489" length="12"/>
+        <text>penicillin G</text>
+      </annotation>
+      <annotation id="G339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="24503" length="3"/>
+        <text>PCG</text>
+      </annotation>
+      <annotation id="G349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="24511" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="24518" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="24527" length="11"/>
+        <text>sepiapterin</text>
+      </annotation>
+      <annotation id="G341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="24540" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="24616" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="24751" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="24758" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="24767" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="24829" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="24971" length="7"/>
+        <text>pterins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>25140</offset>
+      <text> Xenopus oocytes were separately injected with the cRNA of hOAT1 or hOAT3 and allowed to express the respective transporters at 19 °C for 2 days, as described in Materials and Methods. We observed an increased uptake of 6RBH4, BH2, and SP by all oocytes injected with the respective cRNAs, as shown in Fig. 3. The oocytes injected with hOAT1-cRNA showed the most pronounced uptake of BH2 followed by that of SP (Fig. 3a). Enhancement of 6RBH4 uptake was rather moderate when compared to that of BH2 or SP. The BH2 uptake was significantly inhibited by PBC (P &lt; 0.01) and PAH (P &lt; 0.01), both typical OAT1 substrates. In hOAT3-expressing oocytes, SP uptake was predominant followed by BH2 uptake (P &lt; 0.01), while BH4 uptake was poorly enhanced, even when compared to BH2 (P &lt; 0.01) (Fig. 3b). Nonetheless, the BH4 uptake was inhibited by OAT3 ligands, suggesting that it was also mediated by the hOAT3 expression product. Considering these results together with those obtained using rOAT-transfected LLC-PK1 cells, OAT1 of either rats or humans mediated the uptake of BH2 better than that of SP, and OAT3 mediated uptake of SP more than that of BH2. The pronounced preference for the dihydropterins 7,8BH2 and SP compared to BH4 seemed to be common to both OAT1 and OAT3 (cf. Figure 2b). </text>
+      <annotation id="G377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="25360" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="25367" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="25376" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="25524" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="25548" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="25577" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="25635" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="25642" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="25650" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="25692" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010130</infon>
+        <location offset="25711" length="3"/>
+        <text>PAH</text>
+      </annotation>
+      <annotation id="G361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="25786" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="25824" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="25853" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="25907" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="25950" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="26208" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="26232" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="26264" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="26285" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C025596</infon>
+        <location offset="26324" length="14"/>
+        <text>dihydropterins</text>
+      </annotation>
+      <annotation id="G380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="26339" length="6"/>
+        <text>7,8BH2</text>
+      </annotation>
+      <annotation id="G365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="26350" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="26365" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>26444</offset>
+      <text>Inhibition of OAT1 and OAT3 by probenecid and a decrease in bodily exclusion of endogenous BP in the rat</text>
+      <annotation id="G381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="26475" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="26535" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">11010_2017_3060_Fig4_HTML.jpg</infon>
+      <infon key="id">Fig4</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>26549</offset>
+      <text>Elevation of blood BP accompanied by a decrease in the urinary loss of endogenous BP with a single dose of probenecid. Rats were given probenecid (PBC, 200 mg/kg, i.p.), and the blood (a) and urine (b) were collected sequentially from individual rats at the indicated times under sustained anesthesia for 6 h, then the kidney and liver (c) were dissected from the same rats at 6 h after the PBC dosing. The 0-time samples were taken from the rats without PBC treatment. The 0-time amounts of BH2 + BH4 (BP, open symbols) were compared with those of PBC-treated rat samples (grey symbols). In a and b, *P &lt; 0.05, **P &lt; 0.01 (“0-time” vs. “PBC-treated”, paired Student’s test), and in c, **P &lt; 0.01, or n.s., no significant difference (“before” vs. “PBC-treated”, Williams’ test). Data are mean ± S.E. (n = 4)</text>
+      <annotation id="G393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="26568" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="26631" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="26656" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="26684" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="26696" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="26940" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27004" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="27041" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="27047" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="27052" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27098" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27187" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27297" length="3"/>
+        <text>PBC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>27393</offset>
+      <text>In order to confirm that PBC prevents urinary exclusion of endogenous BH4, which was originally synthesized systemically de novo, by inhibiting the representative transporters, OAT1 and OAT3, we compared BP levels before and after PBC treatment in the circulating blood, in urine in the bladder, and in tissues of the kidney and liver. Rats were injected with probenecid (200 mg/kg, i.p.) under sustained anesthesia without BH4 administration. BP levels in the blood were gradually elevated to 1.6- and 1.8-fold within 6 h after PBC administration (Fig. 4a, P &lt; 0.01). With the same rats, significant decrease was observed in the urinary BP contents, normalized with time-matched creatinine; and levels were about 30% less than those of the untreated rats (Fig. 4b, P &lt; 0.05). Moreover, the tissue BP in the kidney of the same rats increased to 4.6-fold over the initial value (Fig. 4c, P &lt; 0.01). Meanwhile, we did not observe any significant change in endogenous BP in the liver after the PBC treatment. </text>
+      <annotation id="G400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27418" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="27463" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="27597" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27624" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27753" length="10"/>
+        <text>probenecid</text>
+      </annotation>
+      <annotation id="G398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="27817" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="27837" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="27922" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="28031" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="28073" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="G407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="28191" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="28358" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="28384" length="3"/>
+        <text>PBC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>28411</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>28422</offset>
+      <text>In earlier studies, we noted a facilitated clearance of BP by the kidney, particularly after 6RBH4 administration, and we demonstrated that it was due to the tubular secretion of exogenous BH4, distinct from removal by renal glomerular filtration. In our in vivo experiments analyzing the effect of PBC on the pharmacokinetics of administered 6RBH4 in rats, we showed that a PBC-sensitive transporter(s) enabled the liver and kidney to play their crucial role in bodily retention of BH4 and tubular secretion to the urine. Organic anion transporters (OATs) are representative PBC-sensitive transporters known to participate in the uptake process in certain tissues such as the kidney and liver and to exhibit a particular localization. The role they play in kidney clearance of various xenobiotics and metabolic wastes has been well studied (reviews). We previously demonstrated that ENT1 and ENT2 were capable of transporting SP, BH2 and BH4, and that both were relevant as a gateway of the BH4 salvage pathway. ENTs comprise a family of equilibrative transporters that mediate the bidirectional permeation of nucleobases and similar heterocyclic compounds across biological membranes, indicating that BH4 and nucleotides share a common gateway for the salvage pathway. Their near ubiquitous distribution, including in endothelial cells, seemed to be appropriate for their body-wide role in biopterin distribution; however, more tissue-specific localization of vigorous transporters was expected for massive kidney-specific clearing. We therefore looked for other transporters which could play a major role in mediating biopterin permeation and clearance by the kidney. Accordingly, we focused our present search on tubular epithelium in examination of biopterin exclusion.</text>
+      <annotation id="G426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="28478" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="28515" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="28611" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="28721" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="28765" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="28797" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="28905" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="635">
+        <infon key="type">OTHER</infon>
+        <location offset="28945" length="26"/>
+        <text>Organic anion transporters</text>
+      </annotation>
+      <annotation id="G422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="28998" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="29349" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="29353" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="29361" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="29414" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="29533" length="11"/>
+        <text>nucleobases</text>
+      </annotation>
+      <annotation id="636">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006571</infon>
+        <location offset="29557" length="22"/>
+        <text>heterocyclic compounds</text>
+      </annotation>
+      <annotation id="G416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="29625" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="29633" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="G423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="29814" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="30043" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="30176" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>30197</offset>
+      <text>OAT1 and OAT3 as biopterin transporters</text>
+      <annotation id="630">
+        <infon key="type">OTHER</infon>
+        <location offset="30214" length="22"/>
+        <text>biopterin transporters</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>30237</offset>
+      <text>Our first clue to uncovering the transporters responsible for biopterin uptake came from using kidney slices which took up BH4 and finding that this uptake was strongly inhibited by PBC together with other ligands of OAT1 and/or OAT3. It is also known that uptake by the basolateral side of tubular epithelium can be exclusively elicited in vitro using rat kidney slices. Hence, we hypothesized that the transporters OAT1 and OAT3 were responsible for driving the renal exclusion of biopterin after systemic administration of 6RBH4. In order to prove this hypothesis, we employed an expression system using LLC-PK1 cells transfected with the rat OAT genes rOat1 and rOat3 following a method which established the functionality of these transporters in the uptake required for the exclusion of organic anions, nucleobases and nucleosides. As a result, the ability of these transporters was strongly suggested to mediate the cellular uptake of BH4, BH2, and SP. One uncertainty in this experimental system was that the naïve LLC-PK1 cells were able to take up BP to a noticeable extent. However, this fraction of BP uptake was thought to be mediated by other transporters such as the ENTs which are rather ubiquitous and essential for proliferation of cells in culture owing to their fundamental role as a gateway of the nucleotide salvage pathway. The ability of OAT1 and OAT3 to transport BH4, BH2 and SP was further confirmed by the uptake experiment using Xenopus oocytes expressing the human OAT genes hOAT1 and hOAT3. Although OAT1 and OAT3 both have a strong ability to transport BH4, BH2, and SP, this does not necessarily infer that they are the proprietary transporters in BP uptake. Instead, we consider that BP in plasma was targeted as a xenobiotic or metabolic waste to be eliminated by the kidney. The present result does not exclude the possible relevance to BP permeation of other transporters not examined here.</text>
+      <annotation id="G443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="30299" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="30360" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="30419" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="30720" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="30763" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="31046" length="11"/>
+        <text>nucleobases</text>
+      </annotation>
+      <annotation id="G429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009705</infon>
+        <location offset="31062" length="11"/>
+        <text>nucleosides</text>
+      </annotation>
+      <annotation id="G435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="31179" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="31184" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="31193" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="31295" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="31348" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="31556" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="31626" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="31631" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="31639" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="31822" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="31827" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="31836" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="31918" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="31955" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="32110" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>32166</offset>
+      <text>Relevance of OAT1 and OAT3 in systemic BH4 metabolism</text>
+      <annotation id="G450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32205" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>32220</offset>
+      <text>As for the body-wide relevance of OATs in BH4 metabolism, we observed a major movement of administered BH4, including massive accumulation in the liver and rapid exclusion from the kidney. Notably, in the liver and kidney, these processes were both inhibited by prior treatment with PBC. Based on these observations, we considered that the PBC-sensitive transporter(s) played a crucial role in enabling the liver to absorb and retain a large amount of BP and the kidney to take it up and exclude it in the urine. Renal trans-epithelial transport is composed of tandem permeations across the cell membrane, namely, uptake from the vascular side and release from the tubular lumen side, in which the former was strongly prevented by PBC and the latter, by CSA. In the present study, OAT1 and OAT3 were identified as the major PBC-sensitive transporters for BP exclusion. However, if they act too vigorously to exclude BP, this would raise concern that BP could be thoroughly removed from the body. In addressing this issue, we previously examined BP levels in urine and plasma separately from red blood cells. We noted that most of the plasma BP, whose level rose sharply after 6RBH4 administration, was rapidly and massively excluded in the urine by trans-cellular BP secretion which far exceeded glomerular filtration but only until the point at which the plasma BP had decreased to about 1 nmol/mL, 10-fold the endogenous level, and the level remained higher than the endogenous level for a period of hours. Considering the exclusion dynamics of exogenous BP, these transporters likely play the core role in removing extraordinarily high concentrations of plasma BP as a sort of protective mechanism. Although the transporter ligands CSA and PBC strongly blocked the exclusion of BP across the epithelium to the urine, they raised the blood BP to a very high concentration while they had no effect on the glomerular filtration of BP. The ligand treatment, therefore, did not improve the efficiency of BP replacement because the inhibition of the trans-cellular BP passage was offset by a more rapid outflow through glomerular filtration due to a compensatory elevation of plasma BP. Despite the “low efficiency” of peripherally administered 6RBH4, this supplement can provide enough BH4 cofactor for pterin-dependent hydroxylases in peripheral organs, such as the liver, in patients with an endogenous BH4 deficiency. 6RBH4 administration immediately elevates plasma BP levels. We consider that an extreme concentration higher than threshold was targeted for biological detoxification by means of the tubular secretion in which OAT1 and OAT3 played the essential role. Hence, the “low efficiency” in BH4 supplementation was a consequence of the blood BP elevation over the critical level, which was 10-fold the endogenous level in the case of rats, in the early period after 6RBH4 administration.</text>
+      <annotation id="G454">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32262" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32323" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="32503" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="629">
+        <infon key="type">OTHER</infon>
+        <location offset="32560" length="28"/>
+        <text>PBC-sensitive transporter(s)</text>
+      </annotation>
+      <annotation id="G468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="32672" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G465">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="32951" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016572</infon>
+        <location offset="32974" length="3"/>
+        <text>CSA</text>
+      </annotation>
+      <annotation id="644">
+        <infon key="type">OTHER</infon>
+        <location offset="33044" length="26"/>
+        <text>PBC-sensitive transporters</text>
+      </annotation>
+      <annotation id="G469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33075" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G470">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33136" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33170" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33265" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33361" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33396" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G474">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33484" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33583" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33777" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G477">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="33884" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016572</infon>
+        <location offset="33955" length="3"/>
+        <text>CSA</text>
+      </annotation>
+      <annotation id="G467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="33963" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34001" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34062" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34151" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G481">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34222" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G482">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34282" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34400" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34462" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34504" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="637">
+        <infon key="type">OTHER</infon>
+        <location offset="34521" length="29"/>
+        <text>pterin-dependent hydroxylases</text>
+      </annotation>
+      <annotation id="G457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34623" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34639" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34688" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34921" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="34972" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G462">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35096" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>35127</offset>
+      <text>Remarks on the relevance of OAT1 and OAT3 for systemic BH2 scavenging after BH4 supplementation</text>
+      <annotation id="G487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35182" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35203" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>35223</offset>
+      <text>Contrary to general expectations, the administration of 6RBH4 initially caused an increase in BH2 in the circulation. However, the elevated BH2 ratio declined within a short time and dropped even further to a level lower than the initial level. An initial surge in BH2 and a sharp elevation of the BH2/(BH2 + BH4) ratio was first observed in the blood in a BH4 replacement experiment in which mice were intraperitoneally administered 6RBH4, 7,8BH2 or SP. A rather long-lasting BH2 increase was also observed in rat plasma after intravenous administration of 6RBH4, subsequently, the elevated BH2 ratio in the plasma gradually returned to normal over a period of hours. Presumably, the increased plasma BH2 had been removed by its selective uptake and was subsequently converted to BH4. This consequence was paradoxically illustrated by the finding that treating the rat with PBC prior to 6RBH4 administration strongly stimulated the BH2 increase in the blood and urine while it attenuated the BP increase in the liver and simultaneously retarded urinary BP excretion.</text>
+      <annotation id="G501">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35279" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G492">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35317" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G493">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35363" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35488" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35521" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35526" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35532" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35580" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G502">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35657" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35664" length="6"/>
+        <text>7,8BH2</text>
+      </annotation>
+      <annotation id="G488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="35674" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35700" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35781" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35815" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="35925" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G491">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36004" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="36098" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36111" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36156" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="36216" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="36277" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>36293</offset>
+      <text>We have demonstrated in this work that both OAT1 and OAT3 drove the cellular uptake of the dihydro-forms of pterins, BH2 and SP, in roughly a 5- to 10-fold preference over the tetrahydro-form, BH4. The liver and kidney are undoubtedly well furnished with a BH4 salvage pathway as shown by the fact that the tissue BH2 ratio, BH2/(BH2 + BH4), in these organs did not significantly change even after the massive uptake of BH2 from the plasma after 6RBH4 administration. BH2 uptake is a prerequisite of BH2 conversion to BH4 in the liver and of BH2 removal to the urine by the kidney. Furthermore, the strong preference of OAT1 and OAT3 for BH2 over BH4 made it much more efficient for these organs to perform their respective functions. Based on these reports together with the present observation regarding the transporter preference for BH2, we consider that OAT1 and OAT3 work as part of a body-wide machinery for scavenging BH2 and maintaining the redox balance, at least after BH4 administration. With regard to phenylalanine-, tyrosine-, and tryptophan hydroxylases, the relative increase in BH2 does not interfere with the enzyme activity to any significant extent, however, it does lead to a critical failure in NOS function.</text>
+      <annotation id="G529">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="36401" length="7"/>
+        <text>pterins</text>
+      </annotation>
+      <annotation id="G516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36410" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="36418" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36486" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G511">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36550" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G517">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36607" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36618" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G519">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36623" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36629" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G520">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36713" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36739" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36761" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G522">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36793" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G513">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36811" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36835" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="36931" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G514">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36940" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="37130" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="37219" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37273" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G530">
+        <infon key="type">OTHER</infon>
+        <location offset="37308" length="54"/>
+        <text>phenylalanine-, tyrosine-, and tryptophan hydroxylases</text>
+      </annotation>
+      <annotation id="G527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="37389" length="3"/>
+        <text>BH2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>37527</offset>
+      <text>Administration of 6RBH4 has been attempted as a translational medicinal approach to improving eNOS dysfunction, especially in cardio-vascular disorders. The dysfunction of eNOS is characterized by uncontrolled uncoupling of O2 reduction producing “reactive oxygen/nitrogen species” (ROS/RNS), and it is believed to be a great risk factor for cardio-vascular disease. Various encouraging experimental studies have been reported, however, these attempts have had limited success in trials to ameliorate human cardio-vascular dysfunction. The binding of BH2 to active NOS causes an uncoupling of the O2 reduction involved in the enzyme reaction. To avoid sustained eNOS dysfunction, the enzyme should not be exposed to a high concentration of BH2 relative to BH4 because the affinity of NOS for BH2 was reported to be not particularly low; the IC50 of BH2 to eNOS was comparable to that of BH4 and the Ki of nNOS to BH2 was only 10-fold higher than to BH4. Hence, the success of 6RBH4 administration for improving NOS dysfunction might primarily depend on its lowering of the BH2/(BH2 + BH4) ratio rather than on raising the BH4 concentration. This has been noted by many researchers. As two examples, (1) the importance of the BH4 salvage pathway driven by dihydrofolate reductase has been well documented and the scavenging of BH2 was shown to be enabled by vigorous reductase activity. The authors argued that endothelial cells were poorly furnished with dihydrofolate reductase, which made NOS function in these cells extremely vulnerable to BH2 produced in situ in the cell interior. It was also reported that (2) endothelial cells of human origin showed dramatically less dihydrofolate reductase activity compared to cells of other species including cows and mice. Taken together, endothelial cells did not appear to have the means to scavenge BH2 in the local cell interior. Nonetheless, blood BH2 can be produced either near or at some distance away from local endothelial cells. In addition, endothelial cells readily take up plasma BH2 because of their asymmetrically dense expression of ENT2 on the apical membrane facing the vascular lumen side. As an extreme example, after BH4 administration, eNOS of endothelial cells is vigorously exposed to a high BH2 concentration from the circulating blood. In this context, attenuation of systemic BH2 production or stimulation of BH2 scavenging has a direct impact on the eNOS dysfunction of endothelial cells.</text>
+      <annotation id="G555">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37545" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G531">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="37751" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="G557">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382,MESH:D026361</infon>
+        <location offset="37775" length="32"/>
+        <text>reactive oxygen/nitrogen species</text>
+      </annotation>
+      <annotation id="G558">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="37810" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G559">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026361</infon>
+        <location offset="37814" length="3"/>
+        <text>RNS</text>
+      </annotation>
+      <annotation id="G540">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38078" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G532">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="38124" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="G541">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38267" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38283" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G542">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38319" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G543">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38376" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G534">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38414" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38440" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38476" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G556">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38503" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G545">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38600" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G546">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38605" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38611" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G537">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38649" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38752" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G560">
+        <infon key="type">OTHER</infon>
+        <location offset="38782" length="23"/>
+        <text>dihydrofolate reductase</text>
+      </annotation>
+      <annotation id="G547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="38853" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G561">
+        <infon key="type">OTHER</infon>
+        <location offset="38982" length="23"/>
+        <text>dihydrofolate reductase</text>
+      </annotation>
+      <annotation id="G548">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39070" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G562">
+        <infon key="type">OTHER</infon>
+        <location offset="39202" length="23"/>
+        <text>dihydrofolate reductase</text>
+      </annotation>
+      <annotation id="G549">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39374" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G550">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39425" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G551">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39566" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G539">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="39711" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G552">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39789" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G553">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39876" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G554">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="39909" length="3"/>
+        <text>BH2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>39996</offset>
+      <text>This work has demonstrated that OAT1 and OAT3 are both involved in systemic BH2 scavenging in terms of their characteristic mediation of BH2 uptake and their known distribution on the vascular side of renal tubular endothelium. Effective BH2 scavenging in the kidney is obviously enabled by the high-capacity uptake of blood BH2 mediated by OAT1 and OAT3. Although OAT3 is the dominant OAT expressed in the liver, other OAT counterparts in this organ, such as OAT2, are also interesting but their roles remain elusive.</text>
+      <annotation id="G563">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="40072" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G564">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="40133" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G565">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="40234" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G566">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="40321" length="3"/>
+        <text>BH2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>40515</offset>
+      <text>Relevance of PBC-sensitive transporters in exclusion of endogenous BP in the urine</text>
+      <annotation id="611">
+        <infon key="type">OTHER</infon>
+        <location offset="40528" length="26"/>
+        <text>PBC-sensitive transporters</text>
+      </annotation>
+      <annotation id="G568">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="40582" length="2"/>
+        <text>BP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>40598</offset>
+      <text>As a matter of general physiology, we are also interested in the relevance of OAT1 and OAT3 in the homeostasis of BH4 metabolism under ordinary conditions without exogenous BH4 supplementation. Our experiments addressed this issue (Fig. 4) and demonstrated that the administration of PBC to healthy rats significantly decreased BP exclusion in the urine which was accompanied by a rise of BP in the blood, with both levels measured using the same individual rats. Since there are no known reasons for the drug to stimulate de novo BP biosynthesis, the increase in the blood BP was accounted by a kickback from inhibition of the renal secretion of BP by PBC. These results suggested that the loss of BP through the urine strongly influences the endogenous amount of BP in the blood. We also observed that the BP content in the kidney was significantly increased in the presence of PBC. An almost proportional increase in kidney BP relative to blood BP was even more pronounced in our previous study in which rats were administered “6RBH4 alone” or “6RBH4 + PBC”. The mechanism of this in vivo increase involving local OAT1 and/orOAT3 remains unclear. Since OAT1 and OAT3 are the only known PBC-sensitive transporters which enable BP to permeate across the cell membrane, it is highly plausible that OAT1 and OAT3, if not acting locally in the kidney, are involved in the mechanism controlling the bodily retention of BH4. However, this subject awaits further in vivo exploration.</text>
+      <annotation id="G569">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="40712" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G570">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="40771" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G574">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="40882" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G579">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="40926" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G580">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="40987" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G581">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41129" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G582">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41172" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G583">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41245" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G575">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="41251" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G584">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41297" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G585">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41363" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G586">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41406" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G576">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="41478" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="G587">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41525" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G588">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41546" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G572">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41629" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G573">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41646" length="5"/>
+        <text>6RBH4</text>
+      </annotation>
+      <annotation id="G577">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011339</infon>
+        <location offset="41654" length="3"/>
+        <text>PBC</text>
+      </annotation>
+      <annotation id="608">
+        <infon key="type">OTHER</infon>
+        <location offset="41787" length="26"/>
+        <text>PBC-sensitive transporters</text>
+      </annotation>
+      <annotation id="G589">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="41827" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G571">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42014" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>42088</offset>
+      <text>As mentioned at the beginning of the Discussion, ENT1 and ENT2 have been identified as BP transporters. ENTs and OATs are similar in their preference for SP and BH2 as substrates rather than BH4. However, in contrast to the localization of OATs in specific tissues such as in the kidney and liver, ENTs are characterized by their near ubiquitous distribution including in endothelial cells. Generally speaking, it is likely that ENT1 and ENT2 assume their share of the mobilization of BP, including its precursor SP, in the body interior, while OAT1 and OAT3 deal with detoxication in response to a BP excess and act in removal of this pterin from the body.</text>
+      <annotation id="609">
+        <infon key="type">OTHER</infon>
+        <location offset="42175" length="15"/>
+        <text>BP transporters</text>
+      </annotation>
+      <annotation id="G590">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="42242" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G594">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="42249" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G593">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42279" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G596">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="42573" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G591">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016727</infon>
+        <location offset="42601" length="2"/>
+        <text>SP</text>
+      </annotation>
+      <annotation id="G597">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="42687" length="2"/>
+        <text>BP</text>
+      </annotation>
+      <annotation id="G592">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="42724" length="6"/>
+        <text>pterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>42746</offset>
+      <text>Compliance with ethical standards</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>42780</offset>
+      <text>Conflicts of interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>42802</offset>
+      <text>The authors declare that they have no conflicts of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>42863</offset>
+      <text>Research involving animals and human rights</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>42907</offset>
+      <text>The animal experiments were conducted in accordance with the ethical guidelines of the Teikyo University of Science and Technology Animal Experimentation Committee and the guidelines of the Japanese Pharmacological Society.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>43131</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

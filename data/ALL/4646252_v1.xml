@@ -1,0 +1,2670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181107</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4646252</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Rampazzo;given-names:Chiara</infon>
+      <infon key="name_2">surname:Bianchi;given-names:Vera</infon>
+      <infon key="name_1">surname:Salata;given-names:Cristiano</infon>
+      <infon key="name_0">surname:Franzolin;given-names:Elisa</infon>
+      <infon key="article-id_pmid">26342080</infon>
+      <infon key="issue">43</infon>
+      <infon key="fpage">25986</infon>
+      <infon key="year">2015</infon>
+      <infon key="article-id_publisher-id">M115.675082</infon>
+      <infon key="article-id_pmc">4646252</infon>
+      <infon key="alt-title">SAMHD1 Activity in dGK Deficiency</infon>
+      <infon key="article-id_doi">10.1074/jbc.M115.675082</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">290</infon>
+      <infon key="license">Author's Choice—Final version free via Creative Commons CC-BY license.</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="kwd">gene silencing mitochondrial disease mitochondrial DNA (mtDNA) nucleoside/nucleotide metabolism phosphatase ribonucleotide reductase dGTP pool mitochondrial deoxynucleoside salvage mtDNA precursors</infon>
+      <infon key="lpage">25996</infon>
+      <offset>0</offset>
+      <text>The Deoxynucleoside Triphosphate Triphosphohydrolase Activity of SAMHD1 Protein Contributes to the Mitochondrial DNA Depletion Associated with Genetic Deficiency of Deoxyguanosine Kinase*</text>
+      <annotation id="309">
+        <infon key="type">OTHER</infon>
+        <location offset="4" length="48"/>
+        <text>Deoxynucleoside Triphosphate Triphosphohydrolase</text>
+      </annotation>
+      <annotation id="310">
+        <infon key="type">OTHER</infon>
+        <location offset="165" length="21"/>
+        <text>Deoxyguanosine Kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>188</offset>
+      <text>Background: Deoxyguanosine kinase (dGK) deficiency causes mtDNA depletion in quiescent cells where SAMHD1 restricts dGTP concentration.</text>
+      <annotation id="311">
+        <infon key="type">OTHER</infon>
+        <location offset="200" length="21"/>
+        <text>Deoxyguanosine kinase</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="304" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>324</offset>
+      <text>Results: siRNA silencing of SAMHD1 corrects mt dNTP imbalance boosting mtDNA content in quiescent dGK-mutated human fibroblasts.</text>
+      <annotation id="312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="371" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>453</offset>
+      <text>Conclusion: In noncycling cells SAMHD1 activity worsens the phenotype of dGK genetic deficiency, limiting dGTP supply.</text>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="559" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>572</offset>
+      <text>Significance: Nuclear SAMHD1 and mitochondrial dGK functionally interact in the regulation of mt dGTP for mtDNA maintenance.</text>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="669" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>697</offset>
+      <text>The dNTP triphosphohydrolase SAMHD1 is a nuclear antiviral host restriction factor limiting HIV-1 infection in macrophages and a major regulator of dNTP concentrations in human cells. In normal human fibroblasts its expression increases during quiescence, contributing to the small dNTP pool sizes of these cells. Down-regulation of SAMHD1 by siRNA expands all four dNTP pools, with dGTP undergoing the largest relative increase. The deoxyguanosine released by SAMHD1 from dGTP can be phosphorylated inside mitochondria by deoxyguanosine kinase (dGK) or degraded in the cytosol by purine nucleoside phosphorylase. Genetic mutations of dGK cause mitochondrial (mt) DNA depletion in noncycling cells and hepato-cerebral mtDNA depletion syndrome in humans. We studied if SAMHD1 and dGK interact in the regulation of the dGTP pool during quiescence employing dGK-mutated skin fibroblasts derived from three unrelated patients. In the presence of SAMHD1 quiescent mutant fibroblasts manifested mt dNTP pool imbalance and mtDNA depletion. When SAMHD1 was silenced by siRNA transfection the composition of the mt dNTP pool approached that of the controls, and mtDNA copy number increased, compensating the depletion to various degrees in the different mutant fibroblasts. Chemical inhibition of purine nucleoside phosphorylase did not improve deoxyguanosine recycling by dGK in WT cells. We conclude that the activity of SAMHD1 contributes to the pathological phenotype of dGK deficiency. Our results prove the importance of SAMHD1 in the regulation of all dNTP pools and suggest that dGK inside mitochondria has the function of recycling the deoxyguanosine derived from endogenous dGTP degraded by SAMHD1 in the nucleus.</text>
+      <annotation id="7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="701" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="845" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="979" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="1063" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="1080" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="1131" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="1170" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx21">
+        <infon key="type">OTHER</infon>
+        <location offset="1220" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+      <annotation id="329">
+        <infon key="type">OTHER</infon>
+        <location offset="1278" length="31"/>
+        <text>purine nucleoside phosphorylase</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="1514" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="1689" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="1803" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="331">
+        <infon key="type">OTHER</infon>
+        <location offset="1985" length="31"/>
+        <text>purine nucleoside phosphorylase</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="2033" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="2247" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="2333" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="2372" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2412</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2425</offset>
+      <text>In mammalian cells the concentrations of deoxyribonucleoside triphosphates (dNTPs) are regulated by an interplay of synthesis and degradation. Synthesis of dNTPs occurs through two pathways, de novo synthesis of dNDPs in the cytosol by ribonucleotide reductase (RNR)3 followed by phosphorylation to dNTPs by nucleoside diphosphate kinase and salvage of deoxyribonucleosides by two parallel sets of deoxynucleoside and -nucleotide kinases in the cytosol and in mitochondria. The rate-limiting step of the salvage pathway is the phosphorylation of deoxyribonucleosides to their monophosphates, catalyzed by thymidine kinase 1 (TK1) and deoxycytidine kinase (dCK) outside mitochondria and thymidine kinase 2 (TK2) and deoxyguanosine kinase (dGK) inside mitochondria. The substrate specificity of each pair of enzymes permits the phosphorylation of all physiological deoxyribonucleosides in both instances. Degradation of deoxyribonucleotides is carried out by 5′-nucleotidases that dephosphorylate nucleoside monophosphates to deoxyribonucleosides, inverting the kinase reactions. Deoxyribonucleoside kinases and 5′-nucleotidases generate substrate cycles that regulate the exchange of deoxyribonucleosides across the plasma membrane, thus modulating the overall dNTP pool size. Intracellular deoxyribonucleosides are also degraded by phosphorylases and deaminases that actively participate in the regulation of dNTP pools, as demonstrated by the large pool imbalances and severe pathologies arising from their genetic deficiency. The catabolic enzymes mentioned so far are constitutively expressed but show tissue-specific variations.</text>
+      <annotation id="24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="2466" length="33"/>
+        <text>deoxyribonucleoside triphosphates</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="2501" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="2581" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="2637" length="5"/>
+        <text>dNDPs</text>
+      </annotation>
+      <annotation id="391">
+        <infon key="type">OTHER</infon>
+        <location offset="2661" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="2724" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="392">
+        <infon key="type">OTHER</infon>
+        <location offset="2733" length="29"/>
+        <text>nucleoside diphosphate kinase</text>
+      </annotation>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="2778" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="393">
+        <infon key="type">OTHER</infon>
+        <location offset="2823" length="39"/>
+        <text>deoxynucleoside and -nucleotide kinases</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="2971" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="3001" length="14"/>
+        <text>monophosphates</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">OTHER</infon>
+        <location offset="3030" length="18"/>
+        <text>thymidine kinase 1</text>
+      </annotation>
+      <annotation id="2XXx41">
+        <infon key="type">OTHER</infon>
+        <location offset="3059" length="20"/>
+        <text>deoxycytidine kinase</text>
+      </annotation>
+      <annotation id="315">
+        <infon key="type">OTHER</infon>
+        <location offset="3111" length="18"/>
+        <text>thymidine kinase 2</text>
+      </annotation>
+      <annotation id="2XXx43">
+        <infon key="type">OTHER</infon>
+        <location offset="3140" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+      <annotation id="2XXx31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="3288" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="3343" length="20"/>
+        <text>deoxyribonucleotides</text>
+      </annotation>
+      <annotation id="gy75">
+        <infon key="identifier">MESH:D009711</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="3420" length="25"/>
+        <text>nucleoside monophosphates</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="3449" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="2XXx46">
+        <infon key="type">OTHER</infon>
+        <location offset="3503" length="27"/>
+        <text>Deoxyribonucleoside kinases</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="3608" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="3685" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="3715" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="3834" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4062</offset>
+      <text>The dNTP triphosphohydrolase SAMHD1 is a new addition to the set of catabolic enzymes and has recently emerged as a main actor in the regulation of dNTP metabolism. The enzyme cleaves dNTPs to deoxyribonucleosides and triphosphate, reversing in a single step the entire salvage pathway, which may interfere with the de novo pathway as dNTPs are allosteric effectors of ribonucleotide reductase. The impact of SAMHD1 activity on dNTP pools is surprisingly strong. Down-regulation of the enzyme by siRNA silencing, ubiquitin-dependent proteolysis, or genetic inactivation increases the concentrations of all dNTPs in human fibroblasts, especially that of dGTP. This effect is particularly marked in quiescent or differentiated cells where the level of SAMHD1 is higher than during proliferation.</text>
+      <annotation id="334">
+        <infon key="type">OTHER</infon>
+        <location offset="4066" length="24"/>
+        <text>dNTP triphosphohydrolase</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="4210" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="4246" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="4255" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="4280" length="12"/>
+        <text>triphosphate</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="4397" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="2XXx56">
+        <infon key="type">OTHER</infon>
+        <location offset="4431" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="4490" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="4668" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="4715" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4856</offset>
+      <text>The combination of synthetic and catabolic reactions provides a fine cyclic regulation of dNTP pools in tune with nuclear DNA replication. Pool sizes expand at the onset of S-phase when the request for dNTPs suddenly increases and diminish when DNA replication is completed and ribonucleotide reduction is turned off by degradation of the RNR small subunit R2. In the absence of SAMHD1 the cyclic variation of dNTP pools is lost, and the pools remain high also when the frequency of S-phase cells is low. In normal human fibroblasts silenced for SAMHD1 the accumulation of dNTPs outside S-phase interferes with the normal progression of the cell cycle, delaying cells in G1.</text>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="4946" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="5058" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="5266" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="5429" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>5531</offset>
+      <text>SAMHD1 is a modular protein. The protein sequence contains an N-terminal nuclear localization signal followed by a sterile α-motif domain and a catalytic HD-domain typical of a large family of phosphohydrolases. A short C-terminal stretch is important for interactions with proteins regulating SAMHD1 stability and contains a conserved threonine residue (Thr-592) phosphorylated in proliferating cells by cyclin A-dependent cyclin-dependent kinases. The effects of Thr-592 phosphorylation on SAMHD1 function are incompletely understood. Crystallographic studies of the isolated HD domain demonstrate that SAMHD1 is a homotetrameric enzyme allosterically regulated by dNTPs, similar to RNR. A SAMHD1 tetramer contains four catalytic sites specific for deoxyribonucleoside triphosphates and eight allosteric sites, four specific for dGTP or GTP and four binding all four dNTPs, with the lowest affinity for dCTP. The solved structures of SAMHD1 complexed with effectors and substrates illustrate the structural basis for both allosteric control and substrate specificity. Exonuclease activity has also been reported for SAMHD1, but the nature of the preferred substrate is controversial. A recent study showed that the triphosphohydrolase and nuclease activities of SAMHD1 are inactivated independently by genetic mutations occurring in vivo in patients affected by Aicardi Goutières syndrome. So far, nobody has shown how the solved three-dimensional structure of active SAMHD1 can accommodate both enzyme activities.</text>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="5867" length="9"/>
+        <text>threonine</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="5886" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="5996" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="6198" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="6282" length="33"/>
+        <text>deoxyribonucleoside triphosphates</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="6362" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="6370" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="6400" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024107</infon>
+        <location offset="6436" length="4"/>
+        <text>dCTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>7052</offset>
+      <text>Although DNA synthesis requires roughly equimolar amounts of the four dNTPs, these occur at unequal concentrations in cells. Pyrimidine dNTPs are generally more abundant than purine dNTPs, with dGTP as the smallest pool. The advantages of small dGTP pools may be rationalized. High dGTP concentrations are toxic because dGTP stimulates the reduction of ADP by RNR, and dATP is the main negative effector of the enzyme. Moreover, dGTP is highly mutagenic, is prone to oxidative damage, and in the oxidized form can be incorporated into DNA, reducing DNA polymerase γ replication fidelity with destabilizing consequences. An exception to the advantages of small dGTP pools is provided by rat tissue mitochondria, reported to contain huge amounts of dGTP. The control of dGTP concentration so far has been considered to result from a balance between the efficiency of dGTP de novo synthesis and the catabolic action of 5′-nucleotidases cdN and cN-II, the two main intracellular 5′-nucleotidases degrading dGMP, and of purine nucleoside phosphorylase (PNP) that degrades the deoxyguanosine produced by the nucleotidases (Fig. 1). The large effects of SAMHD1 ablation on the concentration of dGTP in various types of mammalian cells show that an important piece of the puzzle was missing. SAMHD1 limits the size of the dGTP pool, especially in quiescent cells, which in culture seem to produce more dGTP than they need.</text>
+      <annotation id="68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="7122" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="7177" length="10"/>
+        <text>Pyrimidine</text>
+      </annotation>
+      <annotation id="413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="7188" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="7227" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="7234" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7246" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7297" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7334" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7372" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="7405" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="gy146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026600</infon>
+        <location offset="7421" length="4"/>
+        <text>dATP</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7481" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7712" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7799" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7820" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="7917" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007257</infon>
+        <location offset="8054" length="4"/>
+        <text>dGMP</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">OTHER</infon>
+        <location offset="8067" length="31"/>
+        <text>purine nucleoside phosphorylase</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="8123" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="gy137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="8239" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="8366" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="8446" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010001.jpg</infon>
+      <infon key="id">F1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>8472</offset>
+      <text>Interaction between SAMHD1 and deoxyguanosine kinase activities in the regulation of mitochondrial dGTP. Synthesis of dGTP occurs in the cytosol by de novo synthesis catalyzed by RNR and by salvage of GdR catalyzed by dCK. The two synthetic pathways are counteracted by catabolic activities distributed between the nucleus and cytoplasm. SAMHD1 degrades dGTP to GdR in the nucleus, whereas in the cytosol 5′-nucleotidases (cdN and cN-II) dephosphorylate dGMP to GdR, and PNP degrades GdR to free guanine. Due to the permeability of the nuclear envelope to nucleotides and nucleosides, nuclear and cytosolic pools represent a single kinetic compartment. The mitochondrial dGTP pool derives most of its components from the cytosol via nucleotide and nucleoside carriers in the inner mt membrane. In mitochondria, a separate salvage pathway, depending on dGK, recycles GdR, creating a dGTP pool protected from the catabolic activity of SAMHD1.</text>
+      <annotation id="390">
+        <infon key="type">OTHER</infon>
+        <location offset="8503" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="8571" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="8590" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="8673" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="8826" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="8834" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="gy189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007257</infon>
+        <location offset="8926" length="4"/>
+        <text>dGMP</text>
+      </annotation>
+      <annotation id="2XXx102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="8934" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="8956" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006147</infon>
+        <location offset="8968" length="7"/>
+        <text>guanine</text>
+      </annotation>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="9028" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009705</infon>
+        <location offset="9044" length="11"/>
+        <text>nucleosides</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="9143" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="9205" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009705</infon>
+        <location offset="9220" length="10"/>
+        <text>nucleoside</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="9338" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="9354" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>9415</offset>
+      <text>Cells contain two separate dGTP pools, a very small mitochondrial pool enclosed within the mt inner membrane, and a 10-fold larger extramitochondrial pool distributed between the cytosol and nucleus. The two pools communicate through nucleotide and nucleoside carriers in the mt membrane such that guanine deoxynucleotides produced de novo in the cytosol are the main source of mt dGTP both during proliferation and quiescence. However, the presence of a mitochondrial salvage pathway that converts deoxyguanosine (GdR) to dGTP suggests that the import of dGTP from the cytoplasm does not suffice for mtDNA synthesis. Indeed, genetic deficiency of dGK causes a mtDNA depletion syndrome with a specific hepato-cerebral phenotype. As is the case with other forms of mtDNA depletion syndrome, the enzyme deficiency targets differentiated cells that have small dNTP pools. However, the tissue-specific effects typical of dGK deficiency remain unexplained. The mtDNA depletion in dGK-mutated individuals is commonly attributed to an insufficient supply of dGTP, an explanation based on limited direct experimental evidence published before the discovery of SAMHD1. Wishing to understand how SAMHD1 interacts with other enzymes in the regulation of dNTP pools, we set out to investigate its impact on the mt pools of cells with defective mt salvage of purine deoxyribonucleosides. We found that dGK deficiency reduces mt dGTP in human fibroblasts only moderately but causes mt dNTP imbalances and mtDNA depletion during quiescence. SAMHD1 down-regulation by siRNA transfection restores mt pool balance and boosts mtDNA copy number, compensating the mtDNA depletion to various degrees in different mutant lines. Interestingly, the activity of SAMHD1 in the nucleus affects the mt dNTP pool by reducing the cellular dGTP content. We propose that inside mitochondria dGK is required to recycle the GdR released from extramitochondrial dGTP by SAMHD1.</text>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="9442" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="9649" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009705</infon>
+        <location offset="9664" length="10"/>
+        <text>nucleoside</text>
+      </annotation>
+      <annotation id="2XXx123">
+        <infon key="identifier">MESH:D003848</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="9713" length="24"/>
+        <text>guanine deoxynucleotides</text>
+      </annotation>
+      <annotation id="gy228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="9796" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="9914" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="9930" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="9938" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="9971" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="10272" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="gy219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="10466" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="10658" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="10761" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="10768" length="20"/>
+        <text>deoxyribonucleosides</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="10830" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="10886" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="11188" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="11223" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="11304" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="11341" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11357</offset>
+      <text>Experimental Procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11381</offset>
+      <text>Materials, Cell Lines, and Cell Growth</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11420</offset>
+      <text>[5-3H]Deoxycytidine (9000 cpm/pmol) and [8-3H]deoxyguanosine (6000 cpm/pmol) were from Moravek (Brea, CA). Immucillin H was a gift of Dr. Vern Schramm (Yeshiva University, New York).</text>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D003841</infon>
+        <location offset="11420" length="19"/>
+        <text>[5-3H]Deoxycytidine</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D003849</infon>
+        <location offset="11460" length="20"/>
+        <text>[8-3H]deoxyguanosine</text>
+      </annotation>
+      <annotation id="400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C113101</infon>
+        <location offset="11527" length="12"/>
+        <text>Immucillin H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11603</offset>
+      <text>We used three lines of skin fibroblasts derived from patients with inactivating mutations in DGUOK, the gene for deoxyguanosine kinase. Patient 1 carried the heterozygous mutations D255X and E165V, patient 2 (i.e. patient 14 in Table 3 of Ref.) was heterozygous for two different mutations, i.e. K201fs214X; IVS4 splicing site, and patient 3 carried the homozygous mutation L250S. Patient 1 fibroblasts were donated by Dr R. Martì (Hospital Vall d'Hebron, Barcelona, Spain). Fibroblasts from patients 2 and 3 were donated by Dr Massimo Zeviani from the collection of the Neurological Institute C. Besta, Milano (Italy). Three lines of age-matched control skin fibroblasts were available in our laboratory. All fibroblasts were grown in DMEM with 4.5 g of glucose per liter, 10% (v/v) fetal calf serum, nonessential amino acids, and antibiotics.</text>
+      <annotation id="2XXx134">
+        <infon key="type">OTHER</infon>
+        <location offset="11716" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+      <annotation id="gy238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12339" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="12358" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12418" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12449</offset>
+      <text>Transfections with siRNAs, RNA Extraction, Reverse Transcription, and Real-time PCR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12533</offset>
+      <text>All procedures were performed as described in Franzolin et al.. The siRNAs used were from Qiagen: AllStar negative control siRNA (catalog no.1027281), siRNA 3 as in Laguette et al., siRNA 4 (catalog no. SI00710500), and siRNA 7 (catalog no. SI04243673).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12787</offset>
+      <text>Western Blotting</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12804</offset>
+      <text>Samples of 1–2 million cells were collected by centrifugation, washed with PBS, and lysed with radioimmunoprecipitation assay buffer (10 mm Tris·HCl, pH 7.4, 100 mm NaCl, 1% sodium deoxycholate, 0.1% SDS, 1% Nonidet P-40) containing a mixture of protease inhibitors for mammalian cells (Sigma). The extracts were centrifuged at 19,000 × g for 20 min, the protein concentrations of the supernatant solutions were determined by the BCA protein assay (Pierce), and appropriate amounts of the cleared supernatants were loaded on precast gels, 7.5% (Bio-Rad) for R1 and SAMHD1 separation or Any-Kd gels (Bio-Rad) for R2, p53R2, β actin, and GAPDH, and electrophoresed. The proteins were blotted on Hybond-C extra (GE Healthcare) in the case of ribonucleotide reductase subunits R1, R2, p53R2, β actin, and GAPDH and on PVDF (Millipore) for SAMHD1. Both membranes were saturated with 2% ECL Blocking Agent (GE Healthcare) for 1 h at room temperature and incubated overnight at 4 °C with the following primary antibodies: anti-SAMHD1 1A1 (Abcam), dilution 1:4000; anti-R1 T16 (Santa Cruz) 1:1000; anti-R2 N18 (Santa Cruz) 1:2000; anti-p53R2 N16 (Santa Cruz) 1:1000; anti-GAPDH (Millipore) 1:1000; anti-β actin (Sigma) 1:4000. After 3 washings with PBS + 0.05% Tween 20 for 10 min, the membranes were incubated with horseradish peroxidase-conjugated secondary antibodies (dilution 1:80,000) for 1 h at room temperature. Then the membranes were washed and developed with a chemiluminescence ECL kit (LiteAblotTurbo, Euroclone). The signals were detected on Kodak films and quantified with ImageJ software.</text>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="12879" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="12944" length="8"/>
+        <text>Tris·HCl</text>
+      </annotation>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="12969" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840</infon>
+        <location offset="12978" length="19"/>
+        <text>sodium deoxycholate</text>
+      </annotation>
+      <annotation id="2XXx140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="13004" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010615</infon>
+        <location offset="13012" length="12"/>
+        <text>Nonidet P-40</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">OTHER</infon>
+        <location offset="13543" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="13618" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="14045" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="14057" length="8"/>
+        <text>Tween 20</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>14410</offset>
+      <text>Quantitation of dNTP Pools</text>
+      <annotation id="138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="14426" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>14437</offset>
+      <text>Cells were washed with ice-cold PBS, scraped from the plates, and homogenized by repeated aspiration through needles of 0.45 × 23 mm. Cytosolic and mt nucleotides were separated by differential centrifugation of cell homogenates, and nucleotide pools were extracted with ice-cold methanol as described. The concentrations of the four dNTPs were determined by an enzymatic assay modified as described in Ferraro et al.. In some experiments, before extracting the nucleotide pools the quiescent cultures were treated for 24 h with 0.5 μm immucillin H to inhibit purine nucleoside phosphorylase.</text>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="14469" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="14588" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="14671" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="14717" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="14771" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="2XXx152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="14899" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C113101</infon>
+        <location offset="14973" length="12"/>
+        <text>immucillin H</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">OTHER</infon>
+        <location offset="14997" length="31"/>
+        <text>purine nucleoside phosphorylase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>15032</offset>
+      <text>Enzyme Assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>15046</offset>
+      <text>Whole cell extracts were prepared as described earlier, adding a mixture of mammalian protease inhibitors (Sigma) to the lysis buffer (Tris·HCl, pH 7.5, 10 mm 0.5% Triton X, 2 mm EDTA, 1 mm DTT). Protein concentration was measured by the colorimetric procedure of Bradford with bovine serum albumin as the standard. All enzymatic assays were run with two different aliquots of extract to check for proportionality. Citrate synthase was measured as detailed in Shepherd and Garland. Deoxyguanosine and deoxycytidine kinases were tested by incubating the extracts with the radioactive precursor for 60 min in 40 μl of reaction mix and then spotting a 35-μl aliquot on DE 81 paper as described in Leanza et al.. The specific radioactivity of the labeled substrates was diluted 5–10-fold with non-labeled deoxynucleosides. The activity of dGK was measured with 1 μm [3H]deoxyguanosine (1800 cpm/pmol) in the presence of 0.5 mm nonradioactive CdR to inhibit deoxycytidine kinase and 0.5 μm immucillin H to prevent the degradation of deoxyguanosine. The activity of deoxycytidine kinase was determined with 1 μm [3H]CdR (1100 cpm/pmol). We express enzyme activities as pmol of product min−1 mg−1 of protein extract.</text>
+      <annotation id="gy297">
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="15181" length="8"/>
+        <text>Tris·HCl</text>
+      </annotation>
+      <annotation id="2XXx157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017830</infon>
+        <location offset="15210" length="8"/>
+        <text>Triton X</text>
+      </annotation>
+      <annotation id="2XXx158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="15225" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="15236" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="2XXx168">
+        <infon key="type">OTHER</infon>
+        <location offset="15461" length="16"/>
+        <text>Citrate synthase</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">OTHER</infon>
+        <location offset="15528" length="40"/>
+        <text>Deoxyguanosine and deoxycytidine kinases</text>
+      </annotation>
+      <annotation id="2XXx159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="15847" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D003849</infon>
+        <location offset="15908" length="18"/>
+        <text>[3H]deoxyguanosine</text>
+      </annotation>
+      <annotation id="156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="15984" length="3"/>
+        <text>CdR</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">OTHER</infon>
+        <location offset="15999" length="20"/>
+        <text>deoxycytidine kinase</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C113101</infon>
+        <location offset="16031" length="12"/>
+        <text>immucillin H</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="16074" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">OTHER</infon>
+        <location offset="16106" length="20"/>
+        <text>deoxycytidine kinase</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D003841</infon>
+        <location offset="16152" length="7"/>
+        <text>[3H]CdR</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16268</offset>
+      <text>mtDNA Quantification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16289</offset>
+      <text>We determined mtDNA copy numbers with the TaqMan probe system and Applied Biosystem 7500 real-time PCR as described in Andreu et al.. Genomic DNA was extracted by Puregene Core kit B (Qiagen). Mitochondrial rRNA 12S TaqMan probe 6FAM-5′-TGCCAGCCACCGCG-3′-MGB (Applied Biosystems) and primers rRNA 12S forward (5′-CCACGGGAAACAGCAGTGATT-3′) and reverse (5′-CTATTGACTTGGGTTAATCGTGTGA-3′) were used to quantify mtDNA. For nuclear DNA, we used RNase P primers and probe VIC mix (Applied Biosystems). To quantify mtDNA and nuclear DNA we used calibration curves generated by serial dilution of a mixture of plasmids carrying the two PCR amplicons. Each DNA sample was analyzed in triplicate.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>16987</offset>
+      <text>Flow-cytometric Determinations of Cell-cycle Distribution and Mitochondrial Mass</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17068</offset>
+      <text>Cell cycle distribution in fibroblast cultures was determined by flow cytometry after propidium iodide staining of fixed resuspended cells, with a BD Biosciences FACSCanto II Flow cytometer. To measure mitochondrial mass 0.8 × 106 cells were detached, washed once, and incubated under rotation in 400 μl of 0.2 μm nonyl acridine orange (Sigma) at 37 °C for 10 min. Then cells were washed once in 10 ml of PBS and centrifuged. The pellet was resuspended in 700 μl of PBS and analyzed immediately by flow cytometry.</text>
+      <annotation id="2XXx172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="17154" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="2XXx175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C041691</infon>
+        <location offset="17382" length="21"/>
+        <text>nonyl acridine orange</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17473" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17534" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17587</offset>
+      <text>Statistics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17598</offset>
+      <text>Where appropriate, statistical analyses (two-way analysis of variance with Bonferroni post test) were performed using GraphPad Prism 5 (GraphPad Software, La Jolla, CA).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17768</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17776</offset>
+      <text>The concentration of dGTP in human cells is strongly influenced by the activity of SAMHD1, particularly in noncycling cells that contain higher amounts of the protein than cycling cells. When the enzyme is down-regulated, all four dNTP pools expand, with dGTP undergoing the largest increase. The deoxyguanosine released from dGTP by SAMHD1 can be recycled through the salvage pathway via phosphorylation by dGK. To investigate possible functional interactions between the two enzymes, we employed skin fibroblasts derived from three unrelated mtDNA depletion syndrome patients with different inactivating mutations in DGUOK, the gene coding for deoxyguanosine kinase, and compared them with WT human fibroblasts.</text>
+      <annotation id="166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="17797" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="18007" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="gy314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="18031" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="18073" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="gy313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="18102" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="342">
+        <infon key="type">OTHER</infon>
+        <location offset="18422" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>18490</offset>
+      <text>Characterization of the dGK-mutated Fibroblast Lines</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>18543</offset>
+      <text>The two kinases that phosphorylate GdR in the cells, dCK and dGK, undergo opposite variations when normal skin fibroblasts pass from proliferation to quiescence, with dCK activity declining and dGK activity increasing. We measured the activities of the two enzymes with their preferred substrates, CdR and GdR, respectively, in whole cell extracts from proliferating and quiescent WT and dGK-mutated fibroblasts (Table 1). In the dGK assay the addition of nonradioactive CdR inhibited the phosphorylation of GdR by dCK present in the extracts. The activity of dGK was one order of magnitude lower in the mutant fibroblasts than in the WT controls and hardly changed during quiescence, in contrast to that of the controls. The activity of dCK was between 15 and 20 pmol/min/mg protein in all cell lines after 48 h in culture and decreased with time, reaching after 10 days of quiescence values 3-fold lower in the controls and ∼2-fold lower in the mutants.</text>
+      <annotation id="343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="18578" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="18841" length="3"/>
+        <text>CdR</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="18849" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="19014" length="3"/>
+        <text>CdR</text>
+      </annotation>
+      <annotation id="2XXx185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="19051" length="3"/>
+        <text>GdR</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">T1.xml</infon>
+      <infon key="id">T1</infon>
+      <infon key="type">table_caption</infon>
+      <offset>19501</offset>
+      <text>Enzyme activities of deoxycytidine kinase and deoxyguanosine kinase in whole cell extracts from proliferating or quiescent control and dGK-mutated skin fibroblasts</text>
+      <annotation id="346">
+        <infon key="type">OTHER</infon>
+        <location offset="19522" length="20"/>
+        <text>deoxycytidine kinase</text>
+      </annotation>
+      <annotation id="347">
+        <infon key="type">OTHER</infon>
+        <location offset="19547" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">T1.xml</infon>
+      <infon key="id">T1</infon>
+      <infon key="type">table_caption</infon>
+      <offset>19665</offset>
+      <text>Deoxycytidine kinase was tested with 1 μm [5-3H]CdR and deoxyguanosine kinase with 1 μm [8-3H]GdR. Values are specific activities calculated in duplicate samples from two experiments ± S.E. C, WT controls; P, dGK-mutated patient lines.</text>
+      <annotation id="2XXx192">
+        <infon key="type">OTHER</infon>
+        <location offset="19665" length="20"/>
+        <text>Deoxycytidine kinase</text>
+      </annotation>
+      <annotation id="349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D003841</infon>
+        <location offset="19707" length="9"/>
+        <text>[5-3H]CdR</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">OTHER</infon>
+        <location offset="19721" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D003849</infon>
+        <location offset="19753" length="9"/>
+        <text>[8-3H]GdR</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>20378</offset>
+      <text>During proliferation the P2 mutant line showed a 30–40% depletion of mtDNA compared with the controls, whereas in the other two mutants the content of mtDNA was similar to that of WT fibroblasts (Fig. 2A). After 10 days of quiescence all three mutant lines contained significantly less mtDNA than the WT fibroblasts, in agreement with previous reports of mtDNA depletion in cultured dGK-deficient fibroblasts. The low mtDNA content was not accompanied by a reduced number of mitochondria in the mutants. We determined mt mass by flow cytometry in quiescent cells stained with nonyl acridine orange and by measuring the activity of citrate synthase in cell extracts. Both methods showed in mutant cells values of mt mass within the range observed in control fibroblasts (Fig. 2B). The depletion of mtDNA during quiescence may depend on an insufficient supply of dGTP in mitochondria. We measured the concentrations of the four dNTPs in the cytosolic and mitochondrial pools of quiescent WT and mutant fibroblasts (&lt;5% S-phase cells). Fig. 3 reports the pool sizes of the individual lines, with the dCTP pool representing in all instances the largest pool and dGTP representing the smallest. The size of each cytosolic dNTP pool varied among the different lines, but on average dGTP corresponded to 5.7 ± 0.3% (mean ± S.E.) of the total cytosolic dNTPs in WT fibroblasts and to 5.1 ± 0.5% in the mutants. The single recurrent difference between WT and mutant cells was a somewhat higher content of dTTP in the latter. We do not have at present an explanation for this difference (Fig. 3A). Quantitative variations of each dNTP were present also in the mt pools both within the controls and the mutant lines (Fig. 3B). The mutant cells contained less mt dGTP than the WT cells. The fraction of the mt pools corresponding to dGTP was 17.6 ± 2.4% in WT and 10.8 ± 1.4% in mutant cells. To evaluate how this difference reflected on the pool composition of each line, we normalized the individual pool sizes by that of the dGTP pool (Fig. 3, C and D). The composition of cytosolic pools did not differ statistically in mutant and WT fibroblasts (Fig. 3C), but this procedure revealed that the mitochondria of mutant cells contained an excess of dCTP and that dTTP and dATP tended to be more abundant relative to dGTP than in WT cells, although not significantly (Fig. 3D). Thus dGK deficiency, possibly changing the dynamics of the mt dGTP pool through a reduction of GdR phosphorylation, affected mt dNTP pool balance. The combination of lower dGTP concentration and mt pool imbalance might account for the mtDNA depletion. Much larger DNA precursor asymmetries observed in rat tissue mitochondria were shown to reduce the replication fidelity of human mt DNA polymerase when tested in vitro. Here, in cultured human fibroblasts, a milder mt pool imbalance was associated with mtDNA depletion.</text>
+      <annotation id="2XXx216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C041691</infon>
+        <location offset="20954" length="21"/>
+        <text>nonyl acridine orange</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">OTHER</infon>
+        <location offset="21009" length="16"/>
+        <text>citrate synthase</text>
+      </annotation>
+      <annotation id="gy341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="21239" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="21304" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024107</infon>
+        <location offset="21475" length="4"/>
+        <text>dCTP</text>
+      </annotation>
+      <annotation id="gy340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="21536" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="21595" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="21654" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="21723" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024157</infon>
+        <location offset="21874" length="4"/>
+        <text>dTTP</text>
+      </annotation>
+      <annotation id="192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="21998" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="gy361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="22129" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="22199" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="22394" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024107</infon>
+        <location offset="22616" length="4"/>
+        <text>dCTP</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024157</infon>
+        <location offset="22630" length="4"/>
+        <text>dTTP</text>
+      </annotation>
+      <annotation id="198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026600</infon>
+        <location offset="22639" length="4"/>
+        <text>dATP</text>
+      </annotation>
+      <annotation id="gy362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="22683" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="22806" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="22839" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="22872" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="22916" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010002.jpg</infon>
+      <infon key="id">F2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>23273</offset>
+      <text>mtDNA copy number and mitochondrial mass in WT and dGK-mutated fibroblasts.
+A, we measured mtDNA copy number per nuclear genome in proliferating (48 and 72 h) and quiescent cultures of three lines of wt skin fibroblasts (C1, C2, C3) and three dGK-mutated lines (P1, P2, P3). Control values were combined (wt). All data are the means ± S.E. from at least two experiments for each cell line analyzed in triplicate. B, mitochondrial mass was evaluated by measuring citrate synthase activity (units (U) = nmol/min) in whole cell extracts and by normalizing the nonyl acridine orange (NAO) fluorescence of each line determined by flow cytometry by that of control C1. Data are the means ± S.E. from two experiments.</text>
+      <annotation id="2XXx218">
+        <infon key="type">OTHER</infon>
+        <location offset="23735" length="16"/>
+        <text>citrate synthase</text>
+      </annotation>
+      <annotation id="2XXx219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C041691</infon>
+        <location offset="23830" length="21"/>
+        <text>nonyl acridine orange</text>
+      </annotation>
+      <annotation id="205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C041691</infon>
+        <location offset="23853" length="3"/>
+        <text>NAO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010003.jpg</infon>
+      <infon key="id">F3</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>23986</offset>
+      <text>Cytosolic and mitochondrial dNTP pool sizes in quiescent skin fibroblasts. Cytosolic (A) and mitochondrial (B) dNTP pools were measured in quiescent cultures of two WT (C1, C2) and three dGK-mutated (P1, P2, P3) lines of skin fibroblasts. To compare the two groups we calculated the mean ratios between the size of each dNTP pool and that of dGTP in the cytosol (C) and mitochondria (D) of WT or dGK-mutated fibroblasts. Data are the means ± S.E. from two experiments for each cell line analyzed in duplicate. Asterisks indicate a significant difference (***, p &lt; 0.001) of the dCTP/dGTP ratio in mutant fibroblasts relative to controls.</text>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="24014" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="24097" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="24306" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="gy382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="24328" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024107</infon>
+        <location offset="24564" length="4"/>
+        <text>dCTP</text>
+      </annotation>
+      <annotation id="211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="24569" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>24625</offset>
+      <text>We then compared dGK mutant and control fibroblasts for their expression of ribonucleotide reductase and SAMHD1 during quiescence in the absence of any experimental treatment. In protein extracts from three lines of WT fibroblasts and the three dGK mutant lines, we measured by Western blotting the expression of the three subunits of ribonucleotide reductase and of SAMHD1 (Fig. 4). The RNR small subunit p53R2, which increases in quiescent cells, was expressed in all lines, whereas the R2 subunit, which is S-phase-specific, was undetectable in all quiescent extracts with the exception of the P1 sample that gave a faint signal. The large subunit R1 produced much weaker bands in extracts from quiescent than from proliferating cells, and again the P1 extracts contained more enzyme than the other lines. All lines expressed SAMHD1, with similar variability in WT and mutant cells. The lowest expression was detected in C3 and P2 fibroblasts. The P1 fibroblasts had medium-high levels of SAMHD1 and higher expression of RNR subunits R2 and R1 than the other two dGK-mutated lines, a combination that may explain their higher mtDNA content (Fig. 2). We decided to test if lowering SAMHD1 activity in the cells with lower ribonucleotide reduction could increase their mtDNA.</text>
+      <annotation id="356">
+        <infon key="type">OTHER</infon>
+        <location offset="24701" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">OTHER</infon>
+        <location offset="24960" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012265</infon>
+        <location offset="25849" length="14"/>
+        <text>ribonucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010004.jpg</infon>
+      <infon key="id">F4</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>25902</offset>
+      <text>Expression of ribonucleotide reductase subunits and SAMHD1 in untreated quiescent skin fibroblasts. Ribonucleotide reductase subunits (R2, p53R2, and R1) and SAMHD1 were detected by immunoblotting in extracts from one proliferating WT control culture (C1p) and quiescent cultures of three WT (C1, C2, and C3) and three dGK-mutated (P1, P2, and P3) lines of skin fibroblasts. To compare R2 or R1 in proliferating and quiescent extracts, different amounts of proteins were loaded in the respective lanes of the gels: 4 and 40 μg for R2 and 20 and 40 μg for R1. In the case of p53R2 we used 2 μg of quiescent extracts and 20 μg for SAMHD1. Loading controls for R1, R2, and SAMHD1 were two unspecific bands (asterisks), whereas GAPDH was used as the control for p53R2.</text>
+      <annotation id="358">
+        <infon key="type">OTHER</infon>
+        <location offset="25916" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="359">
+        <infon key="type">OTHER</infon>
+        <location offset="26002" length="24"/>
+        <text>Ribonucleotide reductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>26671</offset>
+      <text>Silencing of SAMHD1 in dGK-mutated Fibroblasts Prevents mtDNA Depletion during Quiescence</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>26761</offset>
+      <text>Confluent cultures of WT and dGK-mutated fibroblasts were transfected with anti-SAMHD1 siRNA or control siRNA in medium with 0.1% serum and kept in the presence of siRNAs for 10 days, with 2 changes of medium. In a preliminary experiment we tested in one mutant (P1) and two WT lines three different anti-SAMHD1 siRNAs for the effects on SAMHD1 mRNA and mtDNA copy number. All three siRNAs silenced SAMHD1 to the same extent, with a residual mRNA level below 10% of the control (not shown). The amount of mtDNA remained the same in the WT fibroblasts when SAMHD1 was silenced (Table 2). On the contrary, in P1 fibroblasts mtDNA increased almost 3-fold to the level of the controls, suggesting that the down-regulation of dGTP catabolism by SAMHD1 prevented the depletion of mtDNA during quiescence. We also repeated the experiment with the other two mutant lines using siRNA 7 that in all instances decreased the level of SAMHD1 mRNA to ≤5% that of the control. Fig. 5 shows mtDNA copy numbers at the time of confluence, when siRNA transfections started, and after 10 days of transfection with control or anti-SAMHD1 siRNAs. In dGK-mutated fibroblasts transfected with control siRNA, the depletion of mtDNA, already present at confluence, became more marked after 10 days of quiescence. In contrast, SAMHD1 down-regulation led to a recovery of mtDNA that was complete in the case of P1 cells and only partial in the other two lines.</text>
+      <annotation id="gy395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="27482" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">T2.xml</infon>
+      <infon key="id">T2</infon>
+      <infon key="type">table_caption</infon>
+      <offset>28196</offset>
+      <text>mtDNA copy number in quiescent control and dGK-mutated skin fibroblasts transfected with one nontargeting siRNA or three different anti-SAMHD1 siRNAs</text>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">T2.xml</infon>
+      <infon key="id">T2</infon>
+      <infon key="type">table_caption</infon>
+      <offset>28346</offset>
+      <text>mtDNA content was measured by quantitative real-time PCR and normalized per nuclear genome. Values are the means of three technical replicates for each condition ± S.E. from six experiments for control siRNA and siRNA 7 and from two experiments for siRNA 3 and siRNA 4. C1 and C2, controls; P1, dGK-mutant fibroblasts. ND, not done.</text>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010005.jpg</infon>
+      <infon key="id">F5</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>28878</offset>
+      <text>Effect of SAMHD1 silencing on mtDNA content of quiescent skin fibroblasts. mtDNA copy number normalized per nuclear genome was determined in WT and dGK-mutated fibroblasts at confluence, i.e. before starting the transfections with siRNAs in low serum medium and after 10 days of transfection during quiescence with control siRNA or anti-SAMHD1 siRNA. The values of three WT lines (C1, C2, and C3) were averaged, whereas those of the patient lines (P1, P2, P3) are reported separately. The percent residual level of SAMHD1 mRNA in the silenced cultures is indicated. Data are the means ± S.E. from three to six experiments for each cell line analyzed in triplicate.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>29544</offset>
+      <text>Earlier we showed that the expansion of the dNTP pools that results from silencing of SAMHD1 in quiescent fibroblasts depends on the activity of p53R2-dependent ribonucleotide reductase. Here the level of p53R2 was similar in the three mutant lines; thus, the lower level of mtDNA in P2 and P3 fibroblasts may depend on the lower content of R1 compared with P1 fibroblasts that in addition retained traces of R2 (Fig. 4).</text>
+      <annotation id="gy397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="29588" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="360">
+        <infon key="type">OTHER</infon>
+        <location offset="29705" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>29966</offset>
+      <text>To understand how the boosting effect on mtDNA copy number developed during SAMHD1 silencing, we followed for 10 days of transfection with siRNA the variations of mtDNA in one line of WT fibroblasts and in the dGK-mutant fibroblasts with the maximum (P1) and minimum (P2) recovery of mtDNA. Transfections with control or anti-SAMHD1 siRNAs started at day 0 when the cultures had reached confluence and continued for 10 days during which we measured the levels of SAMHD1 protein (Fig. 6A) and mtDNA (Fig. 6C), every second day starting from day 4. Between days 4 and 10 of transfection we controlled the degree of silencing by quantitating SAMHD1 mRNA (Fig. 6B). In the cultures transfected with control siRNA, SAMHD1 increased with time as expected, more in WT and P1 cells than in P2 fibroblasts, which as observed above in Fig. 4 had the lowest endogenous expression of SAMHD1. In the cultures transfected with the anti-SAMHD1 siRNA, the protein became undetectable after day 4, reflecting the high degree of mRNA silencing (Fig. 6B). In agreement with the data in Table 2, the WT fibroblasts maintained their content of mtDNA constant during the whole period independently of the presence and concentration of SAMHD1. In the mutant fibroblasts the depletion was already present at day 0 and during transfection with nontargeting siRNA mtDNA decreased further, more markedly in P1 fibroblasts that started from a higher copy number. In P1 cells the down-regulation of SAMHD1 lead to an actual increase of mtDNA, whereas in P2 fibroblasts it only prevented the additional decline of mtDNA, possibly because these cells originally contained less SAMHD1. A similar stabilization of mtDNA content was obtained previously in a different line of dGK-mutated fibroblasts incubated with purine deoxynucleoside monophosphates.</text>
+      <annotation id="424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="31747" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="31754" length="30"/>
+        <text>deoxynucleoside monophosphates</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010006.jpg</infon>
+      <infon key="id">F6</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>31786</offset>
+      <text>Quantitative variations of mtDNA during siRNA silencing of SAMHD1 in quiescent WT and dGK-mutated fibroblasts.
+A, expression of SAMHD1 protein during transfection with control or anti-SAMHD1 siRNA in quiescent cultures of WT (C2) or dGK-mutated (P1, P2) fibroblasts. The arrow indicates the SAMHD1 signal. An unspecific band appeared just above SAMHD1 and remained stable during silencing. B, residual level of SAMHD1 mRNA in the silenced cultures relative to that in the cultures transfected with control siRNA was determined at the indicated days of transfection during quiescence. Red, C2; green, P1; blue, P2. C, mtDNA content per nuclear genome was measured at 1- or 2-day intervals in cultures treated with control siRNA (continuous line) or anti-SAMHD1 siRNA (broken line) during 10 days of quiescence. Color coding is in B.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>32618</offset>
+      <text>Silencing of SAMHD1 Corrects the Imbalance of mt dNTP Pools in dGK-mutated Fibroblasts</text>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="32667" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>32705</offset>
+      <text>The improvement of mtDNA copy number in the mutant fibroblasts silenced for SAMHD1 suggests that their mt dNTP pools might be normalized as a consequence of reduced extramitochondrial catabolism of dNTPs. However, we previously found that SAMHD1 down-regulation in WT quiescent fibroblasts leads to larger and imbalanced dNTP pools, and Fig. 3 shows that the mt pools of dGK-mutated fibroblasts are imbalanced. Thus it was important to assess the effects of SAMHD1 down-regulation on these pools. In WT fibroblasts SAMHD1 silencing induced the expected changes in the cytosolic pools, with a larger expansion of purine dNTPs, a doubling of dTTP content, and only a minor increase of dCTP (Fig. 7A). mt pools were minimally affected (Fig. 7B). The average percentage of dGTP relative to the total dNTPs increased in WT cells from 7.4 ± 0.9 to 13.5 ± 0.5 in the cytosol, remaining unchanged in the mitochondria (24 ± 4) (Fig. 7C). The three mutant lines reacted differently to SAMHD1 silencing. Whereas the pool changes of P2 and P3 fibroblasts were close to those of the WT cells both in the cytosol and in mitochondria (Fig. 7, A and B), P1 cells expanded their purine dNTP pools to a much larger extent, in particular the cytosolic dGTP pool (Fig. 7A). The higher expression of ribonucleotide reductase in these cells during quiescence (Fig. 4) led to larger pools and complete recovery of mtDNA content (Figs. 5 and 6). Nevertheless, in all three mutant lines SAMHD1 down-regulation increased the percentage of dGTP relative to the total dNTPs not only in the cytosol, as in WT cells, but also in mitochondria (Fig. 7C). Despite the different quantitative alterations, in the mutant lines the composition of mt pools was normalized by SAMHD1 silencing, becoming similar to that of the WT cells. We report in Fig. 7, D and E, the cytosolic and mt pool composition relative to the content of dGTP for each cell line transfected with nontargeting or anti-SAMHD1 siRNA, calculated as in Fig. 3. In the cytosol the increase of dGTP content reduced the disequilibrium with the other three dNTPs similarly in WT and mutant fibroblasts (Fig. 7D). In mitochondria the large difference between mutant and WT cells disappeared, with a clear normalization of the pools in mutant cells (Fig. 7E). The correction of mt pool imbalance coincided with the observed improvement of mtDNA copy number.</text>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="32811" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="32903" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="33026" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="33317" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="33324" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024157</infon>
+        <location offset="33345" length="4"/>
+        <text>dTTP</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024107</infon>
+        <location offset="33388" length="4"/>
+        <text>dCTP</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="33474" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="33501" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="33867" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="33874" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="gy419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="33938" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="34218" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="34245" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="gy423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="34597" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="34729" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="34790" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0471529010007.jpg</infon>
+      <infon key="id">F7</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>35092</offset>
+      <text>Effects of SAMHD1 silencing on cytosolic and mitochondrial dNTP pools in quiescent WT and dGK-mutated fibroblasts. Shown is the increase of cytosolic (A) and mitochondrial (B) dNTP pools induced by SAMHD1 silencing in WT and dGK-mutated skin fibroblasts incubated during 10 days of quiescence with anti-SAMHD1 siRNA or control siRNA. The increases measured in three WT lines were averaged as well as those of the P2 and P3 mutant lines. Values of the P1 mutant are reported separately. C, percentage of dGTP relative to the total dNTPs in the cytosolic and mt pools in WT and dGK-mutated fibroblasts transfected with control siRNA (black) or with anti-SAMHD1 siRNA (gray). D and E, composition of cytosolic (D) and mitochondrial (E) dNTP pools in cultures transfected with control siRNA or with anti-SAMHD1 siRNA, expressed as ratios between the sizes of the individual dNTP pools and the corresponding dGTP pool. The ratios of WT cells were averaged. Mutant P1 values are reported separately from those of the other two mutants (P2/P3). Data are the means ± S.E. from two experiments for each cell line analyzed in duplicate. Asterisks indicate that in nonsilenced cultures significant differences exist in the dTTP/dGTP and dCTP/dGTP ratios of dGK-mutated fibroblasts (P1, P2/P3) relative to controls (wt). **, p &lt; 0.01; *, p &lt; 0.05.</text>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="35151" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="35268" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="35595" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="35622" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="35825" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="35962" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="gy437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="35995" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024157</infon>
+        <location offset="36304" length="4"/>
+        <text>dTTP</text>
+      </annotation>
+      <annotation id="gy428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="36309" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024107</infon>
+        <location offset="36318" length="4"/>
+        <text>dCTP</text>
+      </annotation>
+      <annotation id="241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="36323" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>36429</offset>
+      <text>Inhibition of Purine Nucleoside Phosphorylase Does Not Change mtDNA Content in dGK-mutated or WT Fibroblasts</text>
+      <annotation id="328">
+        <infon key="type">OTHER</infon>
+        <location offset="36443" length="31"/>
+        <text>Purine Nucleoside Phosphorylase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>36538</offset>
+      <text>The GdR derived from dGTP hydrolysis by SAMHD1 can be further degraded by PNP and thus subtracted from recycling via dGK-mediated salvage (Fig. 1). We performed experiments with quiescent WT and dGK-mutated fibroblasts in which during the last 24 h of transfection with control or anti-SAMHD1 siRNA we added to the medium 0.5 μm immucillin H, a potent chemical inhibitor of PNP. The prediction was that if PNP and dGK compete for their common substrate GdR, PNP inactivation may favor GdR incorporation into the mt dGTP pool of dGK-proficient cells but not of the dGK mutants. However, the treatment with immucillin H produced only minimal increases of cytosolic dGTP in the WT fibrobasts and had no effect on mt dGTP independently of SAMHD1 knockdown (data not shown). These negative results indicate that in cultured fibroblasts PNP interferes negligibly with salvage of endogenous GdR by dGK, and its inactivation does not modify the loss of dGTP due to SAMHD1 activity.</text>
+      <annotation id="2XXx265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="36542" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="36559" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C113101</infon>
+        <location offset="36867" length="12"/>
+        <text>immucillin H</text>
+      </annotation>
+      <annotation id="2XXx266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="36991" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="37023" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="37053" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C113101</infon>
+        <location offset="37143" length="12"/>
+        <text>immucillin H</text>
+      </annotation>
+      <annotation id="246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="37201" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="37251" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="37422" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="gy456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="37483" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>37513</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>37524</offset>
+      <text>Genetic deficiency for either of the two mt deoxynucleoside kinases, TK2 and dGK, is associated with mtDNA depletion and severe mt diseases. The phenotypes differ for the two enzymes; TK2 mutations primarily affect skeletal muscle, and dGK mutations affect liver and brain. As the genetic defects are in each case present in all somatic cells, their specific phenotypic expression is ascribed either to specific energetic requests of the affected tissues that would require fully functional mitochondria or to variable expressions of the affected protein and other competing or cooperating enzymes. One example is the particularly low expression of TK2 in skeletal muscle, which makes this tissue specifically sensitive to any further decline of TK2 activity, but in most cases the reason of the tissue-specific phenotype remains hypothetical. The expression of dGK, for instance, is comparable in liver and brain and in other tissues, which suggested that the specificity of the dGK− phenotype might depend on differential expression of other enzymes functionally interacting with dGK. TK2 and dGK deficiencies affect non-dividing cells where de novo synthesis of dNTPs is strongly down-regulated and depends on the R1-p53R2 form of ribonucleotide reductase. In cultured human fibroblasts p53R2-dependent ribonucleotide reduction occurs at a roughly 40-fold lower rate than R2-dependent reduction during S-phase, yet the produced dNTPs largely exceed the needs of the cells during quiescence. In fact ≈90% of these dNTPs are dephosphorylated and the resulting deoxynucleosides are released into the medium. Thus in noncycling WT cells de novo synthesis of dNTPs per se does not appear to be insufficient for the maintenance of mtDNA. Nevertheless, the existence of the two mitochondrial deoxynucleoside kinases demonstrates that deoxynucleoside salvage is needed to support mtDNA synthesis under such conditions, but why are two distinct kinases required, and why inside mitochondria? At the end of S-phase TK1 is degraded, thus the need for a second thymidine kinase is obvious, although it may well reside outside mitochondria. In contrast to TK1, dCK is expressed with some variation in every phase of a cell's life and in all tissues, and it can phosphorylate both deoxyguanosine and deoxyadenosine besides deoxycytidine, its preferred substrate. Yet the cells also produce dGK, a purine-specific kinase enclosed in the mt matrix essential for the maintenance of mt dNTP pool balance during quiescence. In fact, differently from cultured TK2-deficient fibroblasts that do not manifest any mtDNA defect, dGK-deficient fibroblasts readily develop imbalance of mt dNTPs (Fig. 3, see Ref.) and mtDNA depletion in quiescent cultures (Fig. 2A; Refs. and). Why are noncycling cells so dependent on GdR salvage inside mitochondria? Our present data suggest that the answer may be SAMHD1, whose concentration increases in non-dividing cells. SAMHD1 is a nuclear enzyme, but its influence spreads to the overall cellular dNTP pool due to the permeability of the nuclear envelope to deoxynucleotides. Indeed, the anti-HIV-1 effect of SAMHD1 was attributed to the restriction of cytosolic dNTP pools that fall below the km of the viral reverse transcriptase. By degradation of all dNTPs in cells with low RNR activity, SAMHD1 restricts the source of deoxynucleotides for mtDNA synthesis. We demonstrated earlier that mt dNTPs largely derive from the cytosolic pool. Two main dNTP transporters are known in mammalian cells, SLC25A33 and SLC25A36, both active with pyrimidine (d)NTPs, the latter also with (d)GTP. The deoxynucleosides produced by SAMHD1 enter mitochondria via nucleoside transporters and can be recycled by TK2 and dGK. In the mt matrix the resulting deoxynucleotides are sheltered from SAMHD1 and can be used for mtDNA replication or re-exported to the cytosol. Thus intramitochondrial salvage may be seen as a cell-autonomous mechanism (primarily) using deoxynucleosides derived from dNTPs synthesized de novo in the cytosol and hydrolyzed by SAMHD1 in the nucleus. By this means quiescent or differentiated cells would protect themselves from viral infections and at the same time secure balanced amounts of precursors for mtDNA maintenance. For the sake of the present argument we do not consider here the lower amounts of deoxynucleosides produced from nucleoside monophosphates by 5′-nucleotidases. Phosphorylation of deoxynucleosides derived from the extracellular compartment might be a secondary function of mt deoxynucleoside kinases.</text>
+      <annotation id="363">
+        <infon key="type">OTHER</infon>
+        <location offset="37568" length="23"/>
+        <text>deoxynucleoside kinases</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="38689" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">OTHER</infon>
+        <location offset="38758" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="38955" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="39040" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="39085" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="39181" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="365">
+        <infon key="type">OTHER</infon>
+        <location offset="39312" length="23"/>
+        <text>deoxynucleoside kinases</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="39354" length="15"/>
+        <text>deoxynucleoside</text>
+      </annotation>
+      <annotation id="317">
+        <infon key="type">OTHER</infon>
+        <location offset="39576" length="16"/>
+        <text>thymidine kinase</text>
+      </annotation>
+      <annotation id="256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="39794" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+      <annotation id="257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C058118</infon>
+        <location offset="39813" length="14"/>
+        <text>deoxyadenosine</text>
+      </annotation>
+      <annotation id="2XXx275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="39836" length="13"/>
+        <text>deoxycytidine</text>
+      </annotation>
+      <annotation id="380">
+        <infon key="type">OTHER</infon>
+        <location offset="39910" length="22"/>
+        <text>purine-specific kinase</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="39995" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="40190" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="2XXx292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="40320" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="40540" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="40706" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="40798" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="40937" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="40992" length="4"/>
+        <text>dNTP</text>
+      </annotation>
+      <annotation id="414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="41080" length="10"/>
+        <text>pyrimidine</text>
+      </annotation>
+      <annotation id="415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="41091" length="7"/>
+        <text>(d)NTPs</text>
+      </annotation>
+      <annotation id="378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="41121" length="6"/>
+        <text>(d)GTP</text>
+      </annotation>
+      <annotation id="2XXx284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="41133" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="416">
+        <infon key="type">OTHER</infon>
+        <location offset="41192" length="23"/>
+        <text>nucleoside transporters</text>
+      </annotation>
+      <annotation id="271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="41488" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="41518" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="41859" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="gy468">
+        <infon key="identifier">MESH:D009711</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="41890" length="25"/>
+        <text>nucleoside monophosphates</text>
+      </annotation>
+      <annotation id="2XXx290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="41956" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>42083</offset>
+      <text>SAMHD1 is especially effective in restricting the size of the dGTP pool. When SAMHD1 is inactivated dGTP undergoes the highest relative increase compared with the other three dNTPs, implying that recycling of GdR is especially important to provide mitochondria with sufficient dGTP. The low concentration of dGTP in the cytosol of quiescent fibroblasts may reduce the rate of carrier-mediated import of dGTP into mitochondria so that recycling of GdR becomes limiting to sustain a “normal” mt pool.</text>
+      <annotation id="gy528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="42145" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="42183" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003854</infon>
+        <location offset="42258" length="5"/>
+        <text>dNTPs</text>
+      </annotation>
+      <annotation id="2XXx301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="42292" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="42360" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy531">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="42391" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="42486" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="42530" length="3"/>
+        <text>GdR</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>42586</offset>
+      <text>With the present experiments we show that SAMHD1 contributes to the phenotype of dGK deficiency in fibroblasts. In vivo the main target cells of this genetic condition are hepatocytes and neurons, where the relative abundance of enzymes in the network outlined in Fig. 1 possibly differs from that in fibroblasts, our experimental model. The expression of cytosolic dCK, for instance, is particularly low in liver and brain, increasing the dependence of the mt dGTP pool on intramitochondrial salvage of GdR. The tissue specificity of dGK deficiency in vivo may be related, at least in part, to SAMHD1 expression. When the gene coding for the protein now known as SAMHD1 was first described, it was reported to be highly expressed in liver on the basis of multi-organ Northern blotting analysis. However, a recent study of the protein expression profile in humans demonstrated that the intensity of the SAMHD1 signal in an organ mostly depends on the frequency of cells of hematopoietic origin, which express the highest level of SAMHD1, whereas liver cells contain little SAMHD1. On the other hand, SAMHD1 is only one enzyme in the regulatory network, and its influence on the final concentration of dGTP depends also on the relative activities of other enzymes. The importance of ribonucleotide reductase in this respect is highlighted here by the biochemical phenotype of the P1 fibroblasts, which had higher RNR expression than the other two mutant lines (Fig. 4) and could better recover their mt pool balance and mtDNA upon SAMHD1 knockdown.</text>
+      <annotation id="gy538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="43047" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="43090" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="43787" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>44134</offset>
+      <text>By silencing SAMHD1 during quiescence we managed to abolish or contain the mtDNA depletion caused by dysfunction of dGK. Previous studies have demonstrated the possibility of improving mtDNA copy number in cultured dGK-mutated cells by supplying high concentrations (≥50–100 μm) of purine deoxynucleosides (GdR ± deoxyadenosine) or their monophosphates in the medium of quiescent fibroblast cultures (Ref. and references therein). The two protocols did not substantially differ, as nucleoside monophosphates are dephosphorylated by ectonucleotidases, and only the resulting deoxynucleosides are able to enter the cells. In dGK-deficient cells GdR (and deoxyadenosine) can only be phosphorylated in the cytosol by dCK. However, only at high concentrations did GdR compete with intracellular CdR for phosphorylation by dCK, whose Km for CdR is at least one order of magnitude lower than that for GdR. High concentrations of purine deoxynucleosides are also needed in these experiments to saturate the catabolic activity of adenosine deaminase and purine nucleoside phosphorylase. As an alternative, the two enzymes can be blocked by specific inhibitors. Here we tried to favor recycling of endogenous GdR produced by SAMHD1 by treating cells with immucillin H, but we did not observe any reproducible change in dGTP concentration. Our conclusion is that in cultured skin fibroblasts the enzyme does not have a measurable influence on the regulation of endogenous dGTP and that the degradation of exogenous GdR observed earlier by us and others is carried out mostly by the PNP present in the culture medium. With the present experiments we have updated the picture of the regulation of mt dGTP in human fibroblasts revealing a functional interaction between SAMHD1 and dGK that changes our perspective on the role of mitochondrial salvage of deoxynucleosides.</text>
+      <annotation id="408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="44416" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="44423" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="2XXx321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="44441" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="2XXx307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C058118</infon>
+        <location offset="44447" length="14"/>
+        <text>deoxyadenosine</text>
+      </annotation>
+      <annotation id="405">
+        <infon key="type">OTHER</infon>
+        <location offset="44472" length="14"/>
+        <text>monophosphates</text>
+      </annotation>
+      <annotation id="gy544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="44616" length="25"/>
+        <text>nucleoside monophosphates</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="44708" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="2XXx322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="44777" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="2XXx310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C058118</infon>
+        <location offset="44786" length="14"/>
+        <text>deoxyadenosine</text>
+      </annotation>
+      <annotation id="2XXx323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="44893" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="44924" length="3"/>
+        <text>CdR</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="44969" length="3"/>
+        <text>CdR</text>
+      </annotation>
+      <annotation id="2XXx324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="45028" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="45056" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="45063" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+      <annotation id="2XXx326">
+        <infon key="type">OTHER</infon>
+        <location offset="45155" length="19"/>
+        <text>adenosine deaminase</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">OTHER</infon>
+        <location offset="45179" length="31"/>
+        <text>purine nucleoside phosphorylase</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="45333" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="gy556">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C113101</infon>
+        <location offset="45379" length="12"/>
+        <text>immucillin H</text>
+      </annotation>
+      <annotation id="gy566">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="45443" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="gy550">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="45595" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="45638" length="3"/>
+        <text>GdR</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029603</infon>
+        <location offset="45821" length="4"/>
+        <text>dGTP</text>
+      </annotation>
+      <annotation id="2XXx318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003853</infon>
+        <location offset="45974" length="16"/>
+        <text>deoxynucleosides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>45998</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46019</offset>
+      <text>V. B. and C. R. conceived and coordinated the study and wrote the paper. E. F. and C. R. designed and performed the experiments. E. F. analyzed all the experiments and prepared the figures. C. S. contributed to the cytofluorometric analysis. E. F., V. B., and C. R. critically revised the manuscript for important intellectual content. All authors analyzed the results and approved the final version of the manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46438</offset>
+      <text>This work was supported by Fondazione Telethon Grant GGP14005 (to V. B.) and Associazione Italiana per la Ricerca sul Cancro Grant IG 2014 15818 (to V. B.). The authors declare that they have no conflicts of interest with the contents of this article.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46690</offset>
+      <text>RNR</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46694</offset>
+      <text>ribonucleotide reductase</text>
+      <annotation id="326">
+        <infon key="type">OTHER</infon>
+        <location offset="46694" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46719</offset>
+      <text>SAMHD1</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46726</offset>
+      <text>sterile α motif/histidine-aspartate domain-containing protein 1</text>
+      <annotation id="327">
+        <infon key="type">OTHER</infon>
+        <location offset="46726" length="63"/>
+        <text>sterile α motif/histidine-aspartate domain-containing protein 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46794</offset>
+      <text>dCK</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46798</offset>
+      <text>deoxycytidine kinase</text>
+      <annotation id="325">
+        <infon key="type">OTHER</infon>
+        <location offset="46798" length="20"/>
+        <text>deoxycytidine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46819</offset>
+      <text>TK1</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46823</offset>
+      <text>cytosolic thymidine kinase</text>
+      <annotation id="gy579">
+        <infon key="type">OTHER</infon>
+        <location offset="46823" length="26"/>
+        <text>cytosolic thymidine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46850</offset>
+      <text>TK2</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46854</offset>
+      <text>mitochondrial thymidine kinase</text>
+      <annotation id="gy580">
+        <infon key="type">OTHER</infon>
+        <location offset="46854" length="30"/>
+        <text>mitochondrial thymidine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46885</offset>
+      <text>dGK</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46889</offset>
+      <text>deoxyguanosine kinase</text>
+      <annotation id="2XXx332">
+        <infon key="type">OTHER</infon>
+        <location offset="46889" length="21"/>
+        <text>deoxyguanosine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46911</offset>
+      <text>PNP</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46915</offset>
+      <text>purine nucleoside phosphorylase</text>
+      <annotation id="321">
+        <infon key="type">OTHER</infon>
+        <location offset="46915" length="31"/>
+        <text>purine nucleoside phosphorylase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46947</offset>
+      <text>CdR</text>
+      <annotation id="2XXx334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="46947" length="3"/>
+        <text>CdR</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46951</offset>
+      <text>deoxycytidine</text>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003841</infon>
+        <location offset="46951" length="13"/>
+        <text>deoxycytidine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46965</offset>
+      <text>GdR</text>
+      <annotation id="2XXx336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="46965" length="3"/>
+        <text>GdR</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46969</offset>
+      <text>deoxyguanosine</text>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003849</infon>
+        <location offset="46969" length="14"/>
+        <text>deoxyguanosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46984</offset>
+      <text>p53R2</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>46990</offset>
+      <text>p53-inducible R2 subunit of ribonucleotide reductase</text>
+      <annotation id="2XXx338">
+        <infon key="type">OTHER</infon>
+        <location offset="47018" length="24"/>
+        <text>ribonucleotide reductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47043</offset>
+      <text>R2</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47046</offset>
+      <text>ribonucleotide reductase subunit 2</text>
+      <annotation id="2XXx339">
+        <infon key="type">OTHER</infon>
+        <location offset="47046" length="34"/>
+        <text>ribonucleotide reductase subunit 2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47081</offset>
+      <text>R1</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47084</offset>
+      <text>ribonucleotide reductase subunit 1</text>
+      <annotation id="2XXx340">
+        <infon key="type">OTHER</infon>
+        <location offset="47084" length="34"/>
+        <text>ribonucleotide reductase subunit 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47119</offset>
+      <text>mt</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47122</offset>
+      <text>mitochondria.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>47136</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>47165</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

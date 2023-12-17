@@ -1,0 +1,2458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5656095</id>
+    <passage>
+      <infon key="name_3">surname:Aprile;given-names:Francesco A.</infon>
+      <infon key="name_2">surname:Dunsmore;given-names:Lavinia</infon>
+      <infon key="name_1">surname:Rodrigues;given-names:Tiago</infon>
+      <infon key="name_0">surname:Bertoldo;given-names:Jean B.</infon>
+      <infon key="article-id_pmid">29094109</infon>
+      <infon key="notes">Published: October 12, 2017</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">S2451-9294(17)30316-9</infon>
+      <infon key="article-id_pmc">5656095</infon>
+      <infon key="title">UN Sustainable Development Goals Keywords</infon>
+      <infon key="article-id_doi">10.1016/j.chempr.2017.07.009</infon>
+      <infon key="type">front</infon>
+      <infon key="lpage">677</infon>
+      <infon key="fpage">665</infon>
+      <infon key="issue">4</infon>
+      <infon key="volume">3</infon>
+      <infon key="license">This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).</infon>
+      <infon key="name_10">surname:Terenzi;given-names:Hernán</infon>
+      <infon key="name_11">surname:Bernardes;given-names:Gonçalo J.L.</infon>
+      <infon key="kwd">SDG3: Good health and well-being chemical biology chemical mutagenesis protein tyrosine phosphatase Mycobacterium tuberculosis enzymology biophysics computational chemistry water bridge</infon>
+      <infon key="name_9">surname:Corzana;given-names:Francisco</infon>
+      <infon key="name_8">surname:Sherman;given-names:Woody</infon>
+      <infon key="name_7">surname:Steinbrecher;given-names:Thomas B.</infon>
+      <infon key="name_6">surname:Boutureira;given-names:Omar</infon>
+      <infon key="name_5">surname:Rosado;given-names:Leonardo A.</infon>
+      <infon key="name_4">surname:Marques;given-names:Marta C.</infon>
+      <offset>0</offset>
+      <text>A Water-Bridged Cysteine-Cysteine Redox Regulation Mechanism in Bacterial Protein Tyrosine Phosphatases</text>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="2" length="5"/>
+        <text>Water</text>
+      </annotation>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="16" length="17"/>
+        <text>Cysteine-Cysteine</text>
+      </annotation>
+      <annotation id="O0">
+        <infon key="type">OTHER</infon>
+        <location offset="74" length="29"/>
+        <text>Protein Tyrosine Phosphatases</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>104</offset>
+      <text>Summary</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>112</offset>
+      <text>The emergence of multidrug-resistant Mycobacterium tuberculosis (Mtb) strains highlights the need to develop more efficacious and potent drugs. However, this goal is dependent on a comprehensive understanding of Mtb virulence protein effectors at the molecular level. Here, we used a post-expression cysteine (Cys)-to-dehydrolanine (Dha) chemical editing strategy to identify a water-mediated motif that modulates accessibility of the protein tyrosine phosphatase A (PtpA) catalytic pocket. Importantly, this water-mediated Cys-Cys non-covalent motif is also present in the phosphatase SptpA from Staphylococcus aureus, which suggests a potentially preserved structural feature among bacterial tyrosine phosphatases. The identification of this structural water provides insight into the known resistance of Mtb PtpA to the oxidative conditions that prevail within an infected host macrophage. This strategy could be applied to extend the understanding of the dynamics and function(s) of proteins in their native state and ultimately aid in the design of small-molecule modulators.</text>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="412" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="422" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="430" length="13"/>
+        <text>dehydrolanine</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="445" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="490" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="O3">
+        <infon key="type">OTHER</infon>
+        <location offset="547" length="31"/>
+        <text>protein tyrosine phosphatase A </text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="621" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="636" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="O1">
+        <infon key="type">OTHER</infon>
+        <location offset="796" length="31"/>
+        <text>bacterial tyrosine phosphatases</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="867" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1194</offset>
+      <text>Graphical Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1213</offset>
+      <text>Highlights</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1224</offset>
+      <text>Chemical editing</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1241</offset>
+      <text>Cys-H2O-Cys bridge</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1260</offset>
+      <text>Insights on resistance to oxidative inactivation</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1309</offset>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1310</offset>
+      <text>The Bigger Picture</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1329</offset>
+      <text>The emergence of Mycobacterium tuberculosis (Mtb) resistance is a serious threat to public health. However, the quest for more efficient drugs against Mtb is hampered by the lack of a detailed understanding of Mtb virulence protein effectors. Here, we describe the swift modification of select Cys residues in multi-Cys proteins directly through chemistry. New insights into the biochemistry of emerging bacterial drug targets were obtained. We reveal a water Cys-Cys bridging mechanism that offers an explanation for the known resistance of Mtb protein tyrosine phosphatase A (PtpA) to the oxidative conditions that prevail within an infected host macrophage. This water Cys-Cys bridge motif is also found in the phosphatase SptpA from Staphylococcus aureus, suggesting its potential conserved structural role. The rationalization of the unique features of PtpA, an important target for Mtb drug discovery, could now be used in the design of novel small-molecule modulators.</text>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="1623" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="1645" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="1783" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="1789" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="O4">
+        <infon key="type">OTHER</infon>
+        <location offset="1875" length="30"/>
+        <text>protein tyrosine phosphatase A</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="1995" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="2001" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>2305</offset>
+      <text>Using a post-expression chemical editing strategy, Bernardes and colleagues have identified a water-mediated Cys-Cys non-covalent motif in bacterial tyrosine phosphatase A (PtpA) from Mycobacterium tuberculosis (Mtb) and Staphylococcus aureus. Importantly, the identification of the Cys-water-Cys bridge provides insight into the known resistance of Mtb PtpA to the oxidative conditions that prevail within an infected host macrophage. This chemical mutagenesis approach could help the understanding of the dynamics and function(s) of proteins in their native state and ultimately aid in the design of small-molecule modulators.</text>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="2399" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="2414" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="O5">
+        <infon key="type">OTHER</infon>
+        <location offset="2444" length="32"/>
+        <text>bacterial tyrosine phosphatase A</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2934</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>2947</offset>
+      <text>Regioselective Cys Chemical Editing</text>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="2962" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>2983</offset>
+      <text>(A) Catalytic mechanism of protein tyrosine phosphatases.</text>
+      <annotation id="O6">
+        <infon key="type">OTHER</infon>
+        <location offset="3010" length="29"/>
+        <text>protein tyrosine phosphatases</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>3041</offset>
+      <text>(B) Cys-to-Dha conversion through a bisalkylation elimination reaction.</text>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="3045" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="3052" length="3"/>
+        <text>Dha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>3113</offset>
+      <text>(C) Left: conversion of PtpA-Cys53 to Dha with reagent 1. Right: conversion of all Cys residues in PtpA to Dha by treatment with an excess of 1.</text>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="3142" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="3151" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="3196" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="3220" length="3"/>
+        <text>Dha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3258</offset>
+      <text>Tuberculosis affects millions of people each year and is a leading cause of deaths worldwide. The emergence of multidrug-resistant Mycobacterium tuberculosis (Mtb) strains is linked to the ability of Mtb to overcome host defenses, especially macrophage digestion and overoxidation,,  pressuring the long-standing endeavor of disease eradication. Once inside the macrophage vacuole, Mtb circumvents the proteolysis machinery by inhibiting phagosome maturation and its fusion with lysosome. Among others, protein tyrosine phosphatase A (PtpA) is a key player for Mtb survival in this oxidative environment. PtpA is secreted into the macrophage cytosol and interferes directly with phagosome maturation by disrupting key components of the macrophage endocytic pathway.,  However, as macrophages produce reactive oxygen and nitrogen species as a defense mechanism against Mtb, proteins, including PtpA, are likely to be inhibited under oxidative conditions. Protein tyrosine phosphatases (PTPs) contain multiple Cys residues that play a paramount role regulating signaling pathways (Figure 1A)., ,  The formation of a disulfide bridge between the catalytic Cys and a backdoor Cys residue located within the catalytic pocket is a structural feature that can finely control the redox mechanism of PTPs. However, such regulating mechanism(s) that delay oxidative inactivation remain elusive for PtpA.</text>
+      <annotation id="O7">
+        <infon key="type">OTHER</infon>
+        <location offset="3761" length="30"/>
+        <text>protein tyrosine phosphatase A</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382,MESH:D026361</infon>
+        <location offset="4058" length="36"/>
+        <text>reactive oxygen and nitrogen species</text>
+      </annotation>
+      <annotation id="O8">
+        <infon key="type">OTHER</infon>
+        <location offset="4212" length="29"/>
+        <text>Protein tyrosine phosphatases</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="4266" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004220</infon>
+        <location offset="4372" length="9"/>
+        <text>disulfide</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="4411" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="4430" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4653</offset>
+      <text>Typically, the relationship between amino acid sequence and protein activity and function is determined through site-directed mutagenesis. However, this technique is restricted to the introduction of 20 canonical amino acid building blocks. On the other hand, semi-synthesis of proteins via native chemical ligation, followed by refolding is limited to simpler proteins. Alternatively, site-selective chemical mutagenesis offers an expeditious and elegant means of studying native, folded proteins by post-expression installation of non-canonical amino acid residues., , ,  These could allow activity and functional studies per se or act as chemical tags for subsequent functionalization. Here, we describe our efforts to leverage site-selective post-expression mutagenesis by using non-canonical amino acids in order to understand the interplay between multiple Cys residues and their role in redox regulation mechanisms displayed by bacterial PTPs. Using Mtb PtpA, Yersinia enterocolitica tyrosine phosphatase YopH, and Staphylococcus aureus tyrosine phosphatase SptpA as examples of PTPs and a post-expression chemical editing method for converting Cys to dehydroalanine (Dha), we obtained exquisite regioselectivity. Unexpectedly, we unveiled that the protein's solvation state regulates its reactivity toward modification by the chemical editing reagent. Our findings illustrate the importance of a structural water and the reactivity of the non-catalytic Cys53 residue as a protection mechanism against catalytic oxidation in PtpA. Indeed, the role of water molecules and water networks is central to understanding the hydrophobic effect, protein function, and molecular recognition in general., , ,  All together, our data offer a rationale for Cys oxidation mechanisms by xenobiotic species and offer insights into new biology that can be used for designing innovative antimicrobial PTP-targeting chemical probes and therapeutic agents.</text>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="4689" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="4866" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="5200" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="5450" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="5516" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O9">
+        <infon key="type">OTHER</infon>
+        <location offset="5620" length="44"/>
+        <text>Yersinia enterocolitica tyrosine phosphatase</text>
+      </annotation>
+      <annotation id="O10">
+        <infon key="type">OTHER</infon>
+        <location offset="5675" length="42"/>
+        <text>Staphylococcus aureus tyrosine phosphatase</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="5805" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="5812" length="14"/>
+        <text>dehydroalanine</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="5828" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6068" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6114" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6211" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6231" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6405" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6598</offset>
+      <text>Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6621</offset>
+      <text>Regioselective Cys53 Modification Indicates Its Enhanced Reactivity and Its Role as an Oxidant Scavenger</text>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6636" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6726</offset>
+      <text>In contrast to current approaches that rely on extensive protein sequence remodeling, we investigated PtpA function and dynamics by post-expression conversion of Cys to Dha by using the editing reagent α,α′-di-bromo-adipyl(bis)amide, 1 (Figure 1B). Dha provides an ideal mutation to study and understand protein dynamics because of its small size and possible use as a tag for functionalization or as a spectroscopic probe (C–H stretching).</text>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6888" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="6895" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="6928" length="30"/>
+        <text>α,α′-di-bromo-adipyl(bis)amide</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="6975" length="3"/>
+        <text>Dha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7175</offset>
+      <text>Chemical Mutation of PtpA and Its Effect on Catalytic Activity</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7238</offset>
+      <text>(A) Deconvoluted ESI-MS spectra overlay of native and Cys-to-Dha-modified PtpA isoforms. Reactions were carried out with 1 in NaH2PO4 buffer (pH 8.0, 50 mM) for 1 hr at 37°C at the indicated concentrations. Mass peak assignments: 19,924 Da, Cys11/16/53; 19,889 Da, Cys11/16/Dha53; 19,820 Da, Dha11/16/53.</text>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="7292" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="7299" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="7364" length="7"/>
+        <text>NaH2PO4</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="7479" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="7503" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="7512" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="7530" length="3"/>
+        <text>Dha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7546</offset>
+      <text>(B) Dha53-containing peptide 40-VTSAGTGNWHVGSDhaADER-57 obtained upon treatment of wild-type PtpA with 15 mM of reagent 1.</text>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="7550" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="O13">
+        <infon key="type">OTHER</infon>
+        <location offset="7575" length="26"/>
+        <text>40-VTSAGTGNWHVGSDhaADER-57</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7670</offset>
+      <text>(C) Catalytic activity profile of PtpA and isoforms, as assessed by p-nitrophenylphosphate hydrolysis over time.</text>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008644</infon>
+        <location offset="7738" length="22"/>
+        <text>p-nitrophenylphosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7783</offset>
+      <text>(D) Circular dichroism spectra of PtpA, site-directed single-mutant C53A, and chemical mutant Dha53. Protein samples were concentrated to 10 μM in 25 mM NH4HCO3 (pH 7.4).</text>
+      <annotation id="O14">
+        <infon key="type">OTHER</infon>
+        <location offset="7851" length="4"/>
+        <text>C53A</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="7877" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027043</infon>
+        <location offset="7936" length="7"/>
+        <text>NH4HCO3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7957</offset>
+      <text>(E) Atomic fluctuation (Cα) analysis of PtpA wild-type (left) and triple-mutant (right) obtained from 500 ns MD simulations. The data correspond to the average structure of both molecules throughout the simulations.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>8177</offset>
+      <text>(F) H2O2 inactivation profile of PtpA, Dha53, and site-directed mutant C53A, as assessed by p-nitrophenylphosphate hydrolysis over time. PtpA and Dha53 mutant (0.5 μM) were pre-incubated with 100 μM H2O2 for 1 min, then 20 mM p-nitrophenylphosphate was added to the reaction and absorbance of the released p-nitrophenolate was monitored at 410 nm over 10 min. The data represent mean ± SD of three independent experiments.</text>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="8181" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="8216" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="O15">
+        <infon key="type">OTHER</infon>
+        <location offset="8248" length="4"/>
+        <text>C53A</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008644</infon>
+        <location offset="8269" length="22"/>
+        <text>p-nitrophenylphosphate</text>
+      </annotation>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="8323" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="8376" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008644</infon>
+        <location offset="8403" length="22"/>
+        <text>p-nitrophenylphosphate</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024836</infon>
+        <location offset="8483" length="16"/>
+        <text>p-nitrophenolate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8610</offset>
+      <text>We reacted Mtb PtpA and its alanine (Ala) and serine (Ser) mutants with 1 at varying concentrations (5–60 mM) at pH 8.0 and 37°C for 1 hr (Figures 1C and S1). Inspection of the deconvoluted electrospray ionization mass spectrometry (ESI-MS) spectra for the wild-type and mutant PtpA counterparts revealed a puzzling profile. In the wild-type PtpA, noticeable chemical mutation of one Cys residue was obtained at 5 mM of 1, and its full conversion was achieved at 15 mM of modifying reagent (m/z = 19,889 Da; Figures 2A and S1). No further Cys-to-Dha modifications were prominently identifiable with concentrations of 1 below 30 mM. However, at concentrations of 1 equal to 30 or 60 mM, simultaneous, yet incomplete modification of Cys53, Cys16, and Cys11 occurred as ascertained from the identification of two distinct mutant PtpA sub-populations (m/z = 19,820 and 19,887 Da; Figures 2A and S1). Interestingly, modification of the homologous Y. enterocolitica YopH (Figure S2), which contains five free Cys residues, similarly preceded regioselectively at a single position (Figures S2D and S2E). To the best of our knowledge, these examples represent the first regioselective modifications of a single Cys on a native, multiple-containing Cys protein. Tight control of pH, time of incubation, and concentration of 1 is required to achieve regioselective modification. For example, prolonged incubation times with 15 mM of compound 1 also resulted in simultaneous and incomplete modification of Cys53, Cys11, and Cys16 (Figure S3).</text>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="8638" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="8647" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="8656" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="8664" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="8994" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9149" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="9156" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9341" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9348" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9359" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9613" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9813" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="9850" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10105" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10112" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10123" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10158</offset>
+      <text>Regioselective Cys Modification Is Regulated by PtpA Structural Features</text>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10173" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10231</offset>
+      <text>(A) 2D radial pair distribution function (2D RDF) computed after a 500 ns molecular dynamics (MD) simulation, suggests an H-bridged Cys11-Cys16 interaction. “Hotter” color suggests higher probability of water molecules. PtpA inset with predicted water molecule positions in catalytic cleft was computed after 500 ns and imaged with PyMOL (Schrödinger LLC).</text>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10353" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="10363" length="11"/>
+        <text>Cys11-Cys16</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="10434" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="10477" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10595</offset>
+      <text>(B) Overlay of 100 equidistant protein structure snapshots from 500 ns of MD simulations (gray cartoon). The inset shows the conformational flexibility of the Cys residues over the entire simulation length, overlayed with a single snapshot of the X-ray structure protein. Cys53 exhibits high conformational flexibility, whereas Cys11 and Cys16 adopt more fixed conformations (PDB: 1U2P).</text>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10754" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10867" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10923" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10933" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10984</offset>
+      <text>(C) Covalent docking to both the X-ray PtpA and 500 ns MD relaxed PtpA structures. More negative docking scores indicate a better fit of the covalently bound ligand.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11151</offset>
+      <text>(D) X-ray structure of PtpA, highlighting the water network at the catalytic cleft.</text>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11197" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11235</offset>
+      <text>(E) WaterMap predictions of spatially localized waters, i.e., high solvent density, within 6 Å of Cys11, Cys16, and Cys53. The remainder of the protein is shown as a green cartoon with a transparent gray molecular surface. Empty areas in the images are fully solvated during the simulations but without significantly enhanced solvent density in relation to bulk water. Cys11 and Cys16 are within the vicinity of multiple high-density water locations, whereas Cys53 is located on the protein surface with few bound water molecules nearby. High-density water positions are displayed in spherical representation, and color corresponds to the free energy in relation to bulk water (green, ΔG ≤ −2 kcal/mol; brown, ΔG ≥ +2 kcal/mol). Images were created with Maestro v10.5 (Schrödinger LLC).</text>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11333" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11340" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11351" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11597" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11604" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11614" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11669" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11694" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11749" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11786" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11906" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12036</offset>
+      <text>(F) Second-derivative FTIR spectrum of PtpA in the 3,100−2,700 cm−1 region measured at pH 8.0. The samples were hydrated with H2O (blue) or H218O (red). Labeled frequencies correspond to the water O–H stretching vibrations.</text>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12162" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12176" length="5"/>
+        <text>H218O</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12227" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12267</offset>
+      <text>(G) Second-derivative FTIR spectrum of native PtpA and Dha53 mutant in the 3,100−2,700 cm−1 region measured at pH 8.0. The samples were hydrated with H2O. Labeled frequency corresponds to the missing water O–H stretching vibration after Dha.</text>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="12322" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12417" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12467" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="12504" length="3"/>
+        <text>Dha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12516</offset>
+      <text>(H) Second-derivative FTIR spectrum of native PtpA and triple mutant C11/16/53Dha in the 3,100−2,700 cm−1 region measured at pH 8.0. The samples were hydrated with H2O. Labeled frequencies correspond to the missing water O–H stretching vibrations after complete Dha installation.</text>
+      <annotation id="O16">
+        <infon key="type">OTHER</infon>
+        <location offset="12585" length="12"/>
+        <text>C11/16/53Dha</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12680" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12731" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="12778" length="3"/>
+        <text>Dha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>12803</offset>
+      <text>Kinetic Parameters of PtpA and the Chemically Derived Mutants PtpADha53 and PtpADha53Dha16Dha11</text>
+      <annotation id="O17">
+        <infon key="type">OTHER</infon>
+        <location offset="12865" length="9"/>
+        <text>PtpADha53</text>
+      </annotation>
+      <annotation id="O18">
+        <infon key="type">OTHER</infon>
+        <location offset="12879" length="19"/>
+        <text>PtpADha53Dha16Dha11</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13281</offset>
+      <text>The absence of stoichiometric correlation in the Cys-to-Dha chemical mutation prompted our curiosity and deeper exploration to understand which factors determined the observed regioselectivity. To address this question, we engineered and expressed single Cys-to-Ser and single, double, and triple Cys-to-Ala PtpA mutants in order to gain insights into which of the Cys residues were preferentially modified. The bisalkylation elimination reaction with the single C53A PtpA mutant only proceeded at 60 mM of 1 (Figure S4). Conversely, conversion of Cys53 to Dha on the double C11A/C16A mutant resulted in complete Cys-to-Dha conversion at 15 mM of 1 (Figures S4–S7), suggesting favored Cys53 modification and fully in line with our previous data. Tryptic digestion (Figure 2B) of different PtpA populations led to 40-VTSAGTGNWHVGS(X)ADER-57 fragments, which corroborated preferential Dha installation at position 53 after tandem mass spectrometry (MS/MS) analyses (Figures 3B and S8–S10). Critically, the Dha53 PtpA mutant displays an identical pH-dependent activity profile (Figure S12), kinetic parameters, and melting temperature to the wild-type counterpart (Figures 2C and S12–S14 and Table 1), providing a solid rationale for further bioorthogonal point of functionalization in PtpA. For example, Michael addition of β-mercaptoethanol to Dha53 was readily achieved on the engineered Dha53 PtpA (Figures S9 and S10). Circular dichroism spectra for the wild-type PtpA, Ala site-directed, and chemically mutated species show identical folding, with the exception of C11A/C16A, C11/16/C53A, and Dha11/16/53A (Figures 2D and S15; Matiollo et al.). C11/16/53/A and Dha11/16/53 displayed a pronounced loss of α-helical content (Figure S15, green dotted line). Molecular dynamics (MD) simulations performed on the C11/16/53A mutant corroborated a higher degree of flexibility than with the wild-type protein (Figure 2E). These data support the absence of a protein-fold-promoted Cys modification upon installation of Dha53 and significant fold changes upon full Cys mutation. Likewise, the non-catalytic Cys259 residue was preferentially modified in YopH as established by MS/MS analyses (Figures S3D and S3E).</text>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13330" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="13337" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13536" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="13543" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13578" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="13585" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13646" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O22">
+        <infon key="type">OTHER</infon>
+        <location offset="13744" length="4"/>
+        <text>C53A</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13829" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="13838" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="O23">
+        <infon key="type">OTHER</infon>
+        <location offset="13856" length="9"/>
+        <text>C11A/C16A</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13894" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="13901" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="13966" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O24">
+        <infon key="type">OTHER</infon>
+        <location offset="14094" length="26"/>
+        <text>40-VTSAGTGNWHVGS(X)ADER-57</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="14164" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="O25">
+        <infon key="type">OTHER</infon>
+        <location offset="14285" length="10"/>
+        <text>Dha53 PtpA</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="14603" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="14624" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="O26">
+        <infon key="type">OTHER</infon>
+        <location offset="14669" length="10"/>
+        <text>Dha53 PtpA</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="14753" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="O19">
+        <infon key="type">OTHER</infon>
+        <location offset="14849" length="9"/>
+        <text>C11A/C16A</text>
+      </annotation>
+      <annotation id="O20">
+        <infon key="type">OTHER</infon>
+        <location offset="14860" length="11"/>
+        <text>C11/16/C53A</text>
+      </annotation>
+      <annotation id="O27">
+        <infon key="type">OTHER</infon>
+        <location offset="14877" length="12"/>
+        <text>Dha11/16/53A</text>
+      </annotation>
+      <annotation id="O21">
+        <infon key="type">OTHER</infon>
+        <location offset="14929" length="11"/>
+        <text>C11/16/53/A</text>
+      </annotation>
+      <annotation id="O28">
+        <infon key="type">OTHER</infon>
+        <location offset="14945" length="11"/>
+        <text>Dha11/16/53</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15257" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="15295" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15340" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15382" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15505</offset>
+      <text>It had been previously established that S-nitrosylation plays a paramount role in the dynamic post-translational regulation of several proteins., ,  In particular, S-nitrosylation of PtpA with S-nitrosoglutathione (GSNO) follows a pattern identical to that of Dha53 installation because it occurs exclusively at Cys53 (Table 1 and Figures S10 and S11), in contrast to the preferred catalytic Cys oxidation in Ptp1B. However, unlike Dha53 installation, S-nitrosylation of Cys53 partially suppresses the activity of PtpA (Table 1; Ecco et al.). Both the C53A and the Dha53 mutant are more prone to H2O2 inactivation than the wild-type counterpart (Figure 2F). Moreover, Cys53 is the first residue to be overoxidized after H2O2 incubation (Figure 2F). This pattern corroborates the critical role of Cys53 as a modulator of the PtpA redox state. Albeit intriguing, a molecular mechanism for selective S-oxidation is not yet known to date, despite its potential implications on chemical biology and drug discovery.</text>
+      <annotation id="C165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026422</infon>
+        <location offset="15698" length="20"/>
+        <text>S-nitrosoglutathione</text>
+      </annotation>
+      <annotation id="C166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026422</infon>
+        <location offset="15720" length="4"/>
+        <text>GSNO</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="15765" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15817" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15897" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="15937" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15976" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O29">
+        <infon key="type">OTHER</infon>
+        <location offset="16057" length="4"/>
+        <text>C53A</text>
+      </annotation>
+      <annotation id="C172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="16070" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="16101" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="16173" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="16225" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="16301" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16520</offset>
+      <text>Water-Mediated Interplay between the Catalytic Cys11 and Backdoor Cys16 Modulates Redox Regulation</text>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="16520" length="5"/>
+        <text>Water</text>
+      </annotation>
+      <annotation id="C178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="16567" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="16586" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16619</offset>
+      <text>We investigated the reaction products obtained from the double C16A/C53A mutant. Chemical mutation of Cys11 occurred at concentrations of 1 as low as 15 mM and complete conversion occurred at 30 mM. Surprisingly, a different outcome was observed for the C11A/C53A mutant, i.e., no conversion of Cys16 to Dha was attained at 30 mM of editing reagent (Figure S7), advocating for an interplay between the catalytic Cys11 and backdoor Cys16 residues (Figures S5–S7) because these residues are modified simultaneously in the wild-type protein. Consequently, our data suggest intricate regulating factors for Cys modification, which were further corroborated by multiple thiol titrations with Ellman's reagent (Figure S16 and Table S1). Finally, mutation of the catalytic Cys11 residue substantially decreases PtpA functional activity (Table 1). The formation of a disulfide bridge as an explanation for the intricate interplay between Cys11 and Cys16 was dismissed because all the reactions were conducted under reducing conditions.</text>
+      <annotation id="O30">
+        <infon key="type">OTHER</infon>
+        <location offset="16682" length="9"/>
+        <text>C16A/C53A</text>
+      </annotation>
+      <annotation id="C184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="16721" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O31">
+        <infon key="type">OTHER</infon>
+        <location offset="16873" length="9"/>
+        <text>C11A/C53A</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="16914" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="16923" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="17031" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="17050" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="17222" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013438</infon>
+        <location offset="17284" length="5"/>
+        <text>thiol</text>
+      </annotation>
+      <annotation id="C188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="17385" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004220</infon>
+        <location offset="17478" length="9"/>
+        <text>disulfide</text>
+      </annotation>
+      <annotation id="C189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="17549" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="17559" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17654</offset>
+      <text>With the chemical mutagenesis data in hand, we endeavored to explore this elusive mechanism by using a combination of biophysical and computational approaches. Protein-bound water molecules have been increasingly recognized as key in the modulation of protein structure, folding, and dynamics.,  Just recently, a water-mediated allosteric network was reported to govern activation of Aurora kinase A. We thus hypothesized the existence of a water-mediated Cys-Cys non-covalent bridge regulating the active-site dynamics, and consequently Cys-to-Dha modification and GSNO-mediated oxidation. To address this question, we performed a series of MD simulations up to 500 ns with the apo structure of PtpA (PDB: 1U2P ). Despite evidence of a pKa of ca. 5 for the catalytic Cys, and having performed the Cys-modifying reactions at pH 8, we probed the different ionization states of all relevant residues in the catalytic cleft and computed 2D radial pair distribution functions (2D RDF). The simulation data distinctly support that a water molecule bridges the ionizable Cys residues for 99% of the simulation time, with the average residence time for a water molecule of ca. 100 ps. It is thus feasible that such an H-bridge network can account for the observed regioselective PtpA modifications (Figure 3A). Over 500 ns, the PtpA structure was found to be very stable, such that the Cα-root-mean-square deviation (RMSD) from the X-ray structure converged to ca. 1.5 Å after 100 ns (average RMSD of 1.52 Å over the remaining simulation trajectory). For Cys11 and Cys16, side-chain root RMS fluctuations of 0.9 and 1.4 Å, respectively, were found. A larger value of 1.9 Å was found for Cys53, indicating its higher conformational flexibility and exploration of diverse solvent-exposed surface conformations (Figure 3B). In contrast, Cys11 and Cys16 showed conformations buried into the catalytic pocket during the course of the simulation.</text>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="17828" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="17967" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="18095" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="18110" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="C191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="18192" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="18199" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026422</infon>
+        <location offset="18220" length="4"/>
+        <text>GSNO</text>
+      </annotation>
+      <annotation id="C194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="18422" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="18452" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="18682" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="18719" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="18802" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18865" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19202" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19212" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19334" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19481" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19491" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19606</offset>
+      <text>In order to directly assess each Cys residue's propensity for undergoing chemical reactions, we modeled the nucleophilic substitution reaction of 1 with Cys. As protein structures, both the X-ray crystal structure and the protein structure at the end of the 500 ns MD simulation were used, and all three stereoisomers of reagent 1 (R,R; S,S; and meso-R,S) were used equally as ligands. We conducted covalent docking by using both fast and thorough protocols to sample changes in protein structure. In the fast-docking mode, docked poses were found only for Cys53. Conversely, the more thorough docking mode did find covalently docked poses of 1 for all three Cys residues. More poses and better docking scores were obtained for Cys53 (Figure 3C). Thus, the docking predictions support the hypothesis that Cys53 is more solvent exposed, flexible, and sterically accessible, i.e. a preferred reaction partner with 1.</text>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19639" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="19759" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="20163" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="20265" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="20334" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="20411" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20523</offset>
+      <text>Motivated by the potential role of water molecules, together with the presence of water molecules in the catalytic cleft of the crystalized PtpA (Figure 3D), we performed MD simulations coupled with statistical thermodynamic analysis to assess the location and energetics of structural waters. We used the program WaterMap,,  which combines a short (2 ns) MD simulation with solvent clustering and thermodynamic analysis by using inhomogeneous solvation theory.,  This approach has been used to characterize the energetics of water molecules at the surface of proteins and explain selectivity between highly related protein binding sites,, ,  binding kinetics, and the role of water networks in entropy and/or enthalpy compensation.,  Cys53 is predicted to have little tightly bound water structure around it, in line with its higher reactivity. On the other hand, the analysis revealed multiple stable water positions in the proximity of Cys11 and Cys16 (Figure 3E). Both energetically favorable and unfavorable water molecules were found within that solvated pocket, advocating for kinetic and thermodynamic barriers regulating reactant entry and pocket desolvation.</text>
+      <annotation id="C217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="20558" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="20605" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="20809" length="6"/>
+        <text>waters</text>
+      </annotation>
+      <annotation id="C220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21049" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21200" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="21258" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21306" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21426" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="21462" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="21472" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21536" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21695</offset>
+      <text>Fourier transformed infrared spectroscopy (FTIR) is a powerful tool in the structural biology of proteins. Strong absorbance from bulk water often limits the assignment of important structural waters; insights on structural (and internal) water clusters and their hydrogen-bonding networks are obtainable in the 3,700–2,700 cm−1 spectral region in certain experimental conditions., , , , ,  Although studies at the single-water-molecule level are not possible by FTIR alone, when it’s used in combination with site-directed mutagenesis or the post-expression chemical mutagenesis strategy discussed here, FTIR can aid in the assessment of water-molecule orientation in structural water hydrogen-bonding networks., , </text>
+      <annotation id="C230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21830" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21934" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21959" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22117" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22334" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22375" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22381" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22419</offset>
+      <text>To further validate our WaterMap data, we analyzed and compared O–H vibrational energies of native Mtb PtpA, Cys-to-Ala, Cys-to-Ser, and Dha mutants (Dha53 and Dha53/11/16). We highlighted two regions of interest in the native Mtb PtpA spectrum that warranted further investigation (bands at 2,936 and 2,895 cm−1) because they appeared in the structural water region (3,100–2,700 cm−1) and undergo a wavenumber shift and/or a change in absorbance upon hydration with H218O (Figure 3F). The change of these bands upon isotope exchange suggests that they originate from the O–H stretching of water molecules, and not from overlapping N–H or C–H stretches.,  The band at 2,936 cm−1 was altered in both the triple Dha mutant (Dha11/16/53; Figures 3H and S17) and to a lesser extent in the triple Cys-to-Ala mutant (C11A/C16A/C53A; Figure 3F), suggesting that this band might represent a hydrogen-bonded water molecule oriented toward Cys11 and Cys16 in the active site of PtpA. In the case of single and double mutants, changes at 2,936 cm−1 were not significant, in agreement with the fact that only the triple mutation is able to disrupt the water-molecule hydrogen network in the active site. We detected other changes that can be related to water molecules interacting with residues outside the active site. In particular, the Dha53 and C53A mutants showed changes at 2,895 cm−1 (Figures 3G, 3B, and S17). Changes in these regions might correspond to a structural change around the Cys53 residue not related to the active site. The mutant C16A/C53A (with only Cys11; Figures 3C and S17) again showed a change in the region 2,895 cm−1. However, the mutant C11A/C16A (with only Cys53; Figures 3D and S17) did not show clear changes in this region, within error. As a further control, we designed and produced the mutant C11S because Ser might also form stable hydrogen bonds. The FTIR spectra of the C11S mutant displayed an almost identical pattern to that observed for the wild-type PtpA (Figure S17), which further corroborates the ability of the mutant to replace the Cys11 and still maintain the water-bridging network between Ser11 and Cys16. Furthermore, we also performed 500 ns MD simulations on mutants C11S, C16S, and the double mutant, observing the clear existence of bridging water molecules between residues 11 and 16 (Figure S18). This result is in good agreement with the FTIR data of mutant C11S. In addition, the atomic fluctuation study on these mutants confirms that the 3D structure is only slightly modified by mutation, highlighting the crucial role of the water pockets on the global structure of these proteins. These observations fully confirm our WaterMap calculations and provide strong experimental evidence for the location of structural waters within the PtpA catalytic pocket, i.e., the hydrogen bond network is dependent on the presence of Cys11 and Cys16.</text>
+      <annotation id="C235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="22528" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="22535" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="C237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="22540" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="22547" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="22556" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="22569" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="22579" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22773" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22886" length="5"/>
+        <text>H218O</text>
+      </annotation>
+      <annotation id="C258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23009" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="23129" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="23141" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="23211" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="23218" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="O32">
+        <infon key="type">OTHER</infon>
+        <location offset="23230" length="14"/>
+        <text>C11A/C16A/C53A</text>
+      </annotation>
+      <annotation id="C254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23302" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23318" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="23349" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="23359" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23559" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23574" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23660" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="23746" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="O33">
+        <infon key="type">OTHER</infon>
+        <location offset="23756" length="4"/>
+        <text>C53A</text>
+      </annotation>
+      <annotation id="C264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="23901" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O34">
+        <infon key="type">OTHER</infon>
+        <location offset="23958" length="9"/>
+        <text>C16A/C53A</text>
+      </annotation>
+      <annotation id="C265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="23979" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O35">
+        <infon key="type">OTHER</infon>
+        <location offset="24074" length="9"/>
+        <text>C11A/C16A</text>
+      </annotation>
+      <annotation id="C266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="24095" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O36">
+        <infon key="type">OTHER</infon>
+        <location offset="24237" length="4"/>
+        <text>C11S</text>
+      </annotation>
+      <annotation id="C246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="24250" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="24277" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="O37">
+        <infon key="type">OTHER</infon>
+        <location offset="24317" length="4"/>
+        <text>C11S</text>
+      </annotation>
+      <annotation id="C267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="24489" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24518" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="24549" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="24559" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="O38">
+        <infon key="type">OTHER</infon>
+        <location offset="24630" length="4"/>
+        <text>C11S</text>
+      </annotation>
+      <annotation id="O39">
+        <infon key="type">OTHER</infon>
+        <location offset="24636" length="4"/>
+        <text>C16S</text>
+      </annotation>
+      <annotation id="C252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24707" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="O40">
+        <infon key="type">OTHER</infon>
+        <location offset="24826" length="4"/>
+        <text>C11S</text>
+      </annotation>
+      <annotation id="C250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24998" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25186" length="6"/>
+        <text>waters</text>
+      </annotation>
+      <annotation id="C256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25237" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="25291" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="25301" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25341</offset>
+      <text>Our biophysical analysis also revealed differences in the folding of the site-directed mutant C11/16/53A and the chemical mutant Dha11/16/53 (Figure S15). It is clear that modification of Cys11 and Cys16 disrupts PtpA structure, and because of this disruption, it is likely that the structural waters within the PtpA catalytic cleft are displaced. It is useful to consider, however, that the structural changes that led to the displacement of the water-bridging motif appear entirely unalike in the Dha and the site-directed mutant. In the site-directed C11/16/53A, as the protein is translated it acquires disrupted folding, which is induced by the absence of Cys11, Cys16, and Cys53; therefore, the water-bridging mechanism is not formed. On the other hand, in the Dha11/16/53 mutant, it is feasible to hypothesize that because of the harsh conditions (Figure S2; 24 hr incubation at 37°C and saturated compound concentrations, i.e., 60 mM of 1), the catalytic pocket topology was disrupted, the structural waters were displaced, and hence simultaneous Cys11 and Cys16 modification was allowed. In these conditions, we were not able to achieve complete conversion of Dha11/16/53 (Figure S2). Two protein populations in the MS spectra (50/50 ratio, single Dha53 and triple Dha11/16/53) were persistent during the longer incubation times tested. Nevertheless, the full Dha11/16/53 conversion was possible after forced disruption of the protein structure, induced by the significant changes we made in the pH and compound concentrations (data not shown). We assume that the water-bridging motif is well stabilized and structurally tight, to the point that only a part of the protein population undergoes the full chemical modification in the designed conditions we tested. This observation offers a credible explanation for the absence of stoichiometric correlation in the Cys-to-Dha chemical mutation, given that the water-bridging motif ultimately mediates Cys11 and Cys16 accessibility and reactivity. Moreover, it is reasonable to assume that this water motif can also mediate the access of nitrosative and oxidative species to the catalytic pocket, consequently preventing the overoxidation of Cys11. Such features are consistent with the known resistance of Mtb PtpA to the oxidative conditions that prevail within an infected host macrophage.</text>
+      <annotation id="O41">
+        <infon key="type">OTHER</infon>
+        <location offset="25435" length="10"/>
+        <text>C11/16/53A</text>
+      </annotation>
+      <annotation id="C272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="25470" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="25529" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="25539" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25788" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="25840" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="26002" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="26009" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="26020" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26042" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="26108" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="26396" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="26406" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="26510" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="26598" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="26615" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="26710" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26914" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="27213" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015102</infon>
+        <location offset="27220" length="3"/>
+        <text>Dha</text>
+      </annotation>
+      <annotation id="C284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27258" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="27299" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="27309" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27392" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="27539" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27696</offset>
+      <text>The Cys-Cys Water-Bridging Motif Is Conserved among Phosphatases with Structurally Similar Catalytic Clefts</text>
+      <annotation id="C297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="27700" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="C296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27708" length="5"/>
+        <text>Water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27804</offset>
+      <text>The Catalytic Pocket Is Highly Conserved among the Protein Phosphatase Family</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27882</offset>
+      <text>(A) Superposition of selected active-site residues and waters of PtpA from M. tuberculosis (PDB: 1U2P) in gray, YwlE arginine phosphatase from G. stearothermophilus (PDB: 4PIC) in yellow, tyrosine phosphatase AmsI from E. amylovora (PDB: 4D74) in cyan, and TT1001 protein from T. thermophilus HB8 (PDB: 2CWD) in gray.</text>
+      <annotation id="O43">
+        <infon key="type">OTHER</infon>
+        <location offset="27994" length="25"/>
+        <text>YwlE arginine phosphatase</text>
+      </annotation>
+      <annotation id="O42">
+        <infon key="type">OTHER</infon>
+        <location offset="28070" length="25"/>
+        <text>tyrosine phosphatase AmsI</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28204</offset>
+      <text>(B) The active site from the Mtb PtpA crystal structure.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28261</offset>
+      <text>(C–F) The active sites from (C) S. aureus, (D) G. stearothermophilus, (E) E. amylovora, and (F) T. thermophilus HB8. The protein residues are drawn in stick representation, and conserved water molecules are drawn as spheres. Atom colors are gray for carbon, blue for nitrogen, red for oxygen, yellow for sulfur, bright orange for selenium, and orange for phosphorus.</text>
+      <annotation id="C306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="28448" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="28511" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="28528" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="28546" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="28565" length="6"/>
+        <text>sulfur</text>
+      </annotation>
+      <annotation id="C304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012643</infon>
+        <location offset="28591" length="8"/>
+        <text>selenium</text>
+      </annotation>
+      <annotation id="C305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010758</infon>
+        <location offset="28616" length="10"/>
+        <text>phosphorus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28634</offset>
+      <text>Motivated by the presence of a Cys-Cys water-bridging motif in the catalytic pocket of Mtb PtpA, we decided to investigate whether this mechanism is conserved among other bacterial PTPs. Several structures of PTPs have been determined either by X-ray crystallography or solution nuclear magnetic resonance. However, a large number of these have different structures that are dependent on their crystal form or ligand. Using the FATCAT algorithm operating in rigid mode, we found that the structures of phosphatases from Vibrio cholera O395 (PDB: 4LRQ ), Entamoeba histolytica (PDB: 3IDO ), S. aureus (PDB: 3ROF ), Thermus thermophilus HB8 (PDB: 2CWD), and arginine phosphatases from Erwinia amylovora (PDB: 4D74 ) and Geobacillus stearothermophilus (PDB: 4PIC) shared the highest structural similarity. Next, we performed searches on PDBeFold by using chain A of the Mtb PtpA structure as a query (PDB: 1U2P ); we found 19 top hits with alignments (Figure S19) sharing 27%–42% sequence identity and with an RMSD of Cα atomic coordinates varying from 1.23 to 1.66 Å. The Mtb PtpA belongs to the low-molecular-weight PTPase family in which the catalytic pocket is highly conserved, with a signature sequence of (H/V)CX5R(S/T)., ,  This prompted us to investigate if the water molecules found in the Mtb PtpA catalytic pocket (W171, W182, and W212, in PDB: 1U2P) were also present in the X-ray structures of other PTPs. Importantly, a superposition analysis of the closest 3D structures shows the presence of these water molecules in the active-site cavity. As demonstrated by our structural analysis data (Figure 4), a water-molecule network comprises an important allosteric arrangement that stabilizes the catalytic pocket of bacterial PTPs. A water molecule has also been invoked to play a role in the reaction mechanism of an arginine phosphatase from E. amylovora. Moreover, it has also been hypothesized as a mechanism of oxidative regulation in Ptp1B from S. aureus that involves the reversible oxidation of the catalytic Cys to a sulfenate, thus suggesting a potential role of a water molecule. Nevertheless, the observation of a conserved water network is not observed in all homologous PTPs, given that in some X-ray structures these water molecules are most likely displaced by ligands found within the active site., , </text>
+      <annotation id="C310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="28665" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="C309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="28673" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="O46">
+        <infon key="type">OTHER</infon>
+        <location offset="29290" length="21"/>
+        <text>arginine phosphatases</text>
+      </annotation>
+      <annotation id="C311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="29902" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30146" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30251" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30378" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="O47">
+        <infon key="type">OTHER</infon>
+        <location offset="30462" length="20"/>
+        <text>arginine phosphatase</text>
+      </annotation>
+      <annotation id="C307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30661" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013434</infon>
+        <location offset="30670" length="9"/>
+        <text>sulfenate</text>
+      </annotation>
+      <annotation id="C315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30719" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30780" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30876" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>30973</offset>
+      <text>Averaged Second-Derivative FTIR Spectra of PtpA and SptpA in the 3,100−2,700 cm−1 Region Measured at pH 8.0</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31086</offset>
+      <text>The samples were hydrated with H2O or H218O.</text>
+      <annotation id="C320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="31117" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="31124" length="5"/>
+        <text>H218O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31131</offset>
+      <text>(A) FTIR spectra of native Mtb PtpA. Labeled blue frequencies correspond to the water O–H stretching vibrations.</text>
+      <annotation id="C322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="31211" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31246</offset>
+      <text>(B) FTIR spectra of native SptpA. Labeled red frequencies correspond to the water O–H stretching vibrations.</text>
+      <annotation id="C323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="31322" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31357</offset>
+      <text>All spectra represent an average of three replicates from three independent experiments. The width of the line indicates ± standard error of the mean.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31509</offset>
+      <text>To confirm whether the Cys-Cys water-bridging motif is conserved among bacterial PTPs, we chose the SptpA protein from S. aureus. This phosphatase adopts the general architecture of the low-molecular-weight PTPase family, displaying an α/β fold with a central four-stranded parallel β sheet providing the scaffold for the active site. Importantly, the catalytic Cys8 as well as the backdoor Cys13 in SptpA from S. aureus are structurally identical to the catalytic Cys11 and backdoor Cys16 in Mtb PtpA. Next, using FTIR, we analyzed whether absorbances indicating a Cys-Cys water-bridging motif for Mtb PtpA were also present for SptpA from S. aureus. Similarly, the native SptpA also yielded a broad IR absorbance spectrum with five main bands (2,936 cm−1, 2,917 cm−1, 2,905 cm−1, 2,895 cm−1, and 2,852 cm−1) that underwent a change in the corresponding vibrational energy upon hydration with H218O (Figure 5). Importantly, the IR band at 2,936 cm−1 was found in the spectra of both phosphatases, indicating the presence of a water molecule. This observation points toward a conserved Cys-Cys water-bridging motif among bacterial PTPs. In addition, the absorbance spectra (Figure S20) of both proteins showed similar peaks in the region 3,000–2,800 cm−1. Importantly, this region can potentially be used to spectroscopically probe the catalytic pocket of similar phosphatases.</text>
+      <annotation id="C328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="31532" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="C325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="31540" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="31871" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="31900" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="31974" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="31993" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="32075" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="C326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="32083" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="32403" length="5"/>
+        <text>H218O</text>
+      </annotation>
+      <annotation id="C327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="32536" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C046557</infon>
+        <location offset="32595" length="7"/>
+        <text>Cys-Cys</text>
+      </annotation>
+      <annotation id="C331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="32603" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>32918</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32930</offset>
+      <text>Using a robust post-expression mutagenesis approach, we have demonstrated that the non-catalytic residues Cys53 in PtpA and Cys259 in YopH are the most reactive Cys residues in phosphatases of clinically relevant bacteria. Although steric hindrance is likely to play a role in the observed regioselective modification, we confirmed a water-mediated structural motif that modulates the interplay between the catalytic Cys11 and the backdoor Cys16 at a molecular level in Mtb PtpA. Such structural motif is also found in the phosphatase SptpA from S. aureus, which indicates that the mechanism might actually be conserved among phosphatases that share structural identity in the catalytic cleft. This hitherto unknown regulation mechanism is key for protein structure and function and sharply contrasts with the well-established disulfide bridge paradigm. Significantly, this mechanism also provides a molecular rationale for selective PtpA Cys53 oxidation by GSNO and H2O2 and insights into new biology and host-pathogen interaction in PtpA resistance given that all of the Cys residues might work synergistically in an elegant interplay to protect the protein against the harsh macrophage environment. Considering that drug-target biology assessment and validation is a critical preliminary step toward the development of innovative therapeutics, our strategy provides a broadly applicable platform in chemical biology and molecular medicine to aid in the understanding of native protein dynamics.</text>
+      <annotation id="C348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="33036" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="33054" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="33091" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="33264" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="33347" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="33370" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004220</infon>
+        <location offset="33757" length="9"/>
+        <text>disulfide</text>
+      </annotation>
+      <annotation id="C352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="33869" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026422</infon>
+        <location offset="33888" length="4"/>
+        <text>GSNO</text>
+      </annotation>
+      <annotation id="C345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="33897" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="34003" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>34429</offset>
+      <text>Experimental Procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34453</offset>
+      <text>Full experimental procedures are provided in the Supplemental Information.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>34528</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34549</offset>
+      <text>G.J.L.B. conceived the study. G.J.L.B. and H.T. supervised the study. J.B.B. performed protein expression, purification and modification, and biophysical characterization experiments. L.D. and L.A.R. performed protein expression and purification. T.R. and F.C. performed molecular dynamic simulations. O.B. analyzed protein-modification reactions. J.B.B., F.A.A., and L.D. performed FTIR experiments. M.C.M. performed the structural alignments. T.B.S. and W.S. conducted the WaterMap and covalent docking calculations and analysis. T.R., J.B.B., and G.J.L.B. wrote the manuscript with contributions from all authors.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>35166</offset>
+      <text>References and Notes</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40939</offset>
+      <text>Supplemental Information</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>40964</offset>
+      <text>Supplemental Information includes Supplemental Experimental Procedures, protein sequences, 32 figures, and 1 table and can be found with this article online at http://dx.doi.org/10.1016/j.chempr.2017.07.009.</text>
+    </passage>
+  </document>
+</collection>

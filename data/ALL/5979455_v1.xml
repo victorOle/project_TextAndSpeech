@@ -1,0 +1,2313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181110</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5979455</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Lee;given-names:Ho Won</infon>
+      <infon key="name_2">surname:Oh;given-names:Ji Min</infon>
+      <infon key="name_1">surname:Zhu;given-names:Liya</infon>
+      <infon key="name_0">surname:Kalimuthu;given-names:Senthilkumar</infon>
+      <infon key="article-id_pmid">29584688</infon>
+      <infon key="year">2018</infon>
+      <infon key="article-id_publisher-id">ijms-19-01002</infon>
+      <infon key="article-id_pmc">5979455</infon>
+      <infon key="article-id_doi">10.3390/ijms19041002</infon>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="issue">4</infon>
+      <infon key="elocation-id">1002</infon>
+      <infon key="volume">19</infon>
+      <infon key="license">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).</infon>
+      <infon key="name_10">surname:Lee;given-names:Jaetae</infon>
+      <infon key="name_11">surname:Ahn;given-names:Byeong-Cheol</infon>
+      <infon key="kwd">herpes simplex virus thymidine kinase (HSV1-sr39TK) mesenchymal stem cells (MSCs) optical imaging colon cancer suicide gene therapy</infon>
+      <infon key="name_9">surname:Lee;given-names:Sang-Woo</infon>
+      <infon key="name_8">surname:Jeong;given-names:Shin Young</infon>
+      <infon key="name_7">surname:Jeon;given-names:Yong Hyun</infon>
+      <infon key="name_6">surname:Baek;given-names:Se Hwan</infon>
+      <infon key="name_5">surname:Rajendran;given-names:Ramya Lakshmi</infon>
+      <infon key="name_4">surname:Gangadaran;given-names:Prakash</infon>
+      <offset>0</offset>
+      <text>Regulated Mesenchymal Stem Cells Mediated Colon Cancer Therapy Assessed by Reporter Gene Based Optical Imaging</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>111</offset>
+      <text>Colorectal cancer is the most common cancer in both men and women and the second most common cause of cancer-related deaths. Suicide gene-based therapy with suicide gene-transduced mesenchymal stem cells (MSCs) is a promising therapeutic strategy. A tetracycline-controlled Tet-On inducible system used to regulate gene expression may be a useful tool for gene-based therapies. The aim of this study was to develop therapeutic MSCs with a suicide gene that is induced by an artificial stimulus, to validate therapeutic gene expression, and to monitor the MSC therapy for colon cancer using optical molecular imaging. For our study, we designed the Tet-On system using a retroviral vector and developed a response plasmid RetroX-TRE (tetracycline response element) expressing a mutant form of herpes simplex virus thymidine kinase (HSV1-sr39TK) with dual reporters (eGFP-Fluc2). Bone marrow-derived MSCs were transduced using a RetroX-Tet3G (Clontech, CA, USA) regulatory plasmid and RetroX-TRE-HSV1-sr39TK-eGFP-IRES-Fluc2, for a system with a Tet-On (MSC-Tet-TK/Fluc2 or MSC-Tet-TK) or without a Tet-On (MSC-TK/Fluc2 or MSC-TK) function. Suicide gene engineered MSCs were co-cultured with colon cancer cells (CT26/Rluc) in the presence of the prodrug ganciclovir (GCV) after stimulation with or without doxycycline (DOX). Treatment efficiency was monitored by assessing Rluc (CT26/Rluc) and Fluc (MSC-Tet-TK and MSC-TK) activity using optical imaging. The bystander effect of therapeutic MSCs was confirmed in CT26/Rluc cells after GCV treatment. Rluc activity in CT26/Rluc cells decreased significantly with GCV treatment of DOX(+) cells (p &lt; 0.05 and 0.01) whereas no significant changes were observed in DOX(−) cells. In addition, Fluc activity in also decreased significantly with DOX(+) MSC-Tet-TK cells, but no signal was observed in DOX(−) cells. In addition, an MSC-TK bystander effect was also confirmed. We assessed therapy with this system in a colon cancer xenograft model (CT26/Rluc). We successfully transduced cells and developed a Tet-On system with the suicide gene HSV1-sr39TK. Our results confirmed the therapeutic efficiency of a suicide gene with the Tet-On system for colon cancer. In addition, our results provide an innovative therapeutic approach using the Tet-On system to eradicate tumors by administration of MSC-Tet-TK cells with DOX and GCV.</text>
+      <annotation id="0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="361" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="385" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="759" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="844" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="199">
+        <infon key="type">OTHER</infon>
+        <location offset="924" length="16"/>
+        <text>thymidine kinase</text>
+      </annotation>
+      <annotation id="200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1154" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1166" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1186" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1207" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="1362" length="11"/>
+        <text>ganciclovir</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="1375" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="1414" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="gy15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="1427" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1512" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="2XXx5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="1643" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="1720" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="1737" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="1818" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="1896" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1907" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="1951" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="2158" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="2283" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="2393" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="2452" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="2470" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="2478" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2487</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2503</offset>
+      <text>Colorectal cancer (CRC) is the third leading cause of cancer death in men and women in the United States and the second most common cause of cancer-related deaths in both men and women world-wide. With regular screening, colon cancer can be detected early, when treatment is most effective. When detected and treated at a later stage, recurrence of the cancer is more common. Therapeutic strategies are available for treatment of CRC; however, the five-year survival rate is still only about 65% (Available online: ). Therefore, new therapeutic strategies are urgently needed to improve the prognosis of CRC. In this regard, mesenchymal stem cells (MSCs) carrying therapeutic genes might be one therapeutic option. </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>3219</offset>
+      <text>MSCs are multipotent cells that preferentially reside in perivascular niches in all human tissues and organs, including adipose tissue, bone marrow, heart and lung tissue, and neonatal tissues including amniotic membranes, umbilical cords, and placentas. The application of MSCs to drug therapy extends beyond tumor and immune suppression, and because of their tumor-tropic and migratory properties, MSCs have been engineered to express pro-apoptotic, anti-proliferative, and anti-angiogenic factors for localized and systemic treatment of diseases. As such, MSCs have become important drug delivery candidates, generating optimism that therapies with greater efficacy can be developed. Of particular note, MSCs have been used in gene therapy, and experimental studies are being conducted to determine their therapeutic potential in cardiovascular and neurodegenerative disorders. One of the main advantages of using MSCs as a drug delivery system is their ability to self-renew, allowing them to act as “self-maintaining drug-delivery vehicles”. Studies have been performed on the delivery of therapeutic genes by MSCs that capitalize on MSC’s self-proliferation and differentiation capacities and that have employed MSCs transduced with therapeutic genes such as tumor necrosis factor (TNF)-related apoptosis-inducing ligand (TRAIL), a trans-membrane protein that causes selective apoptosis in tumor cells. </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4635</offset>
+      <text>Gene-directed enzyme prodrug therapy (GDEPT), also known as suicide gene therapy, takes advantage of the properties of MSCs and, combined with a prodrug, offers additional promise as a therapy. This combined system relies on a vector to deliver a transgene and prodrug to the target (i.e., tumor) cell. The suicide gene is transcribed and translated into an active enzyme in the MSCs, which in turn converts the prodrug to its cytotoxic form leading to the death of the MSCs, as well as to the death of nearby cancer cells through a mechanism called the bystander effect, eventually resulting in tumor regression. The most commonly used suicide gene-based therapy incorporates herpes simplex virus type 1-thymidine kinase (HSV1-TK) and the drug ganciclovir (GCV), which is converted into the cytotoxic GCV triphosphate.</text>
+      <annotation id="327">
+        <infon key="type">OTHER</infon>
+        <location offset="5340" length="16"/>
+        <text>thymidine kinase</text>
+      </annotation>
+      <annotation id="gy33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="5380" length="11"/>
+        <text>ganciclovir</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="5393" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C092309</infon>
+        <location offset="5437" length="16"/>
+        <text>GCV triphosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>5455</offset>
+      <text>In order to be of use in patients, therapeutic gene-based systems with enhanced safety are required. The expression of a transduced therapeutic gene needs to be controlled to prevent adverse side effects caused by inappropriate expression of the gene. A tetracycline-inducible system (Tet-system) has been used to control long-term transgene expression in small animal models. This inducible system is regulated by the presence or absence of doxycycline (DOX) (Tet-On or Tet-Off systems). The suicide gene HSV1-sr39TK combined with a Tet-system may therefore be a useful tool for treating cancer with reduced side effects that are commonly related to gene-based therapy. In the current study, MSCs with DOX-inducible HSV1-sr39TK were created and their bystander cytotoxic potential was assessed in colon cancer cells, both in an in vitro and in vivo model, using an optical molecular imaging system.</text>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="5709" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="5740" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="5897" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="gy42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="5910" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="5916" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="5926" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="5989" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="6158" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6355</offset>
+      <text>2. Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6366</offset>
+      <text>2.1. Characterization of MSC-Tet-TK and MSC-TK</text>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="6395" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6413</offset>
+      <text>The transduced MSC-Tet-TK and MSC-TK cells were created by retroviral transfection, and eGFP-positive cells were sorted by FACS Aria III. Cells with an eGFP concentration of more than 50% were used for further study. The expression of MSC-TK cell eGFP and MSC-Tet-TK cell eGFP after induction with DOX (2 µg/mL) for 24 h (Figure 1A) was confirmed by confocal microscopy image. Morphology of MSC-Tet-TK cells are heterogeneous and not uniform, because MSCs are a heterogeneous cell population. MSC-Tet-TK cells with eGFP positive revealed more rod-like morphology than others and it might be related to the genetic alteration. Some of MSC-TK cells revealed higher eGFP signals by higher eGFP expression, because protein synthesis can vary with individual cells by different copy numbers of the transduced gene. The Fluc activity of MSC-TK cells increased with increasing cell numbers (Figure 1B, R2 = 0.90). The BLI signal in MSC-Tet-TK cells increased 10, 15, 18, 22, 25, and 29-fold with increasing concentrations of DOX (0.0625 to 2 µg/mL), whereas no signal was observed in DOX(−) cells (Figure 1C). Furthermore, we found that Fluc activity increased 17, 19, 20, 20, 15, and 7-fold with increasing DOX treatment (0.5 to 4 µg/mL) for 48 h, and then decreased at 8 and 16 µg/mL DOX (Figure S1). Therefore, in this study, we elected to use 2 µg/mL DOX for transgene activation.</text>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="6432" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="6673" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="6711" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="6808" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="6910" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="7342" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="7431" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="7490" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="7614" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="7692" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="7761" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>7811</offset>
+      <text>2.2. 3H-PCV Uptake Assay</text>
+      <annotation id="gy59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="7816" length="6"/>
+        <text>3H-PCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>7836</offset>
+      <text>In order to confirm the functional activity of transduced cells, we performed a 3H-PCV uptake assay. The suicide gene HSV1-sr39TK converts PCV into penciclovir monophosphate, and, subsequently, cellular monophosphate kinases and diphosphate kinases convert penciclovir monophosphate to the triphosphate form. The accumulation of penciclovir inside the cells indirectly indicates the functional efficiency of the HSV1-sr39TK enzyme expressed in cells. MSC-TK and DOX(+) MSC-Tet-TK cells showed higher 3H-PCV uptake compared to naive MSCs and DOX(−) MSC-Tet-TK cells (Figure 1D).</text>
+      <annotation id="gy71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="7916" length="6"/>
+        <text>3H-PCV</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539</infon>
+        <location offset="7975" length="3"/>
+        <text>PCV</text>
+      </annotation>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539,MESH:D010755</infon>
+        <location offset="7984" length="25"/>
+        <text>penciclovir monophosphate</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">OTHER</infon>
+        <location offset="8039" length="21"/>
+        <text>monophosphate kinases</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">OTHER</infon>
+        <location offset="8065" length="19"/>
+        <text>diphosphate kinases</text>
+      </annotation>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539,MESH:D010755</infon>
+        <location offset="8093" length="25"/>
+        <text>penciclovir monophosphate</text>
+      </annotation>
+      <annotation id="gy64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005692</infon>
+        <location offset="8126" length="12"/>
+        <text>triphosphate</text>
+      </annotation>
+      <annotation id="gy70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539</infon>
+        <location offset="8165" length="11"/>
+        <text>penciclovir</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="8298" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="8309" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy60">
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="8336" length="6"/>
+        <text>3H-PCV</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="8377" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="8388" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8416</offset>
+      <text>2.3. Characterization of CT26/Rluc Cells</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8457</offset>
+      <text>The Rluc activities of stably transduced CT26/Rluc and parent CT26 cells were determined by BLI. CT26/Rluc activity increased with increasing cell number (Figure S2A, R2 = 0.91). mCherry expression was also confirmed by fluorescence microscopy (Figure S2B).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8715</offset>
+      <text>2.4. Cell Viability of MSCs after Treatment with DOX and GCV</text>
+      <annotation id="gy75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="8764" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="8772" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8776</offset>
+      <text>To confirm drug (GCV and DOX) effects in naive MSCs, we analyzed cell viability. We found that GCV did not affect naive MSC viability (Figure S3A) after 48 h of treatment. Since we used a DOX-inducible gene system for gene activation, we also assessed the effect of DOX on the viability of naïve MSCs. We found that MSC cell viability was reduced significantly at 8 and 16 µg/mL DOX (p &lt; 0.05) (Figure S3B).</text>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="8793" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="8801" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="8871" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="8964" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="9042" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="9155" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9188</offset>
+      <text>2.5. Fluc Activity of Suicide Gene-Transduced MSCs after Treatment with GCV</text>
+      <annotation id="gy83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="9260" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9264</offset>
+      <text>The relative Fluc activity of MSC-Tet-TK cells decreased 56, 50, 43, 34, 28, and 22% in DOX(+) MSC-Tet-TK cells treated with increasing concentrations of GCV (0.25, 0.5, 1, 2, 4, or 8 µM, respectively). In contrast, the DOX(−) group did not show any detectable Fluc signal. In addition, the relative Fluc activity of MSC-TK cells also decreased 62, 54, 52, 45, 41, and 37% with increasing concentrations of GCV (Figure 2). Therefore, in this study, we successfully developed MSCs with a Tet-On system (MSC-Tet-TK), and confirmed the induced expression of Fluc in the presence of DOX, as well as the cytotoxic effect of GCV.</text>
+      <annotation id="227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="9298" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="9352" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="9363" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="9418" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="9484" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="9671" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="9751" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="9770" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="9843" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="9883" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9892</offset>
+      <text>2.6. Bystander Effects on Colon Cancer Cells with Suicide Gene Expressed by Engineered MSCs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9984</offset>
+      <text>The therapeutic effect of MSC-Tet-TK and MSC-TK on colon cancer cells was analyzed. To assess this, we initially co-cultured naïve MSCs with CT26/Rluc cells and treated them with GCV for 48 h to assess the effect of GCV on naive MSCs. The Rluc activity was not changed by GCV treatment, confirming that GCV has no effect on naive MSCs (Figure 3A). Further, to evaluate the bystander effect, we co-cultured either MSC-Tet-TK or MSC-TK cells separately with CT26/Rluc cells at a 1:1 ratio, and increasing concentrations of GCV were administered (0.125 to 1 µM), with or without prior DOX induction. The relative Rluc activity of CT26/Rluc cells significantly declined 69, 49, 39, and 35% (p &lt; 0.01) with increasing concentrations of GCV (Figure 3B) in DOX(+) MSC-Tet-TK cells co-cultured with CT26/Rluc cells. However, the relative Rluc activity of CT26/Ruc cells did not decrease significantly (104, 104, 101, and 98%) with increasing GCV concentrations (Figure 3B) in DOX(−) MSC-Tet-TK cells co-cultured with CT26/Rluc cells. In addition, the relative Fluc activity of MSC-Tet-TK cells significantly decreased 61, 54, 48, and 46% with GCV (0.125 to 1 µM respectively), demonstrating the function of the Tet-On HSV1-sr39TK/GCV suicide system in DOX(+) cells. In contrast, there was no Fluc signal observed in the DOX(−) MSC-Tet-TK cells (Figure S4). In addition, the therapeutic effect of MSC-TK cells was also monitored in CT26/Rluc cells, and the Rluc activity was found to be decreased by 86, 67, 42, and 35%, respectively (p &lt; 0.05, 0.01), after 48 h of GCV treatment (Figure 3B). The relative Fluc activity of MSC-TK cells also significantly decreased 98, 76, 68, and 43% after 48 h of GCV treatment (Figure S4). Therefore, these studies confirmed the bystander effect of MSCs expressing the suicide gene (MSC-Tet-TK or MSC-TK) in an in vitro colon cancer cell line.</text>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="10014" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10163" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10200" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10256" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10287" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="10401" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10505" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="10566" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10715" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="10734" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="10745" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="10918" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="10952" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="10963" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="11057" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="11119" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="11187" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="11206" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="11228" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="11296" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="11307" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="11541" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="11674" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="11798" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11863</offset>
+      <text>2.7. Effects of Suicide Gene-Transduced MSCs on Colon Cancer in a Mouse Model</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11941</offset>
+      <text>To determine the effect of suicide gene-transplanted MSCs on colon cancer growth, Rluc imaging was used to monitor tumor progression. After suicide gene-transduced MSC transplantation and GCV treatment, we found, by monitoring CT26/Rluc activity using BLI, that tumor growth was inhibited in the GCV+DOX-treated MSC-Tet-TK group (Figure 4A) compared to that in the DOX-only treatment group. The MSC-TK+GCV-treated group also exhibited significantly decreased Rluc activity compared with that of the MSC-TK group (Figure 4B). We also monitored the survival of MSC-Tet-TK cells on day 1 by measuring Fluc activity. The Fluc activity on day 1 was very high in mice injected with either cell type (MSC-Tet-TK and MSC-TK), but declined after administration of GCV compared to mice injected with the cells alone (Figure S6A,B). Tumor weights were significantly (p &lt; 0.05) reduced in the MSC-Tet-TK+DOX+GCV-treated group compared with those in the MSC-Tet-TK+DOX group (Figure 4C). The body weight of the treatment group was lower than untreated group, but it was not statistically significant (data not shown).</text>
+      <annotation id="gy121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="12129" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="12237" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="12241" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="12257" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="12306" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="12343" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="12504" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="12639" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="12696" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="12826" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="12833" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="12837" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="12886" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="12893" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>13046</offset>
+      <text>2.8. In Vivo Tumor Apoptosis Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>13084</offset>
+      <text>To further confirm the antitumor effect of transduced MSC-mediated apoptosis in vivo, we utilized a tumor apoptosis assay. The ApopTag Peroxidase In Situ Apoptosis Detection Kit confirmed in vivo tumor apoptosis in the transduced MSC and GCV treatment groups; the effect was enhanced by the application of GCV. This result was confirmed by TUNEL staining. Therefore, our results suggest that suicide gene-transduced MSCs with (MSC-Tet-TK) or without the Tet-On system (MSC-TK) inhibit tumor growth by inducing cell apoptosis in vivo (Figure 5A,B).</text>
+      <annotation id="79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="13322" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="13390" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="13515" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="13538" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>13632</offset>
+      <text>3. Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>13646</offset>
+      <text>In this current study, we successfully established an “on” or “off” switch for the suicide gene HSV1-sr39TK MSCs also co-expressing a Fluc2 reporter gene, and we assessed the therapeutic effect of this system, both with and without the Tet-On function, in a pre-established tumor using optical imaging. For this study, we used a retroviral vector to stably transfect cells and then selected the transduced MSCs for further use. The FACS-sorted immortalized MSCs expressing HSV1-sr39TK exhibited in vitro susceptibility to GCV. In the present study, we selected the transduced MSCs (MSC-Tet-TK and MSC-TK) after induction with or without DOX and confirmed the cell-killing effect of GCV following DOX induction. We also showed that suicide gene-transduced MSCs played an effective antitumor role in a human colon cancer xenograft model by inducing cell apoptosis in xenograft tumor cells. The colon cancer cells used in this study had previously been transduced with mCherry-Rluc using lentiviral particles. The MSCs were introduced into the tumor by direct injection. The MSCs and CT26 tumor cells could each easily be monitored by measuring their respective Fluc and Rluc activities by bioluminescent imaging (BLI) using the substrates d-Luciferin and coelenterazine, respectively.</text>
+      <annotation id="246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="13882" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="14168" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="14232" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="14283" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="14328" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="14342" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C532924</infon>
+        <location offset="14883" length="11"/>
+        <text>d-Luciferin</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017144</infon>
+        <location offset="14899" length="14"/>
+        <text>coelenterazine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>14937</offset>
+      <text>The clinical safety of traditional constitutively overexpressed therapeutic genes is often compromised by side effects related to the failure to control the timing and level of gene expression, which are critical for the functions of genes. The Tet system can be used to induce gene expression and transcription, and to reversibly turn on or off expression in the presence of an inducing factor such as tetracycline or doxycycline (DOX). In this study, we used the “Tet-On 3G” protein, which is considerably more sensitive to DOX than the native Tet-On system and provides for much higher expression of the HSV1-sr39TK suicide gene. We assessed the effect of the pro-drug GCV in the genetically transduced MSCs (either with or without the Tet-On system, namely MSC-Tet-TK and MSC-TK cells, respectively), using BLI. The results of our study showed that these suicide gene-expressing MSCs responded to the prodrug in a dose dependent manner (Figure 2).</text>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="15182" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="15340" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="gy149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="15356" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="15369" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="15403" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="15463" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="15483" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="15609" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="15676" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="15702" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>15893</offset>
+      <text>Next, we studied the consequence of prodrug conversion to its cytotoxic form inside the suicide gene-transduced MSCs by assessing the ability of these MSCs to kill neighboring cancer cells (the so-called bystander effect). The results showed that MSCs either with (MSC-Tet-TK) or without (MSC-TK) the DOX system significantly induced cell death in co-cultures with colon cancer cells (CT26/Rluc) following treatment with increasing concentrations of GCV, as evidenced by decreases in Rluc imaging and relative Rluc activity in the co-cultured colon cancer cells (Figure 3B). Importantly, GCV did not have any effect on Rluc activity in co-cultures of colon cancer cells (CT26/Rluc) with naive MSC (Figure 3A). MSCs expressing the suicide gene HSV1-TK that are sensitive to GCV can then facilitate the permeation of phosphorylated GCV to neighboring cells that do not express the suicide gene, a phenomenon known as the bystander effect that has been observed in U-87 brain cancer cells in the presence of GCV. Gap junctions may exist between MSCs and the colon cancer cells used here because the bystander effect induced by GCV triphosphate has been shown to be dependent on active transport via gap junction intercellular molecules. This is also supported by the findings of another study by Matuskova et al., who demonstrated the formation of gap junctions between MSCs and cancer cells after co-culture. Our data, therefore, confirmed the bystander effect in co-cultures of MSCs with colon cancer cells in vitro.</text>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="16162" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="16194" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="16343" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="16481" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="16666" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="16723" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="16898" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C092309</infon>
+        <location offset="17017" length="16"/>
+        <text>GCV triphosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>17409</offset>
+      <text>One advantage of our system is that therapeutic gene expression was linked with expression of a reporter gene Fluc2, meaning that expression of the therapeutic gene could be monitored simply by measuring Fluc expression. Therefore, the combination of the inducible Tet system and the fluorescent reporter gene allow for very easy control of the expression of the therapeutic gene, and this might be helpful in reducing side effects related to the expression of the therapeutic gene. In addition, the molecular imaging approach used in this study is ideally suited to evaluate in vivo tumor progression and regression in the evaluation of new cancer therapies.</text>
+      <annotation id="254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="17674" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>18069</offset>
+      <text>Kucerova et al. successively applied retrovirus-transfected with cytosine deaminase (CD) into human adipose tissue MSCs for treating colon cancer. Higashi et al. developed a successful cancer vaccine strategy using combined IL18 and HSV-TK suicide gene therapy. However, there is no specific study for the treatment of colon cancer with the suicide gene of thymidine kinase. MSCs expressing thymidine kinase suicide gene has been used for treating glioblastoma, breast, and melanoma. Apart from other studies, the main advantage of the present study is monitoring the therapeutic gene expression which was controlled by inducible Tet On system. Suicide gene based therapy can induce side effects to the normal tissues, however, if the suicide gene is delivered only to the targeted cancer cells, it does not impose any harm onto healthy cells. Targeting of cancer by using MSCs as the delivery agent and the inducible system which can regulate the transgene expression, are able to decrease toxicities of the therapy to normal tissues. This inducible system might be useful for treating other cancer types by using suicide gene or other therapeutic genes such as TRAIL, interferons, etc.</text>
+      <annotation id="321">
+        <infon key="type">OTHER</infon>
+        <location offset="18134" length="18"/>
+        <text>cytosine deaminase</text>
+      </annotation>
+      <annotation id="2XXx101">
+        <infon key="type">OTHER</infon>
+        <location offset="18426" length="16"/>
+        <text>thymidine kinase</text>
+      </annotation>
+      <annotation id="gy167">
+        <infon key="type">OTHER</infon>
+        <location offset="18460" length="16"/>
+        <text>thymidine kinase</text>
+      </annotation>
+      <annotation id="255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="18699" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>19257</offset>
+      <text>The prodrug’s bystander effect is thought to be mediated by the number of MSCs that come into contact with tumor cells, and this may therefore be an important factor in the therapeutic outcome of suicide gene-based therapies using MSCs. In the current study, we injected all suicide gene-transduced MSCs intratumorally, which guaranteed that all tumors received the MSCs. To validate the viability of MSCs after delivery to the tumors, all mice were imaged using BLI to measure Fluc activity for MSC-Tet-TK (1 mg/kg body weight DOX) and without the DOX system MSC-TK (approximately 1 × 106) were injected intra-tumorally after 24 h of DOX induction (or without induction). After treatment with GCV for 5 days and daily DOX injection to ensure stable transgene activation in in the MSC-Tet-TK cells (but not the MSC-TK cells), all of the mice were imaged using BLI again to monitor Fluc activity in order to determine whether the MSCs responded to the GCV (Figure S6A,B). To measure the effect of GCV on the viability of suicide gene-transduced MSCs, a second dose of suicide gene-transduced MSCs was injected on day 6. For the group of animals treated with MSCs having the Tet On system (MSC-Tet-TK) these were treated with DOX and GCV and compared to a group of animals also treated with MSC-Tet-TKs but only treated with DOX. Similarly, for the animals treated with MSCs not having the DOX system (MSC-TK) these were treated with GCV and compared to animals treated with MSC-TKs only. </text>
+      <annotation id="256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="19757" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19785" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19806" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19892" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="19951" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19976" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="20042" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="20208" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="20253" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="20430" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="20449" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="20481" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="20489" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="20550" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="20580" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="20645" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="20689" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>20748</offset>
+      <text>Tumor growth in vivo during treatment with MSC-Tet-TK cells was measured using BLI to assess the Rluc activity of the CT26/Rluc cells on days 0, 6, and 13. Rluc activity was found to be decreased at days 6 and 13 in the MSC-Tet-TK+DOX+GCV treatment group relative to the MSC-Tet-TK+DOX (i.e., without GCV) treatment group (Figure 4A). The therapeutic efficiency of MSC-TK cells in this same colon cancer model was also studied. We also observed that Rluc activity was decreased on days 6 and 13 in the MSC-TK+GCV treatment group compared to the MSC-TK only treatment group (Figure 4B). Based on the data, we have successfully created MSCs with a Tet-On system (MSC-Tet-TK) and confirmed their therapeutic effect after induction with DOX in a colon cancer xenograft model. Because colon cancer cells (CT26/Rluc) are known to form fast growing tumors; we elected to sacrifice the mice at day 13, after the second injection of cells and subsequent DOX and GCV treatments. After sacrifice, the tumors were excised, weighed, and the tumor tissue processed for a TUNEL assay. In MSC-Tet-TK treated animals, tumor weights decreased significantly in the DOX(+) GCV treatment group compared to the DOX group alone. Similarly, in MSC-TK treated animals there was a significant reduction in tumor weight relative to the MSC-TK group (Figure 4C). Leng et al. have shown similar data, namely that human umbilical cord-derived MSCs (hUC-MSCs), engineered to express HSV1-TK and injected into tumor-bearing mice, enhanced the therapeutic effect of GCV treatment. Administration of these hUC-MSCs suppressed the angiogenesis pathway, thereby inhibiting the migration and proliferation of MDA-MB-231 cells. In addition, Amano et al. have reported an in vivo experiment where intracranial C6 tumors in Sprague-Dawley rats were injected intratumorally with MSC-TK cells and through the bystander effect produced significant tumor growth suppression and prolonged survival time following GCV administration.</text>
+      <annotation id="261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="20795" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="20972" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="20979" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="20983" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="21023" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21030" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="21049" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="21257" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="21394" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="21413" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21481" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21693" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="21701" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="21825" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21894" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="21901" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21937" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="22281" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="22716" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>22736</offset>
+      <text>Apoptosis is widely thought to be the mechanism through which most cancer therapies induce tumor cell death. The TUNEL assay has been used extensively to assess apoptosis in vivo. In the current study, we used TUNEL staining and found an increased number of apoptotic cells in the tumors from mice treated with MSC-Tet-TK cells +DOX+GCV compared to the tumors from mice treated with MSC-Tet-TK cells +DOX (Figure 5A). Similarly, tumors from mice treated with MSC-TK cells +GCV showed an increase in apoptotic cells compared to tumors from mice treated with MSC-TK cells only (Figure 5B). These results confirm that, in mice bearing a xenograft colon cancer tumor injected with MSCs expressing the HSV1-sr39TK suicide gene (either inducible by DOX or expressed constitutively), GCV enhances apoptotic cell death in the tumor xenograft. Ryu et al. similarly studied the antitumor activity of MSCs-TK treated with valproic acid and found that this activity enhanced apoptotic cell death in intracranial gliomas since the tissue sections from TUNEL-stained glioma-bearing mice showed a significant increase in the number of apoptotic cells.</text>
+      <annotation id="267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="23051" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23065" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="23069" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="23123" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23137" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="23209" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23479" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="23513" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014635</infon>
+        <location offset="23647" length="13"/>
+        <text>valproic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>23873</offset>
+      <text>In conclusion, we have successfully produced a Tet-On-inducible therapeutic gene system linked with an optical reporter gene system, which allowed non-invasive monitoring of therapeutic gene expression both in vitro and in vivo. With this innovative reporter gene coupled Tet-On system, we can control expression of the therapeutic gene and minimize the potential for adverse impacts related to gene-based therapies. Experimental studies using various therapeutic genes such as interferon-β, interleukin-23, interleukin-2, cytosine deaminase, and TNF-related apoptosis-inducing ligand have been reported. Tet system-based noninvasive molecular imaging, a reproducible and controllable imaging tool, could also be used with other therapeutic genes. In order for MSC-based gene therapies to be introduced into the clinic, suicide gene-expressing MSCs must be examined for viability and their inability to promote tumors in vivo. The present study, however, supports the usefulness of MSCs with an inducible suicide gene for the treatment of colon cancer.</text>
+      <annotation id="269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="23920" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="24145" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="2XXx135">
+        <infon key="type">OTHER</infon>
+        <location offset="24396" length="18"/>
+        <text>cytosine deaminase</text>
+      </annotation>
+      <annotation id="271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="24478" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>24929</offset>
+      <text>4. Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>24954</offset>
+      <text>4.1. Chemicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>24969</offset>
+      <text>pRetroX-TRE3G and pRetroX-Tet3G plasmids, tetracycline-free fetal bovine serum (FBS), and DOX were purchased from Clontech (Mountain View, CA, USA). Gentamicin, a CaPO4 transfection kit, and mouse bone marrow-derived MSCs were purchased from Invitrogen (Carlsbad, CA, USA). MSCs were cultured in Dulbecco’s modified Eagle’s medium (DMEM)-F12 (HyClone, Logan, UT, USA) supplemented with 10% FBS (Hyclone), 1× GlutaMAX (Invitrogen), and 1% gentamicin (Gibco-BRL Life Technologies, Gaithersburg, MD, USA). The mouse colon cancer cell line CT26 (American Tissue Culture Collection (Manassas, VA, USA) was grown in DMEM medium supplemented with 10% FBS and 1% penicillin/streptomycin solution (HyClone).</text>
+      <annotation id="135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="25011" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="gy233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="25059" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005839</infon>
+        <location offset="25118" length="10"/>
+        <text>Gentamicin</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020243</infon>
+        <location offset="25132" length="5"/>
+        <text>CaPO4</text>
+      </annotation>
+      <annotation id="gy231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="25265" length="34"/>
+        <text>Dulbecco’s modified Eagle’s medium</text>
+      </annotation>
+      <annotation id="gy235">
+        <infon key="identifier">-</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="25301" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="gy234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="25377" length="8"/>
+        <text>GlutaMAX</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005839</infon>
+        <location offset="25407" length="10"/>
+        <text>gentamicin</text>
+      </annotation>
+      <annotation id="gy227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="25579" length="11"/>
+        <text>DMEM medium</text>
+      </annotation>
+      <annotation id="gy232">
+        <infon key="identifier">MESH:D010406</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="25624" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="2XXx145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="25635" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>25673</offset>
+      <text>4.2. Retroviral Transduction of MSCs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>25710</offset>
+      <text>The therapeutic suicide gene (HSV1-sr39TK; a mutant of HSV1-TK) and eGFP (enhanced green fluorescent protein) were linked to create a fusion protein. Firefly luciferase (Fluc2) was inserted after the internal ribosome entry site (IRES) sequence in the pIRES vector and downstream of the HSV1-sr39TK-eGFP fusion protein to create the vector pIRES-HSV1-sr39TK-eGFP-IRES-Fluc2. From this plasmid, the HSV1-sr39TK-eGFP-IRES-Fluc2 sequence was removed and it was inserted after the pTRE3G region into the pRetroX-TRE3G response plasmid. This plasmid encodes a modified Tet-On advanced transactivator protein called Tet-On 3G, which has markedly increased sensitivity to DOX. The inducible promoter pTRE3G consists of seven repeats of a 19-bp Tet operator sequence that results in very low basal expression and high maximal expression of the transduced protein after induction. DOX can activate Tet-On 3G and bind specifically to pTRE3G to promote transcription. The retrovirus in pRetroX-TRE-HSV1-sr39TK-eGFP-IRES-Fluc2 and pRetro-Tet-On 3G was isolated from Gryphon E cells (Allele Biotechnology, San Diego, CA, USA) after separately transfecting the cells using the CaPO4 method. Two days after an overnight transfection and a medium change, the medium was collected, filtered through a 0.45 µm filter, and then concentrated using an Amicon Ultra 15 centrifugal filter (Merck Millipore, Burlington, MA, USA). MSCs transduced with a 1:1 dilution of Tet-On3G and Retro-HSV1-sr39TK-eGFP-IRES-Fluc2 were used to make Tet-On MSCs (MSC-Tet-TK/Fluc2 or MSC-Tet-TK) or MSCs without a Tet system (MSC-TK/Fluc2 or MSC-TK). MSC-Tet-TK and MSC-TK cells were sorted based on expression of eGFP. MSC-Tet-TK cells were treated with DOX at 2 µg/mL for 24 h and then sorted. The sorted cells were screened by optical imaging and confocal microscopy.</text>
+      <annotation id="272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="26274" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="26320" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="26375" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="26447" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="26582" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="26599" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="26736" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020243</infon>
+        <location offset="26873" length="5"/>
+        <text>CaPO4</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27155" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27220" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27237" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27257" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27283" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27324" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="27393" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="27424" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>27548</offset>
+      <text>4.3. Lentiviral Transduction of Colon Cancer Cells (CT26)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>27606</offset>
+      <text>CT26 cells were transduced with lentiviral particles expressing mCherry-Rluc (Renilla luciferase) under the control of the cytomegalovirus (CMV) promoter (Genecopoeia, Rockville, MD, USA). Positive mCherry cells were selected, and stable clones were selected using Fluorescence activated cell sorting (FACS) Aria III (BD Biosciences, San Jose, CA, USA). The stable cells, named CT26/Rluc, were screened by optical imaging and fluorescence microscopy.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>28057</offset>
+      <text>4.4. Optical Imaging</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>28078</offset>
+      <text>Bioluminescent imaging (BLI) was performed using an IVIS Lumina II Imaging System (Perkin Elmer, Waltham, MA, USA). Fluc2 and Rluc activity and the response to therapy was monitored in transfected cells using d-Luciferin and coelenterazine as substrates, respectively. CT26/Rluc and the Fluc activity of MSC-Tet-TK and MSC-TK, respectively, were used to monitor tumor development, with d-Luciferin (150 mg/kg) injected intraperitoneally into mice and after 5 min to evaluate Fluc2 expression and coelenterazine (3 mg/kg) injected intravenously into mice to assess Rluc expression. After injection of coelenterazine, mice were imaged immediately with the IVIS Lumina II Imaging System.</text>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C532924</infon>
+        <location offset="28287" length="11"/>
+        <text>d-Luciferin</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017144</infon>
+        <location offset="28303" length="14"/>
+        <text>coelenterazine</text>
+      </annotation>
+      <annotation id="284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="28386" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C532924</infon>
+        <location offset="28464" length="11"/>
+        <text>d-Luciferin</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017144</infon>
+        <location offset="28574" length="14"/>
+        <text>coelenterazine</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017144</infon>
+        <location offset="28678" length="14"/>
+        <text>coelenterazine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>28763</offset>
+      <text>4.5. 3H-Penciclovir (PCV) Uptake Assay</text>
+      <annotation id="gy259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="28768" length="14"/>
+        <text>3H-Penciclovir</text>
+      </annotation>
+      <annotation id="gy258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539</infon>
+        <location offset="28784" length="3"/>
+        <text>PCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>28802</offset>
+      <text>To confirm HSV1-sr39TK functional activity, we performed a 3H-penciclovir uptake assays as described in Sekar et al. 2012. The transduced MSCs, MSC-TK, and MSC-Tet-TK cells, along with naive MSCs were separately plated (2 × 105 cells/well) in 6-well plates, and after 24 h, cells were induced with or without DOX for a further 24 h and then incubated with 1 μCi of 3H-penciclovir (Moravek Biochemicals, La Brea, CA, USA) for 1, 2, or 4 h at 37 °C in an atmosphere containing 5% CO2. The cells were then washed twice with ice-cold PBS, lysed in 0.1 mL of 0.1% sodium dodecyl sulfate (SDS), and analyzed in a scintillation counter with 10 mL of scintillation fluid. Activity was measured as counts per minute (CPM) and analyzed based on the CPM of cell lysates/CPM of medium/µg of protein.</text>
+      <annotation id="gy264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="28861" length="14"/>
+        <text>3H-penciclovir</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="28962" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="29111" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="29167" length="14"/>
+        <text>3H-penciclovir</text>
+      </annotation>
+      <annotation id="2XXx158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="29280" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="29332" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="29361" length="22"/>
+        <text>sodium dodecyl sulfate</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="29385" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29595</offset>
+      <text>4.6. CCK8 Assay of Cell Viability</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29629</offset>
+      <text>To determine the effect of DOX and GCV on naive cell viability, we performed a CCK8 assay. MSCs, (5 × 103 cells) were seeded into 96-well plates. After incubation overnight, the cells were treated with various doses of DOX and GCV for 48 h. After 48 h, CCK-8 (Dojindo, Kumamoto, Japan) was applied for 1 h, and the developed color was read at 450 nm.</text>
+      <annotation id="gy274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="29656" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="29664" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="29848" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="29856" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012844</infon>
+        <location offset="29882" length="5"/>
+        <text>CCK-8</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29981</offset>
+      <text>4.7. Bystander Effect</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>30003</offset>
+      <text>To assess the therapeutic efficiency of the suicide gene-transduced MSC-mediated bystander effect, MSC-Tet-TK and MSC-TK cells were separately mixed at a 1:1 ratio with CT26/Rluc cells in a 48-well plate and then induced with or without DOX for 24 h. After 24 h, various concentrations of GCV were applied for a further 48 h. The fate of cells was monitored by BLI of Rluc and Fluc, using IVIS imaging.</text>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="30106" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="30240" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="30292" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>30406</offset>
+      <text>4.8. Tumor Model</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>30423</offset>
+      <text>Six-week-old female BALB/c white mice purchased from Central Lab. Animal Inc., Seoul, Korea and mice were housed under standard laboratory conditions. All experimental procedures were reviewed and approved by the Kyungpook National University (KNU-2012-43, KNU-2016-0095, 24 June 2016) Animal Care and Use Committee and performed in accordance with the Guiding Principles for the Care and Use of Laboratory Animals. The mice were injected in the right flank with 1 × 106 CT26/Rluc cells in PBS. One week later, Rluc activity was measured, and mice were randomly separated into groups. For MSC-Tet-TK, the following groups were compared: (1) the MSC-Tet-TK+DOX group and (2) the MSC-Tet-TK+DOX+GCV group. For MSC-TK, the groups were (1) the MSC-TK group and (2) MSC-TK+GCV group. Mice in both groups were injected intra-tumorally with 1 × 106 transduced MSCs (MSC-Tet-TK and MSC-TK), and the day the experiment began was considered day 0. A schematic of the experimental plan is shown in Figure S5. Twenty-four hours after injection of the transduced MSCs, the treatment group mice were intraperitoneally injected with GCV (30 mg/kg/day) on days 1–5. A second dose of MSCs was injected on Day 6, and cells were treated with DOX and GCV on days 7–12. At the end of experiment (day 13), mice were sacrificed and tumors were excised, weighed, fixed with 10% buffered formalin (Sigma, St. Louis, MO 63103, USA), and processed for a TUNEL (Terminal deoxynucleotidyl transferase (TdT) dUTP Nick-End Labeling) assay. Tumor development was evaluated using the BLI of Rluc on days 0, 6, and 13. The transduced MSCs were tracked by BLI of Fluc on days 1 and 5. </text>
+      <annotation id="gy292">
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="30913" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="31016" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="31072" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="31079" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="31105" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="31112" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="31116" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="31191" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="31286" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="31541" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="31646" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="31654" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="2XXx180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="31786" length="8"/>
+        <text>formalin</text>
+      </annotation>
+      <annotation id="2XXx181">
+        <infon key="type">OTHER</infon>
+        <location offset="31857" length="37"/>
+        <text>Terminal deoxynucleotidyl transferase</text>
+      </annotation>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027078</infon>
+        <location offset="31901" length="4"/>
+        <text>dUTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32080</offset>
+      <text>4.9. TUNEL Staining for Ex Vivo Tumor</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32118</offset>
+      <text>To confirm apoptosis in mice in the GCV-treated group, we performed an in vivo apoptosis assay using an ApopTag Peroxidase In Situ Apoptosis Detection Kit (Millipore, Burlington, MA, USA). This assay identifies apoptotic cells in situ by labeling and detecting DNA strand breaks by the TUNEL method. The results are visualized using bright-field microscopy.</text>
+      <annotation id="2XXx182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="32154" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32476</offset>
+      <text>4.10. Statistical Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32503</offset>
+      <text>For this study, the data are expressed as mean ± standard deviation (SD). Data from the experimental groups were analyzed by t-test using GraphPad Prism 5 software version 5.01 (GraphPad Software, Inc., La Jolla, CA, USA). A P-value of less than 0.05 was considered statistically significant.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>32797</offset>
+      <text>5. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>32812</offset>
+      <text>The results of the current study support the use of MSCs with an inducible suicide gene system for the treatment of colon cancer. This system may open new avenues for the use of other inducible suicide gene systems with different levels of bystander effects in preclinical trials.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">SUPPL</infon>
+      <offset>33093</offset>
+      <text>Supplementary Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">SUPPL</infon>
+      <offset>33117</offset>
+      <text>The following are available online at .</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>33157</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>33178</offset>
+      <text>Senthilkumar Kalimuthu (first author) conceived, designed, and performed the experiments, analyzed and interpreted the data, and drafted the manuscript. Byeong-Cheol Ahn (corresponding author) contributed to the conception and design of experiments and revision of the manuscript. Liya Zhu, Ji Min Oh, Ho Won Lee, Prakash Gangadaran, Ramya Lakshmi Rajendran, Se Hwan Baek, and Yong Hyun Jeon performed the experiments. Shin Young Jeong, Sang-Woo Lee, and Jaetae Lee contributed reagents, materials, and/or analytical tools for the work.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>33715</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>33737</offset>
+      <text>The authors declare no conflict of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>33782</offset>
+      <text>References</text>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-19-01002-g001b.jpg</infon>
+      <infon key="id">ijms-19-01002-f001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>38337</offset>
+      <text>Transduction of mesenchymal stem cells (MSCs) with triple fusion (TF) reporter genes. (A) Enhanced green fluorescent protein (eGFP) confocal microscopy images of MSC-TK, MSC-Tet-TK plus DOX (2 µg/mL, 24 h) or doxycycline(−) (DOX(−)), and parental MSC cells. (B) Bioluminescent imaging (BLI) of Fluc activity in transduced MSC-TK cells at different cell densities. (C) Fluc activity of transduced MSCs (MSC-Tet-TK) after DOX treatment for 24 h assessed by bioluminescent imaging (BLI) and quantitation of this Fluc activity. (D) 3H penciclovir (PCV) uptake assay. 3H-Penciclovir (PCV) uptake of parental MSCs, DOX(−) and DOX(+) MSC-Tet-TK, and MSC-TK cells for 1, 2, and 4 h. p/s, photons/second.</text>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="38511" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="38523" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="38546" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="gy302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="38562" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="38743" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="38757" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="gy296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="38865" length="14"/>
+        <text>3H penciclovir</text>
+      </annotation>
+      <annotation id="2XXx187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539</infon>
+        <location offset="38881" length="3"/>
+        <text>PCV</text>
+      </annotation>
+      <annotation id="gy299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:C053539</infon>
+        <location offset="38900" length="14"/>
+        <text>3H-Penciclovir</text>
+      </annotation>
+      <annotation id="2XXx188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C053539</infon>
+        <location offset="38916" length="3"/>
+        <text>PCV</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="38946" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="38957" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="38968" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-19-01002-g002.jpg</infon>
+      <infon key="id">ijms-19-01002-f002</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>39040</offset>
+      <text>Fluc activity of MSC-Tet-TK and MSC-TK cells after ganciclovir (GCV) treatment for 48 h. Fluc activity was measured by bioluminescent imaging (BLI) imaging, and the quantitation for MSC-Tet-TK and MSC-TK cells is shown in the right hand panel. Values obtained from three individual experiment are expressed as the mean ± standard deviation (SD), ** p &lt; 0.01, *** p &lt; 0.001 (by Student’s t test). p/s, photons/second.</text>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="39061" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="2XXx194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="39091" length="11"/>
+        <text>ganciclovir</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="39104" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="39226" length="3"/>
+        <text>Tet</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-19-01002-g003.jpg</infon>
+      <infon key="id">ijms-19-01002-f003</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>39460</offset>
+      <text>Bystander effect of MSC-Tet-TK and MSC-TK cells. (A) Rluc activity in co-cultures (1:1) of naive MSCs and CT26/Rluc cells treated with the indicated concentrations of GCV for 48 h. (B) BLI images of the Rluc activity and quantitation data of CT26/Rluc in co-cultures (1:1) of MSC-TK or MSC-Tet-TK cells in the absence or presence of doxycycline (DOX(−) and DOX 2 μg/mL respectively). Three individual experiment values are expressed as the mean ± standard deviation (SD), * p &lt; 0.05, ** p &lt; 0.01, *** p &lt; 0.001 (by Student’s t test). p/s, photons/second.</text>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="39484" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="2XXx195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="39627" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="39750" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="gy319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="39793" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="39806" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="39817" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-19-01002-g004.jpg</infon>
+      <infon key="id">ijms-19-01002-f004</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>40021</offset>
+      <text>In vivo therapeutic effect of MSC-Tet-TK and MSC-TK cells on inhibiting colon tumor growth. (A) Renilla luciferase (Rluc) imaging of colon cancer cells (CT26/Rluc) in mice treated with either MSC-TK or MSC-Tet-TK cells with or without concurrent GCV treatment. BLI images were taken on days 0, 6, and 13 in five individual mice; (B) Quantitative analysis of the data shown in (A). (C) Tumor weights assessed at study end. Bioluminescence activity is shown in photons/second (p/s). * p &lt; 0.05 compared separately to MSC-Tet-TK (GCV−) and MSC-TK (GCV−).</text>
+      <annotation id="298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="40055" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="40227" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="40267" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="40540" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="2XXx200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="40548" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="2XXx201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="40566" length="3"/>
+        <text>GCV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-19-01002-g005.jpg</infon>
+      <infon key="id">ijms-19-01002-f005</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>40577</offset>
+      <text>In vivo therapeutic effect of the MSC-Tet-TK and MSC-TK cells to induce colon tumor apoptosis in the presence of GCV. (A) Terminal deoxynucleotidyl transferase (TdT) dUTP Nick-End Labeling (TUNEL) assay for tumors taken from mice treated with MSC-Tet-TK DOX cells in the presence and absence of GCV. (B) TUNEL assay for tumors taken from mice treated with MSC-TK cells in the presence and absence of GCV. Apoptosis of cells was detected in the ganciclovir-treated group using the ApopTag peroxidase in situ apoptosis detection method.</text>
+      <annotation id="301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="40615" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="40690" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="2XXx207">
+        <infon key="type">OTHER</infon>
+        <location offset="40699" length="37"/>
+        <text>Terminal deoxynucleotidyl transferase</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027078</infon>
+        <location offset="40743" length="4"/>
+        <text>dUTP</text>
+      </annotation>
+      <annotation id="302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="40824" length="3"/>
+        <text>Tet</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="40831" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="40872" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="40977" length="3"/>
+        <text>GCV</text>
+      </annotation>
+      <annotation id="gy334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015774</infon>
+        <location offset="41021" length="11"/>
+        <text>ganciclovir</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

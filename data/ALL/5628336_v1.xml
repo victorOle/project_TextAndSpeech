@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5628336</id>
+    <passage>
+      <infon key="name_3">surname:Fakih;given-names:Hassan H.</infon>
+      <infon key="name_2">surname:Fakhoury;given-names:Johans J.</infon>
+      <infon key="name_1">surname:Amrein;given-names:Lilian</infon>
+      <infon key="name_0">surname:Bousmail;given-names:Danny</infon>
+      <infon key="article-id_pmid">28989655</infon>
+      <infon key="fpage">6218</infon>
+      <infon key="issue">9</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">c7sc01619k</infon>
+      <infon key="article-id_pmc">5628336</infon>
+      <infon key="fn">†Electronic supplementary information (ESI) available: DNA nanoparticle design and assembly, evaluation of BKM120 encapsulation, structural characterization, stability and shelf-life of drug-loaded structures, cellular uptake in cancer cells, in vitro cell studies, HSA binding experiments and in vivo studies. See DOI: 
+
+
+
+</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1039/c7sc01619k</infon>
+      <infon key="volume">8</infon>
+      <infon key="license">This is an Open Access article distributed under the terms of the Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by/3.0/) which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="name_6">surname:Sleiman;given-names:Hanadi F.</infon>
+      <infon key="lpage">6229</infon>
+      <infon key="name_5">surname:Panasci;given-names:Lawrence</infon>
+      <infon key="name_4">surname:Hsu;given-names:John C. C.</infon>
+      <offset>0</offset>
+      <text>Precision spherical nucleic acids for delivery of anticancer drugs†  </text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>72</offset>
+      <text> Highly monodisperse sequence-defined spherical nucleic acids (HE12–SNAs) for delivery of small-molecule anticancer drugs.</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="135" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>197</offset>
+      <text>We report a spherical nucleic acid (SNA) system for the delivery of BKM120, an anticancer drug for treatment of chronic lymphocytic leukemia (CLL). While promising for cancer treatment, this drug crosses the blood–brain barrier causing significant side-effects in patients. The DNA nanoparticle encapsulates BKM120 in high efficiency, and is unparalleled in its monodispersity, ease of synthesis and stability in different biological media and in serum. These DNA nanostructures demonstrate efficient uptake in human cervical cancer (HeLa) cells, and increased internalization of cargo. In vitro studies show that BKM120-loaded nanoparticles promote apoptosis in primary patient CLL lymphocytes, and act as sensitizers of other antitumor drugs, without causing non-specific inflammation. Evaluation of this drug delivery system in vivo shows long circulation times up to 24 hours, full body distribution, accumulation at tumor sites and minimal leakage through the blood–brain barrier. Our results demonstrate the great potential of these delivery vehicles as a general platform for chemotherapeutic drug delivery.</text>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="265" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="505" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="811" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1316</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1329</offset>
+      <text>Targeted action of small-molecule drugs remains a challenge in medicine. This holds true for antitumor chemotherapeutic drugs, where much of their success has been hampered by off-target side-effects, poor pharmacokinetics and systemic toxicity. One effective approach to tackle this problem is the application of drug delivery systems that would protect the cargo along the administration route and direct it to its target site. Several delivery systems are currently being explored which include: dendrimers, liposomes, polymeric nanoparticles, micelles, protein nanoparticles, viral nanoparticles, inorganic nanoparticles and carbon nanotubes. However, many of them suffer from major limitations such as: toxicity, rapid clearance, complicated synthesis and particle heterogeneity. In particular, nanostructure size and shape have been demonstrated to play an important role in their biodistribution, circulation half-life, cellular targeting, efficacy and immune response.– With most current drug delivery platforms suffering from structural polydispersity, the generation of monodisperse nanocarriers with well-defined structures will be essential for their application in drug delivery.</text>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D037742</infon>
+        <location offset="1958" length="16"/>
+        <text>carbon nanotubes</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2524</offset>
+      <text>Polymers are the most commonly used material for developing nanoparticle-based drug carriers. In particular, amphiphilic block copolymers that contain a water-soluble block, and a hydrophobic block, have been extensively used as building blocks for chemotherapeutic drug delivery. These molecules phase-separate into micelles that contain a hydrophobic core which can accommodate lipophilic drug molecules and alter their kinetics both in vitro and in vivo., In recent years, a new class of amphiphilic block copolymers has also emerged which contains a hydrophobic synthetic polymer attached to a hydrophilic DNA segment, called DNA–polymer hybrids. These molecules can self-assemble into a wide-range of morphologies, including spherical micellar particles that expose a hydrophilic DNA shell and a hydrophobic core., A particularly successful example of such assemblies are spherical nucleic acids (SNAs). These structures are composed of a gold nanoparticle core and a corona of tightly packed DNA strands. SNAs have shown efficient cellular penetration and gene silencing ability both in vitro and in vivo.– </text>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006046</infon>
+        <location offset="3468" length="4"/>
+        <text>gold</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3642</offset>
+      <text>Recently, we reported a highly efficient and versatile method to generate DNA–polymer conjugates via solid-phase synthesis. Unlike conventional synthetic polymer chemistry, this method yields DNA–polymer conjugates that are fully monodisperse and sequence-defined. This class of material self-assembles spontaneously to generate highly monodisperse spherical micellar DNA nanoparticles in aqueous solution. Several examples in recent years have emerged demonstrating the suitability of DNA nanostructures in mimicking biological systems,, construction of nanoelectronics and nanophotonics, and delivery of cancer therapeutics. Compared to DNA nanostructures, such as DNA origami, which require a large number of unique DNA strands to generate the designed structure, limiting their use in large-scale applications, micellar DNA nanoparticles are composed of only a single DNA–polymer conjugate strand. This type of hybrid strand also offers advantages over other block copolymers in that the DNA portion can be highly functional and programmable in the final structure. Additionally, the poly-phosphodiester units in both the oligonucleotide and hydrophobic portions of the DNA–polymer strands are biocompatible and biodegradable making them suitable for biological applications. Particles of self-assembled DNA–polymer conjugates expose a ssDNA corona, and have been used in ligand targeting,,, delivery of anti-sense oligonucleotides,– DNA detection, formation of higher order assemblies,, and templating organic reactions., In particular, these DNA particles have shown great potential in cancer therapy.,, However, the exploration of these structures for cancer therapy has only been limited to in vitro cell studies. Our interest also focuses on cancer therapy, specifically, the development of a DNA nanoparticle delivery system for BKM120, an anticancer drug towards the treatment of Chronic Lymphocytic Leukemia (CLL).</text>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="4730" length="19"/>
+        <text>poly-phosphodiester</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="5481" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5581</offset>
+      <text>Chronic Lymphocytic Leukemia (CLL) remains the most common type of leukemia with an incidence rate of approx. 4/100 000 people in the United States. Current treatments of CLL include chemotherapeutic agents such as alkylating agents (chlorambucil, cyclophosphamide and bendamustine), purine analogs (fludarabine) and immunotherapeutics (Rituximab, Alemtuzumab)., The current gold standard for treatment is through chemoimmunotherapy; a combination of fludarabine, cyclophosphamide and rituximab (FCR).– Unfortunately, none of these treatments results in curative therapy providing strong justification for investigating new therapeutic approaches for CLL. The phosphoinositide 3-kinase (PI3K) pathway has been shown to be a critical component of CLL survival and proliferation.– The expression of PI3K triggers downstream cellular events that inhibit cell death by inactivating pro-apoptotic proteins.– This makes the selective inhibition of PI3K a promising approach for the treatment of CLL and a focus of many efforts to develop novel inhibitors targeting this pathway.</text>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002699</infon>
+        <location offset="5815" length="12"/>
+        <text>chlorambucil</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003520</infon>
+        <location offset="5829" length="16"/>
+        <text>cyclophosphamide</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069461</infon>
+        <location offset="5850" length="12"/>
+        <text>bendamustine</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="5865" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024352</infon>
+        <location offset="5881" length="11"/>
+        <text>fludarabine</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069283</infon>
+        <location offset="5918" length="9"/>
+        <text>Rituximab</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000074323</infon>
+        <location offset="5929" length="11"/>
+        <text>Alemtuzumab</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024352</infon>
+        <location offset="6032" length="11"/>
+        <text>fludarabine</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003520</infon>
+        <location offset="6045" length="16"/>
+        <text>cyclophosphamide</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069283</infon>
+        <location offset="6066" length="9"/>
+        <text>rituximab</text>
+      </annotation>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024352,MESH:D003520,MESH:D000069283</infon>
+        <location offset="6077" length="3"/>
+        <text>FCR</text>
+      </annotation>
+      <annotation id="O1">
+        <infon key="type">OTHER</infon>
+        <location offset="6241" length="25"/>
+        <text>phosphoinositide 3-kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6662</offset>
+      <text>Buparlisib (codenamed BKM120) is one such example of a pyrimidine-derived selective pan class I PI3K inhibitor. This molecule has shown high selectivity and potency against class I PI3Ks. BKM120 has demonstrated high cytotoxicity in B-chronic lymphocytic leukemia cells in vitro, and significant antitumor activity in human tumor xenograft models., Currently, this drug is under clinical investigation in advanced solid tumor and CLL patients. However, BKM120 can cross the blood–brain barrier and inhibit PI3K in the central nervous system (CNS), inducing anxiety, low serotonin levels, schizophrenia, and hindering its success for translation into the market. Hence, a strategy to effectively deliver BKM120 to its intended biological target without deleterious side-effects in the CNS would be a major goal for therapy with this small-molecule drug.</text>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="6662" length="10"/>
+        <text>Buparlisib</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="6684" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030986</infon>
+        <location offset="6717" length="10"/>
+        <text>pyrimidine</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="6850" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="7115" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012701</infon>
+        <location offset="7232" length="9"/>
+        <text>serotonin</text>
+      </annotation>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="7365" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7517</offset>
+      <text>In this article, we report the development of a DNA nanoparticle platform for the delivery of BKM120. The drug-loaded structures are unique in their monodispersity, can be readily prepared and are stable in different biological media and in serum. We show the increased cellular uptake of these structures in HeLa cells, and the internalization of their cargo. The structures show minimal non-specific interaction with human serum albumin (HSA), a major protein component of blood. Moreover, BKM120-loaded DNA particles promote apoptosis in primary patient CLL lymphocytes and induce cell death when co-administered with doxorubicin in HeLa cells, without eliciting inflammation. Evaluation of this drug delivery system in vivo shows long circulation times up to 24 hours, full body distribution, high accumulation at tumor sites and minimal leakage through the blood–brain barrier. Our results demonstrate the great potential of these delivery vehicles as a general platform for chemotherapeutic drug delivery. We have previously shown that the DNA component of these structures is able to silence gene expression to a greater extent than DNA antisense structures alone, highlighting the promise of these DNA nanoparticles as combination small molecule and oligonucleotide therapeutics. </text>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="7611" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="8009" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="8138" length="11"/>
+        <text>doxorubicin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8808</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8831</offset>
+      <text>Synthesis of DNA nanoparticles</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8862</offset>
+      <text>In order to construct a scalable and highly monodisperse drug delivery system, we generated a single type of DNA–polymer conjugates that self-assemble in aqueous buffer to form micellar DNA particles. These conjugates consist of a 19-mer DNA sequence attached to 12 dodecane (hexaethylene, HE) units (HE12–DNA conjugate, Scheme 1). HE12 units were appended to DNA by automated solid-phase synthesis using phosphoramidite chemistry. This approach offers monodisperse DNA–polymer conjugates in high yields and provides control over the length and sequence of the monomer units in the final structure. In our previous work, we showed that HE12–DNA conjugates self-assemble into highly monodisperse spherical nucleic acid particles (HE12–SNAs) in aqueous media containing divalent cations. These structures consist of an exterior DNA corona, and a hydrophobic HE12 core which provides a favourable environment for the entrapment of hydrophobic guest molecules. We also showed the encapsulation of a dye molecule, Nile Red, in the hydrophobic core of DNA nanoparticles. In this current study, we sought to test the encapsulation of a small-molecule protein kinase inhibitor, BKM120. We were interested in BKM120 because (1) despite its high potency, it suffers from deleterious side-effects in the CNS of patients. (2) The drug dimensions are compatible with the core size of the DNA nanoparticle system and (3) BKM120 exhibits an aqueous solubility of &lt;1 mg ml–1, which makes it a suitable guest for our system.</text>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007548</infon>
+        <location offset="9128" length="8"/>
+        <text>dodecane</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9138" length="12"/>
+        <text>hexaethylene</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9152" length="2"/>
+        <text>HE</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9163" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9194" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C434331</infon>
+        <location offset="9267" length="15"/>
+        <text>phosphoramidite</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9498" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9591" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="9718" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="9871" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10032" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10062" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10269" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>10382</offset>
+      <text>Schematic representation of the synthesis of DNA–polymer conjugates and BKM120 encapsulation method. Phosphoramidite monomers are attached to the 5′ end of the controlled glass pore (CPG) in a step-wise and sequence-controlled fashion. The 19-mer DNA strand is first built from the support, followed by 12 dodecane monomer additions (HE12) yielding monodisperse HE12–DNA conjugates. Self-assembly of the polymer–DNA conjugates in the presence of BKM120 and subsequent purification results in nearly monodisperse BKM120-loaded HE12–SNAs.</text>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10454" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C434331</infon>
+        <location offset="10483" length="15"/>
+        <text>Phosphoramidite</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007548</infon>
+        <location offset="10688" length="8"/>
+        <text>dodecane</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="10716" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="10744" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10828" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10894" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="10908" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10929</offset>
+      <text>Evaluation of HE12–SNAs as BKM120 delivery vehicles</text>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="10943" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10956" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10983</offset>
+      <text>To prepare BKM120-loaded HE12–SNAs, a solution of BKM120 in ethanol was allowed to evaporate forming a thin-film, which was then re-suspended into a solution of HE12–DNA conjugates in water, followed by the addition of assembly buffer and overnight thermal annealing (95–4 °C over 4 h). Thermal annealing was shown to yield less size-variability compared to overnight shaking at room temperature. Following the encapsulation process, the products were purified by size-exclusion chromatography and analyzed by reversed-phase HPLC (RP-HPLC) (Fig. 1a). The success of the purification method was critical to ensure complete removal of free-drug in solution. This was important for accurate determination of the nanoparticle drug-loading capacity and for further biological studies.</text>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="10994" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="11008" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="11033" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="11043" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="11144" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>11770</offset>
+      <text>Evaluation of BKM120 encapsulation in HE12–SNAs. (a) Reversed phase HPLC analysis of HE12–SNAs (black), ssDNA control (red) and buffer control (blue) following drug purification. Detection at absorbance wavelength 260 nm (left panel) and 320 nm (right panel). The presence of a BKM120 peak solely in HE12–SNA samples suggests drug encapsulation. (b) UV-Vis measurements of BKM120-incubated HE12–SNAs (black), ssDNA control (red) and buffer control (blue) following purification. Drug encapsulation and loading capacity were determined by RP-HPLC and separately confirmed by UV-Vis measurements. The presence of a diagnostic drug peak at 320 nm in the HE12–DNA nanoparticle sample indicates drug encapsulation. (c) In vitro release of BKM120 loaded into HE12–SNAs studied by a dialysis method over 1 day at room temperature in 1× TAMg, measured in triplicate. Error bars represent the standard deviation of measurements.</text>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="11784" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="11808" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="11855" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="12048" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="12070" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="12143" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="12160" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="12421" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="12504" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="12523" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12703</offset>
+      <text>Data from RP-HPLC confirmed the encapsulation of BKM120 in HE12–SNAs in comparison to ssDNA and buffer controls. Traces were obtained at two different channels: a channel selective for DNA at 260 nm, and a BKM120-optimal channel at 320 nm. The co-elution of the DNA and BKM120 was only observed in HE12–SNA solutions, indicating the association of the drug with the structure. In the case of ssDNA, only a DNA peak was observed at 260 nm, reflecting the efficiency of the purification method at removing free drug in solution. The drug loading capacity of DNA nanoparticles was calculated from RP-HPLC data and separately confirmed by UV-Vis spectroscopy (Fig. 1b, see Fig. SF5†). For HE12–SNAs, the loading capacity was approximately 29% w/w, where ∼9 molecules of BKM120 were encapsulated per DNA–polymer conjugate strand. The aqueous solubility of BKM120 in the HE12–SNAs was enhanced to 24.4 μg ml–1, compared to &lt;1 μg ml–1 in water. RP-HPLC was also used to calculate the recovered yield following purification. In general, ∼65% of the amount of DNA–polymer conjugates was retained following purification (see Fig. SF5†). Additionally, the drug-loaded structures had a shelf-life of over 4 weeks when stored at both room temperature and 4 °C (see Fig. SF7 and SF8†).</text>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="12752" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="12762" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="12909" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="12973" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="13001" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="13388" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="13469" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="13554" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="13568" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14004</offset>
+      <text>Having confirmed BKM120 encapsulation, we then studied the in vitro release kinetics of BKM120 in HE12–SNAs (Fig. 1c and SF6†). BKM120 release was evaluated by monitoring the decrease in concentration of the drug from a solution of loaded structures dialyzed against 1× TAMg at room temperature over 24 h. It was found that HE12–SNAs release BKM120 at a slow and sustained rate with ∼40% of the drug retained after 24 hours (Fig. 1c). The critical micellar concentration (CMC), above which HE12–DNA conjugates aggregate into HE12–SNAs was also studied. It was found that HE12–DNA conjugates aggregate with an associated CMC of 0.5 μM ± 0.2 μM in the presence of 12.5 mM Mg2+ (see Fig. SF9†).</text>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="14021" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="14092" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="14102" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="14132" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="14328" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="14346" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="14494" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="14529" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="14575" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="14674" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14716</offset>
+      <text>We then proceeded to characterize the BKM120-loaded products. The sizes of the nanoparticles were studied by agarose gel electrophoresis (AGE), dynamic light scattering (DLS), atomic force microscopy (AFM) and transmission electron microscopy (TEM) (Fig. 2). Data from AGE revealed the maintained structural integrity of BKM120-loaded particles with no observed side products (Fig. 2a). DLS analysis revealed a highly monodisperse population of drug-loaded structures in solution with a hydrodynamic radius of 11.8 ± 0.4 nm (Fig. 2b). AFM and TEM images demonstrated that BKM-120 loaded particles were well-dispersed on surface, with calculated dry-state diameter of 28 ± 4 nm and 21 ± 3 nm, respectively (Fig. 2c and d, SF11 &amp; SF12†). The structures also appeared to retain high level of monodispersity, despite slightly widened features. The obtained dimensions are in agreement with solution measurements by DLS. The slightly widened morphology could be explained by the deposition of these structures on the surface and drying effects. The drug-loaded nanoparticles seemed to lose their spherical shape upon deposition confirmed by the lower height (8 nm) and slightly widened diameter as calculated by AFM.</text>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="14754" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="14825" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="15037" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="15288" length="7"/>
+        <text>BKM-120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>15933</offset>
+      <text>Structural characterization of BKM120-loaded HE12–SNAs. (a) Agarose gel electrophoresis (AGE) analysis of drug-loaded nanoparticles showing intact structures with no observed side products. (b) Dynamic light scattering (DLS) data showing a highly monodisperse population of drug-loaded nanoparticles in solution. (c) Atomic force microscopy (AFM) image showing a spherical nearly monodisperse population of drug-loaded products on surface. (d) Transmission electron microscopy (TEM) image of drug-loaded products reflecting highly monodisperse structures. Scale bars = 200 nm.</text>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="15964" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="15978" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="15993" length="7"/>
+        <text>Agarose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16512</offset>
+      <text>Stability of HE12–SNAs </text>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="16525" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16538</offset>
+      <text>DNA nanostructures such as DNA origami and 3-dimensional nanoarchitectures purely composed of DNA, are typically assembled in buffers containing moderate concentrations of divalent metal cations (∼5–20 mM) in order to mask the electrostatic repulsion between DNA strands.– Deviations from this window of buffer conditions can have devastating effects on the structures, causing shape distortion, aggregation or total collapse of structure. This limits the use of DNA nanostructures for biological applications. In our case, the assembly of HE12–SNAs was also shown to be dependent on the presence of divalent metal cations, however, the main driving force of assembly is hydrophobic interactions rather than Watson–Crick base-pairing. With this in mind, we sought to test whether our system can withstand variations in ionic concentrations and preserve structural identity in physiologically relevant environments. Evaluation of the nanoparticle stability in different buffer conditions was carried out by DLS measurements (Fig. 3). We tested concentration variations of two groups of candidates; divalent metal ions (Mg2+ and Ca2+) in Tris buffer (Fig. 3a and SF13–15†) and different titrations of Dulbecco's Phosphate Saline Buffer (DPBS with Mg2+ and Ca2+), a buffer used in cell culture (see Fig. SF16†). Data from DLS showed that HE12–SNAs could withstand large variations in ionic concentrations. At high ionic concentrations (18.75 mM Mg2+ and 2× DPBS), no structural aggregation was observed. Additionally, at Mg2+ concentrations as low as 0.25 mM (in 0.5× DPBS), the structures maintained their natural morphology with no observed disassembly. The structures were also compatible with a calcium-containing Tris buffer at concentrations similar to physiological plasma concentrations (∼1.2–1.5 mM). Only upon total depletion of divalent cations did the structures disassemble into monomeric HE12–DNA units (see Fig. SF17†). The enhanced stability in different buffer conditions can be partly attributed to hydrophobic interactions providing an additional cohesive force to preserve structural morphology.</text>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="17078" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="17656" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="17665" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="17674" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="17748" length="9"/>
+        <text>Phosphate</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="17758" length="6"/>
+        <text>Saline</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17773" length="4"/>
+        <text>DPBS</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="17783" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="17792" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="17873" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="17980" length="3"/>
+        <text>Mg2</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17992" length="4"/>
+        <text>DPBS</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="18056" length="3"/>
+        <text>Mg2</text>
+      </annotation>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="18103" length="4"/>
+        <text>DPBS</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="18234" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="18253" length="11"/>
+        <text>Tris buffer</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="18437" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>18679</offset>
+      <text>Stability of HE12–SNAs under biologically relevant conditions. (a) DLS histograms displaying the hydrodynamic radius of DNA nanoparticles under variations in magnesium concentrations in Tris buffer. DLS analysis show the maintained structural integrity of HE12–DNA particles under large variations of ionic conditions. Disassembly of the structure was only observed upon full ionic depletion. (b) Serum stability of the HE12–SNAs in biological conditions. HE12–SNAs have a measured half-life of 2.2 h which is 4.6 times higher than that of ssDNA. Error bars represent the standard deviation of measurements.</text>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="18692" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="18837" length="9"/>
+        <text>magnesium</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="18865" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="18935" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="19099" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="19135" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19295</offset>
+      <text>We then proceeded to test the nuclease stability of our structures in 10% fetal bovine serum (FBS) solution at 37 °C (Fig. 3b, see Fig. SF18†). This was important because rapid nuclease degradation is a major challenge for DNA nanostructures as they are translated to the in vitro culture environment. We measured a half-life of 2.2 h for HE12–SNAs, which was 4.6-fold higher than the results obtained for ssDNA (28 min). This demonstrated the enhanced stability of our system against nuclease degradation and could be due to the dense packing of DNA creating a steric barrier. We further assessed the serum stability in phosphorothioated DNA nanoparticles, where the nonbridging oxygen in the phosphate backbone of the DNA strand was replaced with a sulfur. This simple modification resulted in nuclease resistance for over 72 hours (Fig. SF19†), and could be easily implemented in our system as facile strategy for enhanced stability.</text>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="19634" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="19975" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="19989" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="20046" length="6"/>
+        <text>sulfur</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20239</offset>
+      <text>Cellular uptake of non-transfected HE12–SNAs </text>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="20274" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20287</offset>
+      <text>The in vitro cellular uptake and internalization of HE12–SNAs were studied by confocal fluorescence microscopy. As a first step, we generated Cy3-labeled DNA nanoparticles (see Fig. SF20†). This was achieved by mixing Cy3–HE12–DNA (where Cy3 was attached to the HE12 polymer at the opposite end of the DNA) and unlabeled HE12–DNA conjugates in 25 : 75 molar ratios, followed by thermal annealing, 95–4 °C over 4 hours (Fig. 4a). This approach yielded highly monodisperse dye-labeled nanoparticles with the dye molecules embedded in the core. This was important as surface projection of a lipophilic dye molecule could alter the uptake profile of the nanoparticles through cell membranes. Following 24 hour incubation in HeLa cells, fluorescence data indicated the high cellular uptake of Cy3–DNA nanoparticles and localization in the cytoplasm in the perinuclear region (Fig. 4b). Several intense foci were observed indicating the high efficiency of uptake.</text>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="20339" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="20429" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="20505" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="20509" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="20525" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="20549" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="20608" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="21075" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>21264</offset>
+      <text>Cellular localization of HE12–DNA nanoparticles and encapsulated cargo. (a) Preparation of Cy3–labeled nanoparticles. Cy3–HE12–DNA and HE12–DNA were mixed in 25 : 75 molar ratios to generate nearly monodisperse Cy3-labeled HE12–DNA nanoparticles. (b) Confocal microscopy images demonstrating the cellular uptake of Cy3-labeled particles in HeLa cells after 24 hour incubation. (c) Preparation of Nile Red-loaded DNA nanoparticles. (d) Flow cytometry measurements showing the increased uptake of Nile Red when delivered by HE12–SNAs. All samples were incubated for 12 hours, [Nile Red] = 375 nM in cell culture media. Nile Red images were acquired using exc. 516 nm and YellowG_670/30 filter. (e) Quantification of Nile Red intensity measured by flow cytometry. All measurements were performed in triplicates, and the error bars represent the standard deviation of measurements.</text>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="21289" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="21355" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="21382" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="21386" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="21399" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="21475" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="21487" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="21579" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="21660" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="21759" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="21786" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="21839" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="21881" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="21978" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22160</offset>
+      <text>We were then interested in studying the internalization of encapsulated cargo. Knowing that BKM120 has poor fluorescence properties, we decided to monitor the uptake of a fluorescent dye, Nile Red, encapsulated in our DNA nanostructures (Fig. 4c, see Fig. SF21†). The encapsulation of Nile Red further demonstrates the versatility of this delivery system for accommodating different guest molecules, highlighting its potential application as a general drug delivery platform. HeLa (adenocarcinoma) cells were incubated with Nile Red loaded-nanoparticles, Nile Red alone or DNA nanoparticle control at 37 °C. Flow cytometry was used to quantify the amount of Nile Red uptake by HeLa cells (Fig. 4d). After 12 hours of incubation and several washing steps, analysis of the flow cytometry data revealed significantly higher intracellular fluorescence of Nile Red when delivered by HE12–DNA nanoparticles compared to low non-specific internalization of Nile Red control (Fig. 4d, e and SF22†). The higher uptake of Nile Red was also confirmed by confocal fluorescence microscopy, where the dye was mostly observed in the cytoplasm in the perinuclear region, confirming high uptake efficiency (see Fig. SF23†). Taken together, these experiments suggest that the increase in Nile Red uptake is due to its encapsulation and internalization by HE12–DNA nanoparticles.</text>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="22252" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="22348" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="22445" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="22684" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="22715" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="22818" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="23011" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="23038" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="23109" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="23171" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="23429" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="23496" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23531</offset>
+      <text>Cell toxicity of BKM120-loaded HE12–SNAs </text>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="23548" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="23562" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23575</offset>
+      <text>Based on the cellular uptake and dye internalization studies in HeLa cells, we were interested if the higher uptake of our nanostructures would correlate to increased therapeutic activity of the drug-loaded constructs. The in vitro cytotoxicity of BKM120-loaded HE12–SNAs was measured against human cervical cancer (HeLa) cells. Cytotoxicity was evaluated by comparing a dose-dependent administration of BKM120 in DNA nanoparticles with naked BKM120 and DNA particles as controls (see Fig. SF24†). In the tested concentration range, HE12–DNA particles loaded with BKM120 showed low cellular death in HeLa cells. Based on these results, we then tested the synergistic effect of loaded BKM120 in combination with doxorubicin (Dox). Our platform acting as a sensitizer in HeLa cells also highlights the versatility of our system as a general drug delivery system for anticancer drugs. For this study, HeLa cells were initially sensitized with three different concentrations of BKM120-loaded particles prior to incubation with various Dox dosages (Fig. 5a–c). Interestingly, as illustrated in Fig. 5, the cytotoxicity of Dox was enhanced upon co-administration with BKM120-loaded particles in a dose-dependent manner. The effect was most pronounced at higher Dox concentrations (Fig. 5c). The reduced cytotoxic differences between loaded BKM120 versus its un-encapsulated form, is in part due to the lipophilic nature of the drug which can diffuse passively through cell membranes and cause cytotoxicity. However, we anticipate that this nanocarrier platform could provide advantages in the delivery of BKM120 and other chemotherapeutic drugs by altering their in vivo delivery profile. Additionally, the capability of functionalizing HE12–SNAs with targeting ligands could also limit some of the drug's manifested side-effects and provide a targeted delivery regimen in tumors.</text>
+      <annotation id="C163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="23823" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="23837" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="23979" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="24018" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="24108" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="24139" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="24259" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="24286" length="11"/>
+        <text>doxorubicin</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="24299" length="3"/>
+        <text>Dox</text>
+      </annotation>
+      <annotation id="C169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="24549" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="24606" length="3"/>
+        <text>Dox</text>
+      </annotation>
+      <annotation id="C161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="24692" length="3"/>
+        <text>Dox</text>
+      </annotation>
+      <annotation id="C167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="24737" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="24830" length="3"/>
+        <text>Dox</text>
+      </annotation>
+      <annotation id="C168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="24909" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="25174" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="25306" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>25460</offset>
+      <text> In vitro cellular toxicity of BKM120-loaded HE12–SNAs. Cytotoxicity of BKM120-loaded nanoparticles when administered at concentrations (a) 0.12 μM (b) 1.2 μM (c) 12 μM prior to doxorubicin treatment, measured over 24 hours. *** corresponds to p &lt; 0.0001 and ** to p &lt; 0.001. Error bars represent the standard deviation of measurements. (d) Annexin/PI staining and (e) cleaved caspase-3 assay showing the potency of BKM120-loaded particles at inducing apoptosis in primary patient B-CLL lymphocytes in the presence of the BMS2 stromal cells support (cocultured CLL), analyzed by flow cytometry.</text>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="25491" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="25505" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="25532" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004317</infon>
+        <location offset="25638" length="11"/>
+        <text>doxorubicin</text>
+      </annotation>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="25809" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="25876" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26060</offset>
+      <text> In vitro studies on BKM120 have shown this drug to induce cell death in B-CLL cells and promote apoptosis. Thus, we asked whether BKM120-loaded particles can promote cell apoptosis. To address this question, we investigated the induction of apoptosis through Annexin V/propidium iodide (PI) staining assay in primary patient Chronic Lymphocytic Leukemia (CLL) lymphocytes (Fig. 5d). Earlier studies have shown that stromal cells induce drug resistance and promote cell survival through secretion of chemokines and cell–cell interaction. Additionally, the bone marrow microenvironment has shown to prevent apoptosis in primary CLL lymphocytes by modulating the PI3K/Akt pathway. As expected, the stromal microenvironment model (BSM2 stromal cells) protected CLL lymphocytes from spontaneous apoptosis as seen with the untreated controls (Fig. 5d). We found that BKM120-loaded structures promoted apoptosis in primary BMS2 cocultured CLL lymphocytes from 3 different patients, 24 hours after treatment. To further confirm these findings, we monitored the cleavage of caspase-3, a catalytic step in the apoptotic pathway. In accordance with the Annexin V/PI analysis, BKM120-loaded particles induced caspase-3 activity in CLL lymphocytes; both in the presence and absence of BMS2, confirming their enhanced activity in complex patient cellular environments (Fig. 5e and SF25†).</text>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="26081" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="26191" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="26330" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="C187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="26348" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="C184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="26922" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="27213" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="27226" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27440</offset>
+      <text>To evaluate the potential immunogenicity of this delivery system, we investigated the effect of HE12–SNAs on TNF-alpha induction (see Fig. SF26†). TNF-alpha is a signalling protein involved in systemic inflammation. Higher levels of this protein indicate an elicited immune response. We tested our system in comparison to lipopolysaccharide (LPS) and a synthetic dsRNA (PolyIC) which have been reported to induce the expression TNF-alpha., It has also been reported that the time course of TNF-alpha induction shows a rise-and decline profile with peak elevation at 2–6 hours post exposure., As illustrated in Fig. 6, after 5 hours of incubation HE12–SNAs exhibited no systemic inflammation with very low levels of TNF-alpha induction compared to LPS and PolyIC. The effect becomes less pronounced at the 12 and 24 hour mark. This result supports the non-immunogenic nature of HE12–SNAs.</text>
+      <annotation id="C191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="27536" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008070</infon>
+        <location offset="27762" length="18"/>
+        <text>lipopolysaccharide</text>
+      </annotation>
+      <annotation id="C189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008070</infon>
+        <location offset="27782" length="3"/>
+        <text>LPS</text>
+      </annotation>
+      <annotation id="C194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011070</infon>
+        <location offset="27810" length="6"/>
+        <text>PolyIC</text>
+      </annotation>
+      <annotation id="C192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="28086" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008070</infon>
+        <location offset="28187" length="3"/>
+        <text>LPS</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011070</infon>
+        <location offset="28195" length="6"/>
+        <text>PolyIC</text>
+      </annotation>
+      <annotation id="C193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="28317" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>28338</offset>
+      <text>Evaluating the interaction of HE12–SNAs with human serum albumin (HSA). (a) Agarose gel electrophoresis of HE12–SNAs prior (Lane 1) and post incubation (Lane 2) with HSA. The gels were visualized under Gel Red DNA stain channel (left panel), Coomassie Blue protein stain (right panel). GelRed panel shows the absence of a gel mobility shift of DNA nanoparticles after HSA incubation. Coomassie panel displays the lower mobility shift of HSA protein compared to DNA nanoparticles. (b) Denaturing PAGE analysis of dissembled HE12–DNA conjugate strands titrated with different HSA concentrations. Lane 1: HE12–DNA strand control, Lanes 2–8, HSA dilutions of 1/1000, 1/100, 1/50, 1/10, 1/5, 1/2 and undiluted HSA (526 μM stock). Under denaturing conditions, disassembly of the DNA particle exposes the lipophilic HE12 segments, which in turn results in strong binding to HSA protein.</text>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="28368" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="28414" length="7"/>
+        <text>Agarose</text>
+      </annotation>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="28445" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004396</infon>
+        <location offset="28540" length="7"/>
+        <text>Gel Red</text>
+      </annotation>
+      <annotation id="C204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="28580" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004396</infon>
+        <location offset="28624" length="6"/>
+        <text>GelRed</text>
+      </annotation>
+      <annotation id="C205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="28722" length="9"/>
+        <text>Coomassie</text>
+      </annotation>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="28861" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="28940" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="29147" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>29229</offset>
+      <text>Nanoparticle interaction with serum proteins</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29274</offset>
+      <text>Previous reports have demonstrated that inert polymers such as hydrophilic polyethylene glycol chains improve the efficacy of encapsulated drugs by reducing in vivo opsonisation with serum proteins, mainly human serum albumin (HSA). This not only prevents the rapid recognition of structures by the reticuloendothelial system (RES), but also provides prolonged blood circulation of nanostructures and higher accumulation at targeted sites.– In our case, we hypothesized that the dense hydrophilic DNA outer shell would provide a surface unfavorable for binding HSA protein. HE12–SNAs were pre-assembled then incubated with a 5× molar excess of HSA for 2 hours at room temperature, and analyzed by agarose gel electrophoresis (AGE) (Fig. 6). Since HSA exhibits lower mobility on gel compared to DNA nanoparticles (Fig. 6a), an association with the protein should results in a gel mobility shift of the structures. As illustrated in Fig. 6a, following incubation, no interaction was observed between the DNA particles and HSA protein (GelRed channel). It appears that the outer DNA shell dictates the interaction between HSA and the DNA structures. In a control experiment, the micellar DNA structures were denatured by the addition of a solution of urea and depletion of magnesium cations prior to HSA addition, exposing their long aliphatic chains (Fig. 6b and SF27†). In this case, even at low protein concentrations, HSA was observed to strongly bind to the DNA–polymer conjugates. These findings suggest that the outer hydrophilic ssDNA corona limits albumin adsorption, and indicates that the DNA structures remain stable upon exposure to the protein. In addition, we used Nile Red-loaded particles as a visual tool along with gel electrophoresis to further confirm the lack of interaction between DNA nanoparticles and HSA (Fig. SF28 and SF29†).</text>
+      <annotation id="C207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011092</infon>
+        <location offset="29349" length="19"/>
+        <text>polyethylene glycol</text>
+      </annotation>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="29848" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="29971" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="C213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004396</infon>
+        <location offset="30307" length="6"/>
+        <text>GelRed</text>
+      </annotation>
+      <annotation id="C208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="30522" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="C209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="30544" length="9"/>
+        <text>magnesium</text>
+      </annotation>
+      <annotation id="C210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044808</infon>
+        <location offset="30951" length="8"/>
+        <text>Nile Red</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>31136</offset>
+      <text> In vivo biodistribution of HE12–SNAs </text>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="31164" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31177</offset>
+      <text>To our knowledge, the in vivo behaviour of polymeric DNA nanoparticles has not been previously studied. With that in mind, we proceeded with an in vivo screening via optical imaging which would allow for real-time tracking and overall biodistribution profiles. For this purpose, highly monodisperse Cy5.5–HE12–DNA nanoparticles were prepared which contained the dye molecule in their core. This was achieved by mixing Cy5.5–HE12–DNA (where Cy5.5 was attached to the HE12 polymer at the opposite end of the DNA) and unlabeled HE12–DNA conjugates in 25 : 75 molar ratios, followed by thermal annealing (95–4 °C over 4 hours) (see Fig. SF30 and SF31†). Nanoparticle biodistribution was evaluated by fluorescence imaging, following intraperitoneal injection (Fig. 7a and b) and intravenous administration of Cy5.5-labeled structures measured over 24 hours (see Fig. SF32†). Remarkably, Cy5.5-labeled DNA particles showed full-body distribution with long circulation times up to 24 hours (Fig. 7a–c and SF32†). Control experiments using Cy5.5-labeled single stranded DNA, showed loss of fluorescence, most likely due to DNA degradation. Similarly, the dye only Cy5.5 sample showed immediate loss of fluorescence, likely because of its insolubility. In contrast, the prolonged fluorescence biodistribution of Cy5.5–HE12–DNA nanoparticles could indicate very slow structural degradation in the blood stream. This behavior was further observed with intravenous injection of Cy5.5–HE12–SNAs (see Fig. SF32†). Compared to Cy5.5–ssDNA which showed rapid decrease in signal after 30 minutes, Cy5.5–HE12–SNA exhibited a delayed decrease starting at 6 hours. These results also corroborate our in vitro experiments that demonstrate enhanced stability of these DNA structures under physiological conditions (Fig. 3 and 4), and could also indicate that the DNA portion of Cy5.5–HE12–SNA is more shielded as the nanostructure circulates in the body. Interestingly, at the 6 hour mark, the rate of signal decrease in both Cy5.5–ssDNA and Cy5.5–HE12–SNAs appear to be similar which could indicate that at this point, the DNA portion of Cy5.5–HE12–SNAs may be degraded, and the remaining Cy5.5–HE12 portion behaves similarly to the remaining Cy5.5 dye in the Cy5.5–ssDNA sample.</text>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="31476" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="31482" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="31595" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="31601" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="31617" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="31643" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="31702" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="31981" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32059" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32209" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32333" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32480" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="32486" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32643" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="32649" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32689" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="32757" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="32763" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33033" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33039" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33181" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33197" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33203" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33294" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33300" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33345" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33351" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33399" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33416" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>33495</offset>
+      <text> In vivo biodistribution of Cy5.5-labeled HE12–DNA nanoparticles. (a) Cy5.5 fluorescence data overlaid on X-ray images measured over time after intraperitoneal injection. Top: unlabeled HE12–DNA nanoparticle, 2nd top: Cy5.5 dye molecule, 2nd bottom: Cy5.5–ssDNA, bottom: Cy5.5–HE12–DNA nanoparticle. (b) Quantified biodistribution data of Cy5.5 intensity measured as a function of time for Cy5.5–HE12–DNA nanoparticles. (c) 3D full body fluorescence scan at 24 h, overlaid with body organs (liver highlighted in red). (d) Biodistribution of Cy5.5-labeled DNA nanoparticles in HCT116 colon cancer xenograft. Control: treated with unlabeled particle, 1 &amp; 2: treated with Cy5.5–DNA particles. Cy5.5 fluorescence data overlaid on X-ray images measured over time following subcutaneous injection. (e) Quantified fluorescence intensity of Cy5.5–HE12–DNA particles at the tumor site measured over time. Error bars represent the standard deviation of measurements.</text>
+      <annotation id="C250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33523" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33537" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33565" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33681" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33713" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33745" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33766" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33772" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33834" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="33885" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="33891" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="34036" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="34164" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="34185" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="34328" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="34334" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34472</offset>
+      <text>Further 3D fluorescence imaging, which highlights organ-specific distribution, indicated low levels of excretion (liver and kidney) (Fig. 7c). Notably, low levels of fluorescence were also observed in brain and lungs after 2 and 24 hours (see ESI video clips 1 &amp; 2†). The biodistribution within the blood stream without accumulation in non-specific organs, particularly in the brain where BKM120 manifests side-effects, is important to decrease adverse effects observed during systemic drug treatments.</text>
+      <annotation id="C252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="34861" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34977</offset>
+      <text>The next question was to test whether our DNA nanostructures could reach and accumulate in solid tumors. To address that, the biodistribution of Cy5.5-labeled structures was evaluated in a cancer xenograft model. In our hands, the success of forming CLL xenografts was hampered by the inefficient engraftment of MEC-1 (CLL cell line) into rag2–/–γc–/–mice. Compared to CLL, colon cancer xenografts formed solid tumors much more efficiently in our mice model. Therefore, HCT116 colon cancer xenografts were used as a model system to test the biodistribution of our DNA nanostructures. Previous reports have demonstrated that nanoparticles tend to accumulate in higher levels in tumor tissue, a phenomenon known as the enhanced permeation and retention (EPR) effect., In our case, we measured the accumulation of nanoparticles at the tumor site over time following intraperitoneal injection (Fig. 7d). Cy5.5-labeled DNA particles showed a steady increase in accumulation at tumor sites for up to 24 hours (Fig. 7e). High accumulation in tumors was also observed under intravenous administration. As expected, Cy5.5-labeled structures exhibited higher diffusion rates compared to intraperitoneal delivery with accumulation peaking at 6 h (Fig. SF33†). The steady increase in accumulation of Cy5.5-labeled particles at the tumor site is predicted to translate into the same pattern of anticancer drug delivery by HE12–DNA structures, which will provide an important mechanism to minimize potential complications of this drug. Overall, the in vivo stability and biodistribution profiles of HE12–DNA nanoparticles highlight their great potential as a robust drug delivery system.</text>
+      <annotation id="C253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="35122" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="35877" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="36084" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098793</infon>
+        <location offset="36265" length="5"/>
+        <text>Cy5.5</text>
+      </annotation>
+      <annotation id="C257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="36386" length="4"/>
+        <text>HE12</text>
+      </annotation>
+      <annotation id="C258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="36562" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>36666</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36677</offset>
+      <text>We have developed a highly monodisperse DNA nanoparticle delivery platform for small-molecule chemotherapeutics. Our structures show effective loading and slow release of BKM120, and have a long shelf-life. The DNA nanoparticles are made of monodisperse, sequence-defined polymers units, they are stable under physiological ionic concentrations, and exhibit increased resistance to nucleases in biological environments. Furthermore, these structures demonstrate efficient uptake in cancer cells, and increased internalization of cargo. In vitro studies show the ability of BKM120-loaded particles to induce cellular death and apoptosis, including synergistic effects between BKM120 and antitumor drugs, without causing non-specific inflammation. Moreover, the absence of interaction with HSA can possibly protect the structures from RES uptake. Further investigation of the in vivo biodistribution of DNA nanoparticles demonstrates full-body distribution and long circulation times of these structures. Furthermore, the particles are not observed to cross the blood–brain barrier an important feature towards limiting the side-effects of BKM120 or any drug molecule with CNS off-target activity. The structures also show high tumor accumulation in xenograft models highlighting their potential for targeted cancer therapy.</text>
+      <annotation id="C261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="36848" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="37250" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="37352" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+      <annotation id="C262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C571178</infon>
+        <location offset="37815" length="6"/>
+        <text>BKM120</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>38002</offset>
+      <text>Given our findings, HE12–DNA nanoparticles show great promise as delivery vehicles for chemotherapeutics. This initial work has demonstrated the ability to load drugs and protect them in different biological conditions, achieve in vitro activity in primary patient cell lines, and monitor the in vivo biodistribution of these structures in mice to understand their real-time trafficking and stability. Future studies on this platform will focus on adapting cross-linking strategies to enhance drug loading capacity, retention and structural stability in vivo. Additionally, taking advantage of the DNA shell, surface modifications such as targeting ligands and oligonucleotide therapeutics will be implemented. We envisage this system to see applications in targeted cancer therapy and delivery of combinational small-molecule and oligonucleotide therapeutics.</text>
+      <annotation id="C263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005030</infon>
+        <location offset="38022" length="4"/>
+        <text>HE12</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

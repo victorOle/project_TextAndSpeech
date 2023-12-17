@@ -1,0 +1,3193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4311586</id>
+    <passage>
+      <infon key="name_3">surname:Bourne;given-names:Susan A</infon>
+      <infon key="article-meta">10.3762/bjoc.10.331</infon>
+      <infon key="name_2">surname:Noonan;given-names:Terence</infon>
+      <infon key="name_1">surname:Cruickshank;given-names:Dyanne L</infon>
+      <infon key="name_0">surname:Trollope;given-names:Lee</infon>
+      <infon key="notes">This article is part of the Thematic Series "Superstructures with cyclodextrins: Chemistry and applications II".</infon>
+      <infon key="article-id_pmid">25670983</infon>
+      <infon key="fpage">3136</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_pmc">4311586</infon>
+      <infon key="article-id_doi">10.3762/bjoc.10.331</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">10</infon>
+      <infon key="license">This is an Open Access article under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.The license is subject to the Beilstein Journal of Organic Chemistry terms and conditions: (http://www.beilstein-journals.org/bjoc)</infon>
+      <infon key="kwd">cyclodextrin inclusion complexes thermal analysis trans-resveratrol X-ray structures</infon>
+      <infon key="name_7">surname:Wenz;given-names:Gerhard</infon>
+      <infon key="lpage">3151</infon>
+      <infon key="name_6">surname:Caira;given-names:Mino R</infon>
+      <infon key="name_5">surname:Catenacci;given-names:Laura</infon>
+      <infon key="name_4">surname:Sorrenti;given-names:Milena</infon>
+      <offset>0</offset>
+      <text>Inclusion of trans-resveratrol in methylated cyclodextrins: synthesis and solid-state structures</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="13" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="45" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>97</offset>
+      <text>Summary</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>The phytoalexin trans-resveratrol, 5-[(1E)-2-(4-hydroxyphenyl)ethenyl]-1,3-benzenediol, is a well-known, potent antioxidant having a variety of possible biomedical applications. However, its adverse physicochemical properties (low stability, poor aqueous solubility) limit such applications and its inclusion in cyclodextrins (CDs) has potential for addressing these shortcomings. Here, various methods of the attempted synthesis of inclusion complexes between trans-resveratrol and three methylated cyclodextrins (permethylated α-CD, permethylated β-CD and 2,6-dimethylated β-CD) are described. Isolation of the corresponding crystalline 1:1 inclusion compounds enabled their full structure determination by X-ray analysis for the first time, revealing a variety of guest inclusion modes and unique supramolecular crystal packing motifs. The three crystalline inclusion complexes were also fully characterized by thermal analysis (hot stage microscopy, thermogravimetric analysis and differential scanning calorimetry). To complement the solid-state data, phase-solubility studies were conducted using a series of CDs (native and variously derivatised) to establish their effect on the aqueous solubility of trans-resveratrol and to estimate association constants for complex formation.</text>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011991</infon>
+        <location offset="109" length="11"/>
+        <text>phytoalexin</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="121" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="140" length="51"/>
+        <text>5-[(1E)-2-(4-hydroxyphenyl)ethenyl]-1,3-benzenediol</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="417" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="432" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="566" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="605" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047391</infon>
+        <location offset="620" length="18"/>
+        <text>permethylated α-CD</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="640" length="18"/>
+        <text>permethylated β-CD</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="663" length="21"/>
+        <text>2,6-dimethylated β-CD</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="1220" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="1314" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1403</offset>
+      <text>  </text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1406</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1419</offset>
+      <text>The naturally occurring phytoalexin trans-resveratrol (5-[(1E)-2-(4-hydroxyphenyl)ethenyl]-1,3-benzenediol; trans-3,5,4′-trihydroxystilbene, RSV) (1, Fig. 1), is a triphenolic species which is known to have potent antioxidant activity and consequently a wide range of pharmacological activities [1–2]. In recent years the list of potential medicinal benefits exhibited by RSV (including, e.g., anti-inflammatory effects, cardiovascular protection, and anticancer activity [3]) has increased considerably. Its low aqueous solubility, however, is one of the factors that limits its utility [4] and various methods have been employed to address this shortcoming [5], among them inclusion complexation with cyclodextrins (CDs), which are well-known solubilisers of lipophilic molecules [6].</text>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011991</infon>
+        <location offset="1443" length="11"/>
+        <text>phytoalexin</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="1455" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="1474" length="51"/>
+        <text>5-[(1E)-2-(4-hydroxyphenyl)ethenyl]-1,3-benzenediol</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="1527" length="31"/>
+        <text>trans-3,5,4′-trihydroxystilbene</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="1560" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="1791" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2122" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2137" length="3"/>
+        <text>CDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>2210</offset>
+      <text>Chemical structure of trans-resveratrol (1).</text>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="2232" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2255</offset>
+      <text>In addition to enhancing the solubility of guest molecules, CDs can confer chemical stability on bioactive molecules through inclusion of sensitive guest moieties within their hydrophobic cavities [6].</text>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2315" length="3"/>
+        <text>CDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2457</offset>
+      <text>There have been numerous reports of the enhancement in the aqueous solubility of RSV as a result of its inclusion in CDs, most of them based on phase-solubility studies, e.g., [7–8]. In addition, NMR spectroscopic studies have yielded information on solution-state complexation (stoichiometries, association constants) [9]. The latter study was complemented by attempts to characterize putative solid inclusion complexes between CDs and RSV using thermoanalytical, Fourier-transform Infrared (FTIR) spectroscopic and powder X-ray diffraction (PXRD) techniques [9]. In the case of the interaction between α-CD and RSV, for example, the disappearance of the melting endotherm for RSV in the differential scanning calorimetric (DSC) trace of the product was cited as evidence for the formation of a α-CD·RSV complex [9]. The putative inclusion complex between β-CD and RSV, prepared by either the suspension method or using microwave irradiation, yielded highly amorphous products, evident from their PXRD traces [9]; in this case, the absence of characteristic peaks for RSV and the reduction in the degree of crystallinity of the product were considered as indirect proof of complexation. It should be noted that, in general, solid-state characterization using the latter techniques is limited, the evidence for genuine inclusion complex formation not always being definitive because the preparative method may result in one or both components becoming amorphous, or an unexpected solid phase (e.g., a hydrate of the guest compound) might be generated during attempted complexation. Loss of crystallinity of CD inclusion compounds also results when they dehydrate, rendering their PXRD traces less informative.</text>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="2538" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2574" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2886" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="2894" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047391</infon>
+        <location offset="3061" length="4"/>
+        <text>α-CD</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="3070" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="3135" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047391,MESH:C059514</infon>
+        <location offset="3253" length="8"/>
+        <text>α-CD·RSV</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="3314" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="3323" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="3526" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="4064" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4178</offset>
+      <text>There is, hitherto, a distinct lack of information on the structural nature of solid-state inclusion complexes between RSV and CDs, despite the fact that such complexes have strong potential for incorporation into tablets or capsules when formulated for medicinal use. A search of the Cambridge Crystallographic Database [10] revealed that no CD·RSV crystal structures have been reported to date.</text>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="4297" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="4305" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="4521" length="6"/>
+        <text>CD·RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4576</offset>
+      <text>In this study, various preparative methods were explored in an attempt to generate CD·RSV inclusion complexes with a series of methylated CDs (permethylated α-CD, permethylated β-CD and 2,6-dimethylated β-CD). Here, CD–RSV interaction products were prepared by physical mixing, kneading or co-crystallization from different solutions, by co-evaporation using a rotavapor, or by exposure to microwave radiation. Characterization of the products was achieved using DSC and simultaneous thermogravimetric analysis (TGA/DSC), with support from FTIR spectroscopy and PXRD, where necessary.</text>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="4659" length="6"/>
+        <text>CD·RSV</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="4703" length="14"/>
+        <text>methylated CDs</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047391</infon>
+        <location offset="4719" length="18"/>
+        <text>permethylated α-CD</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="4739" length="18"/>
+        <text>permethylated β-CD</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="4762" length="21"/>
+        <text>2,6-dimethylated β-CD</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="4792" length="6"/>
+        <text>CD–RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5171</offset>
+      <text>An important goal was the isolation of RSV·CD inclusion complexes in crystalline form so that definitive details of the mode of inclusion of the RSV molecule and the packing of complex units could be established by single crystal X-ray analysis. In view of its extended shape and apparent rigidity, the RSV molecule was expected to be partially inserted in the CD host cavities and hence to produce somewhat different supramolecular arrangements in the crystals from those observed with guest molecules having greater conformational freedom. As reported in detail below, the successful isolation of the target inclusion compounds as single crystals enabled their complete structural elucidation, revealing several novel supramolecular features which are relevant for future studies of the antioxidant RSV. Availability of well-defined, crystalline inclusion complexes also ensured that their characterization using thermoanalytical methods could be interpreted on a sound basis. Since a primary application of CDs is enhancement of the solubility of poorly soluble guest molecules [6], phase solubility studies [11] were conducted, and the results, including estimates of complex formation constants, are also reported here.</text>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="5210" length="6"/>
+        <text>RSV·CD</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="5316" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="5474" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="5532" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="5972" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="6181" length="3"/>
+        <text>CDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6397</offset>
+      <text>Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6420</offset>
+      <text>Screening for CD–RSV interactions and product characterization</text>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="6434" length="6"/>
+        <text>CD–RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6485</offset>
+      <text>Screening for new solid forms of RSV via its interaction with CDs using different preparative methods required preliminary characterization of RSV itself and assessment of the effects on pure RSV of procedures used to prepare the binary systems. Differential scanning calorimetry (DSC) indicated that the commercial product melted at T peak,m = 266.3(4) °C (T onset = 265.1(3) °C; ΔH m = 279(2) J g−1) (Fig. 2, curve (a)). Thermogravimetric analysis (TGA) revealed mass loss only at 275 °C attributable to sample decomposition (curve not shown). It was ascertained that the kneading treatment (KN) and exposure to irradiation with microwave radiation (MW) had no significant effect on RSV. (Further experimental data on this aspect and all other methods employed in this study are provided in Supporting Information File 1).</text>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="6518" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="6547" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="6628" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="6677" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="7170" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7316</offset>
+      <text>DSC traces of RSV (a), TMA (b), TMA–RSV physical mixture (PM) (c), TMA–RSV preparation by kneading (KN) (d).</text>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="7330" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="7339" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="7348" length="7"/>
+        <text>TMA–RSV</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="7383" length="7"/>
+        <text>TMA–RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7429</offset>
+      <text>On DSC analysis, permethylated α-CD [(hexakis(2,3,6-tri-O-methyl)-α-CD; TRIMEA; TMA] yielded an endotherm of fusion only (T peak,m = 217.6(1) °C, ΔH m = 40(3) J g−1) (Fig. 2, curve (b)). The physical mixture (PM) of TMA and RSV instead showed a new endothermic peak at ca. 175 °C, due to the melting of a new crystalline phase (curve (c)). The same endothermic peak was present in the KN (curve (d) (and MW, curve not shown) products, preceded by a small exothermic effect at 120 °C, confirming the TMA–RSV interaction and formation of a new thermally-induced solid phase. Comparison of FTIR spectra of the starting components with those of the binary systems showed that several bands shifted to significantly higher frequencies in the treated products, supporting the interpretation based on the thermal data.</text>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047391</infon>
+        <location offset="7460" length="4"/>
+        <text>α-CD</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="7466" length="33"/>
+        <text>(hexakis(2,3,6-tri-O-methyl)-α-CD</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="7501" length="6"/>
+        <text>TRIMEA</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="7509" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="7645" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="7653" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="7928" length="7"/>
+        <text>TMA–RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8253</offset>
+      <text>With the host TMB (heptakis(2,3,6-tri-O-methyl)-β-CD (TMB)), which displayed in DSC a sharp melting endotherm at T peak,m = 158.2(7) °C with ΔH m = 38(2) J g−1, the TMB–RSV combinations PM and MW yielded products with virtually featureless DSC traces, from which it was deduced that they were amorphous. Given that both the TMB and RSV samples employed were crystalline, with well-defined melting behaviour, it was interesting to note that even physical mixing appeared to yield a significantly amorphous product. (Powder X-ray diffraction of the PM sample confirmed its essentially amorphous nature, though a few prominent peaks due to RSV, of low intensity, were still evident above the general ‘halo’). It was therefore inferred that solid-state interaction had occurred to some extent on physical mixing. For the MW product (amorphous from the PXRD trace), no RSV was evident in the PXRD pattern and solid-state interaction between TMB and RSV was further confirmed from the FTIR spectrum, which showed several peaks displaced to slightly higher wavenumbers.</text>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="8267" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="8272" length="33"/>
+        <text>heptakis(2,3,6-tri-O-methyl)-β-CD</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="8307" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="8418" length="7"/>
+        <text>TMB–RSV</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="8577" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="8585" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="8890" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="9117" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="9189" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="9197" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9327</offset>
+      <text>For the DMB (heptakis(2,6-di-O-methyl)-β-CD)–RSV binary combinations, an endotherm at T peak = 207.4(5) °C for the preparation PM reflected definite solid-state interaction, but the KN and MW products were effectively amorphous, based on the lack of distinct thermal events. An attempt to recrystallize the PM from MeOH/H2O (1:1 v/v) yielded a sample which displayed a distinct endo–exothermic effect in the DSC trace, attributed to inclusion complex formation. The FTIR spectrum of the KN product lacked two characteristic peaks of RSV, suggesting its inclusion in the cavity of DMB. It is noted that the DSC trace from ground single crystals of the phase later identified as the inclusion complex DMB·RSV·4H2O instead showed different features from those reported above for DMB–RSV combinations, the most prominent endotherm appearing at ca. 233 °C. We infer that the nature of the inclusion complex formed depends on the preparative method employed.</text>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514</infon>
+        <location offset="9335" length="40"/>
+        <text>DMB (heptakis(2,6-di-O-methyl)-β-CD)–RSV</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="9642" length="4"/>
+        <text>MeOH</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="9647" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="9860" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="9907" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="10026" length="12"/>
+        <text>DMB·RSV·4H2O</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514</infon>
+        <location offset="10103" length="7"/>
+        <text>DMB–RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10291</offset>
+      <text>Thermal characterization of crystalline CD·RSV inclusion complexes obtained by co-precipitation</text>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="10331" length="6"/>
+        <text>CD·RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10388</offset>
+      <text>The co-precipitation method using small amounts of ethanol to aid dissolution of the RSV produced high-quality single crystals of each of the three inclusion complexes. The host–guest stoichiometries of the inclusion complexes between RSV and the three methylated CDs were all found to be 1:1 from 1H NMR spectra of solutions of single crystals of the respective complexes (Supporting Information File 1).</text>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="10439" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="10473" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="10623" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="10652" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10686" length="2"/>
+        <text>1H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10796</offset>
+      <text>TGA and DSC techniques were used primarily to estimate the water content and/or possible guest loss upon heating and to identify complex melting and other phase changes respectively, with hot stage microscopic (HSM) observations facilitating the interpretation of thermal events. Representative data are shown for the TMA·RSV complex (Fig. 3), where a TG mass loss of 7.5 ± 1.3% (n = 3) over the temperature range 30–100 °C yielded an estimated 6.6 ± 1.2 water molecules per 1:1 complex unit.</text>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="10855" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="11114" length="7"/>
+        <text>TMA·RSV</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11251" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11295</offset>
+      <text>TG (red) and DSC (blue) traces for the hydrated TMA·RSV complex (top), and hot stage micrographs showing the crystals at various temperatures (bottom).</text>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="11343" length="7"/>
+        <text>TMA·RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11448</offset>
+      <text>Water loss is evident in the HSM micrograph recorded at 112 °C with the crystal immersed in silicone oil and the DSC trace shows a corresponding broad endotherm accompanying the dehydration. However, a sharp endotherm subsequently developed, peaking at ca. 110 °C, interpreted as commencement of complex fusion which overlaps the dehydration process. This coincides with the melting observed in HSM at 120 °C. A phase change of the anhydrous complex is evident in the HSM at 136 °C, where microcrystallites appear within the melt, the small endotherm at ca. 145 °C being attributed to subsequent melting of the new phase. In HSM, the sample is completely molten at 177 °C. Finally, the TG trace indicates complex decomposition onset at ca. 280 °C.</text>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11448" length="5"/>
+        <text>Water</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012827</infon>
+        <location offset="11540" length="12"/>
+        <text>silicone oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12203</offset>
+      <text>A summary of the results for the TMB·RSV and DMB·RSV complexes follows (for their TG, DSC and HSM figures, see Supporting Information File 1). The TG trace of the hydrated complex TMB·RSV yielded an initial mass loss of 5.3 ± 0.1% (n = 2), equivalent to 5.2 water molecules per 1:1 complex unit. The endotherm observed over the range of 30–120 °C appears sharper than expected for solvent loss alone, suggesting simultaneous melting of the complex. The HSM photographs confirm that dehydration is accompanied by complex fusion, the latter spanning a wide temperature range, with the sample fully molten at 120 °C. Complex decomposition commences at ca. 280 °C. In contrast to TMB·RSV, the thermal behaviour of DMB·RSV is distinctly more complicated (Supporting Information, File 1). The TG trace shows an initial mass loss of 4.4 ± 0.2 % (n = 3) over the range 30–110 °C, yielding 4.0 ± 0.2 water molecules per 1:1 complex unit. This loss is reflected in a broad endotherm recorded in the DSC over the same temperature range and is evident in the HSM images from fracturing of the crystal at 130 °C. Between 150 and 200 °C there is negligible mass loss and the anhydrous complex appears to undergo more than one phase transition. A second mass loss appears in the TG trace corresponding to partial guest loss and the DSC shows a sharp but small melting endotherm at ca. 233 °C, the remaining sample decomposing soon after, at ca. 320 °C.</text>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="12236" length="7"/>
+        <text>TMB·RSV</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514</infon>
+        <location offset="12248" length="7"/>
+        <text>DMB·RSV</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="12383" length="7"/>
+        <text>TMB·RSV</text>
+      </annotation>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12461" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="12879" length="7"/>
+        <text>TMB·RSV</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514</infon>
+        <location offset="12913" length="7"/>
+        <text>DMB·RSV</text>
+      </annotation>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="13094" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13661</offset>
+      <text>X-ray analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13676</offset>
+      <text> Table 1 lists the crystal data, as well as data-collection and refinement parameters for the new hydrated inclusion complexes TMA·RSV, TMB·RSV and DMB·RSV. The remarkably low R 1 -factors (range 0.04–0.07) and the relatively small residual electron densities are exceptional for CD structures of this complexity, given also the presence of guest disorder in two cases. An account of the key features of the inclusion of the RSV molecule within the respective host cavities as well as descriptions of the crystal packing arrangements follows.</text>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="13803" length="7"/>
+        <text>TMA·RSV</text>
+      </annotation>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="13812" length="7"/>
+        <text>TMB·RSV</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514</infon>
+        <location offset="13824" length="7"/>
+        <text>DMB·RSV</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="13956" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="14101" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>14224</offset>
+      <text>Crystal data, data collection parameters and refinement details.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15848</offset>
+      <text>The asymmetric unit of the complex TMA·RSV·6.25H2O, namely two TMA molecules, two RSV molecules and 12.5 water molecules, is shown in Fig. 4. In both 1:1 host–guest complex units the guest phenyl ring bearing one phenolic group (the 4-hydroxyphenyl residue) is fully immersed in the host cavity, being located at the primary side, while the ring bearing two phenolic groups (the 1,3-benzenediol residue) protrudes significantly from the host secondary side, where its phenol groups engage in hydrogen bonding with water molecules. Crystallographic atomic nomenlature for the host is shown in Fig. 4.</text>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514,MESH:D014867</infon>
+        <location offset="15883" length="15"/>
+        <text>TMA·RSV·6.25H2O</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="15911" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="15930" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="15953" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16340" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="16362" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16452</offset>
+      <text>The two symmetry-independent complex units of TMA·RSV·6.25H2O (A and B), with only the major component of disorder shown for RSV in host B (a), and the non-H atom and methylglucose ring nomenclature illustrated for host A as representative (b). For clarity, host H atoms have been omitted.</text>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514,MESH:D014867</infon>
+        <location offset="16498" length="15"/>
+        <text>TMA·RSV·6.25H2O</text>
+      </annotation>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="16577" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16608" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008757</infon>
+        <location offset="16619" length="13"/>
+        <text>methylglucose</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16715" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16744</offset>
+      <text>The full description of the guest molecules is provided in Fig. 5, where the ordered structure of guest molecule A is contrasted with the twofold-disordered model (components B, C) for the second guest molecule. Several of the host B atoms were disordered over two positions and were modelled accordingly. These included, on the primary side, two C6–O6–C9 chains, a methoxy group and an O5 atom, and on the secondary side, three methoxy groups. Full geometrical analyses that included nine metrical parameters describing the host molecule conformations was performed (Supporting Information, File 1). This revealed that host molecules A and B adopt the expected elliptical shape [12], the longer axis of each macrocycle being approximately parallel to the planes of the respective included 4-hydroxyphenyl rings.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>17561</offset>
+      <text>Representative atomic labelling for the ordered RSV molecule A (blue) present in host A and the two disorder components B (orange, s.o.f. = 0.56) and C (green, s.o.f. = 0.44) of the RSV molecule included in host molecule B.</text>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="17609" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="17743" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17785</offset>
+      <text>In addition, the crystallographically independent TMA host molecules adopt somewhat different conformations given the fact that their contents differ, owing to the disorder described in Fig. 5. In particular, the average extent of ‘tilt’ of each glucose ring relative to the mean O4-plane is small for host molecule A [range 3.24(3)–6.44(5)°], indicating a relatively open primary side, whereas for host B, the average tilt angle is significantly larger [range 5.72(4)–10.31(9)°], reflecting a more ‘closed’ primary side.</text>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="17835" length="3"/>
+        <text>TMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18321</offset>
+      <text>Regarding the mode of guest inclusion, the angle between the mean plane of the RSV molecule and the mean O4-plane of the host molecule A is ca. 85.6°, with that between the RSV major disorder component B and the mean O4-plane of host molecule B being virtually the same (ca. 86.8°). While the RSV molecule in its own crystal structure ([10], refcode DALGON) is planar, it is notable that the RSV molecules in the TMA complex deviate significantly from planarity and to different extents; in the case of the ordered RSV guest molecule A, the interplanar angle between the two phenyl residues is 51.6(3)°, and for the major disorder component of RSV which is included in host molecule B, the corresponding angle is 23.1(4)°. Thus, the significant host conformational differences coupled with the significant guest conformational differences reflected in the parameters reported above clearly indicate a mutual induced fit when TMA forms an inclusion complex with RSV. This phenomenon of mutual induced fit has recently been cited as a frequent occurrence in biological systems, but a rare one for synthetic host–guest systems [13]. However, its occurrence in CD inclusion complexes is known and was in recent years prominently manifested in CD complexes of rocuronium salts [14].</text>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="18400" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="18494" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="18614" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="18713" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="18734" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="18836" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="18965" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="19246" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="19282" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="19478" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="19560" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C061870</infon>
+        <location offset="19576" length="10"/>
+        <text>rocuronium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19605</offset>
+      <text> Fig. 6 illustrates the three-component supramolecular systems A and B occurring in the crystal. Each consists of a TMA molecule, a RSV molecule and a decorative motif (here referred to as a ‘crown’) of three hydrogen bonded water molecules (H atoms not shown), the terminal water molecules forming hydrogen bonds with the phenolic groups. For the ordered RSV guest in complex A, for example, the four O···O distances are in the range of 2.700(6)–2.863(6) Å. It is noteworthy that the ‘crown’ feature is a robust motif, occurring in all three inclusion complexes described here. Furthermore, this motif is unique to the trans-resveratrol inclusion complexes described here: no analogous motifs were found on searching the Cambridge Structural Database [10]. It is also important to note that for the TMA·RSV complex, the major stabilising host–guest interaction is that between the phenolic group of the 4-hydroxyphenyl ring and the primary rim of the host TMA molecule, which is mediated by a bridging water molecule. In ordered complex unit A, for example, the linkage is RSV(4-OH)···O(water)···O6(primary methoxy), with respective O···O distances of 2.731(6) and 2.829(7) Å.</text>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="19721" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="19737" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="19814" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="19830" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="19847" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="19880" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="19904" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="19961" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="20225" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+      <annotation id="C165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="20405" length="7"/>
+        <text>TMA·RSV</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="20562" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="20608" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="20679" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="20693" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>20810</offset>
+      <text>Space-filling representations of the two independent complex units A (a) and B (b) of the complex TMA·RSV·6.25H2O with a cutaway view of the host to illustrate the details of guest inclusion. For the RSV molecules, the atoms are colour coded blue (C), green (O) and yellow (H). For clarity, only the major RSV disorder component is shown in (b).</text>
+      <annotation id="C172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514,MESH:D014867</infon>
+        <location offset="20908" length="15"/>
+        <text>TMA·RSV·6.25H2O</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="21010" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="21058" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="C173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="21069" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21084" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="21116" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21158</offset>
+      <text>A complex network of hydrogen bonds stabilises the crystal structure; these include host–guest O–H···O and C–H···O hydrogen bonds, host–host C–H···O hydrogen bonds, guest–water and water–water O–H···O hydrogen bonds.</text>
+      <annotation id="C179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21179" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21273" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21307" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21329" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21339" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21345" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21359" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21403</offset>
+      <text>Crystal packing is shown in Fig. 7. The complex units pack in a head-to-tail manner in columns parallel to the crystal b-axis. Columns of complex units A propagate as rows parallel to the a-axis, alternating with analogous columns of B complex units.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21654</offset>
+      <text>Crystal packing for the complex TMA·RSV·6.25H2O projected down [010].</text>
+      <annotation id="C183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514,MESH:D014867</infon>
+        <location offset="21686" length="15"/>
+        <text>TMA·RSV·6.25H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21726</offset>
+      <text>Structural analysis of the inclusion complex between permethylated β-CD (TMB) and RSV, with formula TMB·RSV·5.6H2O, revealed twofold disorder of the RSV molecule. The symmetry of the disorder model (Fig. 8) is, however, clearly different from that in the TMA complex (Fig. 5) but the close proximity of the chemically equivalent phenolic groups of the A and B components in principle enables them to engage in similar hydrogen bonding schemes.</text>
+      <annotation id="C188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="21793" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="21799" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="21808" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514,MESH:D014867</infon>
+        <location offset="21826" length="14"/>
+        <text>TMB·RSV·5.6H2O</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="21875" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="21981" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22144" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22173</offset>
+      <text>The components of the disorder model for RSV in its inclusion complex with TMB (s.o.f. = 0.73 for the major component A (blue) and 0.27 for the minor component B (green)).</text>
+      <annotation id="C192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="22214" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="22248" length="3"/>
+        <text>TMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22345</offset>
+      <text>The conformational flexibility of the RSV molecule is again evident in this complex, the interplanar angles between the phenyl rings being 17.7(1)° for the major component and 23.9(3)° for the minor component, thus extending the range of guest conformational flexibility encountered in the TMA complex.</text>
+      <annotation id="C194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="22383" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="22635" length="3"/>
+        <text>TMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22650</offset>
+      <text>The crystal asymmetric unit contains the equivalent of one RSV molecule, one TMB molecule and 5.6 water molecules (Fig. 9). The molecule of RSV is included within the TMB cavity with the 4-hydroxyphenyl group located at the host primary side, being anchored directly via a hydrogen bond [RSV(4-OH)···O611] to a partial oxygen atom (s.o.f. = 0.65) of a primary methoxy group. This differs from the situation in the TMA complex, where the host–guest link is mediated by a bridging water molecule.</text>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="22709" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="22727" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22748" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="22790" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="22817" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22923" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="22938" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="22969" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="23064" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23129" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>23150</offset>
+      <text>The asymmetric unit in the crystal of TMB·RSV·5.6H2O (a), and the non-H atom and methylglucose ring nomenclature illustrated for the host TMB (b). Only the major RSV disorder component is shown in (a) for clarity.</text>
+      <annotation id="C208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514,MESH:D014867</infon>
+        <location offset="23188" length="14"/>
+        <text>TMB·RSV·5.6H2O</text>
+      </annotation>
+      <annotation id="C210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23220" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="23288" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="23312" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23366</offset>
+      <text>The major disorder component of the guest engages in a geometrically more favourable hydrogen bonding interaction, such that the O···O distance in O1A–H1A···O611 is 2.73(1) Å, whereas for the minor guest component, the corresponding O···O distance in O1B–H1B···O611 is 2.95(1) Å. The situation is slightly more complicated since each of the phenolic groups (–O1A–H1A and –O1B–H1B) engages in bifurcated H-bonding, the second acceptor being a disordered water oxygen atom O7W, located at distances 2.60(1) Å and 2.80(1) Å from O1A and O1B respectively.</text>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23451" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23819" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="23825" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23946</offset>
+      <text>Another important feature of the inclusion geometry relates to the guest inclination in the host cavity: here the mean plane of the RSV molecule is inclined at ca. 45° to the mean O4-plane of the TMB molecule (Fig. 10), effectively resting on the surface of one side of the host molecule, in strong contrast to the situation in the TMA complex where the equivalent angle is ~86° (Fig. 4). As is usually observed, the primary methoxy groups of the host TMB are generally directed towards the centre of the macrocycle, and effectively close the primary side, presenting a bowl-shaped surface to the RSV molecule. Instead, the secondary side of the host molecule is open and a portion of the 1,3-benzenediol residue protrudes from that side, where the two phenolic groups are again linked by a ‘crown’ of three hydrogen bonded water molecules, analogous to that observed in the TMA complex.</text>
+      <annotation id="C216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="24078" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="24142" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="24278" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="24398" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="24543" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="24754" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24770" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="24821" length="3"/>
+        <text>TMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>24840</offset>
+      <text>Space-filling model of the inclusion complex TMB·RSV·5.6H2O showing the inclusion of the RSV molecule in the host TMB (left) and a cutaway view (right) emphasising the shallow inclination of the guest molecule in the cavity. Only the major guest disorder component is illustrated for clarity. Water hydrogen atoms are also omitted.</text>
+      <annotation id="C229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514,MESH:D014867</infon>
+        <location offset="24885" length="14"/>
+        <text>TMB·RSV·5.6H2O</text>
+      </annotation>
+      <annotation id="C225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="24929" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="24954" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25133" length="5"/>
+        <text>Water</text>
+      </annotation>
+      <annotation id="C228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25139" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25174</offset>
+      <text>The higher quality of the diffraction data for the TMB·RSV complex enabled location of the hydrogen atoms of the water molecules in difference Fourier syntheses. Both disorder components of the RSV molecule engage in equivalent hydrogen bonds with the host molecule. Stabilisation of the crystal structure of TMB·RSV·5.6H2O is effected by a complex network of attractive interactions, including host–guest hydrogen bonds (both O–H···O and C–H···O), several host–host C–H···O interactions and numerous O–H···O hydrogen bonds that involve ordered and disordered water molecules (the 5.6 H2O molecules in the asymmetric unit being disordered over nine sites). The complex units stack in columns parallel to the a-axis in a head-to-tail fashion (Fig. 11), adjacent columns being related by the two-fold screw axis along 1/2, y, 1/2. The view down the columns (Fig. 11) reveals a channel-like arrangement of the host molecules in this direction. Among the various isostructural classes of CD inclusion complexes [15], the one to which this complex belongs has relatively few members.</text>
+      <annotation id="C238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="25225" length="7"/>
+        <text>TMB·RSV</text>
+      </annotation>
+      <annotation id="C239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25265" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25287" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="25368" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25402" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514,MESH:D014867</infon>
+        <location offset="25483" length="14"/>
+        <text>TMB·RSV·5.6H2O</text>
+      </annotation>
+      <annotation id="C236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25580" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25683" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25734" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25759" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="26158" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>26280</offset>
+      <text>Packing arrangement in the crystal of TMB·RSV·5.6H2O viewed down [010] (a) and [100] (b). Hydrogen atoms have been omitted for clarity; water oxygen atoms in red.</text>
+      <annotation id="C244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514,MESH:D014867</infon>
+        <location offset="26318" length="14"/>
+        <text>TMB·RSV·5.6H2O</text>
+      </annotation>
+      <annotation id="C242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="26370" length="8"/>
+        <text>Hydrogen</text>
+      </annotation>
+      <annotation id="C241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26416" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="26422" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26445</offset>
+      <text>The third complex whose X-ray structure is described here has the formula DMB·RSV·4.0H2O, the host molecule DMB being 2,6-dimethylated β-CD and consequently having properties that are intermediate between those of the native β-CD and fully methylated β-CD [16]. The formula unit corresponds to the crystal asymmetric unit, shown in Fig. 12. Despite the inclusion of the guest molecule, the DMB molecule retains its ‘round shape’ owing to the formation of the well-known ‘belt’ of intramolecular O2(n)···O3(n−1) hydrogen bonds that link contiguous glucose residues [17–18]. In this complex, the average O···O distance in the belt is 2.83 Å and the O–H···O angles span the range 165–173°.</text>
+      <annotation id="C252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="26519" length="14"/>
+        <text>DMB·RSV·4.0H2O</text>
+      </annotation>
+      <annotation id="C245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="26553" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="26563" length="21"/>
+        <text>2,6-dimethylated β-CD</text>
+      </annotation>
+      <annotation id="C248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="26670" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="26696" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="26835" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="26956" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="26992" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27164</offset>
+      <text>Structure of the host–guest complex DMB·RSV·4.0H2O (a), ring and atomic nomenclature for the host molecule DMB (b), and structure and atomic numbering of the included RSV molecule (c).</text>
+      <annotation id="C255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="27200" length="14"/>
+        <text>DMB·RSV·4.0H2O</text>
+      </annotation>
+      <annotation id="C253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="27271" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="27331" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27353</offset>
+      <text>As in the previous two complexes, the RSV molecule is again included with the 4-hydroxyphenyl ring located deep within the cavity with the phenolic group at the primary side, while the 1,3-benzenediol residue protrudes from the secondary rim of the DMB molecule and the two phenolic groups are again decorated by a ‘crown’ of three hydrogen bonded water molecules. In this complex, the included RSV molecule shows the highest degree of planarity, the phenyl ring planes intersecting at only 13.6(2)°. The topology of guest inclusion is shown in Fig. 13. The angle between the mean O4-plane of the DMB molecule and the mean plane through the RSV molecule is ca. 73°, intermediate between the corresponding values in the TMA and TMB complexes.</text>
+      <annotation id="C256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="27391" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="27602" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="27685" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27701" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="27748" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="27950" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="27994" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="28072" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="28080" length="3"/>
+        <text>TMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28101</offset>
+      <text>Space-filling model of the inclusion complex DMB·RSV·4.0H2O showing the encapsulation of part of the RSV molecule by the host DMB (left) and a cutaway view highlighting the location and orientation of the guest molecule in the host cavity (right).</text>
+      <annotation id="C269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="28146" length="14"/>
+        <text>DMB·RSV·4.0H2O</text>
+      </annotation>
+      <annotation id="C267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="28202" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="28227" length="3"/>
+        <text>DMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28351</offset>
+      <text>Closer examination of the binding of the 4-hydroxyphenyl ring to the host molecule reveals that its hydroxy group is linked to a methoxy oxygen atom (O6G7) on the primary rim of the host molecule via a bridging water molecule, the relevant hydrogen bond sequence being RSV(O1–H1)···O2W–H2WA···O6G7, with respective O···O distances 2.718(4) Å and 2.778(4) Å. The second hydrogen atom on the water molecule (H2WB) is in turn a donor to the atom O3G3i of a translated (i = −1 + x, y, z) DMB molecule, this hydrogen bond having a O2W···O3G3i distance of 2.857(3) Å and being responsible for cohesion between successive complex units along the crystal x-direction. Fig. 14 illustrates the principal hydrogen bonds associated with the two complex units referred to above.</text>
+      <annotation id="C278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="28488" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="28562" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28591" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="28620" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28720" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="28741" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="28835" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28854" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29045" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>29138</offset>
+      <text>Stereoview of two DMB·RSV·4.0H2O complex units related by a unit translation along the crystal a-axis, illustrating the intramolecular hydrogen bonds which stabilise the host conformation as well as the hydrogen bonding role of the bridging water molecule that links complex units along the crystal x-direction.</text>
+      <annotation id="C282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="29156" length="14"/>
+        <text>DMB·RSV·4.0H2O</text>
+      </annotation>
+      <annotation id="C280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29273" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29341" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="29379" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29452</offset>
+      <text>It is noteworthy that in the above motif, the two host molecules are fairly steeply inclined to the a-axis (which is approximately vertical) with the result that two primary methoxy groups of the uppermost molecule are partially included within the cavity of the translated molecule. In addition to the hydrogen bonds discussed above, the crystal structure of the DMB complex is stabilised by a series of host–host C–H··· O hydrogen bonds as well as numerous water–water O–H···O hydrogen bonds.</text>
+      <annotation id="C285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29755" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="29816" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29876" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="29911" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="29917" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29931" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29961</offset>
+      <text>The crystal packing is shown in Fig. 15. Complex units stack in columns parallel to the a-axis in a head-to-tail fashion with (as noted above) a small extent of host self-inclusion (Fig. 15). Fig. 15 illustrates the modified herringbone packing arrangement as viewed down the b-axis.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>30245</offset>
+      <text>Projections of the crystal structure of the complex DMB·RSV·4H2O along [100] (a) and [010] (b). Hydrogen atoms are omitted for clarity.</text>
+      <annotation id="C290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="30297" length="12"/>
+        <text>DMB·RSV·4H2O</text>
+      </annotation>
+      <annotation id="C291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30341" length="8"/>
+        <text>Hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30383</offset>
+      <text>Regarding the phase purity of the three new inclusion complexes described above, we confirmed that their simulated powder X-ray diffraction patterns are in good agreement with those calculated from the single crystal X-ray data. This is an important verification that the single crystals selected are truly representative of the respective bulk materials (Supporting Information File 1).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>30771</offset>
+      <text>Phase-solubility analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30797</offset>
+      <text>According to Higuchi and Connors [11], phase-solubility diagrams can be classified as being of types A and B. A-type behaviour corresponds to an increase in the solubility of the drug as the concentration of the CD is increased, as a result of soluble complex formation. A-type curves can further be distinguished depending on whether the solubility increases linearly (AL) as the CD concentration increases, or with a positive (AP-type) or negative (AN-type) deviation due to a change in the physical properties of the solution. B-type curves indicate the formation of an insoluble complex, where BS suggests the formation of a complex with limited solubility, while BI denotes the formation of an insoluble complex.</text>
+      <annotation id="C292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="31009" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="31178" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31515</offset>
+      <text> Fig. 16 shows the phase-solubility results for RSV with the native CDs β- and γ-CD. The phase-solubility profile resulting from the use of β-CD is of type AL and this host produces a guest solubility enhancement of 26-fold over the concentration range indicated. The results for the experiments with γ-CD were limited to a maximum CD concentration of 6 mM by inefficient filtration through the filter membrane that was employed. The precipitation of complex or aggregated CD particulates was physically observed during sample preparation. Over this range the solubility plot appears to increase to a plateau, indicating an AN solubility profile, the negative deviation possibly being due to changes in the solubility of the complex and/or aggregation of the CD molecules. The solubility enhancement for RSV with γ-CD was only 3.4-fold.</text>
+      <annotation id="C294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="31563" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="31583" length="6"/>
+        <text>CDs β-</text>
+      </annotation>
+      <annotation id="C303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="31594" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+      <annotation id="C296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="31655" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="31816" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+      <annotation id="C299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="31847" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="31988" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="32274" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="32319" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="32328" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>32370</offset>
+      <text>Solubility of RSV as a function of [β-CD] (blue) and [γ-CD] (red) at 25 °C.</text>
+      <annotation id="C305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="32384" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="32406" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="32424" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32453</offset>
+      <text>The solubility enhancements for RSV in the presence of the derivatised CDs are significant (Fig. 17). With TMB, AL-type behaviour was observed with a solubility enhancement of 36 times that of the intrinsic solubility of the guest. Each of the remaining derivatised CDs shows two different solubility profiles over the common concentration range. Hydroxypropyl-β-CD (HP-β-CD) and randomly methylated β-CD (RMB) show relatively small initial solubility enhancements of RSV solubility (up to ca. 4 mM CD concentrations), with significant solubility increases thereafter (AL-type). The changes in slope may indicate an increase in the complex order with respect to RSV. The solubility enhancement for RSV at the highest CD concentration employed is 44-fold in the presence of HP-β-CD and 63-fold in the presence of RMB.</text>
+      <annotation id="C308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="32485" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="32524" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="32560" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="32719" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="32800" length="18"/>
+        <text>Hydroxypropyl-β-CD</text>
+      </annotation>
+      <annotation id="C310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="32820" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="32853" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="32859" length="3"/>
+        <text>RMB</text>
+      </annotation>
+      <annotation id="C311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="32921" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="32952" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="33115" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="33151" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="33170" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="33226" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="33265" length="3"/>
+        <text>RMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>33282</offset>
+      <text>Solubility of RSV as a function of the concentrations of TMB (light blue), DMB (red), HP-β-CD (green) and RMB (dark blue) at 25 °C.</text>
+      <annotation id="C323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="33296" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="33339" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="33357" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="33368" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="33388" length="3"/>
+        <text>RMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33417</offset>
+      <text>The results with DMB follow the opposite trend, with the solubility of the guest increasing linearly over the CD concentration range 0–8 mM, while above that concentration, the apparent solubility of RSV decreases. This is attributed to the formation of an insoluble complex, which removes RSV from the solution. The maximum solubility enhancement, occurring at a CD concentration of 8 mM is 45 times that of the intrinsic solubility of the guest.</text>
+      <annotation id="C328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="33434" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="33527" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="33617" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="33707" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="33781" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33867</offset>
+      <text>Values of the association constants for complex formation (K C) were estimated using the relationship (1) and the slopes of the recorded phase-solubility diagrams, assuming 1:1 host–guest complex formation [11].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34081</offset>
+      <text> Table 2 shows the approximate stability constants for complexation between each of the CDs investigated and RSV. Only the initial slopes were used to calculate K C (up to 6 mM for γ-CD, 8 mM for DMB and 4 mM for HP-β-CD and RMB).</text>
+      <annotation id="C337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="34169" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="34190" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="34262" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+      <annotation id="C334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="34277" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="34294" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="34306" length="3"/>
+        <text>RMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>34319</offset>
+      <text>The apparent stability constants (K C) for complexation between various CDs and RSV.</text>
+      <annotation id="C340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="34391" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="34399" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34509</offset>
+      <text>The values obtained indicate relatively weak interactions between RSV and γ-CD, initially weak interaction with HP-β-CD and RMB, fairly strong binding with β-CD and TMB, and the formation of a very stable complex between RSV and DMB up to the CD concentration of 8 mM.</text>
+      <annotation id="C341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="34575" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="34583" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+      <annotation id="C342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="34621" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="34633" length="3"/>
+        <text>RMB</text>
+      </annotation>
+      <annotation id="C345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="34665" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="34674" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="34730" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="34738" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="34752" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34788</offset>
+      <text>Lu et al. [8] found a linear relationship between the concentration of RSV and the concentrations of both β-CD and HP-β-CD, reporting the derived K C values as 1815 M−1 for β-CD·RSV and 6778 M−1 for HP-β-CD·RSV. The conditions under which these experiments were carried out were slightly different from ours, however: an excess of RSV was added to 5 mL of CD solution; the solutions were shaken for 24 h and the suspensions were filtered with cellulose acetate. The results we obtained for the phase-solubility behaviour using β-CD are comparable to those obtained by Lu et al. [8], but the results obtained with HP-β-CD are quite different, probably due to the different preparation methods used. However, a comparison of the data for the derivatised CDs TMB and DMB show a similarly strong interaction to that obtained by Lu et al. with HP-β-CD. The general trend, indicating that the derivatised CDs interact more strongly with RSV, is confirmed in the present study as well.</text>
+      <annotation id="C350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="34859" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="34894" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="34903" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C059514</infon>
+        <location offset="34961" length="8"/>
+        <text>β-CD·RSV</text>
+      </annotation>
+      <annotation id="C365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738,MESH:C059514</infon>
+        <location offset="34987" length="11"/>
+        <text>HP-β-CD·RSV</text>
+      </annotation>
+      <annotation id="C352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="35119" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="35144" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005062</infon>
+        <location offset="35231" length="17"/>
+        <text>cellulose acetate</text>
+      </annotation>
+      <annotation id="C358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="35315" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="35401" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="35540" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="35544" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="35552" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="35627" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="35687" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="35719" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35788</offset>
+      <text>Regarding the reliability of the data based on this methodology when dealing with RSV solutions, we noted that the choice of filtration membrane in these studies can greatly affect the outcome of the experiment. We found that nylon filters remove RSV from the aqueous solution completely, allowing only some of the molecules which are protected by the CD to pass through the filter membrane. Of all the membranes tested the PTFE filters were found to give the most consistent results, although cellulose acetate was not tested in the present study.</text>
+      <annotation id="C366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="35870" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="36035" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="36140" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011138</infon>
+        <location offset="36212" length="4"/>
+        <text>PTFE</text>
+      </annotation>
+      <annotation id="C368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005062</infon>
+        <location offset="36282" length="17"/>
+        <text>cellulose acetate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>36337</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36348</offset>
+      <text>A variety of methods (physical mixing, kneading, microwave irradiation) of effecting interaction between RSV and three CD hosts (TMA, DMB and TMB) was tested and a combination of thermal analysis and FTIR spectroscopy subsequently yielded evidence for the formation of interaction products, many of them amorphous in nature. For more definitive characterization of interaction products, crystalline inclusion complexes with the formulae TMA·RSV·6.25H2O, TMB·RSV·5.6H2O and DMB·RSV·4.0H2O were subsequently isolated using the co-precipitation method and fully characterized by thermal and single crystal X-ray diffraction methods. For the complexes containing the fully methylated hosts TMA and TMB, thermal analysis revealed dehydration overlapping with fusion of the anhydrous complex, followed by final decomposition, whereas the DMB complex displayed more intricate thermal events, namely dehydration followed by phase transitions and partial guest loss that preceded final decomposition.</text>
+      <annotation id="C371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="36453" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="36467" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="36477" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="36482" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="36490" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514,MESH:D014867</infon>
+        <location offset="36785" length="15"/>
+        <text>TMA·RSV·6.25H2O</text>
+      </annotation>
+      <annotation id="C381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514,MESH:D014867</infon>
+        <location offset="36802" length="14"/>
+        <text>TMB·RSV·5.6H2O</text>
+      </annotation>
+      <annotation id="C380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514,MESH:D014867</infon>
+        <location offset="36821" length="14"/>
+        <text>DMB·RSV·4.0H2O</text>
+      </annotation>
+      <annotation id="C374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="37034" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="37042" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="37180" length="3"/>
+        <text>DMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37346</offset>
+      <text>The X-ray studies reported here reveal, for the first time, the unique features of the mode of inclusion of the RSV molecule within CDs. The TMA complex contains two symmetry independent TMA·RSV complex units: in one of these, the guest is ordered while in the second the guest is disordered over two positions. This disorder was successfully modelled, as was the slightly modified twofold disorder of the RSV molecule in the TMB·RSV complex, and in all cases, the disorder never results in spatial interchange of the 4-hydroxyphenyl and 1,3-benzenediol units; instead, it brings the 4-hydroxyphenyl residues of the two disordered components into close proximity, and likewise the respective 1,3-benzenediol residues. DMB·RSV is the only complex in which there is no guest disorder.</text>
+      <annotation id="C382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="37458" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="37478" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="37487" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468,MESH:C059514</infon>
+        <location offset="37533" length="7"/>
+        <text>TMA·RSV</text>
+      </annotation>
+      <annotation id="C383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="37752" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658,MESH:C059514</infon>
+        <location offset="37772" length="7"/>
+        <text>TMB·RSV</text>
+      </annotation>
+      <annotation id="C387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119,MESH:C059514</infon>
+        <location offset="38064" length="7"/>
+        <text>DMB·RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>38132</offset>
+      <text>For all three hosts, complex formation involves insertion of the less sterically bulky 4-hydroxyphenyl ring of RSV deep within the CD cavity where it is located at the host primary side. In the TMA and DMB complexes, the phenolic group is linked to the host by hydrogen bonding of the type RSV(4-OH)···O(water)···O6(primary methoxy), whereas in the TMB complex, there is a direct host–guest linkage via a RSV(4-OH)···O6(primary methoxy) hydrogen bond. A common feature, however, is the significant extent of protrusion of the 1,3-benzenediol moiety from the secondary side of each of the three hosts, with the two phenolic groups being linked by a series of four hydrogen bonds RSV(1-OH)···O(water)···O(water)···O(water)···[HO(-3)-RSV]. This persistent supramolecular motif has not been observed previously in the solid state and since it may also exist in aqueous solution, it is worth consideration in molecular modelling studies that address CD-RSV interaction in that medium. Equally significant in the context of molecular modelling is our observation in the solid-state of the potentially more probable bridging role of water in mediating host–guest binding, this feature occurring in two of the three complex crystal structures investigated. Finally, as far as further new insights from the X-ray studies are concerned, we conclude that CD-RSV inclusion in the more flexible hosts TMA and TMB involves a mutual induced fit. The evidence for this is the flexibility displayed by the RSV molecule, reflected in the wide range observed for the interplanar angle between the phenyl rings [17.7(1)–51.6(3)°] in the respective complex crystal structures, coupled with significant host distortions to accommodate the RSV molecule. In contrast, with the host DMB, whose round structure is maintained by intramolecular hydrogen bonds, the resulting unrestricted cavity volume enables the RSV molecule to be accommodated with very little adaptation, the interplanar angle between the phenyl rings being only 13.6(2)°.</text>
+      <annotation id="C389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="38243" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="38263" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="38326" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="38334" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="38393" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="38422" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="38436" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="38481" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="38537" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="38569" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="38795" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="38810" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="38824" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="38835" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="38846" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="38863" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="39077" length="6"/>
+        <text>CD-RSV</text>
+      </annotation>
+      <annotation id="C409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="39258" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="39476" length="6"/>
+        <text>CD-RSV</text>
+      </annotation>
+      <annotation id="C396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C121468</infon>
+        <location offset="39520" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="C400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="39528" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="39621" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="39849" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="39890" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="39949" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="40018" length="3"/>
+        <text>RSV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40176</offset>
+      <text>Phase-solubility studies have been useful in confirming the generally higher solubility enhancements that derivatised CDs confer on RSV. Derived values of the association constants for 1:1 CD–RSV complexation in aqueous solution spanned the range of 410 M−1 for inclusion in γ-CD to 11 600 M−1 for inclusion in DMB.</text>
+      <annotation id="C424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="40294" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="40308" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="40365" length="6"/>
+        <text>CD–RSV</text>
+      </annotation>
+      <annotation id="C423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="40451" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+      <annotation id="C422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="40487" length="3"/>
+        <text>DMB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40499</offset>
+      <text>Experimental</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>40512</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40522</offset>
+      <text>The trans-resveratrol sample used for the preparation of binary mixtures was a generous gift from Denk Feinchemie GmbH (München, Germany). For co-precipitation experiments, the RSV used was supplied by Sigma-Aldrich (South Africa). Cyclodextrins were purchased from Wacker Chemie Italia Srl (Milan, Italy) and Cyclolab (Budapest, Hungary). All other materials and solvents used were of analytical reagent grade.</text>
+      <annotation id="C428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="40526" length="17"/>
+        <text>trans-resveratrol</text>
+      </annotation>
+      <annotation id="C429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="40699" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="40754" length="13"/>
+        <text>Cyclodextrins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>40935</offset>
+      <text>Preparation of the binary systems</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40969</offset>
+      <text>Each physical mixture (PM) (1:1 mol/mol) was prepared by gentle co-grinding of the powder components in a mortar with a pestle and passing the resultant material through a 250 μm sieve.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>41156</offset>
+      <text>Kneaded products (KN) were prepared by wetting each PM in a mortar with ethanol/water 4:1 (v/v) and grinding thoroughly with a pestle, after which the product was dried to constant weight at 70 °C in an oven. The entire procedure was repeated in triplicate. The samples were then sieved through a 250 μm sieve.</text>
+      <annotation id="C431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="41228" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="41236" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>41469</offset>
+      <text>Co-evaporated products (CP) were prepared by dissolving each PM in the minimum amount of ethanol/water 4:1 (v/v) to obtain a clear solution. The solvent was removed using a rotavapor under reduced pressure at 80 °C, and the residue was gently ground in a mortar with a pestle, and passed through a 250 μm sieve.</text>
+      <annotation id="C433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="41558" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="41566" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>41783</offset>
+      <text>Microwave irradiation products (MP) were prepared by dissolving each PM in the minimum amount of ethanol/water 4:1 (v/v) to obtain a clear solution in a glass container, followed by microwave irradiation at 425 W (Pabish CM-Aquatronic) for a time sufficient to remove the solvent. The dried residue was gently ground in a mortar with a pestle, and passed through a 250 μm sieve.</text>
+      <annotation id="C435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="41880" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="41888" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>42163</offset>
+      <text>Differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>42240</offset>
+      <text>For the binary systems investigated, temperature and enthalpy values were measured with a Mettler STARe system (Mettler Toledo, Novate Milanese, MI, Italy) equipped with a DSC821e Module and an Intracooler device for sub-ambient temperature analysis (Julabo FT 900) on 2–4 mg (Mettler M3 Microbalance) samples in sealed aluminium pans with pierced lid [heating rate β = 10 K min−1, nitrogen atmosphere (flux 50 mL min−1), 30–350 °C temperature range)]. The instrument was previously calibrated with indium as standard reference. Measurements were carried out at least in triplicate. For co-precipitated, crystalline products, traces were recorded on a DSC-Q200 differential scanning calorimeter with samples in closed aluminium pans heated at 10 K min−1 and dry nitrogen purge gas flowing at 50 mL min−1. TG traces for these products were recorded on samples in alumina crucibles using a TA-Q500 instrument under similar conditions as for the DSC measurements.</text>
+      <annotation id="C440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000535</infon>
+        <location offset="42560" length="9"/>
+        <text>aluminium</text>
+      </annotation>
+      <annotation id="C437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="42622" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007204</infon>
+        <location offset="42739" length="6"/>
+        <text>indium</text>
+      </annotation>
+      <annotation id="C441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000535</infon>
+        <location offset="42958" length="9"/>
+        <text>aluminium</text>
+      </annotation>
+      <annotation id="C439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="43002" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000537</infon>
+        <location offset="43102" length="7"/>
+        <text>alumina</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>43215</offset>
+      <text>Simultaneous thermogravimetric analysis (TGA/DSC)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>43265</offset>
+      <text>Mass losses were recorded with a Mettler STARe system (Mettler Toledo, Novate Milanese, MI, Italy) TGA with simultaneous DSC (TGA/DSC1) on 4–6 mg samples in alumina crucibles with lid [β = 10 K min−1, nitrogen air atmosphere (flux 50 mL min−1), 30–350 °C temperature range]. The instrument was previously calibrated with indium as standard reference and measurements were carried out at least in triplicate.</text>
+      <annotation id="C445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000537</infon>
+        <location offset="43422" length="7"/>
+        <text>alumina</text>
+      </annotation>
+      <annotation id="C443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="43466" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007204</infon>
+        <location offset="43586" length="6"/>
+        <text>indium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>43683</offset>
+      <text>Fourier transform infrared (FTIR) spectroscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>43730</offset>
+      <text>Mid-IR (650–4000 cm−1) spectra were recorded on powder samples using a Spectrum One Perkin-Elmer FTIR spectrophotometer (resolution 4 cm−1) (Perkin Elmer, Wellesley, MA, USA) equipped with a MIRacleTM ATR device (Pike Technologies, Madison, WI, USA).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>43987</offset>
+      <text>Crystal preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>44007</offset>
+      <text> trans-Resveratrol (20 mg) was dissolved in 0.5 mL of ethanol and was added to an equimolar amount of CD dissolved in water, according to Table 3 below. Turbid solutions were clarified by adding ethanol dropwise. Each solution was then filtered into a new vial, closed with a punctured polytop lid and was allowed to evaporate slowly on the benchtop or in an oven. The vial was sealed after crystals appeared.</text>
+      <annotation id="C446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="44008" length="17"/>
+        <text>trans-Resveratrol</text>
+      </annotation>
+      <annotation id="C447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="44061" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="44109" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="44125" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="44202" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>44417</offset>
+      <text>Masses of CDs employed, volumes of water added and temperatures at which complex crystals formed.</text>
+      <annotation id="C451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="44427" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="44452" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>44735</offset>
+      <text>X-ray diffraction analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>44762</offset>
+      <text>All intensity data were collected on a Bruker KAPPA APEX II DUO diffractometer. In each case a single crystal was surface-dried, coated in paratone N oil (Exxon Chemical Co., TX, USA) and mounted on a cryoloop in a constant stream of nitrogen vapour (Oxford Cryostream, UK). Crystal systems and space groups for the CD complexes were deduced from the Laue symmetries and systematic absences, respectively. The structures were solved by direct methods (program SHELXD [19]) and refined by full-matrix least-squares (program SHELXH-97 [19]). In general, location of the host molecules from the E-map was followed by their refinement using isotropic thermal displacement parameters. This was followed by location of the guest molecules from the resulting difference Fourier synthesis. Successive difference maps revealed the water molecules, which were modelled with appropriate site-occupancy factors (s.o.f.s) to reconcile the model with the thermogravimetric analytical data as far as possible. Disorder of the host and guest residues, where they occurred, were similarly treated using appropriate s.o.f.s. In the final cycles of refinement, anisotropic thermal displacement parameters were introduced for most or all of the non-H atoms. A large proportion of the H atoms were located in difference Fourier syntheses and were generally included in idealised positions in a riding model with U iso values in the range 1.2–1.5 times those of their parent atoms. Further details of the refinements for the individual complexes appear in the Supporting Information File 1. CCDC 1020492–1020494 contain the supplementary crystallographic data for this paper. These data can be obtained free of charge at http://www.ccdc.cam.ac.uk/products/csd/request/ [or from the Cambridge Crystallographic Data Centre (CCDC), 12 Union Road, Cambridge CB2 1EZ, UK; fax: +44 (0)1223-336033; email: deposit@ccdc.cam.ac.uk].</text>
+      <annotation id="C455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008967</infon>
+        <location offset="44901" length="14"/>
+        <text>paratone N oil</text>
+      </annotation>
+      <annotation id="C453">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="44996" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="45078" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C454">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="45584" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="45991" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="46026" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>46668</offset>
+      <text>Phase-solubility analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>46694</offset>
+      <text>Phase-solubility studies were peformed according to the method described by Higuchi and Connors [11]. Six CDs [β-CD, γ-CD, TMB, DMB, HP-β-CD and RMB] were dissolved in water to yield solutions whose concentrations spanned the range 2.0–12.0 × 10−3 M. An excess of RSV (1.5–2.5 mg) was added to 2 mL of each CD solution and the solutions were allowed to stir at 25 ± 0.5 °C for 48 h. The solubility of RSV in the absence of CD (So) was determined by preparing solutions containing an excess of RSV in water, and stirring at 25 ± 0.5 °C for 48 h. Samples were subsequently filtered through 0.45 μm PTFE syringe filters and diluted appropriately. The concentration of RSV was determined using UV–vis spectrophotometry at a wavelength of 316 nm. The UV spectra were recorded on a GCB Cintra 20 UV–vis spectrometer over a wavelength range of 200–500 nm at a scanning rate of 200 nm min−1. The extinction coefficient was determined for this wavelength by preparing a calibration curve of RSV in water. All measurements were recorded in triplicate. Each phase-solubility curve was prepared by plotting the concentration of RSV against the concentrations of the CD employed in the experiment.</text>
+      <annotation id="C468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="46800" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="46805" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047408</infon>
+        <location offset="46811" length="4"/>
+        <text>γ-CD</text>
+      </annotation>
+      <annotation id="C473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000609658</infon>
+        <location offset="46817" length="3"/>
+        <text>TMB</text>
+      </annotation>
+      <annotation id="C474">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038119</infon>
+        <location offset="46822" length="3"/>
+        <text>DMB</text>
+      </annotation>
+      <annotation id="C459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073738</infon>
+        <location offset="46827" length="7"/>
+        <text>HP-β-CD</text>
+      </annotation>
+      <annotation id="C472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392</infon>
+        <location offset="46839" length="3"/>
+        <text>RMB</text>
+      </annotation>
+      <annotation id="C475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="46862" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="46958" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="47001" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="47095" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C470">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="47117" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C462">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="47187" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="47194" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011138</infon>
+        <location offset="47290" length="4"/>
+        <text>PTFE</text>
+      </annotation>
+      <annotation id="C463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="47359" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="47676" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C477">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="47683" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C465">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C059514</infon>
+        <location offset="47810" length="3"/>
+        <text>RSV</text>
+      </annotation>
+      <annotation id="C471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="47848" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>47902</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>47925</offset>
+      <text>Additional experimental data include thermal (HSM, DSC, TGA) and FTIR data for CD–RSV combinations, thermal data (HSM, DSC, TGA) for the crystalline complexes, 1H NMR peak integrations for complex stoichiometry determinations, details of X-ray structural refinements, geometrical data for CD host conformations, and comparative experimental and calculated PXRD patterns for the complexes.</text>
+      <annotation id="C480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505,MESH:C059514</infon>
+        <location offset="48004" length="6"/>
+        <text>CD–RSV</text>
+      </annotation>
+      <annotation id="C483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="48085" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="48214" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

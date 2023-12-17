@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5438147</id>
+    <passage>
+      <infon key="name_3">surname:Yamamoto;given-names:Naohiro</infon>
+      <infon key="name_2">surname:Kuroyanagi;given-names:Gen</infon>
+      <infon key="name_1">surname:Tokuda;given-names:Haruhiko</infon>
+      <infon key="name_0">surname:Fujita;given-names:Kazuhiko</infon>
+      <infon key="article-id_pmid">28542188</infon>
+      <infon key="notes">All relevant data are within the paper.</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">PONE-D-17-02626</infon>
+      <infon key="article-id_pmc">5438147</infon>
+      <infon key="title">Data Availability</infon>
+      <infon key="article-id_doi">10.1371/journal.pone.0177878</infon>
+      <infon key="type">front</infon>
+      <infon key="issue">5</infon>
+      <infon key="alt-title">HSP90 and IL-6 in osteoblasts</infon>
+      <infon key="elocation-id">e0177878</infon>
+      <infon key="volume">12</infon>
+      <infon key="license">This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</infon>
+      <infon key="name_10">surname:Heymann;given-names:Dominique</infon>
+      <infon key="name_13">surname:Tokuda;given-names:Haruhiko</infon>
+      <infon key="name_11">surname:Kozawa;given-names:Osamu</infon>
+      <infon key="name_12">surname:Tokuda;given-names:Haruhiko</infon>
+      <infon key="name_9">surname:Otsuka;given-names:Takanobu</infon>
+      <infon key="name_8">surname:Kozawa;given-names:Osamu</infon>
+      <infon key="name_7">surname:Matsushima-Nishiwaki;given-names:Rie</infon>
+      <infon key="name_6">surname:Sakai;given-names:Go</infon>
+      <infon key="name_5">surname:Kawabata;given-names:Tetsu</infon>
+      <infon key="name_4">surname:Kainuma;given-names:Shingo</infon>
+      <offset>0</offset>
+      <text>HSP90 inhibitors potentiate PGF2α-induced IL-6 synthesis via p38 MAP kinase in osteoblasts</text>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>95</offset>
+      <text>Heat shock protein 90 (HSP90) that is ubiquitously expressed in various tissues, is recognized to be a major molecular chaperone. We have previously reported that prostaglandin F2α (PGF2α), a potent bone remodeling mediator, stimulates the synthesis of interleukin-6 (IL-6) through p44/p42 mitogen-activated protein (MAP) kinase and p38 MAP kinase in osteoblast-like MC3T3-E1 cells, and that Rho-kinase acts at a point upstream of p38 MAP kinase. In the present study, we investigated the involvement of HSP90 in the PGF2α-stimulated IL-6 synthesis and the underlying mechanism in MC3T3-E1 cells. Geldanamycin, an inhibitor of HSP90, significantly amplified both the PGF2α-stimulated IL-6 release and the mRNA expression levels. In addition, other HSP90 inhibitors, 17-allylamino-17demethoxy-geldanamycin (17-AAG) and 17-dimethylamino-ethylamino-17-demethoxy-geldanamycin (17-DMAG) and onalespib, enhanced the PGF2α-stimulated IL-6 release. Geldanamycin, 17-AAG and onalespib markedly strengthened the PGF2α-induced phosphorylation of p38 MAP kinase. Geldanamycin and 17-AAG did not affect the PGF2α-induced phosphorylation of p44/p42 MAP kinase and myosin phosphatase targeting subunit (MYPT-1), a substrate of Rho-kinase, and the protein levels of RhoA and Rho-kinase. In addition, HSP90-siRNA enhanced the PGF2α-induced phosphorylation of p38 MAP kinase. Furthermore, SB203580, an inhibitor of p38 MAP kinase, significantly suppressed the amplification by geldanamycin, 17-AAG or 17-DMAG of the PGF2α-stimulated IL-6 release. Our results strongly suggest that HSP90 negatively regulates the PGF2α-stimulated IL-6 synthesis in osteoblasts, and that the effect of HSP90 is exerted through regulating p38 MAP kinase activation.</text>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="258" length="17"/>
+        <text>prostaglandin F2α</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="277" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="612" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="692" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="762" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="861" length="38"/>
+        <text>17-allylamino-17demethoxy-geldanamycin</text>
+      </annotation>
+      <annotation id="gy22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="901" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="913" length="53"/>
+        <text>17-dimethylamino-ethylamino-17-demethoxy-geldanamycin</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="968" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="981" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="1005" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="1036" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="1050" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="1061" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="1097" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="1146" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="1163" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="1189" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="1404" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="1466" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="1554" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="1568" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="gy3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="1578" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="1593" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="1689" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1863</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1876</offset>
+      <text>Heat shock proteins (HSPs) are induced in response to biological stress such as heat stress and chemical stress [1]. HSPs, which are generally recognized as molecular chaperones, facilitate the refolding of nonnative proteins, or assist in their elimination via the chaperone-mediated autophagy or the ubiquitin proteasome system. HSPs have recently been classified into seven families, named HSPH (HSP110), HSPC (HSP90), HSPA (HSP70), HSPD/E (HSP60/HSP10), CCT (TRiC), DNAJ (HSP40) and HSPB (small HSP) [1,2]. Among them, HSP90 (HSPC) abundantly express in a variety type of unstressed cells and represents 1–2% of total cellular proteins, which increases to 4–6% under the stress conditions [2]. HSP90 consists of three domains, such as N-terminal domains, middle domains and C-terminal domains, and acts as an ATP-dependent chaperone [3]. It has been shown that HSP90 is overexpressed in many types of cancers, and that HSP90-dependent client proteins are involved in a variety of oncogenic pathways [4,5]. Therefore, inhibition of HSP90 functions has become as one of the leading strategies for anticancer chemotherapeutics [4,5]. In our previous study [6], we have demonstrated that HSP90 inhibitors such as geldanamycin [7], 17-allylamino-17demethoxy-geldanamycin (17-AAG) [8] and 17-dimethylamino-ethylamino-17-demethoxy-geldanamycin (17-DMAG) [9], cause epidermal growth factor receptor (EGFR) desensitization in human pancreatic cancer cells, and that the activation of p38 mitogen-activated protein (MAP) kinase induced by HSP90 inhibitors regulates the desensitization of EGFR via its phosphorylation at Ser1046/7. HSP90 inhibitors, by interfering the N-terminal domain ATP binding site of HSP90, cause the destabilization and eventual degradation of HSP90 client proteins, and then lead to inhibit ATP-dependent HSP90 chaperone activity [10]. Regarding the MAP kinase superfamily, it is generally recognized that p44/p42 MAP kinase, p38 MAP kinase and stress-activated protein kinase/c-Jun N-terminal kinase play central roles in a variety of cellular functions, including proliferation, differentiation and survival [11]. Therefore, HSP90 is considered to act as a pivotal modulator of various cellular functions via MAP kinases such as p38 MAP kinase.</text>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="2689" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="3089" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="3107" length="38"/>
+        <text>17-allylamino-17demethoxy-geldanamycin</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="3147" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="3163" length="53"/>
+        <text>17-dimethylamino-ethylamino-17-demethoxy-geldanamycin</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="3218" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="3491" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3557" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3686" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4146</offset>
+      <text>Bone metabolism is strictly regulated by two types of antagonistic functional cells; osteoblasts and osteoclasts [12]. Bone tissue is continuously regenerated through a process so called bone remodeling [13]. To maintain an adequate bone quality and the quantity, osteoblastic bone formation and osteoclastic bone resorption are tightly coordinated. The disruption of bone remodeling process causes metabolic bone diseases such as osteoporosis or fracture healing distress. With regard to HSP90 inhibitor-effects on bone metabolism, 17-AAG reportedly stimulates osteoclast formation and promotes osteolytic bone metastasis in bone metastasis of a breast cancer cell line [14]. In addition, it has been shown that geldanamycin induces autophagy and apoptosis of osteosarcoma cells [15]. However, the exact roles of HSP90 in bone metabolism have not yet been fully clarified.</text>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="4679" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="4859" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5020</offset>
+      <text>Interleukin-6 (IL-6) is a multifunctional cytokine which belongs to the glycoprotein 130 (gp130) cytokine family, and has important physiological effects on a variety of cell functions, such as the promotion of B-cell differentiation, the T-cell activation and the induction of acute-phase proteins [16,17]. It has been recognized that IL-6 stimulates bone resorption and induces osteoclast formation [17], and IL-6 reportedly plays a pivotal role in the process of bone fracture repair [18]. Thus, accumulating evidence suggests that IL-6 is an osteotropic modulator, and influence bone formation under the condition of increased bone turnover [19]. On the other hand, prostaglandins (PGs) modulate various bone cell functions as autacoids. Among them, PGF2α, which has been conventionally recognized as a potent bone-resorptive agent [20], is currently recognized as a bone remodeling mediator [21]. It has been previously reported that PGF2α induced IL-6 production in osteoblast-enriched cultured neonatal mouse calvaria, resulting in bone resorption [20,22]. We have previously shown that PGF2α stimulates the synthesis of IL-6 through p44/p42 MAP kinase and p38 MAP kinase in osteoblast-like MC3T3-E1 cells [23,24]. Thus, it is probable that the PGF2α-induced IL-6 synthesis is not specific for osteoblast-like MC3T3-E1 cells but general phenomena in osteoblasts. However, there is no report showing the roles of MAP kinases in the PGF2α-stimulated IL-6 synthesis in osteoblasts as far as we know. In addition, we have reported that Rho kinase inhibitors significantly suppress the synthesis of IL-6 and the phosphorylation of p38 MAP kinase induced by PGF2α without affecting the levels of total p38 MAP kinase in these cells, suggesting that Rho-kinase plays a role in PGF2α-stimulated IL-6 synthesis as an upstream regulator of p38 MAP kinase [25]. These findings lead us to speculate that HSP90 could regulate the IL-6 synthesis stimulated by PGF2α in osteoblasts.</text>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011453</infon>
+        <location offset="5690" length="14"/>
+        <text>prostaglandins</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011453</infon>
+        <location offset="5706" length="3"/>
+        <text>PGs</text>
+      </annotation>
+      <annotation id="2XXx39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="5774" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="5959" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="6114" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="6272" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="6458" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="6679" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="6797" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="6973" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7027</offset>
+      <text>In the present study, we investigated whether HSP90 is involved in the PGF2α-induced IL-6 synthesis in osteoblast-like MC3T3-E1 cells. We herein show that HSP90 inhibitors enhance the PGF2α-stimulated IL-6 synthesis in these cells, and that the amplifying effect is exerted through up-regulating p38 MAP kinase activation.</text>
+      <annotation id="2XXx47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="7098" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="7211" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7358</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7380</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7390</offset>
+      <text>Geldanamycin and PGF2α were purchased from Sigma-Aldrich Co. (St. Louis, MO, USA). 17-AAG, 17-DMAG and SB203580 were obtained from Calbiochem-Novabiochem Co. (La Jolla, CA). Onalespib was purchased from Selleckchem (Houston, TX). Mouse interleukin-6 enzyme-linked immunosorbent assay (ELISA) kit was purchased from R&amp;D System, Inc. (Minneapolis, MN). Phospho-specific p44/p42 MAP kinase antibodies, p44/p42 MAP kinase antibodies, phospho-specific p38 MAP kinase antibodies, p38 MAP kinase antibodies, phospho-specific myosin phosphatase targeting subunit (MYPT-1) antibodies, MYPT-1 antibodies, RhoA antibodies and Rho-kinase (ROCK1) antibodies were obtained from Cell Signaling Technology, Inc. (Beverly, MA). HSP90 antibodies and Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) antibodies were purchased from Santa Cruz Biotechnology, Inc. (Santa Cruz, CA). An ECL Western blotting detection system was obtained from GE Healthcare Life Sciences (Chalfont, UK). Control short interfering RNA (siRNA; Silencer Negative Control no.1 siRNA) and HSP90-siRNA (Silencer select Pre-designed siRNA, s67897 and s67898, presented as #1 and #2) were purchased from Ambion (Austin, TX). Other materials and chemicals were obtained from commercial sources. PGF2α was dissolved in ethanol. Geldanamycin, 17-AAG, 17-DMAG, onalespib and SB203580 were dissolved in dimethyl sulfoxide. The maximum concentration of ethanol or dimethyl sulfoxide was 0.1%, which did not affect the assay for IL-6, real-time RT-PCR or Western blot analysis.</text>
+      <annotation id="59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="7390" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="7407" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="7473" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="7481" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="7493" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="7564" length="9"/>
+        <text>Onalespib</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">OTHER</infon>
+        <location offset="8122" length="40"/>
+        <text>Glyceraldehyde-3-phosphate dehydrogenase</text>
+      </annotation>
+      <annotation id="2XXx54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="8636" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="8659" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="8668" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="8682" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="8690" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="8699" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="8713" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="2XXx60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="8740" length="18"/>
+        <text>dimethyl sulfoxide</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="8789" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="8800" length="18"/>
+        <text>dimethyl sulfoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8921</offset>
+      <text>Cell culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8934</offset>
+      <text>Cloned osteoblast-like MC3T3-E1 cells, an immortalized cell line which had been derived from newborn mouse calvaria [26] were maintained as previously described [27]. Briefly, the cells were cultured in α-minimum essential medium (α-MEM) containing 10% fetal bovine serum (FBS) at 37°C in a humidified atmosphere of 5% CO2/95% air. The cells in early passage until 21 passages were seeded into 35-mm diameter dishes (5 x 104 cells/dish) or 90-mm diameter dishes (2 x 105 cells/dish) in α-MEM containing 10% FBS. After 5 days, the medium was exchanged for α-MEM containing 0.3% FBS. The cells were used for experiments after 48 h.</text>
+      <annotation id="gy105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9137" length="26"/>
+        <text>α-minimum essential medium</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9165" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="9253" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="2XXx69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9420" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9489" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9580</offset>
+      <text>siRNA transfection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9599</offset>
+      <text>To knock down HSP90 in osteoblast-like MC3T3-E1 cells, the cells were transfected with HSP90-siRNA or negative control siRNA utilizing siLentFect according to the manufacturer’s protocol. In brief, the cells (2 x 105 cells) were seeded into 90-mm diameter dishes in α-MEM containing 10% FBS, and sub-cultured for 48 h. The cells were then incubated at 37°C with 10 nM siRNA-siLentFect complexes (#1) or 30 nM siRNA-siLentFect complexes (#2). After 24 h, the medium was exchanged for α-MEM containing 0.3% FBS. The transfected cells were then stimulated by 10 μM of PGF2α or vehicle in α-MEM containing 0.3% FBS for the indicated periods.</text>
+      <annotation id="2XXx72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9865" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="2XXx73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10082" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="10164" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10184" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10254</offset>
+      <text>Assay for IL-6</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10269</offset>
+      <text>The cultured cells were stimulated by 10 μM of PGF2α or vehicle in 1 ml of α-MEM containing 0.3% FBS for the indicated periods. When indicated, cells were pretreated with various doses of geldanamycin, 17-AAG, 17-DMAG or onalespib for 60 min. The preincubation with 30 μM of SB203580 or vehicle was performed for 60 min prior to the pretreatment. The cells were stimulated by 10 μM of PGF2α or vehicle in 1 ml of α-MEM containing 0.3% FBS for the indicated periods. The conditioned medium was collected at the end of incubation, and the IL-6 concentration in the medium was then measured using the mouse IL-6 ELISA kit according to the manufacturer’s protocol.</text>
+      <annotation id="2XXx75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="10316" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10344" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="10457" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="10471" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="10479" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="10490" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="10544" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="10654" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10682" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10949</offset>
+      <text>Reverse transcription-quantitative polymerase chain reaction (RT-qPCR)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11020</offset>
+      <text>The cultured cells were pretreated with 0.3 μM of geldanamycin, onalespib or vehicle for 60 min, and then stimulated by 10 μM of PGF2α or vehicle in α-MEM containing 0.3% FBS for 3 h. Total RNA was isolated and reverse transcribed into complementary DNA using TRIzol reagent (Invitrogen; Thermo Fisher Scientific, Inc., Heysham, Lancashire, UK) and Omniscript Reverse Transcriptase kit (Qiagen Inc., Valencia, CA), respectively. RT-qPCR was performed in capillaries using a LightCycler system with the LightCycler FastStart DNA Master SYBR Green I (Roche Diagnostics, Basel, Switzerland). Sense and antisense primers for mouse IL-6 mRNA and GAPDH mRNA were purchased from Takara Bio Inc. (Tokyo, Japan) (primer set ID: MA039013 or RA015380, respectively). The amplified products were determined by melting curve analysis and agarose electrophoresis. The IL-6 mRNA levels were normalized to those of GAPDH mRNA.</text>
+      <annotation id="92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="11070" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="11084" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="11149" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11169" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C411644</infon>
+        <location offset="11280" length="6"/>
+        <text>TRIzol</text>
+      </annotation>
+      <annotation id="380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C098022</infon>
+        <location offset="11555" length="12"/>
+        <text>SYBR Green I</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="11845" length="7"/>
+        <text>agarose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11941</offset>
+      <text>Western blot analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11963</offset>
+      <text>The cultured cells were pretreated with various doses of geldanamycin, 17-AAG or onalespib for 60 min, and then stimulated by 10 μM of PGF2α or vehicle in α-MEM containing 0.3% FBS for the indicated periods. As for the HSP90 knockdown cells, the cells transfected with siRNA were stimulated by 10 μM of PGF2α or vehicle in 1 ml of α-MEM containing 0.3% FBS for the indicated periods. The cells were then washed twice with phosphate-buffered saline, and then lysed, homogenized and sonicated in a lysis buffer containing 62.5 mM Tris/HCl, pH 6.8, 2% sodium dodecyl sulfate (SDS), 50 mM dithiothreitol and 10% glycerol. SDS-polyacrylamide gel electrophoresis (PAGE) was performed by the method of Laemmli [28] in 10% polyacrylamide gels. The protein was fractionated and transferred onto an Immun-Blot PVDF membrane (Bio-Rad, Hercules, CA). The membranes were blocked with 5% fat-free dry milk in Tris-buffered saline-Tween (TBS-T; 20 mM Tris-HCl, pH 7.6, 137 mM NaCl, 0.1% Tween 20) for 1 h before incubation with primary antibodies. Western blot analysis was performed as described previously [29] using phospho-specific p44/p42 MAP kinase antibodies, p44/p42 MAP kinase antibodies, phospho-specific p38 MAP kinase antibodies, p38 MAP kinase antibodies, HSP90 antibodies, phospho-specific MYPT-1 antibodies, MYPT-1 antibodies, RhoA antibodies, ROCK1 antibodies and GAPDH antibodies as primary antibodies with peroxidase-labeled antibodies raised in goat against rabbit IgG (KPL, Inc., Gaithersburg, MD) used as secondary antibodies. The primary and secondary antibodies were diluted at 1:1000 with 5% fat-free dry milk in TBS-T. The peroxidase activity on the PVDF sheet was visualized on X-ray film by means of the ECL Western blotting detection system.</text>
+      <annotation id="98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="12020" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="12034" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="12044" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="12098" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12118" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="2XXx93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="12266" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12294" length="5"/>
+        <text>α-MEM</text>
+      </annotation>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="12385" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="12491" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="12496" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="12512" length="22"/>
+        <text>sodium dodecyl sulfate</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="12536" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="12548" length="14"/>
+        <text>dithiothreitol</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="12571" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="2XXx101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967,MESH:C016679</infon>
+        <location offset="12581" length="18"/>
+        <text>SDS-polyacrylamide</text>
+      </annotation>
+      <annotation id="2XXx102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016679</infon>
+        <location offset="12678" length="14"/>
+        <text>polyacrylamide</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="12763" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136,MESH:D012965,MESH:D011136</infon>
+        <location offset="12858" length="26"/>
+        <text>Tris-buffered saline-Tween</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D000077330,MESH:D011136</infon>
+        <location offset="12886" length="5"/>
+        <text>TBS-T</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="12899" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="12924" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="12935" length="8"/>
+        <text>Tween 20</text>
+      </annotation>
+      <annotation id="2XXx112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965,MESH:D011136</infon>
+        <location offset="13585" length="5"/>
+        <text>TBS-T</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="13623" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13736</offset>
+      <text>Densitometric analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13759</offset>
+      <text>A densitometric analysis of the Western blots was performed using a scanner and image analysis software program (image J version 1.48, National Institutes of Health, Bethesda, MD). The phosphorylated protein levels were calculated as follows: the background-subtracted signal intensity of each phosphorylation signal was respectively normalized to the total protein signal and plotted as the fold increase in comparison to that of the control cells without stimulation.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14229</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14250</offset>
+      <text>The data were analyzed by ANOVA followed by Bonferroni method for multiple comparisons between pairs, and p&lt;0.05 was considered to be statistically significant. All data are presented as the mean ± S.E.M. of triplicate determinations from three independent cell preparations.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14527</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14535</offset>
+      <text>Effects of HSP90 inhibitors on the PGF2α-stimulated IL-6 release in MC3T3-E1 cells</text>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="14570" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14622</offset>
+      <text>It is recognized that geldanamycin, a benzoquinone ansamycin antibiotic, binds to the N-terminal domain ATP binding site of HSP90, inhibiting ATP-dependent HSP90 chaperone activity [7,10], and its less toxic derivative 17-AAG and 17-DMAG also bind specifically to HSP90 in a manner similar to geldanamycin [8,9]. In order to investigate the involvement of HSP90 in the PGF2α-induced synthesis of IL-6 in osteoblast-like MC3T3-E1 cells, we first examined the effects of these HSP90 inhibitors on the PGF2α-stimulated IL-6 release. Geldanamycin significantly amplified the PGF2α-stimulated IL-6 release in a time-dependent manner up to 48 h (Fig 1A). In addition, the enhancing effect of geldanamycin was dose-dependent in the range between 0.1 and 1 μM (Fig 1B). The maximum effect of geldanamycin was observed at 1 μM, which caused an approximately 330% increase in the PGF2α-effect. Additionally, 17-AAG significantly enhanced the PGF2α-stimulated IL-6 release (Fig 2A). The effect of 17-AAG (0.1 μM) on the IL-6 release caused an approximately 150% increase in the PGF2α-effect. Furthermore, 17-DMAG significantly amplified the IL-6 release (Fig 2B). The amplifying effect of 17-DMAG (0.1 μM) caused an approximately 240% increase in the PGF2α-effect.</text>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="14644" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016227,MESH:D047029</infon>
+        <location offset="14660" length="22"/>
+        <text>benzoquinone ansamycin</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14726" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14764" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="14841" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="14852" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="14915" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="14991" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15121" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="15152" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15193" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="15308" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="15406" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15492" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="15520" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15554" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="15608" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15689" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="15716" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="15800" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15862" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>15908</offset>
+      <text>Effect of geldanamycin on the PGF2α-stimulated IL-6 release in MC3T3-E1 cells.</text>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="15918" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="15938" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>15991</offset>
+      <text>(A) The cultured cells were pretreated with 1 μM of geldanamycin (●,○) or vehicle (■,□) for 60 min, and then stimulated by 10 μM of PGF2α (●,■) or vehicle (○,□) for the indicated periods. (B) The cultured cells were pretreated with various doses of geldanamycin for 60 min, and then stimulated by 10 μM of PGF2α (●) or vehicle (○) for 48 h. IL-6 concentrations in the conditioned medium were determined by ELISA. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. (A) *p&lt;0.05 compared to the value of control. **p&lt;0.05 compared to the value of PGF2α alone. (B) *p&lt;0.05 compared to the value of PGF2α alone.</text>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="16043" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="16123" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="16240" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="16297" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="16595" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="16645" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>16686</offset>
+      <text>Effects of 17-AAG, 17-DMAG or onalespib on the PGF2α-stimulated IL-6 release in MC3T3-E1 cells.</text>
+      <annotation id="156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="16697" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="16705" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="16716" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="16733" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16786</offset>
+      <text>The cultured cells were pretreated with 1 μM of 17-AAG (A), 1 μM of 17-DMAG (B) or vehicle for 60 min, and then stimulated by 10 μM of PGF2α or vehicle for 48 h. (C) The cultured cells were pretreated with various doses of onalespib for 60 min, and then stimulated by 10 μM of PGF2α (●) or vehicle (○) for 48 h. IL-6 concentrations in the conditioned medium were determined by ELISA. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. (A,B) *p&lt;0.05 compared to the value of control. (A,B) **p&lt;0.05 compared to the value of PGF2α alone. (C) *p&lt;0.05 compared to the value of PGF2α alone.</text>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="16834" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="16854" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="2XXx149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="16921" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="17009" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="17063" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="17369" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="17419" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17453</offset>
+      <text>It is known that 17-AAG and 17-DMAG belong to geldanamycin analogues [30], and onalespib is another type HSP90 inhibitor different from geldanamycin analogues, which binds to the N-terminal domain ATP binding site of HSP90 [31]. We further examined the effect of onalespib on the PGF2α-induced IL-6 release in osteoblast-like MC3T3-E1 cells. Onalespib, which by itself had little effect on the IL-6 release, significantly amplified the PGF2α-stimulated IL-6 release as well as geldanamycin analogues (Fig 2C). The enhancing effect of onalespib was dose-dependent in the range between 0.01 and 0.1 μM. Onalespib at 0.1 μM caused an approximately 300% increase in the PGF2α-effect.</text>
+      <annotation id="166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="17470" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="17481" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="17499" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="17532" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="17589" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="17650" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="17716" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="17733" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="17795" length="9"/>
+        <text>Onalespib</text>
+      </annotation>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="17889" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="17930" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="17987" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18054" length="9"/>
+        <text>Onalespib</text>
+      </annotation>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18119" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>18147</offset>
+      <text>Effects of geldanamycin or onalespib on the PGF2α-induced expression of IL-6 mRNA in MC3T3-E1 cells</text>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="18158" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18174" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18191" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18251</offset>
+      <text>In order to clarify whether the amplifying effects of geldanamycin or onalespib on the PGF2α-stimulated IL-6 release is mediated through transcriptional events, we next examined the effects of geldanamycin or onalespib on the PGF2α-induced IL-6 mRNA expression. We found that geldanamycin and onalespib, which by themselves had little effect on the mRNA levels of IL-6, significantly up-regulated the expression levels of mRNA induced by PGF2α (Fig 3A and Fig 3B).</text>
+      <annotation id="179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="18305" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18321" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18338" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="18444" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18460" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18477" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="18527" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18544" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18689" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>18728</offset>
+      <text>Effects of geldanamycin or onalespib on the PGF2α-induced expression levels of IL-6 mRNA in MC3T3-E1 cells.</text>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="18739" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18755" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18772" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18840</offset>
+      <text>The cultured cells were pretreated with 0.3 μM of geldanamycin (A), onalespib (B) or vehicle for 60 min, and then stimulated by 10 μM of PGF2α or vehicle for 3 h. The respective total RNA was then isolated and transcribed into cDNA. The expressions of IL-6 mRNA and GAPDH mRNA were quantified by RT-qPCR. The IL-6 mRNA levels were normalized to those of GAPDH mRNA. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. *p&lt;0.05 compared to the value of control. **p&lt;0.05 compared to the value of PGF2α alone.</text>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="18890" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="18908" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="18977" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="19393" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19417</offset>
+      <text>Effects of HSP90 inhibitors on the PGF2α-induced phosphorylation of p44/p42 MAP kinase in MC3T3-E1 cells</text>
+      <annotation id="191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="19452" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19526</offset>
+      <text>Regarding the intracellular signaling pathway of PGF2α in osteoblasts, we have shown that p44/p42 MAP kinase acts as a positive regulator in the PGF2α-stimulated IL-6 synthesis in osteoblast-like MC3T3-E1 cells [23,24]. Therefore, we examined the effects of HSP90 inhibitors on the PGF2α-induced phosphorylation of p44/p42 MAP kinase in these cells. However, geldanamycin failed to affect the PGF2α-induced phosphorylation of p44/p42 MAP kinase (Fig 4A). In addition, 17-AAG had no effect on the PGF2α-induced phosphorylation of p44/p42 MAP kinase (Fig 4B).</text>
+      <annotation id="2XXx188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="19575" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="19671" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="19808" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="19885" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="19919" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="19994" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="20022" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>20104</offset>
+      <text>Effects of geldanamycin or 17-AAG on the PGF2α-induced phosphorylation of p44/p42 MAP kinase in MC3T3-E1 cells.</text>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="20115" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="20131" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="20145" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>20220</offset>
+      <text>The cultured cells were pretreated with various doses of geldanamycin (A) or 17-AAG (B) for 60 min, and then stimulated by 10 μM of PGF2α or vehicle for 20 min. The cell extracts were then subjected to SDS-PAGE with subsequent Western blot analysis with antibodies against phospho-specific p44/p42 MAP kinase or p44/p42 MAP kinase. The histogram shows the quantitative representations of the levels of phosphorylated p44/p42 MAP kinase after normalization with respect to p44/p42 MAP kinase obtained from laser densitometric analysis. The levels were expressed as the fold increase to the basal levels presented as lane 1. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. *p&lt;0.05 compared to the value of control. N.S. designates no significant difference between the indicated pairs.</text>
+      <annotation id="205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="20277" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="20297" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="20352" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="20422" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21073</offset>
+      <text>Effects of HSP90 inhibitors on the phosphorylation of p38 MAP kinase induced by PGF2α in MC3T3-E1 cells</text>
+      <annotation id="2XXx202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="21153" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21181</offset>
+      <text>In our previous study [24], we demonstrated that PGF2α stimulates IL-6 synthesis at least in part through p38 MAP kinase in addition to p44/p42 MAP kinase in osteoblast-like MC3T3-E1 cells. In order to clarify whether the activation of p38 MAP kinase is implicated in the enhancement by HSP90 inhibitors of the PGF2α-induced IL-6 synthesis in MC3T3-E1 cells, we examined the effects of HSP90 inhibitors on the PGF2α-induced phosphorylation of p38 MAP kinase. Geldanamycin, which alone had little effect on the p38 MAP kinase phosphorylation, significantly strengthened the PGF2α-induced phosphorylation of p38 MAP kinase in a dose-dependent manner in the range between 0.3 and 1.0 μM (Fig 5A). Additionally, 17-AAG as well as geldanamycin, which by itself did not affect the p38 MAP kinase phosphorylation, markedly enhanced the PGF2α-induced phosphorylation of p38 MAP kinase (Fig 5B). The amplifying effect of 17-AAG on the p38 MAP kinase phosphorylation was dose-dependent in the range between 0.3 and 1.0 μM. Furthermore, we found that onalespib (1 μM), as well as geldanamycin and 17-AAG, which by itself had little effect of the p38 MAP kinase phosphorylation, markedly enhanced the PGF2α-induced phosphorylation of p38 MAP kinase (Fig 5C).</text>
+      <annotation id="2XXx203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="21230" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="21492" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="21591" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="21640" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="21754" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="21889" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="21907" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="22010" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="22093" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="22221" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="22250" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="22267" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="22370" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>22455</offset>
+      <text>Effects of geldanamycin, 17-AAG or onalespib on the phosphorylation of p38 MAP kinase induced by PGF2α in MC3T3-E1 cells.</text>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="22466" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="22480" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="22490" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="22552" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22581</offset>
+      <text>The cultured cells were pretreated with the indicated doses of geldanamycin (A) or 17-AAG (B) or onalespib (C) for 60 min, and then stimulated by 10 μM of PGF2α or vehicle for 10 min. The cell extracts were then subjected to SDS-PAGE with subsequent Western blot analysis with antibodies against phospho-specific p38 MAP kinase or p38 MAP kinase. The histogram shows the quantitative representations of the levels of phosphorylated p38 MAP kinase after normalization with respect to p38 MAP kinase obtained from laser densitometric analysis. The levels were expressed as the fold increase to the basal levels presented as lane 1. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. *p&lt;0.05 compared to the value of control. **p&lt;0.05 compared to the value of PGF2α alone.</text>
+      <annotation id="229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="22644" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="22664" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="22678" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="22736" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="22806" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="23398" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23421</offset>
+      <text>Effects of HSP90 inhibitors on the PGF2α-induced phosphorylation of MYPT-1, and the protein levels of MYPT-1, RhoA and Rho-kinase in MC3T3-E1 cells</text>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="23456" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23573</offset>
+      <text>In addition to our previous findings in the PGF2α-stimulated IL-6 synthesis in osteoblast-like MC3T3-E1 cells, we have demonstrated that Rho-kinase positively regulates at a point upstream of p38 MAP kinase [25]. It is generally recognized that MYPT-1, which is a component of myosin phosphatase, is a substrate of Rho-kinase [32,33]. We next examined the effects of HSP90 inhibitors on the PGF2α-induced phosphorylation of MYPT-1, and the protein levels of MYPT-1, RhoA and Rho-kinase in MC3T3-E1 cells. Geldanamycin failed to affect the PGF2α-induced phosphorylation of MYPT-1 (Fig 6A). We found that the protein levels of MYPT-1, RhoA or Rho-kinase were not affected by geldanamycin with or without PGF2α stimulation (Fig 6A). 17-AAG, as well as geldanamycin, had no effect on the PGF2α-induced phosphorylation of MYPT-1 (Fig 6B). In addition, we confirmed that 17-AAG did not affect the amounts of MYPT-1, RhoA or Rho-kinase (data not shown).</text>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="23617" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="23964" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="24078" length="12"/>
+        <text>Geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="24112" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="24246" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="24275" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="24303" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="24322" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="2XXx235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="24357" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="24438" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>24540</offset>
+      <text>Effects of geldanamycin or 17-AAG on the phosphorylation of MYPT-1, the amounts of MYPT-1, RhoA and Rho-kinase induced by PGF2α in MC3T3-E1 cells.</text>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="24551" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="24567" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="2XXx239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="24662" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>24691</offset>
+      <text>The cultured cells were pretreated with various doses of geldanamycin (A) or 17-AAG (B) for 60 min, and then stimulated by 10 μM of PGF2α or vehicle for 2 min. The cell extracts were then subjected to SDS-PAGE with subsequent Western blot analysis with antibodies against phospho-specific MYPT-1, MYPT-1, RhoA or Rho-kinase. (a) The histogram shows the quantitative representations of the levels of phosphorylated MYPT-1 after normalization with respect to MYPT-1 obtained from laser densitometric analysis. The levels were expressed as the fold increase to the basal levels presented as lane 1. (b),(c),(d) The histogram shows the quantitative representations of the levels of MYPT-1 (b), RhoA (c) and Rho-kinase (d) after normalization with respect to GAPDH obtained from laser densitometric analysis, respectively. The levels were expressed as the ratio to the levels presented as lane 1. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. *p&lt;0.05 compared to the value of control. N.S. designates no significant difference between the indicated pairs.</text>
+      <annotation id="252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="24748" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="24768" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="24823" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="24892" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25813</offset>
+      <text>Effect of PGF2α on the phosphorylation of p38 MAP kinase in HSP90 knockdown MC3T3-E1 cells</text>
+      <annotation id="2XXx244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="25823" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25908</offset>
+      <text>To further investigate whether HSP90 affects the PGF2α-induced phosphorylation of p38 MAP kinase in osteoblast-like MC3T3-E1 cells, we examined the effect of HSP90-siRNA on the phosphorylation of p38 MAP kinase induced by PGF2α. We found that the levels of HSP90 were not significantly but slightly reduced in the HSP90-siRNA (#1 and #2)-transfected cells (Fig 7A and Fig 7B). The levels of phosphorylated p38 MAP kinase induced by PGF2α in the HSP90-siRNA transfected cells (#1 and #2) were significantly amplified compared to those in the control cells (Fig 7A and Fig 7B). Thus, it seems likely that HSP90-siRNA has little effect on HSP90 protein levels but reduces HSP90 activity in MC3T3-E1 cells. The protein levels of p38 MAP kinase were not affected by HSP90-siRNA (#1 and #2).</text>
+      <annotation id="2XXx245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="25957" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="26130" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="26340" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>26706</offset>
+      <text>Effect of PGF2α on the phosphorylation of p38 MAP kinase in HSP90 knockdown MC3T3-E1 cells.</text>
+      <annotation id="263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="26716" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>26802</offset>
+      <text>(A) The cultured cells were transfected with 10 nM negative control siRNA (Neg) or 10 nM HSP90-siRNA (#1). (B) The cultured cells were transfected with 30 nM negative control siRNA (Neg) or 30 nM HSP90-siRNA (#2). Twenty-four hours after transfection, the cells were stimulated by 10 μM PGF2α or vehicle for 10 min. The cell extracts were then subjected to SDS-PAGE with subsequent Western blot analysis with antibodies against phospho-specific p38 MAP kinase, p38 MAP kinase, HSP90 or GAPDH. (a) The histogram shows the quantitative representations of the levels of phosphorylated p38 MAP kinase after normalization with respect to GAPDH obtained from laser densitometric analysis. The levels were expressed as the fold increase to the basal levels presented as lane 1. (b),(c) The histogram shows the quantitative representations of the levels of (b) total p38 MAP kinase and (c) HSP90αβ after normalization with respect to GAPDH obtained from laser densitometric analysis, respectively. The levels were expressed as the ratio to the levels presented as lane 1. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. *p&lt;0.05 compared to the value of control. **p&lt;0.05 compared to the value of PGF2α alone.</text>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="27089" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="27159" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28053" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28083</offset>
+      <text>Effect of SB203580 on the enhancement by HSP90 inhibitors of the PGF2α-stimulated IL-6 release in MC3T3-E1 cells</text>
+      <annotation id="268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="28093" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28148" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28200</offset>
+      <text>Furthermore, we examined the effect of SB203580, a p38 MAP kinase inhibitor [34], on the enhancement by HSP90 inhibitors of the PGF2α-stimulated IL-6 release in osteoblast-like MC3T3-E1 cells. We found that SB203580, which by itself had little effect on IL-6 levels, truly suppressed the PGF2α-induced IL-6 release as our previous report [25] (Fig 8). SB203580 markedly reduced the amplification by geldanamycin, 17-AAG or 17-DMAG of the PGF2α-stimulated IL-6 release (Fig 8). SB203580 (30 μM) caused an approximately 90%, 90% and 95% decrease in the effect of PGF2α with geldanamycin, 17-AAG and 17-DMAG, respectively.</text>
+      <annotation id="271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="28239" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="2XXx255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28328" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="28407" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="2XXx257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28488" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="28552" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="28599" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="28613" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="28623" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28638" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="28677" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28761" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="28772" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="28786" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="28797" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>28837</offset>
+      <text>Effect of SB203580 on the enhancement by geldanamycin, 17-AAG or 17-DMAG of the PGF2α-induced IL-6 release in MC3T3-E1 cells.</text>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="28847" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="28878" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="28892" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="28902" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="28917" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28967</offset>
+      <text>The cultured cells were preincubated with 30 μM of SB203580 or vehicle for 60 min, subsequently pretreated with 1 μM of geldanamycin, 1 μM of 17-AAG, 1 μM of 17-DMAG or vehicle for 60 min, and then stimulated by 10 μM of PGF2α or vehicle for 48 h. IL-6 concentrations of the conditioned mediums were determined by ELISA. Each value represents the mean ± S.E.M. of triplicate determinations from three independent cell preparations. *p&lt;0.05 compared to the value of control. **p&lt;0.05 compared to the value of PGF2α alone. ***p&lt;0.05 compared to the value of PGF2α with the pretreatment of each HSP90 inhibitor.</text>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="29018" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="29087" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="29109" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="29125" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="29188" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="29475" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="29523" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29594</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29605</offset>
+      <text>In the present study, we demonstrated that HSP90 inhibitors including geldanamycin, 17-AAG and 17-DMAG significantly enhanced the PGF2α-stimulated release of IL-6 in osteoblast-like MC3T3-E1 cells. We also found that onalespib, another type HSP90 inhibitor [31], amplified the IL-6 release induced by PGF2α in these cells. In addition, we showed that the expression levels of IL-6 mRNA induced by PGF2α were markedly amplified by geldanamycin and onalespib. Thus, it seems likely that the amplifying effect of HSP90 inhibitors on the PGF2α-stimulated IL-6 release is mediated through the gene transcription in MC3T3-E1 cells. Based on our findings, it is probable that HSP90 plays an inhibitory role in the PGF2α-stimulated IL-6 synthesis in osteoblast-like MC3T3-E1 cells. To the best of our knowledge, this is probable the first report showing the suppression by HSP90 of IL-6 synthesis in osteoblasts. Therefore, we next investigated the exact mechanism behind the suppression by HSP90 of the PGF2α-stimulated IL-6 synthesis in osteoblast-like MC3T3-E1 cells.</text>
+      <annotation id="299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="29675" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="29689" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="29700" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="2XXx283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="29735" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="29822" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="29906" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="30002" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="30035" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="30052" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="30139" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="30312" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="30601" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30692</offset>
+      <text>Regarding the intracellular signaling system of PGF2α in osteoblasts, we have previously shown that PGF2α stimulates the synthesis of IL-6 through p44/p42 MAP kinase and p38 MAP kinase in osteoblast-like MC3T3-E1 cells [23,24]. Additionally, in our previous study [25], we have reported that Rho-kinase positively regulates PGF2α-stimulated IL-6 synthesis at a point upstream of not p44/p42 MAP kinase but p38 MAP kinase in MC3T3-E1 cells. Thus, we investigated whether HSP90 inhibitors affect the PGF2α-stimulated activation of p44/p42 MAP kinase or p38 MAP kinase in these cells. However, neither geldanamycin nor 17-AAG affected the phosphorylation of p44/p42 MAP kinase. On the contrary, we demonstrated that geldanamycin, 17-AAG and onalespib significantly enhanced the PGF2α-stimulated phosphorylation of p38 MAP kinase. Therefore, it is probable that the enhancement by HSP90 inhibitors of PGF2α-stimulated IL-6 synthesis is due to up-regulating the activation of p38 MAP kinase but not p44/p42 MAP kinase in MC3T3-E1 cells. In addition, we demonstrated that either geldanamycin or 17-AAG failed to affect the PGF2α-induced phosphorylation of MYPT-1, a substrate of Rho-kinase [33]. We also found that HSP90 inhibitors had no effect of the amounts of MYPT-1, RhoA or Rho-kinase. It is generally recognized that Rho and the down-stream effector, Rho-kinase play crucial roles in a variety of cellular functions such as cell motility and smooth muscle contraction [32,33]. As for osteoblasts, it has been shown that the inhibition of RhoA-Rho-kinase signaling influences osteoblast adhesion, differentiation and mineralization [35]. In the present study, we showed that HSP90 inhibitors failed to affect the phosphorylation of MYPT-1, a target of Rho-kinase. Based on our findings, it seems unlikely that the amplification by HSP90 inhibitors of PGF2α-stimulated IL-6 synthesis is mediated through the enhancement of RhoA-Rho-kinase activity. Our findings suggest that HSP90 might function as a negative regulator in the PGF2α-stimulated IL-6 synthesis in osteoblast-like MC3T3-E1 cells, and that the effect of HSP90 on the IL-6 synthesis is exerted at the point between Rho-kinase and p38 MAP kinase. In order to further elucidate whether HSP90 regulates the PGF2α-induced activation of p38 MAP kinase in MC3T3-E1 cells, we examined the effect of HSP90-siRNA on the PGF2α-induced phosphorylation of p38 MAP kinase. The PGF2α-induced levels of phosphorylated p38 MAP kinase were significantly enhanced by HSP90-siRNA. Additionally, we clearly demonstrated that SB203580 reduced the amplification by geldanamycin, 17-AAG or 17-DMAG of the PGF2α-stimulated IL-6 release in MC3T3-E1 cells. Taking these findings into account, it is most likely that HSP90 limits the PGF2α-stimulated IL-6 synthesis in osteoblast-like MC3T3-E1 cells, and the suppressive effect of HSP90 is exerted at the point between Rho-kinase and p38 MAP kinase. The potential mechanism underlying amplification by HSP90 inhibitors of the PGF2α-stimulated IL-6 synthesis in osteoblasts is summarized as Fig 9.</text>
+      <annotation id="313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="30740" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="30792" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="31016" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="31190" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="31291" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="31308" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="31405" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="31419" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="2XXx317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552103</infon>
+        <location offset="31430" length="9"/>
+        <text>onalespib</text>
+      </annotation>
+      <annotation id="2XXx300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="31467" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="31589" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="31765" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="31781" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="2XXx304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="31809" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="32543" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="32718" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="32957" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="33064" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="33117" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093642</infon>
+        <location offset="33258" length="8"/>
+        <text>SB203580</text>
+      </annotation>
+      <annotation id="337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="33296" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C112765</infon>
+        <location offset="33310" length="6"/>
+        <text>17-AAG</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C448659</infon>
+        <location offset="33320" length="7"/>
+        <text>17-DMAG</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="33335" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="33460" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="33702" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>33833</offset>
+      <text>Schematic illustration of the regulatory mechanism underlying the amplifying effect of HSP90 inhibitors on the PGF2α-induced IL-6 synthesis in osteoblast-like MC3T3-E1 cells.</text>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="33944" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>34012</offset>
+      <text>PGF2α, prostaglandin F2α; MAPK, mitogen-activated protein kinase; HSP90, heat shock protein 90; IL-6, interleukin-6.</text>
+      <annotation id="347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="34012" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="2XXx320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="34019" length="17"/>
+        <text>prostaglandin F2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34137</offset>
+      <text>In bone metabolism, it has been generally recognized that IL-6 acts as a potent bone resorptive agent and to promote osteoclast formation [17]. In addition to the IL-6-effect on bone resorption, IL-6 is currently considered as an osteotropic factor under the condition of increased bone turnover, and is inducible even bone formation [19]. Bone resorption is the primary step of bone remodeling, and bone formation is subsequently initiated [36]. To obtain the quantity of bone and the quality, the adequate handling of bone remodeling process performed by osteoclasts and osteoblasts is essential. Although there is no doubt that IL-6 stimulates osteoclastic bone resorption, IL-6 is recognized to act as a bone remodeling mediator from the viewpoint of whole bone metabolism. As for HSP90 in osteoblasts, we have shown that the expression levels of HSP90 protein are quite high in osteoblast-like MC3T3-E1 cells [37]. Therefore, our present findings, showing that HSP90 inhibitors could function as an up-regulator with regard to the PGF2α-stimulated IL-6 synthesis in osteoblasts, probably provides a novel insight with regard to HSP90 as an essential regulator of bone remodeling. Several HSP90 inhibitors including geldanamycin have been recognized as an anticancer drug, and the effects of HSP90 inhibitors have been tested in the clinical trial [38]. Based on our present findings, it is probable that HSP90 inhibitors, in addition to the anticancer chemotherapeutics, could affect bone metabolism as a bone remodeling modulator through the enhancement of IL-6 synthesis in osteoblasts. Therefore, HSP90 inhibitors might lead a new therapeutic strategy for acceleration of fracture healing and bone metabolic diseases such as osteoporosis. Further investigations would be required to clarify the details underlying the effects of HSP90 on bone metabolism.</text>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="35173" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001277</infon>
+        <location offset="35357" length="12"/>
+        <text>geldanamycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36004</offset>
+      <text>In conclusion, our results strongly suggest that HSP90 negatively regulates the PGF2α-stimulated IL-6 synthesis in osteoblasts, and that the effect of HSP90 on the IL-6 synthesis is exerted through regulating p38 MAP kinase activation.</text>
+      <annotation id="2XXx323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="36084" length="5"/>
+        <text>PGF2α</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>36244</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

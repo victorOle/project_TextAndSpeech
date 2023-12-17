@@ -1,0 +1,2263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4159838</id>
+    <passage>
+      <infon key="name_3">surname:Ikushiro;given-names:Shin-Ichi</infon>
+      <infon key="name_2">surname:Yamamoto;given-names:Keiko</infon>
+      <infon key="name_1">surname:Itoh;given-names:Toshimasa</infon>
+      <infon key="name_0">surname:Inui;given-names:Hideyuki</infon>
+      <infon key="article-id_pmid">25123135</infon>
+      <infon key="issue">8</infon>
+      <infon key="fpage">14044</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_publisher-id">ijms-15-14044</infon>
+      <infon key="article-id_pmc">4159838</infon>
+      <infon key="article-id_doi">10.3390/ijms150814044</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">15</infon>
+      <infon key="license">This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</infon>
+      <infon key="kwd">CYP1A1 cytochrome P450 monooxygenase hydroxylation polychlorinated biphenyl polychlorinated dibenzo-p-dioxin sulfotransferase UDP-glucuronosyltransferase</infon>
+      <infon key="lpage">14057</infon>
+      <infon key="name_4">surname:Sakaki;given-names:Toshiyuki</infon>
+      <offset>0</offset>
+      <text>Mammalian Cytochrome P450-Dependent Metabolism of Polychlorinated Dibenzo-p-dioxins and Coplanar Polychlorinated Biphenyls</text>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="50" length="33"/>
+        <text>Polychlorinated Dibenzo-p-dioxins</text>
+      </annotation>
+      <annotation id="2XXx1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="97" length="25"/>
+        <text>Polychlorinated Biphenyls</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>123</offset>
+      <text>Polychlorinated dibenzo-p-dioxins (PCDDs) and coplanar polychlorinated biphenyls (PCBs) contribute to dioxin toxicity in humans and wildlife after bioaccumulation through the food chain from the environment. The authors examined human and rat cytochrome P450 (CYP)-dependent metabolism of PCDDs and PCBs. A number of human CYP isoforms belonging to the CYP1 and CYP2 families showed remarkable activities toward low-chlorinated PCDDs. In particular, human CYP1A1, CYP1A2, and CYP1B1 showed high activities toward monoCDDs, diCDDs, and triCDDs but no detectable activity toward 2,3,7,8-tetrachlorodibenzo-p-dioxin (2,3,7,8-tetraCDD). Large amino acids located at putative substrate-recognition sites and the F-G loop in rat CYP1A1 contributed to the successful metabolism of 2,3,7,8-tetraCDD. Rat, but not human, CYP1A1 metabolized 3,3',4,4',5-pentachlorobiphenyl (CB126) to two hydroxylated metabolites. These metabolites are probably less toxic than is CB126, due to their higher solubility. Homology models of human and rat CYP1A1s and CB126 docking studies indicated that two amino acid differences in the CB126-binding cavity were important for CB126 metabolism. In this review, the importance of CYPs in the metabolism of dioxins and PCBs in mammals and the species-based differences between humans and rats are described. In addition, the authors reveal the molecular mechanism behind the binding modes of dioxins and PCBs in the heme pocket of CYPs.</text>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="123" length="33"/>
+        <text>Polychlorinated dibenzo-p-dioxins</text>
+      </annotation>
+      <annotation id="2XXx3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="158" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="178" length="25"/>
+        <text>polychlorinated biphenyls</text>
+      </annotation>
+      <annotation id="2XXx4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="205" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="225" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="412" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="gy9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="422" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="551" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="gy14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="636" length="8"/>
+        <text>monoCDDs</text>
+      </annotation>
+      <annotation id="246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="646" length="6"/>
+        <text>diCDDs</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="658" length="7"/>
+        <text>triCDDs</text>
+      </annotation>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="700" length="35"/>
+        <text>2,3,7,8-tetrachlorodibenzo-p-dioxin</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="737" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="762" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="897" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="954" length="31"/>
+        <text>3,3',4,4',5-pentachlorobiphenyl</text>
+      </annotation>
+      <annotation id="2XXx20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="987" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="1077" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="1161" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="1202" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="1232" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="1272" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="1350" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="1362" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="1535" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="1547" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="gy44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="1559" length="4"/>
+        <text>heme</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1580</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1596</offset>
+      <text>Dioxins containing polychlorinated dibenzo-p-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) are generated naturally through processes such as forest fires and waste incineration; dioxins also are generated as byproducts of industrial processes (Figure 1). In contrast, coplanar polychlorinated biphenyls (PCBs) have been produced commercially (Figure 1). They are considered environmental contaminants because of the extreme toxicity of some family members, with 2,3,7,8-tetrachlorodibenzo-p-dioxin (tetraCDD) being considered the most toxic. The World Health Organization (WHO) recommends a maximum total daily intake of 1–4 pg I-TEQ/kg body weight [1]. Human exposure to dioxins appears to come predominantly from meat, fish, and dairy products [2]. Human breast milk can also be contaminated with dioxins [3].</text>
+      <annotation id="2XXx26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="1615" length="33"/>
+        <text>polychlorinated dibenzo-p-dioxins</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="1650" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072338</infon>
+        <location offset="1661" length="29"/>
+        <text>polychlorinated dibenzofurans</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072338</infon>
+        <location offset="1692" length="5"/>
+        <text>PCDFs</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="1786" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="1885" length="25"/>
+        <text>polychlorinated biphenyls</text>
+      </annotation>
+      <annotation id="gy60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="1912" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="2070" length="35"/>
+        <text>2,3,7,8-tetrachlorodibenzo-p-dioxin</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="2107" length="8"/>
+        <text>tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="2280" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="2407" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>2422</offset>
+      <text>Structures of polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), and polychlorinated biphenyls (PCBs).</text>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="2436" length="33"/>
+        <text>polychlorinated dibenzo-p-dioxins</text>
+      </annotation>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="2471" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072338</infon>
+        <location offset="2479" length="29"/>
+        <text>polychlorinated dibenzofurans</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072338</infon>
+        <location offset="2510" length="5"/>
+        <text>PCDFs</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="2522" length="25"/>
+        <text>polychlorinated biphenyls</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="2549" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2556</offset>
+      <text>Toxicity evaluations of chemicals are carried out by using experimental animals, such as mice, rats, and dogs, because humans are not exposed to chemicals, the safety of which is unclear. Safety data obtained from experimental animals are extrapolated to humans using safety factors. Usually, a safety factor of 100 is applied to the No Observed Adverse Effect Level (NOAEL) dose derived from animal experiments. This figure is a product of factors for inter-species (10) and intra-species (10) differences. These factors are important to take into account when considering safety differences between experimental animals and humans; however, there are often large differences between mammals in terms of their sensitivity toward chemicals.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3297</offset>
+      <text>The metabolism of PCDDs has been studied in vivo by using experimental animals [4,5,6,7,8,9,10], and in vitro by using liver slices and liver microsomal fractions [9]. The major metabolites are hydroxylated products, glucuronide conjugates, and sulfate conjugates [5,7]. PCDD metabolism involves the initial insertion of a single oxygen atom into the PCDD molecule to form an epoxide, probably by cytochrome P450 (CYP)-dependent monooxygenases (Figure 2). Hu and Bunce [9] studied the metabolism of PCDDs in microsomal fractions prepared from 3-methylcholanthrene (MC)-treated rats and suggested that CYP1A1 and CYP1A2 play an important role in the metabolism of PCDDs. Their findings strongly suggest that CYP-dependent monooxygenases are key enzymes for the metabolism of PCDDs and that phase II enzymes, including UDP-glucuronosyltransferase (UGT) and sulfotransferase (SULT), also play important roles in the metabolism of PCDDs.</text>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="3315" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020719</infon>
+        <location offset="3514" length="11"/>
+        <text>glucuronide</text>
+      </annotation>
+      <annotation id="gy98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013463</infon>
+        <location offset="3542" length="7"/>
+        <text>sulfate</text>
+      </annotation>
+      <annotation id="2XXx46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="3568" length="4"/>
+        <text>PCDD</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="3627" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="3648" length="4"/>
+        <text>PCDD</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004852</infon>
+        <location offset="3673" length="7"/>
+        <text>epoxide</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="3796" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008748</infon>
+        <location offset="3840" length="20"/>
+        <text>3-methylcholanthrene</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008748</infon>
+        <location offset="3862" length="2"/>
+        <text>MC</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="3960" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4071" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">OTHER</infon>
+        <location offset="4114" length="27"/>
+        <text>UDP-glucuronosyltransferase</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4224" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>4231</offset>
+      <text>Cytochrome P450 (P450, CYP) monooxygenases. RH, substrate; and CPR, NADPH-P450 oxidoreductase.</text>
+      <annotation id="324">
+        <infon key="type">OTHER</infon>
+        <location offset="4299" length="25"/>
+        <text>NADPH-P450 oxidoreductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4326</offset>
+      <text>Ten years ago, Ukrainian President Victor Yushchenko experienced severe 2,3,7,8-tetraCDD poisoning. The 2,3,7,8-tetraCDD level in his blood serum was 108,000 pg/g lipid weight, which was more than 50,000-fold higher than the levels in the general population. Two metabolites of 2,3,7,8-tetraCDD were detected in his feces [11]; however, there were no published reports identifying the human CYP isoforms responsible for this 2,3,7,8-tetraCDD metabolism, although CYP1A1, CYP1A2, and CYP1B1 are known to be induced by 2,3,7,8-tetraCDD in humans [12,13].</text>
+      <annotation id="251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4398" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4430" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4604" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4751" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="4843" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4879</offset>
+      <text>PCBs were once widely used as materials for industrial products such as transformers and condensers because of their characteristic non-flammability, low electrical conductivity, and chemical stability. The PCBs in materials are a mixture of chlorinated biphenyls containing one to 10 chlorine atoms on the biphenyl rings, and there are 209 isoforms, which are termed congeners. Among these congeners, coplanar PCBs, which are non-ortho and mono-ortho, exhibit a dioxin-like toxicity toward mammals [14]. Coplanar PCBs have a planar structure similar to that of dioxins and bind aryl hydrocarbon (AhR) receptors, resulting in the transcriptional activation of genes responsible for the expression of dioxin-like toxicity [15]. Although PCBs have been banned in most (if not all) industrialized countries, not just Japan, PCBs have continued to cause environmental pollution due to their leakage from products and their persistency in the environment [16]. Environmental contamination by PCBs has been detected even in the polar regions as well as in industrial areas due to the ability of PCBs to migrate long distances. The PCBs bio-accumulate in the adipose tissues of wildlife via the food chain, with high accumulation leading to dioxin-like toxicity [17].</text>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="4879" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5086" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="gy121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5121" length="21"/>
+        <text>chlorinated biphenyls</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="5164" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5290" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="5342" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5393" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="5441" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="326">
+        <infon key="type">OTHER</infon>
+        <location offset="5458" length="32"/>
+        <text>aryl hydrocarbon (AhR) receptors</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="5579" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5615" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5700" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5866" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="5968" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="6004" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="6113" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6140</offset>
+      <text>CYP-dependent monooxygenases are also involved in the metabolism of some PCBs. MC-treated rats that received 3,3',4,4',5-pentaCB (CB126), which is the most toxic of the PCB congeners, metabolized CB126 to 4-OH-3,3',4',5,5'-pentaCB, which was detected in their feces [18]. Haraguchi et al. detected five different metabolites, including 4- and 5-hydroxy metabolites, from rats treated with CB126 [19]. Rat, but not human, CYP1A1 metabolized CB126 to hydroxylated metabolites [20]. This in vitro experiment revealed that CYPs were responsible for the hydroxylation of CB126. In rats, hamsters, and guinea pigs treated with the CYP inducers phenobarbital (PB) and MC, 2,2',3,4',5,5',6-heptaCB (CB187) was metabolized to different hydroxylated metabolites depending on the animal species [21]. These results showed that there are species-specific differences with regard to the production of metabolites, indicating that the expression levels of CYP genes and the activities of the gene products differ among mammals.</text>
+      <annotation id="64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="6213" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008748</infon>
+        <location offset="6219" length="2"/>
+        <text>MC</text>
+      </annotation>
+      <annotation id="327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="6249" length="19"/>
+        <text>3,3',4,4',5-pentaCB</text>
+      </annotation>
+      <annotation id="298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="6270" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="6309" length="3"/>
+        <text>PCB</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="6336" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067423</infon>
+        <location offset="6345" length="25"/>
+        <text>4-OH-3,3',4',5,5'-pentaCB</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="6529" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="6580" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="6706" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="gy143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010634</infon>
+        <location offset="6778" length="13"/>
+        <text>phenobarbital</text>
+      </annotation>
+      <annotation id="gy146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010634</infon>
+        <location offset="6793" length="2"/>
+        <text>PB</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008748</infon>
+        <location offset="6801" length="2"/>
+        <text>MC</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598729</infon>
+        <location offset="6805" length="24"/>
+        <text>2,2',3,4',5,5',6-heptaCB</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598729</infon>
+        <location offset="6831" length="5"/>
+        <text>CB187</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7154</offset>
+      <text>2. Yeast Expression System for Mammalian Cytochrome P450 (CYP) Isoforms</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7226</offset>
+      <text>Three decades ago, heterologous expression of mammalian CYP genes using a Saccharomyces cerevisiae expression system succeeded [22]. The expressed rat CYP1A1 was localized on the yeast endoplasmic reticulum membrane and received electrons from yeast NADPH–P450 oxidoreductase (reductase) to demonstrate monooxygenase activity [23]. Yeast cells appear to have a machinery similar to that of mammalian cells with regard to the co-translational localization of mammalian microsomal CYPs. Although the S. cerevisiae genome contains three microsomal CYP genes [24], the gene products have no detectable activity toward xenobiotics, such as drugs, dioxins, and PCBs. In vitro studies revealed that the efficiency of electron transfer from yeast reductase to mammalian CYPs is nearly the same as that from mammalian reductase [25]. Human CYP1A1, CYP1A2, CYP1B1, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C18, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 genes have successfully been expressed in S. cerevisiae [26,27]. This system is thus useful for identifying CYPs involved in drug metabolism. One of the advantages of the yeast expression system is that whole cells of recombinant S. cereviasiae producing human CYPs can be used as biocatalysts for the biosynthesis of metabolites. This system was used to predict the metabolism of PCDDs and coplanar PCBs in humans.</text>
+      <annotation id="2XXx96">
+        <infon key="type">OTHER</infon>
+        <location offset="7476" length="25"/>
+        <text>NADPH–P450 oxidoreductase</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="7868" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="2XXx93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="7881" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8539" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="8558" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8576</offset>
+      <text>3. Metabolism of Polychlorinated Dibenzo-p-dioxins (PCDDs) by Human and Rat CYPs</text>
+      <annotation id="2XXx97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8593" length="33"/>
+        <text>Polychlorinated Dibenzo-p-dioxins</text>
+      </annotation>
+      <annotation id="2XXx98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8628" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8657</offset>
+      <text>3.1. Metabolism of 2,3,7,8-Tetrachlorodibenzo-p-dioxin (tetraCDD) in Humans</text>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8676" length="35"/>
+        <text>2,3,7,8-Tetrachlorodibenzo-p-dioxin</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8713" length="8"/>
+        <text>tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8733</offset>
+      <text>As mentioned in the Introduction, in 2004, Ukrainian President Victor Yushchenko experienced severe 2,3,7,8-tetraCDD poisoning. The 2,3,7,8-tetraCDD level in his blood serum was 108,000 pg/g lipid weight (50,000-fold above the normal level). Sorg et al. [11] monitored the levels of 2,3,7,8-tetraCDD and its metabolites in blood serum, subcutaneous fat, feces, sweat, and urine for 3 years; 8-OH-2,3,7-triCDD and 2-OH-1,3,7,8-tetraCDD were detected as metabolites in the feces, and the amount of the former was approximately two times higher than that of the latter. Trace amounts of these metabolites were detected in the serum and urine. The half-life of 2,3,7,8-tetraCDD in Victor Yushchenko’s body was estimated to be 15.4 months. Of note, these two metabolites of 2,3,7,8-tetraCDD have also been detected in dogs [6]. The authors believe that CYPs were responsible for the hydroxylation of 2,3,7,8-tetraCDD for the following reasons: (1) The contributions of other enzymes (i.e., not CYPs) to the oxidation of PCDDs may be excluded [28]; (2) Spectral analysis strongly suggested that human CYP1A1 binds 2,3,7,8-tetraCDD in its substrate-binding pocket [29]; and (3) Human recombinant CYP1A2-dependent activity was inhibited by 2,3,7,8-tetraCDD [30].</text>
+      <annotation id="2XXx103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8833" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="8865" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9016" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9124" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C049089</infon>
+        <location offset="9146" length="21"/>
+        <text>2-OH-1,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9390" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9502" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9628" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9748" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9841" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="9965" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9990</offset>
+      <text>Furthermore, the authors concluded that CYPs belonging to the CYP1 family, that is, CYP1A1, CYP1A2, and/or CYP1B1, could metabolize 2,3,7,8-tetraCDD, although their activity was too subtle to detect under in vitro procedures. The metabolites 8-OH-2,3,7-triCDD and 2-OH-1,3,7,8-tetraCDD that were detected in Victor Yushchenko were likely produced by CYPs belonging to the CYP1 family whose expression was induced by 2,3,7,8-tetraCDD (Figure 3A) [31].</text>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10122" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10232" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C049089</infon>
+        <location offset="10254" length="21"/>
+        <text>2-OH-1,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10406" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10441</offset>
+      <text>Metabolic pathways for 2,3,7,8-tetraCDD (A) and 2-monoCDD (B) involving CYPs.</text>
+      <annotation id="2XXx116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10464" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10489" length="9"/>
+        <text>2-monoCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10519</offset>
+      <text>3.2. CYP-Dependent Metabolism of PCDDs</text>
+      <annotation id="2XXx118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10552" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10558</offset>
+      <text>Recombinant yeast microsomal fractions containing all the human CYPs were examined for their participation in the metabolism of PCDDs. Multiple CYP isoforms showed remarkable metabolic processes toward dibenzo-p-dioxin (DD), 1-monoCDD, 2-monoCDD, 2,3-diCDD, 2,7-diCDD, and 2,3,7-triCDD [29] (Figure 3B). These metabolic processes included multiple reactions such as hydroxylation at an unsubstituted position, hydroxylation with migration of a chlorine substituent, and hydroxylation with elimination of a chlorine substituent. Clear differences were observed among the CYP1, CYP2, and CYP3 families. The CYP1 family showed high activities toward DD and mono-, di-, and triCDDs and remarkable activities toward 2,7-diCDD and 2,3,7-triCDD. In contrast, the CYP2 family showed activities toward DD, 1-monoCDD, 2-monoCDD, and 2,3-diCDD but no activities toward 2,7-diCDD and 2,3,7-triCDD. CYP3A4, which is the most important CYP in drug metabolism, showed no activities toward PCDDs. None of the CYPs showed detectable activity toward 2,3,7,8-tetraCDD.</text>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10686" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020887</infon>
+        <location offset="10760" length="16"/>
+        <text>dibenzo-p-dioxin</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020887</infon>
+        <location offset="10778" length="2"/>
+        <text>DD</text>
+      </annotation>
+      <annotation id="2XXx128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="10783" length="9"/>
+        <text>1-monoCDD</text>
+      </annotation>
+      <annotation id="2XXx129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="10794" length="9"/>
+        <text>2-monoCDD</text>
+      </annotation>
+      <annotation id="gy218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C471358</infon>
+        <location offset="10805" length="9"/>
+        <text>2,3-diCDD</text>
+      </annotation>
+      <annotation id="2XXx131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000925</infon>
+        <location offset="10816" length="9"/>
+        <text>2,7-diCDD</text>
+      </annotation>
+      <annotation id="2XXx135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="10831" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="11002" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="11064" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020887</infon>
+        <location offset="11205" length="2"/>
+        <text>DD</text>
+      </annotation>
+      <annotation id="2XXx136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147,MESH:D000072317,MESH:D000072317</infon>
+        <location offset="11212" length="23"/>
+        <text>mono-, di-, and triCDDs</text>
+      </annotation>
+      <annotation id="2XXx132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000925</infon>
+        <location offset="11269" length="9"/>
+        <text>2,7-diCDD</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11283" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020887</infon>
+        <location offset="11351" length="2"/>
+        <text>DD</text>
+      </annotation>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="11355" length="9"/>
+        <text>1-monoCDD</text>
+      </annotation>
+      <annotation id="2XXx139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="11366" length="9"/>
+        <text>2-monoCDD</text>
+      </annotation>
+      <annotation id="gy243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C471358</infon>
+        <location offset="11381" length="9"/>
+        <text>2,3-diCDD</text>
+      </annotation>
+      <annotation id="2XXx133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000925</infon>
+        <location offset="11416" length="9"/>
+        <text>2,7-diCDD</text>
+      </annotation>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11430" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11532" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11590" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11608</offset>
+      <text>3.3. Binding of Tetra- and PentaCDDs to the Substrate-Binding Pocket of CYPs</text>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:D000072317</infon>
+        <location offset="11624" length="20"/>
+        <text>Tetra- and PentaCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11685</offset>
+      <text>As described earlier, none of the CYPs showed activity toward 2,3,7,8-tetraCDD [29]. So, can CYPs bind 2,3,7,8-tetraCDD or not? To answer this question, tetraCDD-induced difference spectra were measured. Addition of 2,3,7-triCDD or 2,3,7,8-tetraCDD to microsomal fractions containing human CYP1A1 induced typical type I spectra, indicating a change in the heme iron of CYP1A1 from a low-spin state to a high-spin state upon binding of 2,3,7-triCDD or 2,3,7,8-tetraCDD. The value of the dissociation constant Kd for 2,3,7-triCDD was estimated to be 0.65 µM. Although the authors did not determine the Kd value for 2,3,7,8-tetraCDD, the affinity for 2,3,7,8-tetraCDD appeared to be not particularly different from that for 2,3,7-triCDD [30]. These results indicate that CYP1A1 can bind 2,3,7,8-tetraCDD in its substrate-binding pocket but shows no detectable activity toward it.</text>
+      <annotation id="2XXx143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11747" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11788" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11838" length="8"/>
+        <text>tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11901" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="11917" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="12041" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007501</infon>
+        <location offset="12046" length="4"/>
+        <text>iron</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12120" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12136" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12200" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12298" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12333" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12406" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12469" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12566</offset>
+      <text>Staskal et al. reported that human recombinant CYP1A2-dependent activity was inhibited by 2,3,7,8-tetraCDD, 1,2,3,7,8-pentaCDD, 2,3,7,8-tetraCDF, and 2,3,4,7,8-pentaCDF, with Ki values of less than 1 μM [30]. These results indicate that CYP1A2 can bind to these dioxins with high affinity. On the basis of these results, PCDDs and PCDFs with five chlorine substituents could dock into the substrate-binding pocket of CYPs belonging to the CYP1 family.</text>
+      <annotation id="275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12656" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C051452</infon>
+        <location offset="12674" length="18"/>
+        <text>1,2,3,7,8-pentaCDD</text>
+      </annotation>
+      <annotation id="gy278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C014211</infon>
+        <location offset="12694" length="16"/>
+        <text>2,3,7,8-tetraCDF</text>
+      </annotation>
+      <annotation id="355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038890</infon>
+        <location offset="12716" length="18"/>
+        <text>2,3,4,7,8-pentaCDF</text>
+      </annotation>
+      <annotation id="2XXx155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="12828" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="12887" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072338</infon>
+        <location offset="12897" length="5"/>
+        <text>PCDFs</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="12913" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13019</offset>
+      <text>3.4. Further Metabolism of PCDDs after CYP-Dependent Hydroxylation</text>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="13046" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13086</offset>
+      <text>In vivo studies using experimental animals have demonstrated that the major metabolites of PCDDs are hydroxylated products, glucuronide conjugates, and sulfate conjugates [5,7]. The formation of glucuronides or sulfates is an indispensable step in the detoxification of lipophilic compounds, which subsequently are transformed into more hydrophilic metabolites and excreted in bile or urine. Glucuronidation of steroids, bile acids, bilirubin, hormones, drugs, and environmental toxicants is catalyzed by UDP glucuronosyltransferases (UGTs), whose gene family in the human genome contains 19 species with different substrate specificities [32]. No human UGT species that catalyzes the glucuronidation of PCDDs has yet been identified, although some human UGT species appear to be involved in the metabolism of PCDDs.</text>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="13177" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020719</infon>
+        <location offset="13210" length="11"/>
+        <text>glucuronide</text>
+      </annotation>
+      <annotation id="gy295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013463</infon>
+        <location offset="13238" length="7"/>
+        <text>sulfate</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020719</infon>
+        <location offset="13281" length="12"/>
+        <text>glucuronides</text>
+      </annotation>
+      <annotation id="356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013463</infon>
+        <location offset="13297" length="8"/>
+        <text>sulfates</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="13497" length="8"/>
+        <text>steroids</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13507" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001663</infon>
+        <location offset="13519" length="9"/>
+        <text>bilirubin</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">OTHER</infon>
+        <location offset="13591" length="28"/>
+        <text>UDP glucuronosyltransferases</text>
+      </annotation>
+      <annotation id="129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="13790" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="13896" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13903</offset>
+      <text>3.5. Metabolism of 8-OH-2,3,7-triCDD by Human Recombinant UDP Glucuronosyltransferases (UGTs)</text>
+      <annotation id="gy308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="13922" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="358">
+        <infon key="type">OTHER</infon>
+        <location offset="13961" length="28"/>
+        <text>UDP Glucuronosyltransferases</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13997</offset>
+      <text>The additional metabolism of dioxins by UGTs that occurs after the CYP-dependent reaction was examined. 8-OH-2,3,7-triCDD, a major metabolite of 2,3,7-triCDD formed via the activity of CYP1A1, CYP1A2, and CYP1B1, served as a substrate for UGT [33]. Because 8-OH-2,3,7-triCDD is a major metabolite of 2,3,7,8-tetraCDD in mammals [6,34], it is important to understand the metabolism of 8-OH-2,3,7-triCDD to fully understand the metabolism of 2,3,7,8-tetraCDD in mammals. The metabolism of 8-OH-2,3,7-triCDD by 12 species of human UGTs was examined by using recombinant UGTs expressed in baculovirus-infected insect cells (Supersomes, BD Sciences, San Jose, CA, USA). Surprisingly, 2,3,7-triCDD glucuronide was detected in the recombinant system containing each of UGT1A1, UGT1A3, UGT1A7, UGT1A8, UGT1A9, UGT1A10, UGT2B7, UGT2B15, and UGT2B17, yet it was not detected in systems containing each of UGT1A4, UGT1A6, and UGT2B4. Thus, 8-OH-2,3,7-triCDD is a good substrate for most human UGT species.</text>
+      <annotation id="133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="14026" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14101" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14142" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14254" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14297" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14381" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14437" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14484" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:D020719</infon>
+        <location offset="14676" length="24"/>
+        <text>2,3,7-triCDD glucuronide</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="14926" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14992</offset>
+      <text>3.6. Successive Metabolism of 2,3,7-triCDD by CYPs and UGTs in Human Liver Microsomes</text>
+      <annotation id="2XXx186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="15022" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15078</offset>
+      <text>As described in the previous sections, heterologous expression systems for CYPs and UGTs are very useful for predicting the metabolism of dioxins. In addition, commercially available human liver microsomes are also useful for understanding the metabolism of dioxins in the human body. CYP-dependent 2,3,7-triCDD hydroxylation activities in human liver microsomes from 10 individual human livers in the presence of NADPH were measured [33]. A significant difference in hydroxylation activity was observed among the different microsomal preparations from the 10 human livers, and the activity range was 15-fold. Although both human CYP1A1 and CYP1B1 have high 2,3,7-triCDD 8-hydroxylation activity, their expression levels in human liver are quite low, whereas CYP1A2 is a major CYP isoform in the liver [35]. Therefore, the authors predicted that CYP1A2 was the major CYP that catalyzed the hydroxylation of 2,3,7-triCDD in human liver. Because phenacetin O-deethylation is specifically metabolized by CYP1A2 [36], the authors examined the correlation between 2,3,7-triCDD 8-hydroxylation and phenacetin O-deethylation in human liver microsomes. As expected, a good correlation (r = 0.92) was observed between the two reactions. These results strongly suggest that CYP1A2 is responsible for 2,3,7-triCDD 8-hydroxylation in human liver, and the significant difference in the activity among the microsomal preparations from the 10 different human livers likely reflected differences in the CYP1A2 contents of the liver microsomes. In contrast, glucuronidation activity toward 8-OH-2,3,7-triCDD was not significantly different among the different microsomal preparations from the 10 human livers; the activity range was only 1.9-fold. A time course of 2,3,7-triCDD metabolisms on human liver microsomes in the presence of NADPH and UDP-glucuronic acid was also examined [33]. Initially, 8-OH-2,3,7-triCDD levels increased linearly with time, and then reached a plateau. Glucuronide formation was detected, but after 8-OH-2,3,7-triCDD accumulation following a lag phase, glucuronide levels then increased linearly with time. The time courses of these metabolites thus represent the typical sequential conversion by a two-enzyme system.</text>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="15216" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="2XXx188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="15336" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="2XXx199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="15377" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="15492" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="15736" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="15985" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010615</infon>
+        <location offset="16022" length="10"/>
+        <text>phenacetin</text>
+      </annotation>
+      <annotation id="2XXx202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="16137" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010615</infon>
+        <location offset="16170" length="10"/>
+        <text>phenacetin</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="16368" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="16651" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="16826" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="16896" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014535</infon>
+        <location offset="16906" length="19"/>
+        <text>UDP-glucuronic acid</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="16961" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020719</infon>
+        <location offset="17044" length="11"/>
+        <text>Glucuronide</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="17090" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020719</infon>
+        <location offset="17144" length="11"/>
+        <text>glucuronide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17309</offset>
+      <text>3.7. Species-Based Difference in CYP-Dependent Metabolism of PCDDs between Humans and Rats</text>
+      <annotation id="155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="17370" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17400</offset>
+      <text>Human and rat CYP1A-dependent metabolism of PCDDs by CYP1A subfamily members by using recombinant yeast microsomes was compared. Considerable species differences between humans and rats were observed for both CYP1A1- and CYP1A2-dependent metabolism of dioxins. Among four CYPs, rat CYP1A1 showed the highest activity toward DD, mono-, di-, and triCDDs [37].</text>
+      <annotation id="156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="17444" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="17652" length="7"/>
+        <text>dioxins</text>
+      </annotation>
+      <annotation id="2XXx208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020887</infon>
+        <location offset="17724" length="2"/>
+        <text>DD</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147,MESH:D000072317,MESH:D000072317</infon>
+        <location offset="17728" length="23"/>
+        <text>mono-, di-, and triCDDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17758</offset>
+      <text>3.8. Generation of 2,3,7,8-tetraCDD-Metabolizing CYPs by Modifying Rat CYP1A1 through Site-Directed Mutagenesis</text>
+      <annotation id="369">
+        <infon key="type">OTHER</infon>
+        <location offset="17777" length="34"/>
+        <text>2,3,7,8-tetraCDD-Metabolizing CYPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17870</offset>
+      <text>The extremely high toxicity of 2,3,7,8-tetraCDD derives from its high affinity for the Ah receptor and its nearly undetectable metabolism in the mammalian body [9]. Given that 2,3,7-triCDD is a good substrate for rat CYP1A1, the authors hypothesized that enlargement of the space for the putative substrate-binding pocket and of the substrate access channel of rat CYP1A1 might generate catalytic activity toward 2,3,7,8-tetraCDD. Large amino acid residues such as Phe, Tyr, Leu, and Ile that are involved in substrate binding and substrate entry were substituted for alanine by using site-directed mutagenesis. Among eight mutants examined, the mutant in the putative F–G loop, F240A, catalyzed the conversion of 2,3,7,8-tetraCDD to 8-OH-2,3,7-triCDD [38]. Because the affinity of 8-OH-2,3,7-triCDD for Ah receptor was less than 0.001% of that for 2,3,7,8-tetraCDD, this metabolic event resulted in remarkable detoxification of 2,3,7,8-tetraCDD. A docking model of 2,3,7,8-tetraCDD with rat CYP1A1 on the basis of the crystal structure of human CYP1A2 was constructed [20,39,40] using homology modeling. Figure 4 shows the docking model of 2,3,7,8-tetraCDD in the active site of rat CYP1A1. 2,3,7,8-tetraCDD is accommodated in the planar active site. This model concurs well with the experimental result that rat CYP1A1 can bind 2,3,7,8-tetraCDD as described in Section 3.2. The figure shows the three-dimensional overall structure of rat CYP1A1 Phe240 located in the F–G loop, which is associated with the membrane and involved in substrate entry. As mentioned in the Section 3.1, 8-OH-2,3,7-triCDD is a major metabolite of 2,3,7,8-tetraCDD in mammals [6,34]. These in vivo studies thus appear to be inconsistent with our results showing that native CYPs have no catalytic activity toward 2,3,7,8-tetraCDD. However, it is possible that native CYP1A may be able to convert 2,3,7,8-tetraCDD to 8-OH-2,3,7-triCDD.</text>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="17901" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18046" length="12"/>
+        <text>2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18283" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="18307" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="18335" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="18340" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="18345" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007532</infon>
+        <location offset="18354" length="3"/>
+        <text>Ile</text>
+      </annotation>
+      <annotation id="166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="18438" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18584" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18604" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18652" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="2XXx225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18719" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18799" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="18836" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19011" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19062" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="2XXx230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19200" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="19317" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19453" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19496" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19661" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19744" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+      <annotation id="172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19764" length="17"/>
+        <text>8-OH-2,3,7-triCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>19787</offset>
+      <text>A docking model of 2,3,7,8-tetraCDD into rat CYP1A1. The cyan ribbon represents the F–G loop. The yellow shaded region is the substrate-binding cavity.</text>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="19806" length="16"/>
+        <text>2,3,7,8-tetraCDD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>19941</offset>
+      <text>4. Metabolism of PCBs by Human and Rat CYPs</text>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="19958" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19985</offset>
+      <text>4.1. In Vitro Metabolism of CB126 with Microsomal Fractions from Recombinant Yeast</text>
+      <annotation id="2XXx237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="20013" length="5"/>
+        <text>CB126</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20068</offset>
+      <text>Microsomal fractions containing human and rat CYP1A1s were prepared from recombinant S. cerevisiae expressing the corresponding genes [22]. With NADPH as an electron donor and the NADPH-recycling system using gluose-6-phosphate and glucose-6-phosphate dehydrogenase, CB126 was mixed with the microsomal fractions. After a 2-h incubation at 37 °C with shaking, 13C-hydroxylated PCBs, as internal standards, were added to the reaction mixture. CB126 and its metabolites were extracted with hexane from the reaction mixture and subjected to methylation [41]. The residues dissolved in hexane were subjected to high-resolution gas chromatography–high-resolution mass spectrometry. Rat CYP1A1 showed two NADPH-dependent peaks, whereas no peaks were detected with human CYP1A1 [20]. The vector control also showed no detectable peaks.</text>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="20213" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="20248" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="gy417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019298</infon>
+        <location offset="20277" length="18"/>
+        <text>gluose-6-phosphate</text>
+      </annotation>
+      <annotation id="gy422">
+        <infon key="type">OTHER</infon>
+        <location offset="20300" length="33"/>
+        <text>glucose-6-phosphate dehydrogenase</text>
+      </annotation>
+      <annotation id="304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="20335" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="gy414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000615229,MESH:D011078</infon>
+        <location offset="20428" length="20"/>
+        <text>13C-hydroxylated PCB</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="20510" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006586</infon>
+        <location offset="20556" length="6"/>
+        <text>hexane</text>
+      </annotation>
+      <annotation id="181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006586</infon>
+        <location offset="20650" length="6"/>
+        <text>hexane</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="20767" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20900</offset>
+      <text>4.2. Identification of CB126 Metabolites</text>
+      <annotation id="306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="20923" length="5"/>
+        <text>CB126</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20941</offset>
+      <text>Koga et al. reported that rats that had orally been administered CB126 excreted 4-OH-3,3',4',5,5'-pentaCB as a major metabolite in their feces [18]. However, the CYP isoforms involved in this reaction were not identified. The authors showed that rat CYP1A1 produced two hydroxylated metabolites, identified as 4-OH-3,3',4',5-tetraCB and 4-OH-3,3',4',5,5'-pentaCB on the basis of the retention times of the authentic standards, their isotope ratios, and their fragment ion patterns [20]. Much more of the newly identified metabolite 4-OH-3,3',4',5-tetraCB than of 4-OH-3,3',4',5,5'-pentaCB was produced in vitro. These results suggest that CB126 is detoxified by rat CYP1A1 because PCB congeners that are less chlorinated and hydroxylated generally have less hydrophobicity (i.e., increased body clearance) and decreased binding affinity for the Ah receptor that is responsible for dioxin toxicity [18]. In contrast, human CYP1A1 did not produce detectable metabolites, and rat CYP1A1 in the reaction mixture without NADPH did not yield either peak for the hydroxylated metabolites. These results strongly suggest that CB126 is more toxic for humans than for rats due to its bioaccumulation in humans. Dioxin toxicity, including PCB toxicity, has been defined by estimations obtained largely from in vivo experiments using animals. The species-specific differences between humans and rats in terms of PCB metabolism could lead to misinterpretation of toxicity evaluations.</text>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="21006" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067423</infon>
+        <location offset="21021" length="25"/>
+        <text>4-OH-3,3',4',5,5'-pentaCB</text>
+      </annotation>
+      <annotation id="2XXx261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C111117</infon>
+        <location offset="21251" length="22"/>
+        <text>4-OH-3,3',4',5-tetraCB</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067423</infon>
+        <location offset="21278" length="25"/>
+        <text>4-OH-3,3',4',5,5'-pentaCB</text>
+      </annotation>
+      <annotation id="372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C111117</infon>
+        <location offset="21473" length="22"/>
+        <text>4-OH-3,3',4',5-tetraCB</text>
+      </annotation>
+      <annotation id="2XXx251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067423</infon>
+        <location offset="21504" length="25"/>
+        <text>4-OH-3,3',4',5,5'-pentaCB</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="21580" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="gy427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="21622" length="3"/>
+        <text>PCB</text>
+      </annotation>
+      <annotation id="189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="21822" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+      <annotation id="190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="21957" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="22059" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004147</infon>
+        <location offset="22142" length="6"/>
+        <text>Dioxin</text>
+      </annotation>
+      <annotation id="192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="22169" length="3"/>
+        <text>PCB</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="22341" length="3"/>
+        <text>PCB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22413</offset>
+      <text>4.3. Molecular Modeling of Human and Rat CYP1A1s</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22462</offset>
+      <text>Human CYP1A1 shares 79% amino acid sequence homology with rat CYP1A1. Four amino acid residues—Ser116, Ser122, Asn221, and Leu312 for humans and the corresponding amino acids Ala120, Thr126, Ser225, and Phe316 for rats—are not conserved among the amino acid residues that comprise the substrate-binding cavity (Table 1). These residues contribute to the differences in the metabolism of CB126. To clarify the influence of these amino acid differences on metabolic activities, 3D structures of human and rat CYP1A1s were constructed. The 3D structure of human CYP1A1 was based on human CYP1A2 [39], and that of rat CYP1A1 was based on the constructed human CYP1A1 [40]. In the rat CYP1A1 model, there was a steric crush error between Tyr263 on the G-Helix and Phe316 on the I-Helix, whereas no errors occurred in the human CYP1A1 model (Figure 5). Therefore, it was thought that the side chain of Phe316 in rat CYP1A1 flips into the substrate-binding cavity given that Ala120 is sufficiently small enough to allow the flip. This creates a smaller cavity volume (510 Å) compared with that of human CYP1A1 (600 Å). Leu312 in human CYP1A1 does not conflict with Tyr259, corresponding to Tyr263 in rat CYP1A1, because the side chain of Leu is smaller than that of Phe. Leu is mostly conserved in animals, including dog, guinea pig, monkey, mouse, and rabbit, although the rat has Phe (Table 1). Furthermore, Ala120 in rat CYP1A1 is unique among these animals. The combination of Ala120 and Phe316 confers unique metabolic activities to rat CYP1A1 by decreasing the cavity volume.</text>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="22486" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="22537" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="22557" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="22565" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="22573" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="22585" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="22625" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="2XXx287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="22637" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="2XXx269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="22645" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="22653" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="22665" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="22709" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="2XXx285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="22849" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="22890" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="23195" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="23221" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="23358" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="23430" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="23574" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="23620" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="23645" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="23693" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="23721" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="23726" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="23837" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="23865" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="23936" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="23947" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>24043</offset>
+      <text>Structures of the amino acid residues in the substrate-binding pocket in mammalian CYP1A1s.</text>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="24061" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>24325</offset>
+      <text>Mammalian amino acids corresponding to Ala120, Tyr263, and Phe316 of rat CYP1A1 are represented.</text>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="24335" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="2XXx295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="24364" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="24372" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="24384" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>24422</offset>
+      <text>Docking models of CB126 into rat and human CYP1A1s. Orientation numbers of CB126 in a substrate-binding cavity (A) and conformation numbers of CB126 within 5 Å of the heme (B). Left and right panels show rat and human CYP1A1s, respectively. Yellow and green shades indicate substrate-binding cavities of rat and human CYP1A1s, respectively.</text>
+      <annotation id="2XXx296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="24440" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="24497" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="24565" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="24589" length="4"/>
+        <text>heme</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24764</offset>
+      <text>4.4. Construction of Docking Models with CB126 and CYP1A1s</text>
+      <annotation id="314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="24805" length="5"/>
+        <text>CB126</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24823</offset>
+      <text>Docking models revealed that CB126 was more stable in the cavity of rat CYP1A1 than in that of human CYP1A1 [20] (Figure 5A). This stability was due to less orientation of CB126 in the cavity of rat CYP1A1 relative to that in human CYP1A1. In contrast, CB126 was more accessible to the heme of rat CYP1A1 than to that of human CYP1A1 (Figure 5B); three conformations were predicted to be close to the heme (less than 5 Å) of rat CYP1A1, whereas no conformation was in human CYP1A1. Less than 5 Å between the four-position of the carbon in CB126 and the iron of the heme in CYPs is necessary for the reaction to occur. These results reveal that the orientation of PCBs in the cavity of CYPs and the ability to be close to the iron of the heme of CYP1A1 stem from the differences in the CYP amino acids in different species and their subsequent effects on PCB metabolism.</text>
+      <annotation id="2XXx307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="24852" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="24995" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="25076" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="2XXx311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="25109" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="2XXx312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="25224" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="25352" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023035</infon>
+        <location offset="25362" length="5"/>
+        <text>CB126</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007501</infon>
+        <location offset="25376" length="4"/>
+        <text>iron</text>
+      </annotation>
+      <annotation id="2XXx313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="25388" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="25486" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007501</infon>
+        <location offset="25548" length="4"/>
+        <text>iron</text>
+      </annotation>
+      <annotation id="2XXx314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="25560" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="25612" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="25677" length="3"/>
+        <text>PCB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>25695</offset>
+      <text>5. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25710</offset>
+      <text>Here, the authors described the metabolism of PCDDs and PCBs via CYP-dependent hydroxylation. Molecular modeling of CYPs and the construction of docking models with these compounds explained the reaction mechanisms based on differences in amino acid sequence. Appropriate mutations at these amino acids made it possible to create novel CYPs with higher metabolic activity. This approach can be applied to the efficient remediation of PCDDs and PCBs. It is important to understand the metabolism of these compounds with respect to their toxicity for humans, but it is unacceptable to administer these compounds to humans. Therefore, toxicity data from experimental animals are extrapolated to estimate toxicity toward humans. However, there are metabolic differences between experimental animals and humans, which complicate such toxicity determinations. Our approach to in vitro CYP-dependent metabolism of PCDDs and PCBs is a promising method to more accurately evaluate toxicity for humans.</text>
+      <annotation id="233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="25756" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="2XXx316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="25766" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="25949" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="26001" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="2XXx319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="26144" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="26154" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+      <annotation id="241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="26617" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011078</infon>
+        <location offset="26627" length="4"/>
+        <text>PCBs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>26703</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26724</offset>
+      <text>H.I. and T.S. prepared the manuscript; K.Y., T.I., and S.-I.I. made critical contributions to the research described and provided comments during manuscript preparation and revision.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>26907</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26929</offset>
+      <text>The authors declare no conflict of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>26974</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

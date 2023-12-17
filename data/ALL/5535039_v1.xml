@@ -1,0 +1,4244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5535039</id>
+    <passage>
+      <infon key="name_3">surname:Kovach;given-names:Amanda</infon>
+      <infon key="name_2">surname:Novick;given-names:Scott J.</infon>
+      <infon key="name_1">surname:Yan;given-names:Yan</infon>
+      <infon key="name_0">surname:Gu;given-names:Xin</infon>
+      <infon key="article-id_pmid">28615457</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">M117.793018</infon>
+      <infon key="article-id_pmc">5535039</infon>
+      <infon key="article-id_doi">10.1074/jbc.M117.793018</infon>
+      <infon key="type">front</infon>
+      <infon key="lpage">12666</infon>
+      <infon key="fpage">12653</infon>
+      <infon key="issue">30</infon>
+      <infon key="alt-title">Deconvoluting AMPK adenine nucleotide binding and sensing</infon>
+      <infon key="volume">292</infon>
+      <infon key="license">Author's Choice—Final version free via Creative Commons CC-BY license.</infon>
+      <infon key="name_10">surname:Webb;given-names:Martin R.</infon>
+      <infon key="name_13">surname:Melcher;given-names:Karsten</infon>
+      <infon key="name_11">surname:Griffin;given-names:Patrick R.</infon>
+      <infon key="name_12">surname:Xu;given-names:H. Eric</infon>
+      <infon key="kwd">AMP AMP-activated kinase (AMPK) ATP energy metabolism protein kinase CBS HDX-MS NADPH</infon>
+      <infon key="name_9">surname:de Waal;given-names:Parker W.</infon>
+      <infon key="name_8">surname:Li;given-names:Xiaodan</infon>
+      <infon key="name_7">surname:Wang;given-names:Lili</infon>
+      <infon key="name_6">surname:Tan;given-names:M. H. Eileen</infon>
+      <infon key="name_5">surname:Ke;given-names:Jiyuan</infon>
+      <infon key="name_4">surname:Goswami;given-names:Devrishi</infon>
+      <offset>0</offset>
+      <text>Deconvoluting AMP-activated protein kinase (AMPK) adenine nucleotide binding and sensing</text>
+      <annotation id="2XXx1">
+        <infon key="type">OTHER</infon>
+        <location offset="14" length="28"/>
+        <text>AMP-activated protein kinase</text>
+      </annotation>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="50" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>89</offset>
+      <text>AMP-activated protein kinase (AMPK) is a central cellular energy sensor that adapts metabolism and growth to the energy state of the cell. AMPK senses the ratio of adenine nucleotides (adenylate energy charge) by competitive binding of AMP, ADP, and ATP to three sites (CBS1, CBS3, and CBS4) in its γ-subunit. Because these three binding sites are functionally interconnected, it remains unclear how nucleotides bind to individual sites, which nucleotides occupy each site under physiological conditions, and how binding to one site affects binding to the other sites. Here, we comprehensively analyze nucleotide binding to wild-type and mutant AMPK protein complexes by quantitative competition assays and by hydrogen-deuterium exchange MS. We also demonstrate that NADPH, in addition to the known AMPK ligand NADH, directly and competitively binds AMPK at the AMP-sensing CBS3 site. Our findings reveal how AMP binding to one site affects the conformation and adenine nucleotide binding at the other two sites and establish CBS3, and not CBS1, as the high affinity exchangeable AMP/ADP/ATP-binding site. We further show that AMP binding at CBS4 increases AMP binding at CBS3 by 2 orders of magnitude and reverses the AMP/ATP preference of CBS3. Together, these results illustrate how the three CBS sites collaborate to enable highly sensitive detection of cellular energy states to maintain the tight ATP homeostastis required for cellular metabolism.</text>
+      <annotation id="2XXx20">
+        <infon key="type">OTHER</infon>
+        <location offset="89" length="28"/>
+        <text>AMP-activated protein kinase</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="253" length="19"/>
+        <text>adenine nucleotides</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="325" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="330" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="339" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="489" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="533" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="2XXx7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="691" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="799" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="808" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="856" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="900" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="951" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="998" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="1051" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="2XXx13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="1169" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="590">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="1173" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="1177" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="1216" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="1246" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="1308" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="1312" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="1492" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1547</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1560</offset>
+      <text>ATP homeostasis is critically important for cellular functions and is maintained at a tight concentration range by the regulatory protein kinase AMP-activated protein kinase (AMPK), 2 a therapeutic target for metabolic diseases and cancer (). Because of this tight range, AMPK senses the energy state of the cell largely as ratio of AMP to ATP, which changes much more dramatically than ATP levels under energy stress, whereas ADP levels change relatively more modestly. High levels of AMP activate AMPK by three different mechanisms: direct allosteric activation of its kinase activity (, ), increasing activation loop phosphorylation by upstream kinase (, ), and protection of the phosphorylated activation loop against dephosphorylation (, ). High levels of ADP also protect against activation loop dephosphorylation (although 5–10 times less potently than AMP for the γ1 and γ3 isoforms) and do not stimulate direct kinase activation as AMP (, ).</text>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="1560" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx34">
+        <infon key="type">OTHER</infon>
+        <location offset="1705" length="28"/>
+        <text>AMP-activated protein kinase</text>
+      </annotation>
+      <annotation id="2XXx26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="1893" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="1900" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="1947" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="1987" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="2046" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="2321" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="2420" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="2501" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2519</offset>
+      <text>AMPK consists of three subunits, a kinase domain-containing α-subunit, a carbohydrate-binding module (CBM)-containing β-subunit, and an adenine nucleotide-binding γ-subunit. The γ-subunit contains four cystathionine β-synthetase (CBS) motifs, which function in pairs known as Bateman domains as universal adenine nucleotide-binding sites (). CBS1 and CBS2 form Bateman domain 1, whereas CBS3 and CBS4 form Bateman domain 2 (note that CBS1, -2, -3, and -4 were previously () known as sites 2, 4, 1, and 3). Crystal structures and binding assays have established that CBS2, in which the conserved, ribose-binding aspartate is mutated to arginine, fails to bind adenine nucleotides (, ). On the other hand, AMP is tightly bound to CBS4 (, ) as wild-type AMPK and cbs1 and cbs3 mutant AMPK co-purify with an equimolar amount of AMP, whereas a cbs4 mutant only purifies with trace amounts of nucleotides (). Therefore CBS4 likely does not exchange AMP against ATP in the presence of physiological AMP levels (). However, under artificial conditions, i.e. the complete absence of AMP, prebound AMP at CBS4 can very slowly exchange against ATP in solution (∼40% exchange after removal of free nucleotides, followed by 6 h incubation with 5 mm ATP) (). The remaining two CBS sites (CBS1 and CBS3) are thought to be exchangeable as biochemical binding and competition experiments confirmed the existence of two readily exchangeable adenine nucleotide (AXP)-binding sites in purified recombinant AMPK (, , , ). Mutations in key AXP-binding residues in the γ2- and γ3-AMPK isoforms increase basal AMPK activity and are causally associated with glycogen storage diseases and Wolf-Parkinson-White cardiomyopathy ().</text>
+      <annotation id="658">
+        <infon key="type">OTHER</infon>
+        <location offset="2592" length="27"/>
+        <text>carbohydrate-binding module</text>
+      </annotation>
+      <annotation id="660">
+        <infon key="type">OTHER</infon>
+        <location offset="2655" length="36"/>
+        <text>adenine nucleotide-binding γ-subunit</text>
+      </annotation>
+      <annotation id="2XXx54">
+        <infon key="type">OTHER</infon>
+        <location offset="2721" length="26"/>
+        <text>cystathionine β-synthetase</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="2824" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012266</infon>
+        <location offset="3115" length="6"/>
+        <text>ribose</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="3130" length="9"/>
+        <text>aspartate</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="3154" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="3178" length="19"/>
+        <text>adenine nucleotides</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="3223" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="3343" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="3406" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="2XXx44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="3462" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3474" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="3511" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="3593" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="3607" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3652" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="3705" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3755" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="3942" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="2XXx56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="3962" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="4037" length="3"/>
+        <text>AXP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4248</offset>
+      <text>AMP-occupied CBS3 is directly bound by a loop (αRIM) adjacent to the autoinhibitory domain of the α-subunit (, ), suggesting that the αRIM senses AMP at CBS3. Consistently, mutating key αRIM residues compromises AMPK activation (). Moreover, AMP increases and ATP decreases the interaction between the isolated αRIM loop and core-AMPK (γ-subunit plus scaffolding C termini of the α- and β-subunit), and AMP stimulation of the interaction requires the intact αRIM (). In addition to mutations in CBS3, also mutations in CBS4, which does not interact with the αRIM or other parts of the α- or β-subunits, abolish allosteric kinase activation by AMP (), yet the molecular basis for the CBS4 requirement has remained elusive. When ATP was soaked into crystals of AMP-bound core-AMPK, ATP occupied CBS1 and CBS3, whereas CBS4 remained AMP bound (, ). In contrast, when AMP-depleted core-AMPK was co-crystallized with ATP, ATP bound to CBS1 and CBS4, CBS3 was unoccupied, and the γ-subunit underwent a noticeable conformational change ().</text>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="4248" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="4394" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="4490" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="4508" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="4651" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="4891" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="4975" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="5007" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="5028" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="5078" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="5112" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="5160" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="5165" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5331</offset>
+      <text>One of the two exchangeable AXP-binding sites binds both AMP and Mg2+-free ATP with micromolar affinity (“high affinity site”), whereas the other site binds AXP much more weakly (hundreds of micromolar (, , )), and likely with positive cooperativity (). Recent surface plasmon resonance (Biacore) data have revealed that ATP binds AMPK in the presence of Mg2+, which shields charge interactions of ATP phosphates with CBS residues, with single site kinetics and a binding constant in the 100 μm range (). This low affinity of Mg2+-ATP would be consistent with preferential AMP-binding at the high affinity binding site to allow AMP exchange at nucleotide concentrations that reflect cellular conditions of energy excess and energy stress (). Currently, it is poorly understood which affinity state maps to which CBS site, how nucleotide binding at one site affects binding at the other site(s), and what adenine nucleotide binds to each of the three functional CBS sites at physiological concentrations of ATP, ADP, and AMP. Focusing on AMP and ATP, we combined fluorescence binding and competition experiments of wild-type and mutant AMPK with hydrogen deuterium exchange mass spectrometry (HDX-MS). These experiments allowed us to (i) identify CBS3 as a high affinity exchangeable AXP-binding site as well as binding site for NADPH, (ii) map the CBS conformational connectivity and demonstrate that preferential AMP-binding at CBS3 requires AMP-bound CBS4, and (iii) suggest that under physiological conditions only CBS3 significantly exchanges between AMP and ATP.</text>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="5359" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="5388" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="5396" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="5406" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="5488" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="5652" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="5686" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255,MESH:D010755</infon>
+        <location offset="5729" length="14"/>
+        <text>ATP phosphates</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000255</infon>
+        <location offset="5857" length="8"/>
+        <text>Mg2+-ATP</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="5904" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="5959" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="5975" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="6157" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="6235" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="6337" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="593">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="6342" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="6351" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="6368" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="6376" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="6476" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2XXx93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="6485" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="6614" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="6659" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="6745" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="6774" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="6886" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="6894" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6904</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6912</offset>
+      <text>Isolated CBS motifs bind AXP weakly and with altered AMP/ATP specificity</text>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="6937" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="6965" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="6969" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6985</offset>
+      <text>The phosphate groups of the three AMP molecules in AMP-bound AMPK face toward each other and are coordinately bound by a set of charged amino acids, whereas the adenine rings face away from each other and are bound by CBS-specific residues (Fig. 1). Specifically, His151 binds the phosphate groups of both AMP at CBS1 and CBS4, whereas His298 forms hydrogen bonds with the phosphates at both CBS3 and CBS4, suggesting that binding to one CBS motif could affect binding to the other sites. To characterize nucleotide binding at individual CBS motifs in the context of holo-AMPK, but absence of other nucleotide-binding sites, we generated a set of three AMPK variants in which we mutated the ATP-binding lysine in the kinase domain (α1-K47N) plus adenine-binding residues previously shown to be required for nucleotide binding () at two of three CBS sites, thus only one functional CBS remains (Fig. 1). All mutant proteins were stable and could be purified as stoichiometric complexes from size exclusion chromatography columns (Fig. 2). Similar to a previous approach (), we determined relative nucleotide affinities by incubating wild-type and mutant proteins with a fluorescently labeled adenine nucleotide analog and competed the interaction with unlabeled AMP or ATP. Incubation of 500 nm 3′-(7-diethylaminocoumarin-3-carbonylamin)-3′-deoxyadenosine-5′-diphosphate (deac-ADP; see “Experimental procedures”) () with 4 μm of the recombinant human α1β2γ1-isoform of AMPK resulted in a strong increase in deac-ADP fluorescence and a shift of the emission maximum to a shorter wavelength (Fig. 3A), indicating that deac-ADP binds wild-type and the three mutant AMPK proteins.</text>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="6989" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="7019" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="7036" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="7121" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="7146" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="7266" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="7291" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="7321" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="7334" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="7358" length="10"/>
+        <text>phosphates</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="7490" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="7584" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="7676" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="7688" length="6"/>
+        <text>lysine</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="7731" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="2XXx114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="7792" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="8081" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="8176" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="2XXx117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="8246" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="8253" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="8279" length="75"/>
+        <text>3′-(7-diethylaminocoumarin-3-carbonylamin)-3′-deoxyadenosine-5′-diphosphate</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="8356" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="8491" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="8600" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>8677</offset>
+      <text>Binding of AMP to the γ1 subunit. Stick presentation of the three AMP molecules (green carbon atoms) and key AMP-binding residues of AMPK (cyan carbon atoms). Oxygen is colored in red, nitrogen in blue, and phosphorus in orange. The phosphate groups of the 3 AMP molecules are coordinately bound by a set of charged amino acids, whereas the ribose and adenine rings face away from each other and are bound by CBS-specific residues. Mutations of the indicated adenine-binding residues therefore selectively block AMP binding to individual CBS sites. Note that the adenine-binding mutations at CBS3 and CBS4 are each sufficient, even at the high concentration of adenine nucleotides in cells, to completely abolish AMPK activation by AMP without affecting AMPK catalytic activity in the absence of AMP ().</text>
+      <annotation id="111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="8688" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="8743" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="8764" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="8786" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="8821" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="8836" length="6"/>
+        <text>Oxygen</text>
+      </annotation>
+      <annotation id="117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="8862" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010758</infon>
+        <location offset="8884" length="10"/>
+        <text>phosphorus</text>
+      </annotation>
+      <annotation id="2XXx131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="8910" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="8936" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="8993" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012266</infon>
+        <location offset="9018" length="6"/>
+        <text>ribose</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="9029" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="9136" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="2XXx137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="9189" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="9240" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="9338" length="19"/>
+        <text>adenine nucleotides</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="9409" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="9473" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>9485</offset>
+      <text>Size exclusion chromatograms and SDS-PAGE of AMPK mutant proteins. A, C, and E–G, 120-ml column; B and D, 300-ml column; *, monomeric α1β2γ1 fractions; A, aggregate/oligomers.</text>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="9518" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>9672</offset>
+      <text>Fluorescence spectra of wild-type and mutant AMPK/deac-ADP and competition by AMP and ATP. A, emission spectra of 0.5 μm deac-ADP in the absence and presence of wild-type and mutant AMPK proteins in which only one of the CBS sites remained functional (CBS1 only: α1-K47N, γ1-V276G/L277G/I312D; CBS3 only: α1-K47N, γ1-L129D/V130D/I312D; CBS4 only: α1-K47N, γ1-L129D/V130D/V276G/L277G). Excitation: 430 nm. B and C, emission spectra of 0.5 μm deac-ADP in the absence and presence of 4 μm α1β2γ1 AMPK (α1-K47N, γ1-L129D/V130D/V276G/L277G/I312D) (B) or α1β2γ1 AMPK (α1-K47N, γ1-L129D/V130D/V276G/L277G/I312D/S314A) (C) and 5 mm AMP or ATP.</text>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="9722" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="9750" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="9758" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="9793" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="10113" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="10296" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="10303" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10373</offset>
+      <text>As controls, we first incubated deac-ADP with AMPK in which the adenine-binding residues at all three CBS sites were mutated (plus K47N in the kinase domain), which resulted in a small increase in fluorescence (Fig. 3B). This indicated that deac-ADP, in which the ADP-ribose is modified by a bulky coumarin derivative, has residual AMPK-binding activity. This binding signal could not be competed with a 10,000-fold molar excess of AMP, consistent with the reported inability of AMP to bind to this triple cbs mutant (cbs1, L129D/V130D; cbs2, V276G/L277G; cbs3, I312D) (). Neither could ATP compete with the increase in fluorescence, but surprisingly caused a minor increase in fluorescence that was diminished by introduction of an additional cbs4 mutation, S314A (Fig. 3C). Second, in excellent agreement with previous studies (, , ), Mg2+-AMP bound wild-type AMPK, and competed the binding of deac-ADP to wild-type AMPK, with biphasic kinetics, consistent with two exchangeable binding sites, with Kd values of 2.1 μm (high affinity site) and ∼290 μm (low affinity site) (Fig. 4, A–C), whereas Mg2+-ATP competed with monophasic kinetics, consistent with similar affinities for both exchangeable sites (Fig. 4B).</text>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="10405" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="10437" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="10614" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000246</infon>
+        <location offset="10637" length="10"/>
+        <text>ADP-ribose</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="10671" length="8"/>
+        <text>coumarin</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="10805" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="10852" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="10960" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000249</infon>
+        <location offset="11210" length="8"/>
+        <text>Mg2+-AMP</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="11269" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000255</infon>
+        <location offset="11470" length="8"/>
+        <text>Mg2+-ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11594</offset>
+      <text>Nucleotide binding to wild-type AMPK. A and B, competition of 0.5 μm deac-ADP bound to α1β2γ1 AMPK by unlabeled Mg2+-AMP (A) and Mg2+-ATP (B). The dashed line indicates the fluorescence signal of unbound deac-ADP. Because fluorescence competition failed to unambiguously determine the IC50 value for the high affinity AMP-binding site, we independently determined its affinity by ITC (C).</text>
+      <annotation id="2XXx162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="11594" length="10"/>
+        <text>Nucleotide</text>
+      </annotation>
+      <annotation id="152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="11663" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000249</infon>
+        <location offset="11706" length="8"/>
+        <text>Mg2+-AMP</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000255</infon>
+        <location offset="11723" length="8"/>
+        <text>Mg2+-ATP</text>
+      </annotation>
+      <annotation id="2XXx165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="11798" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="11912" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11995</offset>
+      <text>We then tested the ability of AMP and ATP to compete deac-ADP from the AMPK mutant proteins. In contrast to wild-type AMPK, the “non-exchangeable” AMP-binding site CBS4 became exchangeable in the cbs1/cbs3 mutant, as it was efficiently bound by deac-ADP, and binding could be competed with IC50 values of 3.8 μm (AMP) and 14.8 μm (ATP) in the absence of Mg2+, and 1.9 μm for AMP in the presence of Mg2+ (Fig. 5A; note that Mg2+-ATP inefficiently competed deac-ADP from the CBS4 only mutant, resulting in an unreliable IC50 value for this measurement). Both AMPK cbs3/cbs4 (CBS1 only) and AMPK cbs1/cbs4 (CBS3 only) bound ATP with low to moderate affinity and AMP with very low affinity. Especially CBS3 in the absence of CBS4 and CBS1 bound AMP with an IC50 value that is well below physiological AMP concentrations and with a more than 8-fold preference of ATP over AMP in the presence of Mg2+ (and more than 90-fold in its absence). Given that the physiological concentration of ATP is close to 2 orders of magnitude higher than that of AMP, CBS3 would be constitutively bound by ATP in the absence of functional CBS4 and CBS1.</text>
+      <annotation id="2XXx168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12025" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="12033" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="12048" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12142" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="12240" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12308" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="12326" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="12349" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12370" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="12393" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000255</infon>
+        <location offset="12418" length="8"/>
+        <text>Mg2+-ATP</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="12450" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="12616" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12654" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12736" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12792" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="12853" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="12862" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="12885" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="12976" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="13034" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="13077" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>13132</offset>
+      <text>Nucleotide binding to individual CBSs and pairs of CBSs. Competition of 0.5 μm deac-ADP bound to 4 μm α1β2γ1 AMPK by unlabeled AMP and ATP. A, AMPK mutants with only a single functional adenine nucleotide-binding site (see Fig. 1). Note that in these experiments singly and doubly mutated CBS4 (I312D and I312D/S314A) behaved identically. The ability of Mg2+-AMP to compete deac-ADP from 4 μm AMPK with an IC50 of 1.9 μm indicates that AMP still binds CBS4 with submicromolar affinity, but no longer non-exchangeably. B, AMPK mutants with two functional adenine nucleotide-binding sites. Samples were incubated for 30 min, excited at 430 nm, and emission recorded at 470 nm. The dashed line indicates the fluorescence signal of unbound (i.e. completely competed) deac-ADP.</text>
+      <annotation id="180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="13132" length="10"/>
+        <text>Nucleotide</text>
+      </annotation>
+      <annotation id="2XXx191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="13211" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="13259" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="13267" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="13318" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,MESH:D000249</infon>
+        <location offset="13486" length="8"/>
+        <text>Mg2+-AMP</text>
+      </annotation>
+      <annotation id="2XXx196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="13506" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="13568" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="13686" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="2XXx199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="13895" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13920</offset>
+      <text>Next we determined binding of AMP and ATP to AMPK in which only the ATP-binding site in the kinase domain and a single CBS site were mutated, leaving intact two binding sites in all three combinations. Importantly, Chen et al. () had shown that in these mutants CBS4 remains tightly AMP-bound during protein purification. In agreement with this report, when we left CBS3 and CBS4 intact (α1-K47N, γ1-L129D/V130D), AMP and ATP competed a single site (i.e. data cannot be modeled to two sites), confirming that the presence of wild-type CBS3 is sufficient to allow CBS4 to bind AMP tightly enough to not noticeably exchange during competition. In the presence of wild-type CBS4, CBS3 bound AMP with relatively high affinity (16.9 μm) and ATP with much lower affinity (153 μm) (Fig. 5B), resembling the high affinity exchangeable binding site in the context of wild-type AMPK. In contrast, when we mutated the catalytic site plus CBS3 (CBS1 + CBS4 intact), the competition again fit only a single site model, yet the affinity for AMP remained weak (IC50 = 160 μm) and below that of ATP (IC50 = 78 μm) (Fig. 5B), resembling more closely the low affinity exchangeable AXP-binding site. Finally, when only CBS1 and CBS3 remained functional, we could fit the competition data only as a single site with low affinity for ATP and very low affinity for AMP (Fig. 5B), similar to what we have found for the exchangeable low affinity binding site in wild-type AMPK. Collectively, these data indicate that (i) either a functional CBS1 or a functional CBS3 is sufficient to allow CBS4 to bind AMP non-reversibly during competition, that (ii) in the presence of functional CBS4, CBS3 resembles more the high affinity and CBS1 the low affinity exchangeable site, and (iii) that in the presence of only CBS1 and CBS3 neither formed a high affinity binding site, but both most likely formed low affinity binding sites that could not be computationally deconvoluted.</text>
+      <annotation id="191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="13950" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="13958" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="13988" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="14203" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="14334" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14342" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="14496" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="14608" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14656" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="14947" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14999" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="15083" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="15233" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="15263" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="15499" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15880</offset>
+      <text>AXP binding to a single CBS motif modulates the conformation of all three CBS sites as well as the CBM</text>
+      <annotation id="2XXx215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="15880" length="3"/>
+        <text>AXP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15983</offset>
+      <text>To directly test conformational stabilization, we analyzed wild-type and mutant AMPK by HDX-MS. HDX-MS measures the backbone amide exchange of hydrogen against deuterium in deuterated buffers. Ligand binding typically protects binding sites against deuterium exchange and can also induce conformational changes that alter protection patterns. Incubation of wild-type AMPK with 2.5 mm AMP dramatically reduced hydrogen/deuterium exchange at CBS3 and CBS4, strongly at CBS1, and moderately at the catalytic center of the kinase domain (catalytic loop, activation loop, and parts of helices αB, αD, and αF; Fig. 6A and supplemental Tables S1–S3). Because AMP at CBS4 exchanges very slowly, the strong decrease in HDX at CBS4 is likely predominantly or completely due to its conformational stabilization upon AMP binding to CBS1 and CBS3.</text>
+      <annotation id="205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="16108" length="5"/>
+        <text>amide</text>
+      </annotation>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16126" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="16143" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="16232" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="16367" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16392" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="16401" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="2XXx223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="16635" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="16788" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16830</offset>
+      <text>HDX-MS changes of wild-type and mutant AMPK upon incubation with AMP or ATP. Changes were overlaid as heat map onto the structure of α1β2γ1 AMPK (4RER). The heat map legend (% change) is shown at the bottom. A, AMPK wild-type in the presence versus absence of AMP (left) or ATP (right). B, AMPK wild-type in the presence versus absence of 991. C, D, and E, AMPK triple mutants in which only CBS4 (C), CBS3 (B), or CBS1 (E) are functional (see Fig. 1).</text>
+      <annotation id="2XXx225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="16895" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="16902" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="17090" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="17104" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17293</offset>
+      <text>Unexpectedly, the CBM of the β-subunit was also strongly protected (Fig. 6A, left panel, and supplemental Table S3), indicating that the adenine nucleotide-binding sites in the γ-subunit and the CBM are conformationally connected, even though these domains are located on opposite sides of the AMPK heterotrimer and do not contact each other. Conversely, when we incubated AMPK with the Merck compound 991, which binds a pocket formed by the CBM and kinase domain (allosteric drug and metabolite-binding site) (), the 991-binding site and the regulatory αC-helix became strongly stabilized, whereas the distal CBS3 in the γ-subunit became mildly destabilized (Fig. 6B). AMP-dependent protection against dephosphorylation of p-Thr174 in the activation loop likely involves occluding p-Thr174 by the CBM linker (). The observed CBM stabilization by AMP binding may therefore play a direct role in this critical AMP response. When we incubated AMPK with ATP, the overall protection was similar to that with AMP. However, protection of CBS3, CBS4, and the CBM was weaker, whereas protection of CBS1 and the ATP-binding catalytic site in the kinase domain increased (Fig. 6A, right panel, and supplemental Tables S1–S3).</text>
+      <annotation id="2XXx229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="17430" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="2XXx238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000620824</infon>
+        <location offset="17680" length="18"/>
+        <text>Merck compound 991</text>
+      </annotation>
+      <annotation id="2XXx239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000620824</infon>
+        <location offset="17811" length="3"/>
+        <text>991</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="17963" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="18019" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="18077" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="2XXx233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="18140" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="18202" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="18244" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="18297" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="18396" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18524</offset>
+      <text>When we incubated the AMPK mutant protein in which CBS4 is the only functional AXP-binding site (K47N/cbs1/cbs3) with AMP, CBS4 became strongly protected, confirming that CBS4 is indeed exchangeable in the absence of CBS1 and CBS3. In addition, CBS3 became protected, indicating that AMP-binding at CBS4 strongly conformationally stabilizes CBS3 (Fig. 6C), in excellent agreement with the fluorescence competition data. In contrast to CBS3, AMP-binding at CBS4 modulated accessibility at CBS1 more mildly (Fig. 6C; note that deuterium exchange both increases and weakly decreases in different CBS1 peptides), consistent with the relatively small effect of CBS4 on CBS1 AMP-binding. A similar, but milder protection of CBS3 and CBS4 occurred for the CBS3-only (K47N/cbs1/cbs4) AMPK mutant in the presence of AMP (Fig. 6D), whereas AMP-binding to the CBS1-only (K47N/cbs3/cbs4) AMPK mutant stabilized all three binding sites (Fig. 6E).</text>
+      <annotation id="2XXx247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="18603" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="18642" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="18808" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="18965" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="19049" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="2XXx244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19193" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19331" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19354" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19458</offset>
+      <text>CBS occupancy in mixtures of adenine nucleotides</text>
+      <annotation id="2XXx248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="19487" length="19"/>
+        <text>adenine nucleotides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19507</offset>
+      <text>All current binding and structural studies have been performed either in the presence of high concentrations of AMP or high concentrations of ATP, whereas in cells AMPK is exposed to mixtures of AMP, ADP, and ATP. An important, but unresolved, question is therefore which CBS motifs are occupied by AMP, ADP, or ATP under physiological conditions, with AMP always present, but at levels that are 10–100-fold lower than ATP levels. To probe for occupancy under physiological conditions, we incubated AMPK with two different AXP mixtures: 4.5 mm ATP, 0.4 mm ADP, 0.04 mm AMP and 3.8 mm ATP, 1.0 mm ADP, 0.3 mm AMP, which have been reported to mimic normal cellular (non-stressed) and energy stress conditions in cells, respectively (). Consistently, the AXP ratio mimicking energy stress allosterically activated recombinantely purified AMPK 2-fold relative to the mixture mimicking energy excess (Fig. 7A), the same fold direct activation as for the standard switch from AMPK, 100 μm ATP to AMPK, 100 μm ATP + 200 μm AMP. In striking contrast to the different HDX profiles of AMPK, 2.5 mm AMP versus AMPK, 2.5 mm ATP (Fig. 6, A and B, and supplemental Tables S1–S3), the profiles in the presence of the stress and non-stress AXP mixtures were quite similar to each other and showed significant differences only in two small areas (Fig. 7B), clearly indicating that these conditions induce much more limited nucleotide exchange. Whereas HDX-MS has the potential to distinguish AMP versus ATP occupancy due to the unique β- and γ-phosphate groups of ATP, none of the resolved β- and γ-phosphate contacting peptides makes exclusive interactions with these groups (see Fig. 8 and supplemental Table S1) and decreases in HDX can be due to both direct nucleotide binding and to conformational stabilizations. Because our fluorescence competition data are most consistent with CBS1 (binds the more abundant ATP with equal or higher affinity than AMP) being bound by ATP under both normal and energy stress conditions, and CBS4 being essentially non-exchangeably bound to AMP, only CBS3 may undergo noticeable ATP/AMP exchange at physiological levels.</text>
+      <annotation id="2XXx249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19619" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="19649" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19702" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="612">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="19707" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="19716" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19806" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="613">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="19811" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="19819" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="19860" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="19926" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="20030" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20051" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="614">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="20063" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="20076" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20091" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="20103" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="20115" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="20259" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20490" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20510" length="5"/>
+        <text>ATP +</text>
+      </annotation>
+      <annotation id="2XXx263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="20523" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="20595" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20619" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="20731" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="20913" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="20982" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20993" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="21034" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21054" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="21089" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="21252" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21406" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="21445" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21465" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="21570" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21608" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="21612" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21667</offset>
+      <text>Changes in HDX-MS protection in the presence of AXP mixtures mimicking non-stress and energy stress conditions. A, AMPK kinase assay in the presence of AXP mixtures mimicking nonstress (4.5 mm ATP, 0.4 mm ADP, 0.04 mm AMP) and energy stress (3.8 mm ATP, 1.0 mm ADP, 0.3 mm AMP) conditions. Left panel, AlphaScreen-based kinase assay; right panel, radioactive kinase assay. B, HDX-MS perturbation map of AMPK in the presence of the two different AXP mixtures. HDX-MS changes were overlaid as heat map onto the structure of α1β2γ1 AMPK (PDB code 4RER). Main areas of differential protection are highlighted by dashed outlines. Note that there is no change at the catalytic site, indicating that the catalytic site is constitutively bound by ATP as expected. The color code (% change) is shown below the structures. The relatively mild changes are consistent with noticeable ATP exchange only at CBS3, whereas the non-physiological shift from high concentration of pure AMP to high concentration of pure ATP resulted in strong HDX changes (Fig. 6A), consistent with near full nucleotide exchange at both CBS3, CBS1, and ATP binding/release at the catalytic site.</text>
+      <annotation id="2XXx298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="21715" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="21819" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21860" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="616">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="21872" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="21885" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21916" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="617">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="21928" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="21940" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="22112" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="22406" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="22539" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="22634" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="22668" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="22740" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="22784" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22838</offset>
+      <text>AXP/CBS interaction network in human AMPK-γ1. Shown are the three AMP-bound CBS sites in holo-AMPK co-crystallized with AMP. β- and γ-phosphate interacting residues (gray) are collectively based on the structures of core AMPK co-crystallized with ATP (PDB code 4EAG) () and core- AMPK soaked with ATP (PDB codes 2V92 and 4EAJ) (, ).</text>
+      <annotation id="2XXx305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="22838" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="22904" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="22958" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="22972" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="23085" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="23135" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23182</offset>
+      <text>NADPH binds AMPK at the high affinity exchangeable AXP-binding site</text>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23182" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="23233" length="3"/>
+        <text>AXP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23250</offset>
+      <text>We found that in addition to the known AMPK ligand NADH (), NADPH can also bind AMPK. When we incubated 5 μm NADPH with 10 μm maltose-binding protein (MBP)-tagged AMPK, NADPH fluorescence increased and shifted its emission maximum, indicative of direct binding (Fig. 9A). In contrast, incubation of NADPH with 10 μm of the MBP control did not alter the NADPH emission spectrum (Fig. 9A). To estimate the affinity for NADPH and NADH, we incubated 5 μm NADPH or 5 μm NADH with increasing concentrations of MBP-AMPK. Although the half-maximal increase of the NADPH fluorescence signal indicated a Kd of ≤20 μm, an increase of NADH fluorescence did not approach saturation at the highest AMPK concentration (100 μm), indicating that NADH binds AMPK only with low affinity (≫20 μm; Fig. 9B). Because NADPH is an adenine dinucleotide, we speculated that it would bind to one or more of the AXP-binding sites in the γ-subunit. Indeed 10 μm AMP almost completely competed 5 μm NADPH bound to 10 μm AMPK, indicating that NADPH binds to the high affinity exchangeable AMP-binding site (Fig. 9C). Conversely, ATP was also able to compete NADPH, but only at much higher concentrations (Fig. 9D). We therefore conclude that NADPH binds to the high affinity exchangeable AMP-binding site and that this site has a preference for AMP over ATP, suggesting that NADPH binds CBS3.</text>
+      <annotation id="284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="23301" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23310" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23359" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23419" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23549" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23603" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23667" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="23677" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23701" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="23715" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="23806" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="23873" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="23979" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24045" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="640">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="24057" length="20"/>
+        <text>adenine dinucleotide</text>
+      </annotation>
+      <annotation id="2XXx334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="24134" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="24183" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24219" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24262" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="24308" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="24348" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24377" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24461" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="24507" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="24564" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="24573" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24594" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>24629</offset>
+      <text>NADPH binds adenine nucleotide-binding site(s) in the γ-subunit. A, NADPH emission spectra in the absence and presence of MBP and MBP-tagged phosphorylated α1β2γ1 AMPK. The spectrum of AMPK in the absence is shown as negative control. B, estimation of NADPH and NADH binding constants. 5 μm NADPH or NADH were incubated with increasing concentrations of MBP-AMPK and MBP-AMPK concentrations were plotted against fluorescence intensity at the emission maxima. C and D, AMP and ATP compete the NADPH binding signal. Emission spectra of 5 μm NADPH, 10 μm AMPK were recorded in the absence and presence of increasing concentrations of AMP (C) and ATP (D).</text>
+      <annotation id="310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24629" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="24641" length="18"/>
+        <text>adenine nucleotide</text>
+      </annotation>
+      <annotation id="312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24697" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24881" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="24891" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="24920" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="24929" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="25097" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="25105" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25121" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25168" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="25260" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="25272" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25299</offset>
+      <text>To physically localize the NADPH-binding site, we collected HDX-MS perturbation data of AMPK in the absence versus presence of 1 mm NADPH. As shown in Fig. 10, NADPH binding selectively protected CBS3 (plus CBS4), but not CBS1, against deuterium exchange. Because CBS4 is non-exchangeable, the HDX-MS data confirm that NADPH specifically binds CBS3. Given the high affinity (low μm IC50) with which AMP competes NADPH from CBS3 and the AMP-over-ATP binding preference of CBS3, we conclude that CBS3, and not as previously proposed CBS1 (), is the high affinity exchangeable AMP-binding site.</text>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25326" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25431" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25459" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="25535" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25618" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="25698" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25711" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="25735" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="25744" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="25873" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>25892</offset>
+      <text>Binding of NADPH protects CBS3 and CBS4. HDX-MS changes wild-type AMPK upon incubation with 1 mm NADPH. Changes were overlaid as heat map onto the structure of α1β2γ1 AMPK (PDB code 4RER). The heat map legend (% change) is shown at the bottom.</text>
+      <annotation id="334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25903" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25989" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>26147</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26158</offset>
+      <text>AMPK plays critical roles in numerous aspects of physiology (, , ) and is an important target for the treatment of metabolic diseases, including diabetes and obesity (, ), as well as cancer (, , ) and heart disease (). In addition, AMPK activation mimics many of the beneficial effects of exercise and caloric restriction (). Crystal structures and biochemical binding assays have demonstrated that adenine nucleotides can competitively bind to three functional CBS motifs in the γ-subunit, of which CBS3 functions as an adenine sensor site. However, due to the technical difficulties of deconvoluting complex binding events, many aspects of AXP occupancy at individual CBS sites, and how binding to one site is communicated to the other sites, have remained unclear.</text>
+      <annotation id="337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="26557" length="19"/>
+        <text>adenine nucleotides</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="26679" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="2XXx363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="26800" length="3"/>
+        <text>AXP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26930</offset>
+      <text>To deconvolute the binding events, we generated a set of mutant AMPK complexes in which only individual sites or pairs of sites remain functional, and quantitatively determined their nucleotide-binding and deuterium-exchange patterns. These experiments provided insight into functional and conformational coupling of CBS sites, occupancy in the presence of AXP mixtures, assignment of the high affinity exchangeable AXP site, and a mechanistic model for the requirement of CBS4 for AMP sensing at CBS3.</text>
+      <annotation id="2XXx364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="27113" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="27136" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="2XXx367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="27287" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="27346" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="27412" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27433</offset>
+      <text>Functional and conformational coupling of CBS sites</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27485</offset>
+      <text>Early binding studies using GST-CBS fusion proteins provided the first support for cooperative AXP binding (). Here we specifically demonstrate that CBS4 becomes readily exchangeable in the absence of functional CBS1 and CBS3, and AXP-binding to either CBS1 or CBS3 strongly decreased deuterium exchange at CBS4. Therefore, AXP-bound CBS1 and CBS3 can each separately increase AMP affinity at CBS4 and conformationally stabilize CBS4. Consistently, AMPK with mutation of only CBS1 or only CBS3 stably co-purifies with AMP () and AXP-binding follows a single site binding model with kinetics different from that of CBS4-only. Stabilization is likely due to His151, which forms hydrogen bonds with the AMP phosphate groups at both CBS4 and CBS1, and His298, which forms hydrogen bonds with the AMP phosphate groups at both CBS4 and CBS3 (Fig. 1). Conversely, CBS3 becomes conformationally stabilized by CBS4 and CBS1, and AMP-binding to CBS4 (functional CBS3 + CBS4 versus functional CBS3) increased the CBS3 affinity for AMP by 2 orders of magnitude and increased the AMP/ATP binding preference by 2–3 orders of magnitude.</text>
+      <annotation id="2XXx378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="27580" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="27716" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="27770" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="2XXx380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="27809" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="27862" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28003" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="28014" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28161" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="652">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249,MESH:D010755</infon>
+        <location offset="28185" length="13"/>
+        <text>AMP phosphate</text>
+      </annotation>
+      <annotation id="347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28253" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="653">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249,MESH:D010755</infon>
+        <location offset="28277" length="13"/>
+        <text>AMP phosphate</text>
+      </annotation>
+      <annotation id="349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28405" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28505" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28552" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="28556" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28609</offset>
+      <text>AMP-sensing requires CBS4 to conformationally stabilize AMP-bound CBS3</text>
+      <annotation id="2XXx386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28609" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28665" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28680</offset>
+      <text>Mutating a key adenine-binding residue of CBS4 (I312D) abolishes direct allosteric AMPK activation by AMP (). This indicates that CBS4 critically contributes to AMP-sensing at CBS3/αRIM, even though CBS4 is constitutively bound by AMP and does not directly interact with either the αRIM loop or AMP at CBS3. Our fluorescence competition and HDX-MS data suggest that CBS4 is required for AMP sensing by stabilizing AMP binding at CBS3, which increases both the affinity for AMP and the preferential binding of AMP over ATP (Fig. 5). AMP-bound CBS4 therefore allows AMP exchange at CBS3 at nucleotide concentrations that reflect cellular conditions of energy excess ([ATP]/[AMP] &gt;100) and energy stress ([ATP]/[AMP] ∼10–20). Our finding that AMP-bound CBS4 selectively stabilizes AMP binding at CBS3 provides a rationale for the CBS4 requirement for AMP sensing.</text>
+      <annotation id="355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000225</infon>
+        <location offset="28695" length="7"/>
+        <text>adenine</text>
+      </annotation>
+      <annotation id="356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28782" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28841" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28911" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="28975" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29067" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29094" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29153" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29189" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="29198" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29212" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29244" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="29268" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="29346" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29352" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="29383" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29389" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29420" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29458" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29528" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29549</offset>
+      <text>How does AMP binding to CBS4 mechanistically increase AMP affinity and AMP/ATP-binding preference at CBS3? Inspection of AMPK crystal structures indicates that stabilization is predominantly due to CBS4 positioning the side chain of His298. The His298 backbone amide directly forms a hydrogen bond with the phosphate group of AMP at CBS3 and positions the adjacent key residue Arg299, which forms two hydrogen bonds with the AMP phosphate group and two with the AMP adenine ring at CBS3 (Fig. 11). Similarly, αRIM Glu364 positions CBS3 Arg70 and Lys170, which form salt bridges with the phosphate group of AMP at CBS3. The phosphate group of AMP carries two negative charges to interact with the three positively charged residues stabilized by αRIM (Arg70 and Lys170) and CBS4 (Arg299) plus the partially positive backbone amide of His298. In contrast, the corresponding α-phosphate of ATP carries only a single charge and therefore interacts less tightly with the positive charge cluster (Fig. 11A). In addition, as seen when structurally aligned with ATP-soaked core-AMPK (PDB code 2V92), the side chains of Arg70 and Lys170 need to move away in opposite directions from Glu364 to avoid clashes with the β- and γ-phosphate groups of ATP (Fig. 11B), thereby weakening the Glu364 interaction. Together, these constraints provide a structural explanation for both CBS4 and αRIM Glu364 collectively stabilizing AMP preferentially over ATP at CBS3. Consistent with a requirement of both CBS4 and the αRIM for high affinity binding of AMP at CBS3, AMP was preferentially bound to CBS1 and CBS4 in the crystal structure of the αRIM-lacking core-AMPK (), but preferentially bound to CBS3 and CBS4 in the context of the αRIM-containing holo-AMPK (, ).</text>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29558" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29603" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29620" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="29624" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="641">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="29782" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="643">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="29794" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="29810" length="5"/>
+        <text>amide</text>
+      </annotation>
+      <annotation id="380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29833" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2XXx414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="29856" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="29875" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="29926" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29950" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="654">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249,MESH:D010755</infon>
+        <location offset="29974" length="13"/>
+        <text>AMP phosphate</text>
+      </annotation>
+      <annotation id="386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249,MESH:D000225</infon>
+        <location offset="30011" length="11"/>
+        <text>AMP adenine</text>
+      </annotation>
+      <annotation id="2XXx443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30063" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="30085" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="30095" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="2XXx420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="30136" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="30155" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="30172" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="30191" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="30299" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="30309" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="30327" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="30372" length="5"/>
+        <text>amide</text>
+      </annotation>
+      <annotation id="644">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="30381" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="2XXx438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="30422" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="30435" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="30602" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="30659" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="30669" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="2XXx444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30722" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="655">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="30764" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="30784" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30822" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="2XXx446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30926" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="30958" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="30982" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31080" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31093" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31329</offset>
+      <text>CBS4 and αRIM stabilize AMP-binding at CBS3 and increase the AMP/ATP-binding preference. A, CBS4-CBS3-αRIM network in AMP-bound AMPK (PDB code 4CFE). B, transparent structure from panel A overlaid with ATP, Arg70, and Lys170 from the structure of ATP-soaked core-AMPK (PDB code 2V92). Note that the α-phosphate of ATP has only a single negative charge and that the β- and γ-phosphate groups of ATP push Lys170 and Arg70 away from αRIM Glu364.</text>
+      <annotation id="2XXx447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31353" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31390" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="31394" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31447" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="31531" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="31536" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="31547" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="31576" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="31630" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="31643" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010755</infon>
+        <location offset="31703" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="31723" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="31732" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="31743" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="657">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="31764" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>31795</offset>
+      <text>CBS3 is the high affinity exchangeable AMP-binding site</text>
+      <annotation id="2XXx461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31834" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31851</offset>
+      <text>Our work presents several lines of evidence in support of CBS3 being the high affinity exchangeable AMP-binding site. First, AMP competes NADPH binding with high affinity, whereas ATP competes with moderate affinity, directly indicating that the NADPH-binding site is the high affinity site. This site is CBS3, as NADPH selectively protects CBS3, but not CBS1, against hydrogen deuterium exchange. Second, CBS3 in the presence of functional CBS4 and αRIM binds AMP with high, and ATP with moderate affinity, whereas CBS1 in the presence of functional CBS4 binds AMP weakly and with preference of ATP over AMP binding. Third, HDX-MS in the presence of wild-type holo-AMPK demonstrates that AMP stabilizes CBS3 more strongly than ATP, whereas it stabilizes CBS1 less strongly than ATP, consistent with higher affinity AMP binding at CBS3 and relatively stronger ATP binding at CBS1.</text>
+      <annotation id="424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31951" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="31976" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="31989" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32031" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="32097" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="32165" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="587">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="32220" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="583">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="32229" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="2XXx468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32312" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32331" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx470">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32413" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32447" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32456" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32540" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32579" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32630" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32667" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32711" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>32736</offset>
+      <text>Under physiological conditions nucleotide exchange is likely limited to CBS3</text>
+      <annotation id="2XXx480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="32767" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32813</offset>
+      <text>Several lines of evidence suggest that during the shift from non-stress (4.5 mm ATP, 0.4 mm ADP, 0.04 mm AMP) to energy stress (3.8 mm ATP, 1.0 mm ADP, 0.3 mm AMP) only CBS3 noticeably exchanges ATP against AMP. By mutating CBS1, we could show that in the presence of the tightly AMP-bound CBS4, CBS3 binds AMP with 10- to 100-fold higher affinity than ATP, closely matching the 10- to 100-fold higher ATP to AMP levels under different stress conditions. In contrast, under the converse conditions, CBS1 binds ATP with similar or higher affinity than AMP, suggesting that at millimolar ATP and micromolar AMP physiological levels CBS1 remains largely ATP-bound and CBS4 AMP-bound. These conclusions are supported by HDX-MS. First, the AMP/ATP preferences of CBS3 and CBS1 are reflected by CBS3 being more strongly protected by AMP than ATP and, conversely, CBS1 is more strongly protected by ATP than AMP. Second, the AMPK HDX profiles in the sole presence of AMP versus ATP differ strongly, consistent with AMP/ATP exchange at both CBS1 and CBS3 as seen in crystal structures and competition assays, whereas the profiles in the presence of stress versus non-stress AXP levels are much smaller, indicating reduced AMP/ATP exchange.</text>
+      <annotation id="442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32893" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="618">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="32905" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx482">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32918" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="32948" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="619">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="32960" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="32972" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33008" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33020" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33093" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33120" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33166" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33215" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33222" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="453">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33323" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx493">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33364" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33399" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33418" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33464" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33483" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="2XXx498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33548" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33552" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33640" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="462">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33649" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33705" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33714" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33773" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33784" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="33821" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="33825" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="33979" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="34027" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34031" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34045</offset>
+      <text>ATP is the essential cofactor of numerous cellular reactions, which require ATP concentrations within a very tight range. Yet ATP is constantly and rapidly metabolized (humans hydrolyze roughly their own body weight of ATP per day ()), and therefore requires highly efficient cellular and organismal regulation of ATP homeostasis. This task is centrally performed by AMPK and depends on the ability of AMPK to precisely and sensitively detect AXP ratios under different physiological conditions to modulate its kinase activity. Our study, together with previous binding assays and crystal structures of holo-AMPK bound to AMP and core-AMPK bound to ATP, provides a first view of the intricate arrangement and interactions between nucleotide-binding sites to allow precise and highly sensitive sensing of AXP ratios under physiological stress and non-stress conditions (Fig. 12). Understanding how the sensed nucleotides modulate kinase activity and activation loop accessibility will require the missing key structure of holo-AMPK in its inactive ATP-bound state.</text>
+      <annotation id="472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34045" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34121" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="474">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34171" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34264" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34359" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="34488" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="34667" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="34694" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="34775" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="2XXx524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="34849" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="34953" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="481">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="35092" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>35109</offset>
+      <text>Schematic model of AXP occupancy under energy-stress (A) and non-stress (B) conditions. Positive and negative charges are indicated by blue “+” and red “−” signs. A-circled P, AMP; A-3 circled P, ATP.</text>
+      <annotation id="2XXx527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="35128" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="2XXx525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="35285" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="35305" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>35320</offset>
+      <text>Experimental procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>35344</offset>
+      <text>DNA constructs and reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35372</offset>
+      <text>The human wild-type His6-α1(11–550)β2γ1 AMPK expression construct was described previously (). Mutations were introduced by site-directed mutagenesis using the QuikChange method (Stratagene) or standard PCR-based methods. All expression constructs and mutations were confirmed by DNA sequencing.</text>
+      <annotation id="645">
+        <infon key="type">OTHER</infon>
+        <location offset="35392" length="24"/>
+        <text>His6-α1(11–550)β2γ1 AMPK</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>35679</offset>
+      <text>Protein expression and purification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35715</offset>
+      <text>Expression plasmids were transformed into Escherichia coli BL21(DE3). Cells were grown to an A600 of ∼1 at 28 °C and induced with 100 μm isopropyl β-d-thio-galactopyranoside at 16 °C overnight. Cell pellets were resuspended in 25 mm Tris, pH 8.0, 300 mm NaCl, 25 mm imidazole, 10% glycerol, 5 mm β-mercaptoethanol, and lysed by French Press with pressure set to 900 pascal. Lysates were cleared by centrifugation for 30 min at 20,000 × g, passed over a 50-ml nickel-chelating HP-Sepharose column (GE Healthcare), and eluted with 25 mm Tris, pH 8.0, 300 mm NaCl, 500 mm imidazole, 10% glycerol, 5 mm β-mercaptoethanol. The eluted His-tagged AMPK was further purified by size-exclusion chromatography through a 300-ml HiLoad 26/60 Superdex 200 column (GE Healthcare) in 10 mm Tris, pH 8.0, 150 mm NaCl, 5 mm MgCl2, 1 mm EDTA, 10% glycerol, 2 mm DTT. The proteins eluted from the gel filtration column at a volume corresponding to the size of a monomeric complex at a purity ≥95% as judged by SDS-PAGE (Fig. 2).</text>
+      <annotation id="485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="35852" length="36"/>
+        <text>isopropyl β-d-thio-galactopyranoside</text>
+      </annotation>
+      <annotation id="486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="35948" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="35969" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="35981" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="35996" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="36011" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="491">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="36174" length="6"/>
+        <text>nickel</text>
+      </annotation>
+      <annotation id="2XXx549">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="36194" length="9"/>
+        <text>Sepharose</text>
+      </annotation>
+      <annotation id="493">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="36250" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="36271" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="36284" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="36299" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="36314" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="642">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="36344" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="36489" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="36510" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="36521" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="501">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="36533" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="502">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="36543" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="36558" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="36705" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>36735</offset>
+      <text>Fluorescence binding and competition assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36779</offset>
+      <text>Deac-ADP was synthesized by the method of Webb et al. (). 4 μm AMPK wild-type and mutant proteins were incubated with 0.5 μm deac-ADP in 10 mm Tris, pH 8.0, 150 mm NaCl, 1 mm EDTA, 10% glycerol, 2 mm DTT in the presence and absence of 5 mm MgCl2 for 30 min at room temperature. The emission spectrum of deac-ADP was recorded using a SpectraMax M2e reader (Molecular Devices Corporation). For deac-ADP competition assays, AMP or ATP were added at increasing concentrations, whereas deac-ADP was kept at a constant concentration (0.5 μm). The IC50 values were obtained from curve fitting to the competitive inhibitor model using GraphPad Prism.</text>
+      <annotation id="2XXx562">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="36779" length="8"/>
+        <text>Deac-ADP</text>
+      </annotation>
+      <annotation id="505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="36904" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="36922" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="36943" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="36954" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="36964" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="36979" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="511">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="37019" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="37082" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="2XXx558">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="37171" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+      <annotation id="514">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="37200" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="37207" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx561">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="37260" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37425</offset>
+      <text>For NADPH emission spectra, 5 μm NADPH were incubated with either 10 μm MBP or 10 μm MBP-AMPK and excited at 340 nm using the SpectraMax M2e cuvette mode. For binding isotherms, NADP and NADPH (5 μm each) were incubated with increasing concentrations of AMPK, excited at 340 nm, and full emission spectra were recorded. Fluorescence emission maxima were plotted against AMPK concentration and EC50 values were obtained from curve fitting to the one-site binding model using GraphPad Prism.</text>
+      <annotation id="517">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="37429" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="37458" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx566">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="37603" length="4"/>
+        <text>NADP</text>
+      </annotation>
+      <annotation id="519">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="37612" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>37919</offset>
+      <text>HDX coupled with mass spectrometry</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37954</offset>
+      <text>Solution-phase amide HDX experiments were carried out using a fully automated system as described previously (, ). Five microliters of a 10 μm protein solution were mixed with 20 μl of D2O containing HDX buffer (20 mm KPO4, pH 7.4, 50 mm KCl) and incubated at 4 °C for 10, 30, 60, 300, 900, and 3,600 s. Following on exchange, unwanted forward or back exchange was minimized and the protein was denatured by dilution with 25 μl of quench solution (0.1%, v/v, trifluoroacetic acid (TFA) in 3 m urea). Samples were then passed through an immobilized pepsin column (prepared in house) () at 200 μl/min (0.1%, v/v, TFA, 15 °C) and the resulting peptides were trapped on a C8 trap column (Hypersil Gold, Thermo Fisher). The bound peptides were then gradient eluted (4–40%, w/v, CH3CN and 0.3%, w/v, formic acid) across a 2 × 50-mm C18 high performance liquid chromatography column (Hypersil Gold, Thermo Fisher) for 5 min at 4 °C. The eluted peptides were then subjected to electrospray ionization directly coupled with a high resolution Orbitrap mass spectrometer (Exactive, Thermo Fisher). Each HDX experiment was carried out in triplicate. Peptide ion signals were confirmed if they had a MASCOT score of 20 or greater and had no ambiguous hits using a decoy (reverse) sequence in a separate experiment using a 60-min gradient. The intensity-weighted average m/z value (centroid) of each isotopic envelope of the peptide was calculated with in house HDX Workbench software () and corrected for back-exchange on an estimated 70% recovery and accounting for the known deuterium content of the on-exchange buffer.</text>
+      <annotation id="647">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="37969" length="5"/>
+        <text>amide</text>
+      </annotation>
+      <annotation id="521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017666</infon>
+        <location offset="38139" length="3"/>
+        <text>D2O</text>
+      </annotation>
+      <annotation id="2XXx568">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216,MESH:D011189</infon>
+        <location offset="38154" length="10"/>
+        <text>HDX buffer</text>
+      </annotation>
+      <annotation id="648">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="38172" length="4"/>
+        <text>KPO4</text>
+      </annotation>
+      <annotation id="523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="38192" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014269</infon>
+        <location offset="38413" length="20"/>
+        <text>trifluoroacetic acid</text>
+      </annotation>
+      <annotation id="525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014269</infon>
+        <location offset="38435" length="3"/>
+        <text>TFA</text>
+      </annotation>
+      <annotation id="526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="38447" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014269</infon>
+        <location offset="38565" length="3"/>
+        <text>TFA</text>
+      </annotation>
+      <annotation id="528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="38727" length="5"/>
+        <text>CH3CN</text>
+      </annotation>
+      <annotation id="529">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="38748" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="531">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="39518" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>39573</offset>
+      <text>Isothermal titration calorimetry (ITC)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39612</offset>
+      <text>ITC was performed in a MicroCal PEAQ iTC200 (Malvern) with 18 injections at room temperature. 30 μm AMPK was loaded into the cell and 300 μm AMP in the syringe. Data analysis was performed with the MicroCal PEAQ-ITC instrument control software and yielded: n = 0.856 ± 0.02 sites, Kd = 2.06 ± 0.538 μm, ΔH = 12.6 ± 0.757 kcal/mol, ΔG = −7.76, −TΔS = 4.88 kcal/mol.</text>
+      <annotation id="2XXx580">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="39753" length="3"/>
+        <text>AMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>39995</offset>
+      <text>Kinase assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40009</offset>
+      <text>For the radioactive kinase assay, 10 nm phosphorylated AMPK were incubated with 15 μm biotin-SAMS peptide, 2 mm DTT, and 0.25 μl [γ-32P]ATP per 15-μl reaction in kinase buffer (25 mm Tris, pH 7.4, 12 mm MgCl2, 1 mm Na3VO4, 5 mm NaF) in the presence of AXP mixtures mimicking non-stress (4.5 mm ATP, 0.4 mm ADP, 0.04 mm AMP) and energy-stress (3.8 mm ATP, 1.0 mm ADP, 0.3 mm AMP) conditions for 30 min at room temperature. Reactions were terminated by addition of 0.5 volumes of 7.5 m guanidine hydrochloride solution in water and reactions were spotted on a SAM 2® Biotin Capture Membrane (Promega). The membrane was washed once for 30 s with 2 m NaCl, 3 times for 2 min with 2 m NaCl, 4 times for 2 min with 2 m NaCl in 1% H3PO4, and 2 times for 30 s with deionized water to remove unbound reaction components. After drying the membrane at room temperature for 30–60 min, signals were quantitated by phosphorimager analysis.</text>
+      <annotation id="535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001710,MESH:D010455</infon>
+        <location offset="40095" length="19"/>
+        <text>biotin-SAMS peptide</text>
+      </annotation>
+      <annotation id="536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="40121" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="2XXx603">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000615311</infon>
+        <location offset="40141" length="3"/>
+        <text>32P</text>
+      </annotation>
+      <annotation id="538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="40145" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="539">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="40192" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="540">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="40212" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="541">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014638</infon>
+        <location offset="40224" length="6"/>
+        <text>Na3VO4</text>
+      </annotation>
+      <annotation id="542">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012969</infon>
+        <location offset="40237" length="3"/>
+        <text>NaF</text>
+      </annotation>
+      <annotation id="2XXx602">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="40261" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="543">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="40303" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx600">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="40315" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="40328" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="545">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="40359" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="626">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="40371" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx591">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="40383" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019791</infon>
+        <location offset="40493" length="23"/>
+        <text>guanidine hydrochloride</text>
+      </annotation>
+      <annotation id="548">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="40529" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="549">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001710</infon>
+        <location offset="40574" length="6"/>
+        <text>Biotin</text>
+      </annotation>
+      <annotation id="550">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="40656" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="551">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="40689" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="552">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="40722" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="553">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030242</infon>
+        <location offset="40733" length="5"/>
+        <text>H3PO4</text>
+      </annotation>
+      <annotation id="554">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="40776" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40942</offset>
+      <text>The luminescence-proximity AlphaScreen-based kinase assay will be described in detail in a future publication and is based on a previously described AMPK activity reporter assay (). Briefly, 10 nm phosphorylated AMPK were incubated with 50 μm of a biotinylated peptide substrate (biotin-GSTKMRRVATLVDLGYKK) on ice for 10 min. The reaction was terminated by 1000-fold dilution in AlphaScreen buffer (50 mm MOPS, pH 7.4, 50 mm NaF, 50 mm CHAPS, and 0.1 mg/ml of bovine serum albumin) and further incubated in the presence of 50 nm His6-Rad53 FHA domain protein, 5 μg/ml each of AlphaScreen streptavidin donor beads and nickel-acceptor beads at room temperature for 90 min in the presence of AXP mixtures mimicking non-stress (4.5 mm ATP, 0.4 mm ADP, 0.04 mm AMP) or energy-stress (3.8 mm ATP, 1.0 mm ADP, 0.3 mm AMP) conditions. Donor beads contain a photosensitizer, which can convert ambient oxygen into short-lived singlet oxygen upon light activation at 680 nm. When the acceptor beads are brought close enough to the donor beads by interaction between His6-tagged FHA domain protein and AMPK-phosphorylated biotinylated peptide substrate, singlet oxygen can diffuse from the donor to the acceptor beads and transfer energy to the thioxene derivatives of the acceptor beads, resulting in light emission at 520 to 620 nm, which was measured in an Envision (PerkinElmer Life Sciences) plate reader.</text>
+      <annotation id="555">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001710</infon>
+        <location offset="41222" length="6"/>
+        <text>biotin</text>
+      </annotation>
+      <annotation id="649">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008550</infon>
+        <location offset="41347" length="4"/>
+        <text>MOPS</text>
+      </annotation>
+      <annotation id="556">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012969</infon>
+        <location offset="41367" length="3"/>
+        <text>NaF</text>
+      </annotation>
+      <annotation id="557">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028213</infon>
+        <location offset="41378" length="5"/>
+        <text>CHAPS</text>
+      </annotation>
+      <annotation id="2XXx616">
+        <infon key="type">OTHER</infon>
+        <location offset="41471" length="29"/>
+        <text>His6-Rad53 FHA domain protein</text>
+      </annotation>
+      <annotation id="558">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="41559" length="6"/>
+        <text>nickel</text>
+      </annotation>
+      <annotation id="2XXx615">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="41631" length="3"/>
+        <text>AXP</text>
+      </annotation>
+      <annotation id="559">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="41673" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx613">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="41685" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="2XXx608">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="41698" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="561">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="41728" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="628">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000244</infon>
+        <location offset="41740" length="3"/>
+        <text>ADP</text>
+      </annotation>
+      <annotation id="562">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249</infon>
+        <location offset="41752" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="563">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="41834" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="2XXx617">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026082</infon>
+        <location offset="41858" length="14"/>
+        <text>singlet oxygen</text>
+      </annotation>
+      <annotation id="2XXx618">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026082</infon>
+        <location offset="42084" length="14"/>
+        <text>singlet oxygen</text>
+      </annotation>
+      <annotation id="566">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013876</infon>
+        <location offset="42175" length="8"/>
+        <text>thioxene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>42343</offset>
+      <text>Author contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>42364</offset>
+      <text>X. G., Y. Y., S. J. N., A. K., D. G., J. K., M. H. E. T., P. W. deW., L. W., and X. L. conducted the experiments, M. R. W., P. R. G., H. E. X., and K. M. analyzed the results, and K. M. wrote the paper with comments from all authors.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>42598</offset>
+      <text>Supplementary Material</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42621</offset>
+      <text>This work was supported by the Francis Crick Institute with funding from Cancer Research UK Grant FC001211, United Kingdom Medical Research Council Grant FC001211, Wellcome Trust Grant FC001211 (to M. R. W.), grants from the Van Andel Research Institute (to H. E. X. and K. M.), Ministry of Science and Technology (China) Grants 2012ZX09301001, 2012CB910403, 2013CB910600, XDB08020303, and 2013ZX09507001, National Science Foundation Grant 91217311 (to H. E. X.), and National Institute of Health Grants DK071662 (to H. E. X.) and GM102545 and GM104212 (to K. M.). The authors declare that they have no conflicts of interest with the contents of this article. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43429</offset>
+      <text>This article contains supplemental Tables S1–S3.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43480</offset>
+      <text>AMPK</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43485</offset>
+      <text>AMP-activated protein kinase</text>
+      <annotation id="2XXx619">
+        <infon key="type">OTHER</infon>
+        <location offset="43485" length="28"/>
+        <text>AMP-activated protein kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43514</offset>
+      <text>αRIM</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43523</offset>
+      <text>α-regulatory subunit interaction motif</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43566</offset>
+      <text>AXP</text>
+      <annotation id="2XXx620">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="43566" length="3"/>
+        <text>AXP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43570</offset>
+      <text>AMP/ADP/ATP adenine nucleotides</text>
+      <annotation id="656">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000249,MESH:D000244,MESH:D000255</infon>
+        <location offset="43570" length="31"/>
+        <text>AMP/ADP/ATP adenine nucleotides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43602</offset>
+      <text>CBM</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43606</offset>
+      <text>carbohydrate-binding module</text>
+      <annotation id="659">
+        <infon key="type">OTHER</infon>
+        <location offset="43606" length="27"/>
+        <text>carbohydrate-binding module</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43634</offset>
+      <text>CBS</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43638</offset>
+      <text>cystathionine β-synthetase</text>
+      <annotation id="2XXx623">
+        <infon key="type">OTHER</infon>
+        <location offset="43638" length="26"/>
+        <text>cystathionine β-synthetase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43668</offset>
+      <text>deac-ADP</text>
+      <annotation id="574">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="43668" length="8"/>
+        <text>deac-ADP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43677</offset>
+      <text>3′-(7-diethylaminocoumarin-3-carbonylamin)-3′-deoxyadenosine-5′-diphosphate</text>
+      <annotation id="575">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374,MESH:D000244</infon>
+        <location offset="43677" length="75"/>
+        <text>3′-(7-diethylaminocoumarin-3-carbonylamin)-3′-deoxyadenosine-5′-diphosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43759</offset>
+      <text>HDX-MS</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43766</offset>
+      <text>hydrogen deuterium exchange mass spectrometry</text>
+      <annotation id="2XXx626">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="43766" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2XXx627">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="43775" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43812</offset>
+      <text>ITC</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43816</offset>
+      <text>isothermal titration calorimetry</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43849</offset>
+      <text>MBP</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43853</offset>
+      <text>maltose-binding protein</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43877</offset>
+      <text>PDB</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43881</offset>
+      <text>Protein Data Bank.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>43900</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>43929</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

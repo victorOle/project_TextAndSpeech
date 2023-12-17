@@ -1,0 +1,3851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3042382</id>
+    <passage>
+      <infon key="name_3">surname:Kollitz;given-names:Erin M</infon>
+      <infon key="name_2">surname:Hagey;given-names:Lee R</infon>
+      <infon key="name_1">surname:Ai;given-names:Ni</infon>
+      <infon key="name_0">surname:Krasowski;given-names:Matthew D</infon>
+      <infon key="article-id_pmid">21291553</infon>
+      <infon key="fpage">5</infon>
+      <infon key="year">2011</infon>
+      <infon key="article-id_publisher-id">1471-2091-12-5</infon>
+      <infon key="article-id_pmc">3042382</infon>
+      <infon key="article-id_doi">10.1186/1471-2091-12-5</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">12</infon>
+      <infon key="license">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="name_6">surname:Ekins;given-names:Sean</infon>
+      <infon key="lpage">5</infon>
+      <infon key="name_5">surname:Reschly;given-names:Erica J</infon>
+      <infon key="name_4">surname:Kullman;given-names:Seth W</infon>
+      <offset>0</offset>
+      <text>The evolution of farnesoid X, vitamin D, and pregnane X receptors: insights from the green-spotted pufferfish (Tetraodon nigriviridis) and other non-mammalian species</text>
+      <annotation id="619">
+        <infon key="type">OTHER</infon>
+        <location offset="17" length="48"/>
+        <text>farnesoid X, vitamin D, and pregnane X receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>167</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>178</offset>
+      <text>The farnesoid X receptor (FXR), pregnane X receptor (PXR), and vitamin D receptor (VDR) are three closely related nuclear hormone receptors in the NR1H and 1I subfamilies that share the property of being activated by bile salts. Bile salts vary significantly in structure across vertebrate species, suggesting that receptors binding these molecules may show adaptive evolutionary changes in response. We have previously shown that FXRs from the sea lamprey (Petromyzon marinus) and zebrafish (Danio rerio) are activated by planar bile alcohols found in these two species. In this report, we characterize FXR, PXR, and VDR from the green-spotted pufferfish (Tetraodon nigriviridis), an actinopterygian fish that unlike the zebrafish has a bile salt profile similar to humans. We utilize homology modelling, docking, and pharmacophore studies to understand the structural features of the Tetraodon receptors.</text>
+      <annotation id="622">
+        <infon key="type">OTHER</infon>
+        <location offset="182" length="20"/>
+        <text>farnesoid X receptor</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">OTHER</infon>
+        <location offset="210" length="19"/>
+        <text>pregnane X receptor</text>
+      </annotation>
+      <annotation id="621">
+        <infon key="type">OTHER</infon>
+        <location offset="241" length="18"/>
+        <text>vitamin D receptor</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="395" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="407" length="10"/>
+        <text>Bile salts</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="708" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="916" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1085</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1093</offset>
+      <text>Tetraodon FXR has a ligand selectivity profile very similar to human FXR, with strong activation by the synthetic ligand GW4064 and by the primary bile acid chenodeoxycholic acid. Homology modelling and docking studies suggest a ligand-binding pocket architecture more similar to human and rat FXRs than to lamprey or zebrafish FXRs. Tetraodon PXR was activated by a variety of bile acids and steroids, although not by the larger synthetic ligands that activate human PXR such as rifampicin. Homology modelling predicts a larger ligand-binding cavity than zebrafish PXR. We also demonstrate that VDRs from the pufferfish and Japanese medaka were activated by small secondary bile acids such as lithocholic acid, whereas the African clawed frog VDR was not.</text>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="1214" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="1240" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="1250" length="21"/>
+        <text>chenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="1471" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="1486" length="8"/>
+        <text>steroids</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012293</infon>
+        <location offset="1573" length="10"/>
+        <text>rifampicin</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="1768" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="1787" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1850</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1862</offset>
+      <text>Our studies provide further evidence of the relationship between both FXR, PXR, and VDR ligand selectivity and cross-species variation in bile salt profiles. Zebrafish and green-spotted pufferfish provide a clear contrast in having markedly different primary bile salt profiles (planar bile alcohols for zebrafish and sterically bent bile acids for the pufferfish) and receptor selectivity that matches these differences in endogenous ligands. Our observations to date present an integrated picture of the co-evolution of bile salt structure and changes in the binding pockets of three nuclear hormone receptors across the species studied.</text>
+      <annotation id="706">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="2000" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="2121" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="2148" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="2196" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="2384" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2502</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2513</offset>
+      <text>Nuclear hormone receptors (NHRs) are transcription factors that work in concert with co-activators and co-repressors to regulate gene expression [1,2]. Most of the NHRs in vertebrates are ligand-activated, although some NHRs function in a ligand-independent manner. Examples of ligands for NHRs include a range of endogenous compounds such as bile acids, retinoids, steroid hormones, thyroid hormone, and vitamin D. A few NHRs, such as the pair of xenobiotic sensors, pregnane X receptor (PXR; NR1I2; also known as steroid and xenobiotic receptor or SXR) and constitutive androstane receptor (CAR; NR1I3), are activated by structurally diverse exogenous ligands. NHRs share a conserved domain structure, which includes, from N-terminus to C-terminus, a modulatory A/B domain, the DNA-binding domain (DBD; C domain), the 'hinge' D domain, the ligand-binding domain (LBD; E domain), and a variable C-terminal F domain that is absent in some NHRs [2,3].</text>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="2856" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012176</infon>
+        <location offset="2868" length="9"/>
+        <text>retinoids</text>
+      </annotation>
+      <annotation id="2X44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="2879" length="16"/>
+        <text>steroid hormones</text>
+      </annotation>
+      <annotation id="663">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013963</infon>
+        <location offset="2897" length="15"/>
+        <text>thyroid hormone</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014807</infon>
+        <location offset="2918" length="9"/>
+        <text>vitamin D</text>
+      </annotation>
+      <annotation id="2X49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015262</infon>
+        <location offset="2961" length="10"/>
+        <text>xenobiotic</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">OTHER</infon>
+        <location offset="2981" length="19"/>
+        <text>pregnane X receptor</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">OTHER</infon>
+        <location offset="3028" length="31"/>
+        <text>steroid and xenobiotic receptor</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">OTHER</infon>
+        <location offset="3085" length="19"/>
+        <text>androstane receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3464</offset>
+      <text>NHRs show varying degrees of sequence conservation across vertebrate species in the LBD that likely reflects, at least in part, cross-species variation in the physiologically important ligands. The xenobiotic sensors PXR and CAR show extensive cross-species amino acid sequence divergence across vertebrate species [4,5] in addition to evidence of positive (Darwinian) selection in the LBD from phylogenetic analyses [6,7]. Cross-species differences in xenobiotic ligands are a possible driving force for changes in the LBD sequence and structure. We and others have also provided data consistent with the hypothesis that the structure of the LBD of NHRs in the NR1 H and NR1I subfamilies may have co-evolved with the endogenous ligands in some species in evolution [4,6-12].</text>
+      <annotation id="2X55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015262</infon>
+        <location offset="3662" length="10"/>
+        <text>xenobiotic</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="3722" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="2X56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015262</infon>
+        <location offset="3917" length="10"/>
+        <text>xenobiotic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4240</offset>
+      <text>Bile salts are one class of NHR ligands that show substantial cross-species differences in chemical structure [13]. Bile salts are amphipathic, water-soluble end-metabolites of cholesterol that facilitate intestinal absorption of lipids, enhance proteolytic cleavage of dietary proteins, and exert antimicrobial activity in the small intestine [14,15]. Bile salts exhibit significant structural diversity across vertebrate species [13,16-18] and include bile alcohols (which have a hydroxyl group on the terminal carbon atom of the side-chain) and bile acids (which have a carboxylic acid group on the side-chain) (Figure 1) [15]. Primary bile salts are defined as those synthesized by the liver, which is accomplished by a complicated biosynthetic pathway that starts with cholesterol [19,20].</text>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="4240" length="10"/>
+        <text>Bile salts</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="4356" length="10"/>
+        <text>Bile salts</text>
+      </annotation>
+      <annotation id="760">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="4384" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="4417" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="4593" length="10"/>
+        <text>Bile salts</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="4694" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="4753" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="4788" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="4879" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="5014" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>5035</offset>
+      <text>Representative bile salts and their structures. All bile salts are derived from cholesterol (topmost structure), illustrated with the carbon atoms numbered and the steroid rings labelled A, B, C, and D. Jawless fish, lobe-finned fish, and a limited number of actinopterygian fish use 5α bile alcohols such as 5α-cyprinol-27-sulfate that have an overall planar and extended structure of the steroid rings (see representation of A, B, and C rings on the right side). Most actinopterygian fish (including medaka and Tetraodon nigrivirdis) use 5β bile acids that have an overall bent structure of the steroid rings. One of the two most common primary salts in mammals is chenodeoxycholic acid (CDCA), the stem C24 bile acid that has the basic 3α,7α-dihydroxylation pattern. Lithocholic acid is one of the smallest naturally occurring bile acids and results from bacterial enzyme-mediated deconjugation and dehydroxylation of primary bile acids. The sodium and calcium salts of lithocholic acid have very low solubility at body temperature. Additionally, lithocholic acid is toxic in humans and other mammals.</text>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="5050" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="5087" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="5115" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="5169" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="5199" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="737">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="5319" length="16"/>
+        <text>5α bile alcohols</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023378</infon>
+        <location offset="5344" length="22"/>
+        <text>5α-cyprinol-27-sulfate</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="5425" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="5575" length="13"/>
+        <text>5β bile acids</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="5632" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="5702" length="21"/>
+        <text>chenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="5725" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="5745" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="5805" length="16"/>
+        <text>Lithocholic acid</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="5865" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="5964" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="5980" length="6"/>
+        <text>sodium</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="5991" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="6008" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="6085" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6159</offset>
+      <text>Secondary bile salts result from modification of primary bile salts by host bacteria in the intestine [15]. Common alterations in bile acids catalyzed by enzymes from anaerobic bacteria in the intestinal tract include deconjugation and dehydroxylation, with one possible end result being unconjugated and poorly water-soluble bile acids such as lithocholic acid (3α-hydroxy-5β-cholan-24-oic acid; LCA), a compound known to be toxic to mammalian species including humans [15,21]. There have been few studies of intestinal bile salts in animals that utilize bile alcohols, but one study of the Asiatic carp (Cyprinus carpio) showed that the bile alcohol sulfates synthesized in the liver of this species did not undergo hydrolysis in the intestinal tract and thus did not generate potentially toxic unconjugated secondary bile alcohols [22].</text>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="6169" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="6216" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="6289" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="761">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6471" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="6485" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="6504" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="6522" length="32"/>
+        <text>3α-hydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="6556" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="6680" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="6715" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="6798" length="21"/>
+        <text>bile alcohol sulfates</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="6979" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7006</offset>
+      <text>Variation in the stereochemistry of the junction between rings A and B of the bile salt steroid nucleus determines whether bile salts have a flat (planar) or a 'bent' orientation. Based on surveys of the bile salt composition in 1153 vertebrate species, we have proposed that 5α (planar) bile alcohols are the likely ancestral ligands (the paleomorphic state) while 5β (bent) bile acids are the derived (apomorphic) phenotype [13,23-25]. Common 5β-bile acids include chenodeoxycholic acid (CDCA; 3α,7α-dihydroxy-5β-cholan-24-oic acid) and cholic acid (CA; 3α,7α,12α-trihydroxy-5β-cholan-24-oic acid), the two dominant primary bile acids in humans and other mammals (Figure 1) [13,24].</text>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7084" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="7094" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7129" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7210" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="7294" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7382" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7451" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="7473" length="21"/>
+        <text>chenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="7496" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="7502" length="37"/>
+        <text>3α,7α-dihydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="7545" length="11"/>
+        <text>cholic acid</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="7558" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="7562" length="42"/>
+        <text>3α,7α,12α-trihydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7632" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7727</offset>
+      <text>PXRs are activated by a structurally diverse array of endogenous and exogenous molecules that includes bile salts, steroid hormones, prescription medications, herbal drugs, and endocrine disruptors [26,27]. PXR regulates the transcription of enzymes and transporters involved in the metabolism and elimination of potentially harmful compounds, including sulfation of toxic bile acids [28]. Previous studies have shown substantial cross-species differences in PXR ligand specificity, including in the selectivity for bile salts [4,7,8]. Mammalian PXRs are activated by a broad range of bile salt structures (both ancestral and evolutionarily derived), while chicken (Gallus gallus) and zebrafish (Danio rerio) PXRs are activated by a structurally narrow range of bile salts [4,6,7,9,29]. We and others have proposed that the evolution of PXRs has been driven by at least two factors: adaptation to evolutionary changes in bile salt (and perhaps other endogenous molecular) structure and function as a xenobiotic sensor [4,7,9,12]. Compared with published X-ray crystallographic structures of human PXR [30-35], a homology model of the zebrafish PXR is predicted to have a smaller ligand-binding pocket (LBP) than human PXR, with a flat ligand-binding surface well-suited to binding the planar 5α-bile alcohols that are the primary bile salts of zebrafish and other cypriniform fish [9].</text>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="7830" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="2X174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="7842" length="16"/>
+        <text>steroid hormones</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="8100" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="8243" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="8312" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="8489" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="8648" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="2X183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015262</infon>
+        <location offset="8727" length="10"/>
+        <text>xenobiotic</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="9019" length="16"/>
+        <text>5α-bile alcohols</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="9057" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9117</offset>
+      <text>FXR serves as the major transcriptional regulator of bile salt synthesis, in part by controlling the expression of cytochrome P450 (CYP) 7A1, the rate-limiting enzyme in the synthetic pathway [36]. Mammalian FXRs are activated best by primary bile acids CDCA and CA [37-39]. FXR is typically expressed at high levels in the liver, intestine, kidney, and adrenal glands. A second FXR, termed FXRβ (NR1H5), is found in some animal species (although it is a pseudogene in the genome of some mammals such as humans and other primates) but does not appear to be involved with bile salt binding or regulation [40]. Throughout this manuscript, FXR refers to NR1H4, or what might be termed FXRα in species possessing two FXRs.</text>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="9170" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="9360" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="9371" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="9380" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="9688" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9843</offset>
+      <text>The African clawed frog (Xenopus laevis) expresses an unusual FXR (also termed FOR, FXR-like orphan receptor) that has a 33 amino acid insert, not found in mammalian FXRs, in helix 7 of the ligand-binding domain (LBD) [41]. We have previously demonstrated that sea lamprey (Petromyzon marinus), zebrafish, and African clawed frog FXRs are activated by bile alcohols [9]. Sea lamprey and zebrafish FXRs are selective for planar 5α bile alcohols. The Xenopus FXR isoform 1 was activated by 5α- and 5β-bile alcohols (paralleling the complex bile salt profile of this amphibian [23]) but was poorly activated by bile acids [9,41].</text>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="9967" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="10195" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="10270" length="16"/>
+        <text>5α bile alcohols</text>
+      </annotation>
+      <annotation id="745">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="10331" length="24"/>
+        <text>5α- and 5β-bile alcohols</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="10381" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="10451" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10481</offset>
+      <text>The vitamin D receptor (VDR; NR1I1) is known to mediate the action of 1,25-dihydroxyvitamin D (calcitriol), a hormone whose 'classic' function is to regulate calcium and phosphorus homeostasis. However, VDRs are now known to be involved in a wide range of physiological processes including immune system modulation, skin development, and regulation of the metabolism of toxic compounds [42-45]. Two VDR genes have been found in the genome of many actinopterygian fish (a likely by-product of whole genome duplication prior to actinopterygian fish radiation) [46-48], with VDRα and VDRβ both shown to be functional in the Japanese medaka (Oryzias latipes) [49]. Mammalian VDRs are activated at low affinity by a narrow range of 5β-bile acids, particularly the toxic secondary bile acid LCA and its derivatives [7,50-52]. VDR activation in the intestine has been shown to upregulate the expression of enzymes (e.g., CYP3A) that can metabolize and reduce the toxicity of LCA [52-56]. We previously determined that the VDR from the sea lamprey (Petromyzon marinus) was insensitive to activation by a wide array of bile salts, including bile acids and bile alcohols with a range of substituents. We proposed the hypothesis that activation of VDRs by bile acids is a 'derived' trait, possibly as an adaptation to evolutionary changes in bile salt pathways and vertebrate physiology that allow for generation of toxic secondary bile acids [6,7,9,10].</text>
+      <annotation id="G118">
+        <infon key="type">OTHER</infon>
+        <location offset="10485" length="18"/>
+        <text>vitamin D receptor</text>
+      </annotation>
+      <annotation id="2X218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="10551" length="23"/>
+        <text>1,25-dihydroxyvitamin D</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="10576" length="10"/>
+        <text>calcitriol</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="10639" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010758</infon>
+        <location offset="10651" length="10"/>
+        <text>phosphorus</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11208" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11256" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="11266" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="11449" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11591" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11613" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="11628" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11726" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11812" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="11902" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11935</offset>
+      <text>In this report, we characterize the ligand selectivity of FXR, VDR, and PXR from the green-spotted pufferfish (Tetraodon nigriviridis), an actinopterygian fish that synthesizes mainly the 5β-bile acids CA and CDCA [23], thereby having a bile salt profile similar to most mammals. We also cloned and characterized VDRs from three additional non-mammalian species: medaka, African clawed frog, and chicken (Gallus gallus). In terms of primary bile salts, the medaka synthesizes a mixture of 5β C24 and C27 bile acids [57,58]. The African clawed frog has a complicated mixture of C26 and C27 bile alcohols, C24 bile acids, and C27 bile acids in its bile [9,23]. The chicken synthesizes mainly CA and CDCA as primary bile salts [25].</text>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12123" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="12137" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="12144" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12172" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12376" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12439" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="12524" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12543" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12563" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="12625" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="12632" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="12648" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12671</offset>
+      <text>We generated homology models of Tetraodon FXR (tnFXR) and PXR (tnPXR) using rat FXR [59] and human PXR [32] crystallographic structures, respectively, as templates. We then performed computational ligand docking experiments to these receptors. This allowed for comparison to the structures of the corresponding mammalian receptors, helping to formulate hypotheses to rationalize the structural changes that have occurred during receptor evolution. Additionally, we build on our previous docking studies with bile acids and human VDR (hVDR) and expand structure-activity series of bile acids at this receptor. Combining information from docking experiments and cross-species sequence comparisons, we generated site-directed mutations and chimeras to better understand the molecular determinants of bile salt activation of VDRs.</text>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13179" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13251" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13468" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13498</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13506</offset>
+      <text>Bile salt profile of Tetraodon nigriviridis</text>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13506" length="9"/>
+        <text>Bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13550</offset>
+      <text>We previously reported a survey of the biliary bile salts of 213 fish species from 38 different orders [23]. Included in this survey were six species from Tetraodontiformes, an order of actinopterygian fish that includes Tetraodon nigriviridis. The primary bile salts from all six species of Tetraodontiformes examined were the common 5β-bile acids CA and CDCA. This is illustrated in Additional file 1 by high-performance liquid chromatography (HPLC) and electrospray ionization-tandem mass spectrometry (ESI/MS/MS) (Additional file 1: figures S1A-S1C). The primary bile salt pool of Tetraodon is quite similar to that of many mammals (including humans) and birds [13,16,17,24,25].</text>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13597" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13807" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="13885" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="13899" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="13906" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="14117" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14236</offset>
+      <text>Ligand selectivity of the Tetraodon FXR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14276</offset>
+      <text>Analysis of the draft genome of Tetraodon nigriviridis revealed a single putative ortholog to human FXRα (hFXR) and another single putative ortholog to human PXR (hPXR). We did not find any evidence of an ortholog to FXRβ in the Tetraodon genome. The LBDs of tnFXR and tnPXR were cloned and functionally expressed as GAL4/LBD chimeras (concentration-response data in Figure 2 and 3). tnFXR was activated most strongly by GW4064 (Figure 2A), a synthetic ligand known to activate mammalian FXRs with high efficacy [60], and activated weakly by T-0901317 (Figure 2B), an agonist of mammalian liver X receptors (LXRs; NR1H2 and NR1H3), FXRs, and PXRs [34,61,62]. Conjugated and unconjugated 5β bile acids also activated tnFXR, including CDCA, tauro-CDCA, 3-oxo-LCA, and LCA (Figure 2C,D; Additional file 2). The EC50 of bile acids for activation of tnFXR ranged from 8.8 to 37.6 μM, with maximal effects varying from 15-61% of that produced by GW4064 (which served as the reference compound for comparisons of maximal effect or efficacy). The planar bile alcohol 5α-cyprinol sulfate (the main bile salt of cypriniform fish but only a very minor component of Tetraodon bile salts) weakly activated tnFXR. A 76-compound library of known NHR ligands was screened for additional activators of tnFXR. This screening identified three activators of tnFXR in addition to bile acids which included two farnesol derivatives (farnesol and S-farnesyl-L-cysteine methyl ester) and 6-formylindolo-[3,2-b]-carbazole.</text>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="14697" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C423915</infon>
+        <location offset="14818" length="9"/>
+        <text>T-0901317</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="14963" length="13"/>
+        <text>5β bile acids</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="15009" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013655</infon>
+        <location offset="15015" length="10"/>
+        <text>tauro-CDCA</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="15027" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="15042" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="15092" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="15216" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="15322" length="12"/>
+        <text>bile alcohol</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023378</infon>
+        <location offset="15335" length="19"/>
+        <text>5α-cyprinol sulfate</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="15365" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="15440" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="15635" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005204</infon>
+        <location offset="15665" length="8"/>
+        <text>farnesol</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005204</infon>
+        <location offset="15687" length="8"/>
+        <text>farnesol</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C066880</infon>
+        <location offset="15700" length="34"/>
+        <text>S-farnesyl-L-cysteine methyl ester</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C111855</infon>
+        <location offset="15740" length="32"/>
+        <text>6-formylindolo-[3,2-b]-carbazole</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>15789</offset>
+      <text>FXR concentration-response curves. Ligand activation of FXRs from different species. A) The synthetic mammalian FXR activator GW4064 activates human FXR (hFXR) with high efficacy and submicromolar potency. GW4064 also activates Tetraodon FXR (tnFXR) and zebrafish FXR (zfFXR) but not Xenopus laevis FXR(xlFXR). B) T-0901317 activates hFXR, zfFXR, and tnFXR (although with lower efficacy compared to GW4064) but not xlFXR. C) The primary bile acid chenodeoxycholic acid (CDCA) activates hFXR and tnFXR but not zfFXR or xlFXR. D) The secondary bile acid lithocholic acid (LCA) activates hFXR, tnFXR, and zfFXR, but not xlFXR. The ordinate indicates fold induction compared to vehicle control in luciferase-based assay. Note that the scale of the ordinate is different in A) through D).</text>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="15915" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="15995" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C423915</infon>
+        <location offset="16103" length="9"/>
+        <text>T-0901317</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="16188" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="16226" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="16236" length="21"/>
+        <text>chenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="16259" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="16331" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="16341" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="16359" length="3"/>
+        <text>LCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16573</offset>
+      <text>PXR concentration-response curves. Ligand activation of PXRs from different species. A) T-0901317 activates human PXR (hPXR) and chicken PXR (chPXR) but not Tetraodon PXR (tnPXR) or zebrafish PXR (zfPXR). B) The primary conjugated bile acid taurochenodeoxycholic acid (TCDCA) activates hPXR and tnPXR but not chPXR or zfPXR. C) The steroid 5β-pregnane-3,20-dione (5β-pregnanedione) activates all four PXRs shown. D) Nifedipine activates hPXR, chPXR, and zfPXR, but not tnPXR. The ordinate indicates fold induction compared to vehicle control in luciferase-based assay. Note that the scale of the ordinate is different in A) through D).</text>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C423915</infon>
+        <location offset="16661" length="9"/>
+        <text>T-0901317</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="16804" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013655</infon>
+        <location offset="16814" length="26"/>
+        <text>taurochenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013655</infon>
+        <location offset="16842" length="5"/>
+        <text>TCDCA</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="16905" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D043582</infon>
+        <location offset="16913" length="22"/>
+        <text>5β-pregnane-3,20-dione</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D043582</infon>
+        <location offset="16937" length="16"/>
+        <text>5β-pregnanedione</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009543</infon>
+        <location offset="16989" length="10"/>
+        <text>Nifedipine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17215</offset>
+      <text>Ligand selectivity of the Tetraodon PXR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17255</offset>
+      <text>With respect to bile salts, tnPXR had similar structure-activity relationships to tnFXR, namely activation by 5β-bile acids with one or two hydroxyl groups on the nuclear rings (Figure 3; Additional file 2). Unlike tnFXR, tnPXR was not activated by GW4064 or farnesol compounds. tnPXR was also activated by a variety of androstane, estrane, and pregnane steroids, similar to PXRs from mammals, chicken, and zebrafish (Figure 3C) [4]. tnPXR was not activated by several xenobiotics known to be agonists of mammalian PXRs including hyperforin (pharmacologically active component of the herbal antidepressant St. John's wort), nifedipine (Figure 3D), rifampicin, and SR12813, but was activated by n-butyl 4-amino benzoate, an agonist of Xenopus laevis PXRs [4,63] (Additional file 2).</text>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="17271" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="17365" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="17504" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005204</infon>
+        <location offset="17514" length="8"/>
+        <text>farnesol</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000731</infon>
+        <location offset="17575" length="10"/>
+        <text>androstane</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004962</infon>
+        <location offset="17587" length="7"/>
+        <text>estrane</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011278</infon>
+        <location offset="17600" length="17"/>
+        <text>pregnane steroids</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015262</infon>
+        <location offset="17724" length="11"/>
+        <text>xenobiotics</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001654</infon>
+        <location offset="17785" length="10"/>
+        <text>hyperforin</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009543</infon>
+        <location offset="17879" length="10"/>
+        <text>nifedipine</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012293</infon>
+        <location offset="17903" length="10"/>
+        <text>rifampicin</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100355</infon>
+        <location offset="17919" length="7"/>
+        <text>SR12813</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004605</infon>
+        <location offset="17949" length="24"/>
+        <text>n-butyl 4-amino benzoate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>18040</offset>
+      <text>Structure-activity relationship of bile acids for activation of human and mouse VDRs</text>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="18075" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18125</offset>
+      <text>Expanding on previous studies from our group [6,7,10] and others [50,52], we determined the structure-activity relationships of naturally occurring and synthetic bile acids for transactivation of GAL4/LBD constructs of hVDR and mouse VDR (mVDR). LCA and derivatives (e.g., 3-oxo-LCA, LCA acetate) activated both hVDR and mVDR (Figure 4; Additional file 3). Iso-LCA, with a single 3β-hydroxy group on the steroid rings (as opposed to 3α-hydroxy of LCA), weakly activated hVDR and mVDR. In contrast, naturally occurring 5β-bile acids with two or three hydroxyl groups on the nuclear rings were inactive including CDCA (3α,7α-dihydroxy-5β-cholan-24-oic acid), DCA (3α,12α-dihydroxy), and CA (3α,7α,12α-trihydroxy). We also tested three 5β-bile acids not known to occur naturally in bile that have a single hydroxyl substituent on the steroid rings on a carbon other than C-3 (7α-hydroxy, 7β-hydroxy, and 12α-hydroxy-5β-cholan-24-oic acids), as well as unsubstituted 5β-cholanic acid (no hydroxyl groups on any of the steroid rings). All four of these bile acids were inactive with respect to activation of hVDR and mVDR. Thus, bile acids with hydroxyl groups at the C-7 or C-12 position are unfavourable for activation of hVDR (Figure 4). Unsubstituted 5α-cholanic acid, which would have an overall planar orientation of the steroid rings, weakly activated hVDR and mVDR. Two 5α-cholanic acid derivatives (3β-hydroxy and 3-oxo) were inactive (Additional file 3).</text>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="18287" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="18371" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="18398" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502354</infon>
+        <location offset="18409" length="11"/>
+        <text>LCA acetate</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="18482" length="7"/>
+        <text>Iso-LCA</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="18529" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="18572" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="18643" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="18736" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="18742" length="37"/>
+        <text>3α,7α-dihydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="774">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840</infon>
+        <location offset="18782" length="22"/>
+        <text>DCA (3α,12α-dihydroxy)</text>
+      </annotation>
+      <annotation id="775">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="18810" length="25"/>
+        <text>CA (3α,7α,12α-trihydroxy)</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="18858" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="18956" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="18975" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="2X412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840,MESH:D002793</infon>
+        <location offset="18998" length="62"/>
+        <text>7α-hydroxy, 7β-hydroxy, and 12α-hydroxy-5β-cholan-24-oic acids</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007036</infon>
+        <location offset="19088" length="16"/>
+        <text>5β-cholanic acid</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="19139" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="19173" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="19249" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007036</infon>
+        <location offset="19375" length="16"/>
+        <text>5α-cholanic acid</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="19447" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007036</infon>
+        <location offset="19498" length="16"/>
+        <text>5α-cholanic acid</text>
+      </annotation>
+      <annotation id="754">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007036,MESH:C007036</infon>
+        <location offset="19528" length="20"/>
+        <text>3β-hydroxy and 3-oxo</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>19657</offset>
+      <text>Structure-activity for human and mouse VDR. Structure-activity data for bile acid activation of human and mouse VDRs. The bile acids that activate human and mouse VDRs are small, hydrophobic bile acids that are related to lithocholic acid (LCA) and have either a hydroxyl or oxo group at C-3 (LCA, 3-oxo-LCA, LCA acetate, iso-LCA) or have unsubstituted steroid ring (5α-cholanic acid). Addition of a 7α-hydroxy group to LCA (resulting in the bile acid CDCA) or even single steroid ring substitutions at C-7 or C-12 result in bile acids that do not activate the VDRs. Nor-LCA, which has a shortened bile acid side-chain, is also inactive.</text>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="19729" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="19779" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="19848" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="19879" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="19897" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="19950" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="19955" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502354</infon>
+        <location offset="19966" length="11"/>
+        <text>LCA acetate</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="19979" length="7"/>
+        <text>iso-LCA</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="20010" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007036</infon>
+        <location offset="20024" length="16"/>
+        <text>5α-cholanic acid</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="20077" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="20099" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="20109" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="20130" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="20182" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048433</infon>
+        <location offset="20224" length="7"/>
+        <text>Nor-LCA</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="20255" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20303</offset>
+      <text>Activation of non-mammalian VDRs by bile salts</text>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="20339" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20350</offset>
+      <text>The African clawed frog VDR (Xenopus laevis VDR; xlVDR) was not activated by any bile salts tested, including bile alcohols. In contrast, chicken VDR (chVDR), medaka VDRα (olVDRα), Tetraodon VDRα (tnVDR), and zebrafish VDRα (zfVDRα) were each activated by LCA and/or its derivatives (3-keto-LCA and LCA acetate) but not by bile acids with two or more hydroxyl groups such as CDCA, DCA, or CA (Figure 5 and 6; Additional file 3). The efficacies of LCA, 3-oxo-LCA, and LCA acetate (in comparison to 1,25α-dihydroxyvitamin D3) for activation of chicken, medaka, Tetraodon, zebafish VDRs were lower than for hVDR and mVDR (Figure 6; Additional file 3).</text>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="20431" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="20460" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="20606" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C455860</infon>
+        <location offset="20634" length="10"/>
+        <text>3-keto-LCA</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502354</infon>
+        <location offset="20649" length="11"/>
+        <text>LCA acetate</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="20673" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="20725" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840</infon>
+        <location offset="20731" length="3"/>
+        <text>DCA</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="20739" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="20797" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="2X471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="20802" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502354</infon>
+        <location offset="20817" length="11"/>
+        <text>LCA acetate</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="20847" length="25"/>
+        <text>1,25α-dihydroxyvitamin D3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21023</offset>
+      <text>Transactivation of full-length teleost VDRs. HepG2 cells were transiently transfected with pRL-CMV, XREM-Luc and either medaka VDRα-pSG5, zebrafish VDRα-pSG5, or Tetraodon VDRα-pSG5 as described in Methods. Cells were exposed to 100 μM of either lithocholic acid (LCA), 3-keto-LCA, or LCA acetate for 24 hours. VDR response was measured via dual-luciferase assays. Data is represented as the mean fold induction normalized to control (DMSO) ± SEM.</text>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="21269" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="21287" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C455860</infon>
+        <location offset="21293" length="10"/>
+        <text>3-keto-LCA</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502354</infon>
+        <location offset="21308" length="11"/>
+        <text>LCA acetate</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="21458" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21485</offset>
+      <text>VDR concentration-response curves. Ligand activation of VDRs from different species, chimeric human-frog VDRs, and mouse VDR site-directed mutants. A) The plot shows activation of human, chicken, Xenopus laevis, and Tetraodon VDRs by 1,25-dihydroxyvitamin D3. Also shown are activation data for a chimeric receptor that is mostly human VDR (hVDR) with the H1-H3 insert replaced by the corresponding sequence from Xenopus laevis VDR (xlVDR) and the converse chimeric receptor that is mostly xlVDR with the H1-H3 insert replaced by the corresponding sequence from hVDR. B) The plot shows activation of mouse VDR (mVDR) and six site-directed mutants of mVDR (R269A, R269E, H392A, H392Y, F417A, and F417D) by 1,25-dihydroxyvitamin D3. C) Lithocholic acid (LCA) activates human, chicken, and Tetraodon VDRs, as well as the chimeric receptor hVDR with xlVDR h1-H3 insert, but does not activate xlVDR and the chimeric receptor xlVDR with the hVDR H1-H3 insert. D) Lithocholic acid strongly activates mVDR, weakly activates the site-directed mutants F417A and F417D, and does not activate R269A, R269E, H392A, and H392Y. The ordinate indicates fold induction compared to vehicle control in luciferase-based assay. Note that the scale of the ordinate is different in A) through D).</text>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="21719" length="24"/>
+        <text>1,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="22190" length="24"/>
+        <text>1,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="22219" length="16"/>
+        <text>Lithocholic acid</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="22237" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="22442" length="16"/>
+        <text>Lithocholic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22758</offset>
+      <text>Structure-directed mutagenesis experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22801</offset>
+      <text>We previously used molecular modelling computational docking studies to understand the structural basis of bile acid activation of hVDR and mVDR [9]. These studies predicted an electrostatic interaction between Arg-274 (hVDR numbering) and the bile acid side-chain, and a hydrogen bond between the 3α-hydroxyl group of LCA and His-397 in helix 11 (note corresponding residue numbers are 5 lower for mVDR; e.g., Arg-269 in mVDR is equivalent to Arg-274 in hVDR). This hydrogen bonding brings LCA close to the activation helix 12 where LCA forms hydrophobic contacts with Val-398 and Phe-422 that would stabilize the helix in the optimal orientation for coactivator binding. Site-directed mutagenesis by Adachi et al. supported this conclusion and indicated that alteration on this Arg residue of hVDR (e.g., Arg274Leu) significantly disrupted the receptor response to LCA [51]. Additional file 4 displays the surface around the ligand binding pocket of hVDR, showing that it is predominantly hydrophobic in the middle with more polar features on its ends.</text>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="22908" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="23012" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="23045" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23073" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="23120" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="23128" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="23212" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="23245" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23268" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="23292" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="23335" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="23371" length="3"/>
+        <text>Val</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="23383" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="23581" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="2X525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="23608" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="2X526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="23614" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="23668" length="3"/>
+        <text>LCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23860</offset>
+      <text>We next performed site-directed mutagenesis experiments to confirm the docking model of the bile acid to VDR, and to try to rationalize the cross-species differences in activation of VDR by bile salts. These mutations were performed in mVDR, which generally has higher maximal activation by bile acids but shows a similar selectivity for bile acids to hVDR. Three residues, previously identified by the hVDR docking model as key to bile acid activation - Arg-269 (R269; charge clamp to carboxylic acid group on bile acid side-chain), His-392 (H392; hydrogen bond to 3α-hydroxy group of LCA), Phe-417 (F417; stabilization of helix 12) - were mutated individually to two other amino acid resides. This produced a total of six-directed mutants: R269A, R269E, H392A, H392Y, F417A, and F417D.</text>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="23952" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24050" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24151" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24198" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24292" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="24315" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24371" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="24394" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="24409" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="24446" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="24452" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="24535" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24652</offset>
+      <text>We also made site-directed mutations at amino acid positions that showed differences between VDRs that are bile acid-sensitive (human, mouse, chicken, green-spotted pufferfish) and bile acid-insensitive (African clawed frog, sea lamprey, zebrafish). These mVDR mutations changed the amino acid residue(s) in mVDR to the corresponding residue(s) found in the bile-salt insensitive VDRs: Q286E (to corresponding residue found in xlVDR), S293 D (xlVDR), S293G (sea lamprey VDR), N319 D (lamprey VDR), N319K (zfVDR), and RCR363-365LCK (xlVDR), RCR363-365RIQ (zfVDR), RCR363-365ACR (lamprey VDR) (see Additional file 5). Lastly, we also tested the role of the H1-H3 'insertion' domain in mediating bile acid activation. Thus, we generated hVDR that lacked amino acid residues 165-218 (hVDR/Δins) and an hVDR construct where the insert domain was replaced with the insertion domain from the bile acid-insensitive xlVDR (hVDR/xlVDRins). The analogous constructs were also created for xlVDR: one lacking the insertion domain (xlVDR/Δins) and the other with the insertion domain from hVDR (xlVDR/hVDRins).</text>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="24692" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24759" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="24833" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="24935" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="25010" length="9"/>
+        <text>bile-salt</text>
+      </annotation>
+      <annotation id="G294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="25345" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="25403" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="25537" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25757</offset>
+      <text>The two mutations at Arg269 (R269A and R269E) reduced the apparent affinity of 1α,25-dihydroxyvitamin D3 by over two orders of magnitude and abolished activation by LCA and 3-oxo-LCA. Similar effects were produced by the two mutations at His392 (H392A and H392Y) which reduced the apparent affinity of 1α,25-dihydroxyvitamin D3 by approximately 10-fold and 100-fold, respectively, and abolished activation by LCA and 3-oxo-LCA. The two mutations at Phe417 (F417A and F417D) both reduced the apparent affinity of 1α,25-dihydroxyvitamin D3 by approximately two orders of magnitude while retaining activation by LCA and 3-oxo-LCA but not LCA acetate. Interestingly, unsubstituted 5α-cholanic acid activated the R269A, R269E, H392A, H392Y, F417A, and F417D mutants weakly.</text>
+      <annotation id="G309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="25778" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="25836" length="25"/>
+        <text>1α,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="25922" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="25930" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="25995" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="26059" length="25"/>
+        <text>1α,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="26166" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="26174" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="26206" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="26269" length="25"/>
+        <text>1α,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="26366" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="26374" length="9"/>
+        <text>3-oxo-LCA</text>
+      </annotation>
+      <annotation id="G307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502354</infon>
+        <location offset="26392" length="11"/>
+        <text>LCA acetate</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007036</infon>
+        <location offset="26434" length="16"/>
+        <text>5α-cholanic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26542</offset>
+      <text>In general, the mutations at Glu-286, Ser-293, Asn-319, and Arg/Cys/Arg (363-365) had little effect on activation by 1α,25-dihydroxyvitamin D3 or bile acids compared to wild-type mVDR. Similarly, the four constructs that involved either deletion (hVDR/Δins and xlVDR/Δins) or swapping of the H1-H3 insertion domain (hVDR/xlVDRins and xlVDR/hVDRins) had little effect on activation by 1α,25-dihydroxyvitamin D3 or bile acids compared to wild-type hVDR. Thus, the H1-H3 insertion domain does not appear to play a major role in selectivity for bile acids.</text>
+      <annotation id="G311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="26571" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="G312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="26580" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="G313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="26589" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="G314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="26602" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="26606" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="26610" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="26659" length="25"/>
+        <text>1α,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="26688" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="26926" length="25"/>
+        <text>1α,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="26955" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="27083" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27111</offset>
+      <text>Pharmacophore models for Tetraodon VDR, PXR, and FXR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27164</offset>
+      <text>Using the structure-activity data for tnVDR, tnPXR, and tnFXR (summarized in Additional File 6), we developed common features pharmacophore models for these three receptors (Figure 7). The tnVDR pharmacophore, mapped onto 1,25-dihydroxyvitamin D3 in Figure 7A, has four hydrophobes and two hydrogen bond acceptors. The tnPXR pharmacophore, mapped onto taurochenodeoxycholic acid in Figure 7B, shows three hydrophobes and one hydrogen bond acceptor, a smaller pharmacophore than that determined for hPXR [64]. The tnFXR pharmacophore, mapped onto GW4064 in Figure 7C, shows four hydrophobes, one hydrogen bond acceptor, and one negative ionizable feature.</text>
+      <annotation id="G322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="27386" length="24"/>
+        <text>1,25-dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="27454" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013655</infon>
+        <location offset="27516" length="26"/>
+        <text>taurochenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="27589" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="27710" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="27759" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27819</offset>
+      <text>Pharmacophore models of Tetraodon VDR, PXR, and FXR. Pharmacophore models were developed for A) Tetraodon VDR (tnVDR), B) Tetraodon PXR (tnPXR), and C) Tetraodon FXR (tnFXR) using the HipHop method in Catalyst™. The structure-activity data used to develop the pharmacophore models are summarized in Additional File 6. A) The tnVDR pharmacophore contains 4 hydrophobes (cyan) and two hydrogen bond acceptors (green). 1,25-Dihydroxyvitamin D3 (calcitriol) was mapped to the pharmacophore. B) The tnPXR pharmacophore contains three hydrophobes (cyan) and one hydrogen bond acceptor (green). Taurochenodeoxycholic acid was mapped to the pharmacophore. C) The tnFXR pharmacophore contains four hydrophobes (cyan), one hydrogen bond acceptor (green), and one negative ionizable feature (blue). GW4064 was mapped to the pharmacophore.</text>
+      <annotation id="G328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28202" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="28235" length="24"/>
+        <text>1,25-Dihydroxyvitamin D3</text>
+      </annotation>
+      <annotation id="G330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="28261" length="10"/>
+        <text>calcitriol</text>
+      </annotation>
+      <annotation id="G331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28375" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013655</infon>
+        <location offset="28407" length="26"/>
+        <text>Taurochenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28532" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="28607" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28649</offset>
+      <text>Homology modeling of Tetraodon PXR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28684</offset>
+      <text>Structural studies of the LBD of hPXR reveal a large (~1,300 Å3), roughly spherical, hydrophobic LBP with the flexibility to accommodate large molecules such as hyperforin and rifampicin [30,32-34]. We can also see this by surface analysis of the co-crystallized ligands that cover a molecular weight range of 273-714 Da and a calculated ALogP (measure of hydrophobicity) range of 3.54-10.11 [65]. The homology model we generated of the LBD of tnPXR showed an LBP predicted to be slightly smaller (1,230 Å3) compared to hPXR (Figure 8), but larger than the estimated volumes of homology models of the LBPs of zebrafish PXR (~1,000 Å3) and Xenopus laevis PXRα (~860 Å3) that we reported previously [9,66]. The homology model results for tnPXR are consistent with the pharmacophore model for this receptor described above (Figure 7B).</text>
+      <annotation id="G336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001654</infon>
+        <location offset="28845" length="10"/>
+        <text>hyperforin</text>
+      </annotation>
+      <annotation id="G335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012293</infon>
+        <location offset="28860" length="10"/>
+        <text>rifampicin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>29522</offset>
+      <text>PXR-ligand interactions. Interaction map between the secondary bile acid lithocholic acid and PXRs. Key residues involved in binding are listed for human, Tetraodon (tn), and zebrafish (z) PXRs (the residue number is for human). Conserved resides throughout the three species are highlighted by black boxes. The hydrogen bond is shown by a green dashed line, the electrostatic charge interaction is presented as a blue dashed line, and the hydrophobic interaction is depicted as an orange dashed line. The ligand is shown as ball and stick presentation and colored according to atom types (gray = carbon, red-oxygen).</text>
+      <annotation id="G337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="29585" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="29595" length="16"/>
+        <text>lithocholic acid</text>
+      </annotation>
+      <annotation id="G339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29834" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30119" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="30131" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30140</offset>
+      <text>We performed molecular docking studies with two steroids (5β-pregnan-3,20-dione and 5α-androstan-3α-ol) and one bile acid (CDCA) that activated tnPXR in the luciferase assays (Figure 9). Docking studies show that the two steroids bind similar to the published crystallographic structure of 17β-estradiol bound to hPXR [35]. The carbonyl group of pregnanedione or hydroxyl group of androstanol at the C-3 position has a hydrogen bond with Thr-111, which corresponds to Ser-247 in hPXR. For pregnanedione, the carbonyl group at C-20 forms another hydrogen bond with Gln-305, as shown in Figure 6. Molecular docking indicated that the electrostatic interactions between CDCA and the conserved Arg-151 residue on helix 5 are important for binding to tnPXR. The hydroxyl group at the C-3 position forms a hydrogen bond with Glu-149, which is different from tnFXR, for which a His residue is involved in hydrogen bonding. For tnPXR, Tyr is in the position of this His residue, and adopts a different side-chain rotamer orientation to provide van der Waals contacts with the hydrocarbon scaffold of CDCA.</text>
+      <annotation id="G342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="30188" length="8"/>
+        <text>steroids</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D043582</infon>
+        <location offset="30198" length="21"/>
+        <text>5β-pregnan-3,20-dione</text>
+      </annotation>
+      <annotation id="G344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000732</infon>
+        <location offset="30224" length="18"/>
+        <text>5α-androstan-3α-ol</text>
+      </annotation>
+      <annotation id="G345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="30252" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="30263" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="30361" length="8"/>
+        <text>steroids</text>
+      </annotation>
+      <annotation id="G348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004958</infon>
+        <location offset="30430" length="13"/>
+        <text>17β-estradiol</text>
+      </annotation>
+      <annotation id="G349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011277</infon>
+        <location offset="30486" length="13"/>
+        <text>pregnanedione</text>
+      </annotation>
+      <annotation id="G350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000732</infon>
+        <location offset="30521" length="11"/>
+        <text>androstanol</text>
+      </annotation>
+      <annotation id="G351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30559" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="30578" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="G353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="30608" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="G354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011277</infon>
+        <location offset="30629" length="13"/>
+        <text>pregnanedione</text>
+      </annotation>
+      <annotation id="G355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30685" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="30704" length="3"/>
+        <text>Gln</text>
+      </annotation>
+      <annotation id="G357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="30807" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="30830" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30940" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30959" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="G361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="31011" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31038" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="31067" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="31098" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006838</infon>
+        <location offset="31208" length="11"/>
+        <text>hydrocarbon</text>
+      </annotation>
+      <annotation id="G366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="31232" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31252</offset>
+      <text>Homology model of Tetraodon PXR. Plot of interactions of ligands with tnPXR: A) the steroid 5β-pregnan-3,20-dione (pregnanedione) and B) the bile acid CDCA. The legend indicates the types of amino acid residues and amino acid-ligand interactions.</text>
+      <annotation id="G367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="31336" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D043582</infon>
+        <location offset="31344" length="21"/>
+        <text>5β-pregnan-3,20-dione</text>
+      </annotation>
+      <annotation id="G369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011277</infon>
+        <location offset="31367" length="13"/>
+        <text>pregnanedione</text>
+      </annotation>
+      <annotation id="G372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="31393" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="31403" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="31443" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="31467" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31502</offset>
+      <text>Homology modeling and docking studies of zebrafish PXR [9] show an important amino acid sequence difference (Met-243 in human PXR versus Phe at the corresponding position in zebrafish PXR). This residue is located at the bottom of the PXR LBP and has direct van der Waals contacts with A-ring and B-ring of the hydrocarbon scaffold of bile salts, specifically the methyl group at the C-10 position. In zebrafish PXR, the bulky and more rigid benzyl side-chain of the phenylalanine significantly narrow this portion of the zebrafish PXR LBP compared with human PXR which has the flexible side-chain of methionine-243, which may lead to preference for planar bile alcohols by zebrafish PXR. tnPXR has valine at the position corresponding to methionine-243 in human PXR, which allows enough room for either bent or planar formations of the A/B ring of bile salts.</text>
+      <annotation id="G374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="31579" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="31611" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="G376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="31639" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006838</infon>
+        <location offset="31813" length="11"/>
+        <text>hydrocarbon</text>
+      </annotation>
+      <annotation id="G380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="31837" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="31969" length="13"/>
+        <text>phenylalanine</text>
+      </annotation>
+      <annotation id="G382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="32103" length="10"/>
+        <text>methionine</text>
+      </annotation>
+      <annotation id="G379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="32159" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="32241" length="10"/>
+        <text>methionine</text>
+      </annotation>
+      <annotation id="G381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="32351" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>32363</offset>
+      <text>Homology modeling of Tetraodon FXR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32398</offset>
+      <text>For the homology model of tnFXR, molecular docking studies show that GW4064 adopts a similar orientation in the structural model as in the hFXR crystal structure [60]. The carboxyl group of GW4064 forms a strong electrostatic interaction with the conserved Arg residue in helix 5 of tnFXR. In addition, extensive hydrophobic contacts occur between the di-chloro-substituted benzyl ring of GW4064 and residues in helices 5, 7, 11 and 12 of tnFXR, which would stabilize the active conformation of receptor. CDCA also activated tnFXR in our experiments, but with weaker activity compared with its activity in hFXR. Sequence alignment indicated that most of the ligand contact residues identified in the crystallographic structure of hFXR [60] are conserved between tnFXR and hFXR. However, one important hydrogen bond interaction between the C-3 hydroxyl group of CDCA and hFXR is not present for tnFXR because Tyr-358 (hFXR) in helix 7 is substituted for by Phe in tnFXR.</text>
+      <annotation id="G384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="32467" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="32588" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="32655" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="32787" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="32903" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33199" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="33259" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="33306" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="33354" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33368</offset>
+      <text>There is an opening to solvent for the FXR LBP as seen in crystallographic structures of human or rat FXRs [59,60] and our homology models (Figure 10). The width of this opening is mostly controlled by two residues - Met-262 and Ile-332 in human FXR. For tnFXR, the residue corresponding to hFXR Ile-332 is alanine. Our model suggests that the LBP of tnFXR has a wider opening to solvent than hFXR, which may explain how tnFXR and not hFXR can accommodate cyprinol 27-sulfate, a C27 bile acid that has a longer side-chain and more hydroxyl groups than CDCA. The pharmacophore model for tnFXR summarized in Figure 7C is consistent with the homology modelling and docking results, in having multiple hydrophobic interactions, a hydrogen bond acceptor, and negative ionizable features for the bound ligand.</text>
+      <annotation id="G393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="33585" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="G394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007532</infon>
+        <location offset="33597" length="3"/>
+        <text>Ile</text>
+      </annotation>
+      <annotation id="G395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007532</infon>
+        <location offset="33664" length="3"/>
+        <text>Ile</text>
+      </annotation>
+      <annotation id="G396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="33675" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="625">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="33824" length="19"/>
+        <text>cyprinol 27-sulfate</text>
+      </annotation>
+      <annotation id="G397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="33851" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="33920" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34094" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>34172</offset>
+      <text>FXR-ligand interactions. Interaction map between the primary bile acid chenodeoxycholic acid and FXRs. Key residues involved in binding are listed for human, mouse (m), Tetraodon (tn), and sea lamprey (sl) FXRs (the residue number is for human). Conserved resides throughout the four species are highlighted by black boxes. Hydrogen bonds are shown by green dashed lines, the electrostatic charge interaction is presented as a blue dashed line, and the important cation-π interaction for FXR is depicted as a brown dashed line. The ligand is shown as ball and stick presentation and colored according to atom types (gray = carbon, red-oxygen).</text>
+      <annotation id="G403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="34233" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="34243" length="21"/>
+        <text>chenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34496" length="8"/>
+        <text>Hydrogen</text>
+      </annotation>
+      <annotation id="G402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="34795" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="34807" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>34817</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34828</offset>
+      <text>In this study, we characterize the FXR, VDR, and PXR of the green-spotted pufferfish Tetraodon nigriviridis, an actinopterygian fish that synthesizes mainly 5β-bile acids. This bile salt profile is similar to humans and most mammals, as well as many other actinopterygian fish, some reptiles, and some birds [13,23]. We find that the FXR and PXR of Tetraodon (tnFXR and tnPXR) are activated by common bent-shaped 5β-bile acids such as CDCA and less well by planar 5α bile alcohols, matching the endogenous primary bile salt profile of this species.</text>
+      <annotation id="452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="34985" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="35005" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="35241" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="35263" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="776">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="35292" length="16"/>
+        <text>5α bile alcohols</text>
+      </annotation>
+      <annotation id="G409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="35342" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35387</offset>
+      <text>Our experimental and molecular modelling studies of tnFXR reveal a receptor that differs in multiple respects from sea lamprey and zebrafish FXRs [9] but is instead more similar to medaka FXRα [58] and mammalian FXRs. Homology modelling of tnFXR predicts an LBP with a wide opening to solvent (wider than crystallographic structure of hFXR [60]) and an overall architecture that differs markedly from homology models of sea lamprey and zebrafish FXRs, which are both predicted to have narrow LBPs that can accommodate planar bile alcohols but cannot accommodate bent bile acids such as CDCA. Docking studies of lamprey and zebrafish FXRs predict good binding to planar 5α-bile alcohols but not to bent 5β-bile acids, a prediction that is consistent with reporter assay experiments [9]. For tnFXR, docking studies show that the FXR-selective agonist GW4064 and bile acid CDCA adopt orientations in the LBP similar to those observed in the crystallographic structures of GW4064 bound to hFXR [60] and rat FXR bound to an analog of CDCA, respectively [59], lending further support to the conclusion that tnFXR has an overall LBP structure more similar to human and rat FXRs than to sea lamprey or zebrafish FXRs.</text>
+      <annotation id="G412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="35912" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="35954" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="35973" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="36056" length="16"/>
+        <text>5α-bile alcohols</text>
+      </annotation>
+      <annotation id="464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="36089" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="36236" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="36247" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="36257" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="36356" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="36416" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36608</offset>
+      <text>Tetraodon FXR has similar ligand selectivity to medaka FXRα (to which it shares high sequence identity in the LBD), including strong activation by GW4064 and the primary bile acid CDCA (both unconjugated and taurine-conjugated) [58]. Given that the activation of medaka FXRα upregulates the transcription of genes important in bile salt synthesis and transport, including the genes for CYP7A1 and bile salt export protein as well as the NHR repressor small heterodimer partner (SHP, NR0B2) [67], Tetraodon FXR seems likely to also be involved in regulation of bile salt biology. Tetraodon FXR and medaka FXRα have a substantially different ligand selectivity from sea lamprey FXR, which is not activated by GW4064, CDCA (or other 5β-bile acids), or T-0901317 [9]. This is not surprising because the primary bile salts of the sea lamprey (planar 5α-bile alcohols) are quite different from those of Tetraodon (CDCA, CA) and medaka (CDCA, CA, and C27 bile acids) [23,57,58]. The FXRs of Tetraodon and medaka also differ significantly from an FXR cloned and characterized from the little skate (Leucoraja erinacea, a cartilaginous fish), which was found to be insensitive to bile salts, even the 5β-bile alcohols (e.g., 5β-scymnol sulfate) produced by the little skate and many other cartilaginous fish [68]. However, the skate FXR showed significant differences in sequence from other vertebrate FXRs, including novel insertions, and there is the possibility that this receptor is actually orthologous to mammalian FXRβ (NR1H5), which are activated not by bile salts but instead by other steroidal compounds such as lanosterol [40].</text>
+      <annotation id="G422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="36755" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="36778" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="36788" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013654</infon>
+        <location offset="36816" length="7"/>
+        <text>taurine</text>
+      </annotation>
+      <annotation id="G434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="36935" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="37005" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="37168" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="37315" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="37323" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="37338" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C423915</infon>
+        <location offset="37357" length="9"/>
+        <text>T-0901317</text>
+      </annotation>
+      <annotation id="G437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="37415" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="37453" length="16"/>
+        <text>5α-bile alcohols</text>
+      </annotation>
+      <annotation id="G427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="37516" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="37522" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="37538" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="37544" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="37556" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="37779" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="37800" length="16"/>
+        <text>5β-bile alcohols</text>
+      </annotation>
+      <annotation id="G432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="37824" length="18"/>
+        <text>5β-scymnol sulfate</text>
+      </annotation>
+      <annotation id="G439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="38161" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007810</infon>
+        <location offset="38221" length="10"/>
+        <text>lanosterol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>38266</offset>
+      <text>Homology modelling of tnPXR predicts a receptor with an LBP with a volume (1,230 Å3) significantly larger than the estimated volumes of the LBPs of zebrafish PXR (~1,000 Å3) and Xenopus laevis PXRα (~860 Å3) [9,66] but smaller than the LBP of hPXR in crystallographic structures [30,32-34]. The homology model and docking studies of tnPXR are consistent with our studies of recombinant tnPXR in luciferase reporter assays that show activation by a wider range of ligands than can activate either zebrafish or Xenopus PXRs. For example, tnPXR is activated by a broad range of 5β- and 5α-bile salts and steroids similar to hPXR. In contrast, studies of recombinant zebrafish PXR show activation by a narrow range of planar 5α-bile alcohols [4,6,7]. The pharmacophore model for tnPXR is similar to models of hPXR [64,69,70] which have four hydrophobic features along with a hydrogen bond acceptor, although the tnPXR pharmacophore had three hydrophobic features and a hydrogen bond donor, consistent with a somewhat more restricted LBP limited to smaller ligands than hPXR [29,64]. Like hPXR, tnPXR has a pharmacophore model markedly different from that of chicken and zebrafish PXRs [29].</text>
+      <annotation id="G448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="38841" length="21"/>
+        <text>5β- and 5α-bile salts</text>
+      </annotation>
+      <annotation id="G445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="38867" length="8"/>
+        <text>steroids</text>
+      </annotation>
+      <annotation id="494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="38987" length="16"/>
+        <text>5α-bile alcohols</text>
+      </annotation>
+      <annotation id="G446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="39137" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="39231" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39468</offset>
+      <text>Overall, the ligand selectivity of tnFXR and tnPXR contrasts with that of sea lamprey FXR, zebrafish FXR, and zebrafish PXR, which are activated better by 5α bile alcohols, which are the main bile salts of jawless fish (Agnatha, which includes extant lampreys and hagfish) and Cypriniformes (which includes zebrafish) [9,23]. Unlike lampreys and zebrafish, Tetraodon nigriviridis has a bile salt profile of mainly bent 5β-bile acids such as CDCA, and would thus be predicted to have bile-salt-regulating NHRs that can recognize Tetraodon endogenous bile acids and not the 'ancestral' bile alcohols that comprise only a trace fraction of the Tetraodon bile salt pool. These results lend further significant support to the hypothesis that structural changes to the LBD of FXR and PXR throughout evolution have paralleled cross-species changes in bile salt profile [6,7,10,11,66]. In Additional file 7 bile salt variation and NHR bile salt sensitivity are overlaid on a fish phylogeny. So far, only a limited number of fish species have been characterized with respect to their FXRs, VDRs, and/or PXRs. As discussed in Additional file 7 a number of fish groups would be of particular interest for future studies of NHRs, including the Elasmobranchii (sharks, skates, rays), Chimaeriformes (chimaerae), Myxiniformes (hagfish), and lobe-finned fish (lungfish and coelacanths).</text>
+      <annotation id="502">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="39623" length="16"/>
+        <text>5α bile alcohols</text>
+      </annotation>
+      <annotation id="G459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="39660" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G454">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="39854" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="39887" length="13"/>
+        <text>5β-bile acids</text>
+      </annotation>
+      <annotation id="G450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="39909" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="39951" length="9"/>
+        <text>bile-salt</text>
+      </annotation>
+      <annotation id="G452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="40017" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G453">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="40052" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="40119" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="40312" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="40367" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="40395" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40847</offset>
+      <text>Our present and previous studies [6,7,9,10] with VDRs from various non-mammalian species have revealed some VDRs that are insensitive to bile acids (sea lamprey, African clawed frog) and others that are activated by secondary bile acids such as LCA (human, mouse, chicken, medaka, Tetraodon). In humans and some other mammals, enzymes from anaerobic bacteria in the caecum deconjugate and dehydroxylate primary bile acids such as CDCA, leading to secondary bile acids such as LCA that can produce toxicity to the intestinal and hepatobiliary tracts [15,21]. We and others have speculated that the ability of VDRs to bind secondary bile acids was acquired during vertebrate evolution as a protective mechanism against the potential toxicity of poorly water-soluble secondary bile acids such as LCA [6,7,51,52]. One challenge to this hypothesis is that there has been little study to date of the secondary bile salts (and the anaerobic bacterial intestinal flora that could generate such bile salts) of non-mammalian species. For example, it is not known whether Tetraodon or other actinopterygian fish species have physiologically important amounts of secondary bile acids in the intestinal tract. With these caveats in mind, we summarize our studies of VDRs across different species.</text>
+      <annotation id="G462">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="40984" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41073" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="41092" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G474">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41258" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G465">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="41277" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="G466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41304" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="41323" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41478" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="762">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="41597" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41621" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G470">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="41640" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41751" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="41833" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42008" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>42131</offset>
+      <text>The structure-activity and molecular modelling data are both consistent with a tight, hydrophobic binding pocket for bile acids in the human VDR LBP that can bind bile acids with an oxo or single hydroxyl group at the C-3 position but not bile acids with substituents at the C-7 or C-12 positions (including unnatural bile acids with a single hydroxyl group on C-7 or C-12 and no substituent on C-3). Molecular modeling predicts an hVDR bile acid binding pocket that is predominantly hydrophobic but with polar features that permit hydrogen bond interaction with the 3α-hydroxy or 3-oxo group on the A ring of the bile acid and electrostatic interactions with the bile acid side-chain as described above. Bile acids that have hydroxyl groups on steroid rings B and/or C (CDCA, DCA, CA, 7α-hydroxy-5β-cholanic acid, 7β-hydroxy-5β-cholanic acid, and 12α-hydroxy-5β-cholanic acid) do not interact favourably with the more hydrophobic and sterically constrained portion of the hVDR bile acid binding pocket, consistent with the lack of activity of these bile acids in transactivation assays. On the contrary, the unsubstituted and hydrophobic B, C, and D rings of LCA complement well the lipophilic portion of hVDR pocket and can form numerous van der Waals interactions. We suggested that the unique physicochemical arrangement of the hVDR ligand binding cavity provides the structural basis for selective activation by LCA and its derivatives [9].</text>
+      <annotation id="G475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42248" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42294" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G477">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42370" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42449" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42568" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="42663" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G481">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42745" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G482">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42795" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="42836" length="10"/>
+        <text>Bile acids</text>
+      </annotation>
+      <annotation id="G484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="42876" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="G485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002635</infon>
+        <location offset="42902" length="4"/>
+        <text>CDCA</text>
+      </annotation>
+      <annotation id="536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840</infon>
+        <location offset="42908" length="3"/>
+        <text>DCA</text>
+      </annotation>
+      <annotation id="G487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="42913" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="42917" length="27"/>
+        <text>7α-hydroxy-5β-cholanic acid</text>
+      </annotation>
+      <annotation id="G489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="42946" length="27"/>
+        <text>7β-hydroxy-5β-cholanic acid</text>
+      </annotation>
+      <annotation id="G490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="42979" length="28"/>
+        <text>12α-hydroxy-5β-cholanic acid</text>
+      </annotation>
+      <annotation id="G491">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="43109" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G492">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="43181" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G493">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="43291" length="3"/>
+        <text>LCA</text>
+      </annotation>
+      <annotation id="G494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="43548" length="3"/>
+        <text>LCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>43601</offset>
+      <text>It is less clear, even with our mutagenesis studies, exactly what changes mediate the cross-species differences in VDR pharmacology. Our studies rule out the helix 1 - helix 3 'insertion' domain as playing a role in the cross-species differences in activation by secondary bile acids. This insert is disordered in human and mouse VDRs and shows highly variable sequences and lengths across species [71-74]. Our site-directed mutagenesis experiments do confirm the previous prediction that Arg-274 and His-397 play a key role in interacting with bile acids [50,51]. Interestingly, Arg-274 and His-397 are conserved in the bile salt-insensitive xlVDR, indicating that other determinants underlie the differences in bile salt pharmacology between xlVDR and bile-salt responsive VDRs.</text>
+      <annotation id="G495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="43874" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="44090" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="44102" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44146" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="44181" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="44193" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G502">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44222" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44314" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G501">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44355" length="9"/>
+        <text>bile-salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>44382</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>44394</offset>
+      <text>Our studies provide further important evidence of the relationship between FXR, PXR, and VDR ligand selectivity and cross-species variation in bile salt profiles. Zebrafish and the green-spotted pufferfish Tetraodon nigriviridis provide a clear contrast in having markedly different primary bile salt profiles (planar bile alcohols for zebrafish and sterically bent bile acids for the pufferfish) and correspondingly contrasting receptor selectivity that matches the differences in endogenous ligands. In contrast, Tetraodon has a bile salt profile and receptor ligand selectivity similar to humans. Our observations present an integrated picture of co-evolution of bile salt structure and the binding pockets of three nuclear hormone receptors.</text>
+      <annotation id="G505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44537" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44685" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002777</infon>
+        <location offset="44712" length="13"/>
+        <text>bile alcohols</text>
+      </annotation>
+      <annotation id="G504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44760" length="10"/>
+        <text>bile acids</text>
+      </annotation>
+      <annotation id="G507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="44925" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+      <annotation id="G508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="45060" length="9"/>
+        <text>bile salt</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>45140</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>45148</offset>
+      <text>Bile sample analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>45169</offset>
+      <text>Bile salts from the green-spotted pufferfish were analyzed by HPLC and ESI/MS/MS using methods previously described [23,75].</text>
+      <annotation id="G510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="45169" length="10"/>
+        <text>Bile salts</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>45294</offset>
+      <text>Chemicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>45304</offset>
+      <text>The sources of chemicals were as follows: GW4064 (Sigma, St. Louis, MO, USA); T-0901317 (Axxora, San Diego, CA, USA); 3α,7α,12α,24-tetrahydroxy-5α-cholan-24-sulfate (5α-petromyzonol sulfate; Toronto Research Chemical, Inc., North York, ON, Canada); 1α,25-(OH)2-vitamin D3, Nuclear Receptor Ligand Library (76 compounds known as ligands of various NHRs; BIOMOL International, Plymouth Meeting, PA, USA). All other commercially purchased steroids and bile salts were obtained from Steraloids (Newport, RI, USA). Norlithocholic acid, 3β-hydroxy-5α-cholan-24-oic acid, 3β-hydroxy-5β-cholan-24-oic acid, 7α-hydroxy-5β-cholan-24-oic acid, 7β-hydroxy-5β-cholan-24-oic acid, and 12α-hydroxy-5β-cholan-24-oic acid were generously donated by the laboratory of A.F. Hofmann (University of California - San Diego, La Jolla, CA, USA).</text>
+      <annotation id="G511">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="45346" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="G512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C423915</infon>
+        <location offset="45382" length="9"/>
+        <text>T-0901317</text>
+      </annotation>
+      <annotation id="G513">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019826</infon>
+        <location offset="45412" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="558">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C500317</infon>
+        <location offset="45422" length="46"/>
+        <text>3α,7α,12α,24-tetrahydroxy-5α-cholan-24-sulfate</text>
+      </annotation>
+      <annotation id="G515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C500317</infon>
+        <location offset="45470" length="23"/>
+        <text>5α-petromyzonol sulfate</text>
+      </annotation>
+      <annotation id="G516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="45553" length="22"/>
+        <text>1α,25-(OH)2-vitamin D3</text>
+      </annotation>
+      <annotation id="G517">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013256</infon>
+        <location offset="45740" length="8"/>
+        <text>steroids</text>
+      </annotation>
+      <annotation id="G524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="45753" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+      <annotation id="G518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048433</infon>
+        <location offset="45814" length="19"/>
+        <text>Norlithocholic acid</text>
+      </annotation>
+      <annotation id="G519">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="45835" length="32"/>
+        <text>3β-hydroxy-5α-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G520">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="45869" length="32"/>
+        <text>3β-hydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="45903" length="32"/>
+        <text>7α-hydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G522">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="45937" length="32"/>
+        <text>7β-hydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+      <annotation id="G523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002793</infon>
+        <location offset="45975" length="33"/>
+        <text>12α-hydroxy-5β-cholan-24-oic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>46183</offset>
+      <text>Cloning and expression of full-length VDRs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>46226</offset>
+      <text>Full-length VDRα sequences from medaka (Oryzias latipes), zebrafish, and green spotted pufferfish were identified within each species genome by conducting a generalized BLAST search using a query sequence representing the P box domain of human VDR located within the highly conserved DNA binding region for the NHR superfamily. Full-length transcripts were subsequently determined by identifying transcriptional start and stop codons for each gene. cDNAs containing a complete open reading frame for each gene were produced by PCR using primer sets that spanned the entire nucleic acid sequence for each gene including start and stop codons. cDNAs were produced from extracts of fish liver total RNA. Livers were homogenized with 1 mL RNA Bee (Tel-Test, Inc. Friendswood, TX, USA) using a stainless steel Polytron homogenizer (Kinematica, Lucerne, Switzerland) followed by cleanup and on- column DNase treatment using an RNeasy Mini Kit (Qiagen, Valencia, CA, USA).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>47196</offset>
+      <text>RNA was eluted with 30 μl RNase-free water. RNA quantity and quality were verified using an Agilent 2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA, USA) and NanoDrop® ND-1000 spectrophotometer (ThermoScientific, Wilmington, DE, USA). First strand cDNA was made from total RNA (1-3 μg) and diluted with RNase-free water to a final volume of 10 μl, and 1 μl oligo(dT)15 (500 μg/ml; Promega, Madison, WI, USA) and 1 μl 10 mM dNTPs were mixed with diluted RNA to yield a final volume of 20 μl. The mix was heated to 65°C for 5 min and chilled on ice for 2 min. Following centrifugation, 4 μl 5X first-strand buffer (Invitrogen, Carlsbad, CA, USA), 2 μl of 0.1 M DDT, and 1 μl RNase OUT Inhibitor (40 U/μl; Invitrogen) were added to each reaction and heated to 37°C. Following a 2 min incubation, 1 μl Superscript Reverse Transcriptase (200 U/μl; Invitrogen) was added to each reaction and mRNA reverse transcribed at 37°C for 1 h. All reverse transcription (RT) reactions were then inactivated by incubating at 70°C for 15 min. cDNAs were stored at -20°C until PCR. PCR primers for teleost VDRα were designed using PrimerQuest (Integrated DNA Technologies, Coralville, IA, USA). PCR primers were flanked by restriction sites for incorporation and transfer between appropriate cloning and expression vectors. For each 25-μl PCR reaction, first-strand cDNAs were amplified using 2 μl (100-300 ng) first-strand cDNA, 9 μl RNase-free water, 0.75 μl 10 μM forward primer (0.3 μM), 0.75 μl 10 μM reverse primer (0.3 μM), and 12.5 μl 2X Advantage Taq PCR Master Mix (Clontech, Mountain View, CA, USA). PCR reaction conditions were: 95°C for 1.5 min followed by 35 cycles of 94°C for 15 s, 55°C for 30 s, and 72°C for 1 min. PCR products for each teleost VDRα sequence were cloned into the TA cloning vector pCR2.1 (Invitrogen, Carlsbad, CA) as per manufacturer's suggestions. VDR's were subsequently excised from pCR 2.1 using EcoRI and BamHI and inserted unidirectionally into the expression vector pSG5. Proper orientation of VDRα's within the vector was confirmed by PCR screening and sequencing in both directions.</text>
+      <annotation id="763">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="47233" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="759">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="47518" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2X1012">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009838</infon>
+        <location offset="47561" length="11"/>
+        <text>oligo(dT)15</text>
+      </annotation>
+      <annotation id="572">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015224</infon>
+        <location offset="47863" length="3"/>
+        <text>DDT</text>
+      </annotation>
+      <annotation id="764">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="48631" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>49349</offset>
+      <text>HepG2 cells were cultured in T75 flasks with vented caps (Corning, Corning, NY) using MEM containing head-inactivated fetal bovine serum (10%), 1X sodium pyruvate, 1X nonessential amino acids, and 1% penicillin/streptomycin. Cells were maintained at 37°C with 5% CO2 and split regularly at 70-80% confluency. For transient transfection, HepG2 cells were seeded at a density of 1 × 105 cells per well in 24 well plates in antibiotic-free MEM. Wells were transfected over night with either empty pSG5 vector (control), medaka VDRα, zebrafish VDRα, or Tetraodon VDRα. Each well contained 299 ng pSG5-VDRα for either (medaka, zebrafish, or Tetraodon), 64 ng hCYP3A4-Luc reporter construct (XREM), and 15 ng of the Renilla normalizing plasmid (pRL-CMV). Luciferase reporter assay experiments were performed as previously described [58].</text>
+      <annotation id="G526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011773</infon>
+        <location offset="49496" length="15"/>
+        <text>sodium pyruvate</text>
+      </annotation>
+      <annotation id="G527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="49529" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="49549" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G530">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="49560" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G529">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="49612" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>50197</offset>
+      <text>Plasmids containing human organic anion transporting polypeptide (Oatp1a1; Slco1a1), as well as the reporter construct tk-UAS-Luc and the 'empty' vector PM2, were generously provided by SA Kliewer, JT Moore, and LB Moore (GlaxoSmithKline, Research Triangle Park, NC, USA). To permit comparison between species and to avoid mismatching of non-mammalian receptors with mammalian retinoid X receptor, co-factors, and chromatin remodeling factors, all receptors were studied as LBD/GAL4 chimeras. For the GAL4/LBD expression constructs, the reporter plasmid is tk-UAS-Luc, which contains GAL4 DNA binding elements driving luciferase expression. The cloning of LBDs from hFXR, hVDR, mouse VDR (mVDR), and zebrafish VDR has been previously reported [6,7,9].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>50949</offset>
+      <text>The LBD of chicken VDR was cloned from RNA extracted from the LMH cell line. The LBD of Xenopus laevis VDR was cloned from RNA extracted from the A6 cell line. The LBDs of tnFXR, tnVDR, and tnPXR were cloned from total RNA extracted from Tetraodon liver using sequence information from the draft Tetraodon nigriviridis genome [76]. The LBDs of chVDR (amino acid residues 113-451), xlVDR (amino acid residues 91-422), tnFXR (amino acid residues 180-463), tnVDR (amino acid residues 91-426), and tnPXR (amino acid residues 202-483) were inserted into the pM2-GAL4 vector to create GAL4/LBD chimeras.</text>
+      <annotation id="G531">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="51300" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G532">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="51337" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="51373" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G534">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="51410" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="51450" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>51547</offset>
+      <text>Site-directed mutations of mVDR were performed using the QuikChange II mutagenesis kit (Stratagene, La Jolla, CA, USA). All mutations were confirmed by sequencing of both DNA strands. To explore the importance of the H1-H3 insert in ligand selectivity, four constructs were created. Thus, we generated hVDR/Δins that lacked amino acid residues 165-218 (hVDR/Δins) and a hVDR construct where the insert domain was replaced with the insertion domain from bile acid-insensitive xlVDR (hVDR/xlVDRins; hVDR residues 158-223 replaced by xlVDR residues 160-218). The analogous constructs were also created for xlVDR: one lacking the insertion domain (xlVDR/Δins; missing amino acid residues 166-211) and the other (xlVDR/hVDRins; xlVDR residues 160-218 replaced by hVDR residues 158-223). The chimeras were generated by synthesis of double-stranded DNA (Genscript, Piscataway, NJ) which was inserted into the pM2-GAL4 vector.</text>
+      <annotation id="G536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="51871" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G537">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="52000" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="52211" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>52478</offset>
+      <text>Cell lines</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>52489</offset>
+      <text>The creation of a HepG2 (human liver) cell line stably expressing the human Na+-taurocholate cotransporter (NTCP; SLC10A1) has been previously reported [7]. HepG2-NTCP cells were grown in modified Eagle's medium-α containing 10% fetal bovine serum and 1% penicillin/streptomycin. The cells were grown at 37°C in 5% CO2. The chicken LMH hepatoma cell line (ATCC, Manassus, VA, USA) was grown in Waymouth's MB 752/1 medium (ATCC) with 10 fetal bovine serum. The Xenopus laevis A6 kidney cell line (ATCC) was grown in 75% NCTC 109 medium, 15% distilled water, and 10% fetal bovine serum at 26°C in 2% CO2. Except as noted above, all media and media supplements for the HepG2 and A6 cell lines were obtained from Invitrogen (Carlsbad, CA, USA). Co-transfections and transactivations assays were performed as previously described [77]. The maximal activators and their concentrations were as follows: chVDR, xlVDR, and tnVDR - 200 nM 1α,25-(OH)2-vitamin D3; tnFXR - 5 μM GW4064; tnPXR - 50 μM 5α-androstan-3α-ol. All comparisons to maximal activators were done within the same microplate. Luciferase data were normalized to the internal β-galactosidase control and represent means ± SD of the assays.</text>
+      <annotation id="G545">
+        <infon key="type">OTHER</infon>
+        <location offset="52565" length="30"/>
+        <text>Na+-taurocholate cotransporter</text>
+      </annotation>
+      <annotation id="768">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="52686" length="16"/>
+        <text>Eagle's medium-α</text>
+      </annotation>
+      <annotation id="G539">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="52744" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G546">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="52755" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G540">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="52804" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="769">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="52883" length="26"/>
+        <text>Waymouth's MB 752/1 medium</text>
+      </annotation>
+      <annotation id="770">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="53008" length="15"/>
+        <text>NCTC 109 medium</text>
+      </annotation>
+      <annotation id="765">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="53039" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G541">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="53087" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="601">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002117</infon>
+        <location offset="53418" length="22"/>
+        <text>1α,25-(OH)2-vitamin D3</text>
+      </annotation>
+      <annotation id="G543">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412815</infon>
+        <location offset="53455" length="6"/>
+        <text>GW4064</text>
+      </annotation>
+      <annotation id="2X1054">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000732</infon>
+        <location offset="53477" length="18"/>
+        <text>5α-androstan-3α-ol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>53707</offset>
+      <text>Common features pharmacophore development and database screening</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>53772</offset>
+      <text>Computational molecular modeling studies were carried out using Catalyst™in Discovery Studio 2.5.5 (Accelrys, San Diego, CA, USA) by methods previously described [29]. Common features pharmacophores were developed based on the compounds tested against tnFXR, tnPXR and tnVDR using the HipHop method [78,79]. A HipHop pharmacophore attempts to describe the arrangement of key features that are important for biological activity.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>54202</offset>
+      <text>Molecular modeling studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>54229</offset>
+      <text>A structural model of the LBDs of the tnFXR and tnPXR were constructed using the Molecular Operating Environment (MOE; Chemical Computating Group, Montreal, Canada) Homology Model module. The modeling template used for FXR is the published crystal structure of rat FXR in complex with 6α-ethyl-chenodeoxycholic acid (PDB ID = 1OSV) [59] (this structure was chosen because it has bound bile acid unlike available crystal structures of hFXR). The template for PXR is hPXR co-crystallized with SR12813 (PDB ID = 1nrl) [33]. Several energy minimization-based refinement procedures were implemented on the initial model, and the quality of the final model was confirmed by the WHATIF-Check program. Estimation of the volume of the LBP for the crystallographic structures and homology models described above were determined using CASTp http://sts.bioengr.uic.edu/castp/calculation.php[80].</text>
+      <annotation id="G547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C464660</infon>
+        <location offset="54514" length="30"/>
+        <text>6α-ethyl-chenodeoxycholic acid</text>
+      </annotation>
+      <annotation id="G548">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="54614" length="9"/>
+        <text>bile acid</text>
+      </annotation>
+      <annotation id="G549">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100355</infon>
+        <location offset="54720" length="7"/>
+        <text>SR12813</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>55117</offset>
+      <text>Molecular docking studies were performed by the GOLD docking program [81]. In addition to the docking studies with tnPXR and tnFXR, LCA was docked into the crystal structure for human VDR (PDB accession number 1DB1). During the docking process, the protein was held fixed while full conformational flexibility was allowed for ligands. For each ligand, 30 independent docking runs were performed to achieve the consensus orientation in the LBP.</text>
+      <annotation id="G550">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008095</infon>
+        <location offset="55249" length="3"/>
+        <text>LCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>55561</offset>
+      <text>Authors' contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>55584</offset>
+      <text>NA and SE performed molecular modelling studies, including those that provided the basis for the site-directed mutagenesis experiments. LRH performed the analysis of bile salts of the green-spotted pufferfish. EMK and SWK performed the cloning, expression, and analysis of full-length VDRs in three actinopterygian fish species. EJR and MDK cloned Tetraodon FXR, Tetraodon PXR, chicken VDR, Xenopus laevis VDR, and Tetraodon VDR, as well as all site-directed mutants of mouse VDR. MDK performed the function assays of all GAL4/LBD chimeric receptors and drafted the manuscript. All authors contributed to, read, and approved the final manuscript.</text>
+      <annotation id="G551">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001647</infon>
+        <location offset="55750" length="10"/>
+        <text>bile salts</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>56231</offset>
+      <text>Supplementary Material</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>56254</offset>
+      <text>Acknowledgements</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>56271</offset>
+      <text>MDK is supported by K08-GM074238 from the National Institutes of Health. SWK is supported by the National Science Foundation NSF0842510. SE kindly acknowledges Accelrys for providing Discovery Studio for use in this work.</text>
+    </passage>
+  </document>
+</collection>

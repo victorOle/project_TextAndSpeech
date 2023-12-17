@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3033436</id>
+    <passage>
+      <infon key="name_3">surname:Zheng;given-names:Zhi</infon>
+      <infon key="name_2">surname:Sheng;given-names:Min-Jie</infon>
+      <infon key="name_1">surname:Xu;given-names:Xun</infon>
+      <infon key="name_0">surname:Chen;given-names:Yi-Hui</infon>
+      <infon key="article-id_pmid">21297899</infon>
+      <infon key="fpage">332</infon>
+      <infon key="year">2011</infon>
+      <infon key="article-id_publisher-id">39 2010MOLVIS0280</infon>
+      <infon key="article-id_pmc">3033436</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">17</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the
+        Creative Commons Attribution License, which permits unrestricted use,
+        distribution, and reproduction in any medium, provided the original
+        work is properly cited.</infon>
+      <infon key="lpage">340</infon>
+      <infon key="name_4">surname:Gu;given-names:Qing</infon>
+      <offset>0</offset>
+      <text>Effects of asymmetric dimethylarginine on bovine retinal capillary endothelial cell proliferation, reactive oxygen species production, permeability, intercellular adhesion molecule-1, and occludin expression</text>
+      <annotation id="G1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="11" length="27"/>
+        <text>asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="99" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>208</offset>
+      <text>Purpose</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>216</offset>
+      <text>Asymmetric dimethylarginine (ADMA), an endogenous competitive inhibitor of nitric oxide synthase, is associated with impaired endothelial dysfunction, such as chronic heart failure, hypertension, diabetes, and pulmonary hypertension. The effects of ADMA on cell proliferation, reactive oxygen species (ROS) production, cell permeability, intercellular adhesion molecule-1 (ICAM-1), and tight-junction protein occludin levels in bovine retinal capillary endothelial cells (BRCECs) were investigated.</text>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="216" length="27"/>
+        <text>Asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="245" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">OTHER</infon>
+        <location offset="291" length="21"/>
+        <text>nitric oxide synthase</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="465" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="493" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="518" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>715</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>723</offset>
+      <text>A cell proliferation assay was performed using the novel tetrazolium compound 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium and an electron coupling reagent. Intracellular ROS levels were determined using the fluorescent probe CM-H2DCFDA. Horseradish peroxidase was used for a permeability assay. ICAM-1 and tight-junction protein occludin were assessed by western blotting and quantitative real-time PCR.</text>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013778</infon>
+        <location offset="780" length="11"/>
+        <text>tetrazolium</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="801" length="88"/>
+        <text>3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="938" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110400</infon>
+        <location offset="993" length="10"/>
+        <text>CM-H2DCFDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1172</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1180</offset>
+      <text>Cell proliferation was significantly inhibited by ADMA. ADMA increased intracellular ROS generation in BRCECs. The increased ROS production induced by ADMA was markedly inhibited by the angiotensin II receptor-blocker telmisartan, the angiotensin-converting enzyme inhibitor benazepril, the reduced form of nicotinamide-adenine dinucleotide phosphate (NADPH) oxidase inhibitor diphenyliodonium (DPI), or the antioxidant and free-radical scavenger N-acetyl-l-cysteine (NAC). ADMA significantly increased horseradish peroxidase (HRP) permeability in BRCECs. Benazepril, telmisartan, DPI, and NAC downregulated cell permeability. ADMA markedly upregulated ICAM-1 expression in BRCECs, which were downregulated by telmisartan, DPI, and NAC. ADMA significantly downregulated occludin expression in BRCECs. Benazepril and telmisartan upregulated occludin expression in BRCECs exposed to ADMA.</text>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="1230" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="1236" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1265" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1305" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="1331" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="1398" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="1455" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">OTHER</infon>
+        <location offset="1487" length="59"/>
+        <text>nicotinamide-adenine dinucleotide phosphate (NADPH) oxidase</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="1557" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="1575" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="1627" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="1648" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="1654" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="1736" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="1748" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="1761" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="1770" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="1807" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="1890" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="1903" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="1912" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="1917" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="1981" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="1996" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2061" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>2067</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>2079</offset>
+      <text>Our results provide the first reported evidence that ADMA has potent adverse effects on cell proliferation, intracellular ROS generation, cell permeability, levels of ICAM-1, and the tight-junction protein occludin. Angiotensin-converting enzyme inhibitors, angiotensin II receptor blockers, and antioxidants are effective inhibitors of the adverse effects of ADMA.</text>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2132" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2201" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2439" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2445</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2458</offset>
+      <text>Asymmetric dimethylarginine (ADMA), an endogenous competitive inhibitor of nitric oxide synthase, is generated in the presence of type 1 protein arginine N-methyltransferase (PRMT-1) and is metabolized by dimethylarginine dimethylaminohydrolases (DDAHs) [1]. Elevated ADMA concentration in plasma is associated with impaired endothelial dysfunction, such as in chronic heart failure, hypertension, renal failure, diabetes, and pulmonary hypertension [2-4]. ADMA is also related to endothelial dysfunction in diabetic complications. Our previous studies suggested that PRMT-1- and DDAH-induced ADMA upregulation was involved in reactive oxygen species (ROS)- and renin-angiotensin system (RAS)-mediated diabetic retinopathy (DR), which may be a novel mechanism for the development or progression of DR [5]. Angiotensin-converting enzyme inhibitor (ACEI), angiotensin II receptor blocker (ARB), or antioxidants can be used to reduce ROS production and lower ADMA concentrations, thus ameliorating endothelial dysfunction and improving prognosis in DR [5].</text>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2458" length="27"/>
+        <text>Asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2487" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">OTHER</infon>
+        <location offset="2533" length="21"/>
+        <text>nitric oxide synthase</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">OTHER</infon>
+        <location offset="2588" length="43"/>
+        <text>type 1 protein arginine N-methyltransferase</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">OTHER</infon>
+        <location offset="2663" length="40"/>
+        <text>dimethylarginine dimethylaminohydrolases</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2726" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="2915" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="3051" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="3085" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="3110" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="3389" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="3414" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3512</offset>
+      <text>DR is a leading cause of acquired visual impairment in working-age adults in developed countries [6]. The precise mechanism underlying the progression of DR remains unclear. Several biochemical abnormalities, such as excessive nonenzymatic glycation [7], activation of the aldose reductase pathway [8], activation of protein kinase C [9], and oxidative stress [10], have been identified as being involved in the pathogenesis of DR. Oxidative stress induced by hyperglycemia is thought to play a significant role in DR and to contribute to endothelial dysfunction [11]. Increases in ROS level are correlated with increased leukocyte adhesion to the retinal vasculature (leukostasis) and breakdown of the blood-retinal barrier (BRB) [12,13]. Breakdown of the BRB and leukostasis are hallmarks of DR. Increased leukostasis in the early stages of DR occurs through the upregulation of intercellular adhesion molecule-1 (ICAM-1) [14]. Diabetes-induced BRB breakdown is associated with reduced expression of the tight-junction protein occludin, and with its redistribution within the retinal vascular endothelium [15].</text>
+      <annotation id="G53">
+        <infon key="type">OTHER</infon>
+        <location offset="3785" length="16"/>
+        <text>aldose reductase</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="4094" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4625</offset>
+      <text>Recent studies indicated that ADMA regulates endothelial permeability and endothelial barrier function [16]. The present study was performed to investigate whether ADMA affects cell proliferation, ROS production, cell permeability, ICAM-1, and tight-junction protein occludin expression in bovine retinal capillary endothelial cells (BRCECs). Moreover, we observed the interfering effects of ACEI, ARB, and antioxidants on the above changes, to assess the role of ADMA in retinal capillary endothelial permeability and endothelial barrier function.</text>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="4655" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="4789" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="4822" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="5089" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5174</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5182</offset>
+      <text>Cell culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5195</offset>
+      <text>BRCECs were cultured as described previously [17]. Briefly, BRCECs were cultured in endothelial cell medium (ECM; ScienCell Research Labs, Carlsbad, CA) consisting of 5% fetal bovine serum, 1% endothelial cell growth supplement, and 1% penicillin/streptomycin solution. Endothelial cells at passage 3–5 were used in the following experiments, including the cell proliferation assay, examination of ROS levels, permeability assay, western blotting analysis, and quantitative real-time (RT)-PCR. The cells were washed when at 80% confluence and were cultured overnight with endothelial cell basal medium, consisting of 0.4% fetal bovine serum and 1% penicillin/streptomycin solution. The cells were then incubated with 100 μM ADMA (Sigma, St. Louis, MO) and 100 μM ADMA plus 10 μM benazepril (Sigma), 10 μM telmisartan (Sigma), 10 μM diphenyliodonium (DPI, an reduced form of nicotinamide-adenine dinucleotide phosphate [NADPH] oxidase inhibitor; Sigma), or 10 mM N-acetyl-l-cysteine (NAC, an antioxidant and free radical scavenger; Sigma). The control group was cultured in endothelial cell basal medium, consisting of 0.4% fetal bovine serum and 1% penicillin/streptomycin solution. Cells were harvested after 24 h for western blotting analysis, quantitative RT–PCR analysis, and examination of ROS levels.</text>
+      <annotation id="341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5279" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5304" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="5431" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="5442" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="5593" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="5843" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="5854" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="5919" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="5958" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="5974" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="6000" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="6027" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="6045" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">OTHER</infon>
+        <location offset="6069" length="69"/>
+        <text>nicotinamide-adenine dinucleotide phosphate [NADPH] oxidase inhibitor</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="6157" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="6178" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="6344" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="6355" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="6490" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6517</offset>
+      <text>Cell proliferation assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6542</offset>
+      <text>Cell proliferation assay was performed using the novel tetrazolium compound, 3-(4, 5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium (MTS), and the electron-coupling reagent, phenazine ethosulfate (PES). PES has enhanced chemical stability, which allows it to be combined with MTS to form a stable solution. This convenient “one solution” format is an improvement over the traditional method, where phenazine methosulfate (PMS) is used as the electron-coupling reagent, and PMS solution and MTS solution are supplied separately. The MTS tetrazolium compound (Owen’s reagent) is bioreduced by cells into a colored formazan product that is soluble in tissue culture medium. This conversion is presumably accomplished by NADPH or reduced form of nicotinamide-adenine dinucleotid (NADH), produced by dehydrogenase enzymes in metabolically active cells [18]. The quantity of formazan product, as determined by measuring the absorbance at 490 nm, is directly proportional to the number of living cells in the culture. Endothelial cells were plated in 96-well culture plates at an optimal density of 1×105 cells/ml with 100 μl of culture medium per well. After 3 days, cells were cultured with endothelial cell basal medium, consisting of 0.4% fetal bovine serum and 1% penicillin/streptomycin solution, overnight. The cells were then incubated with 10 μM, 50 μM, 100 μM, and 200 μM ADMA for 24–72 h. Then, 20 μl of CellTiter 96® AQueous One Solution Reagent (Promega, Madison, WI) were pipetted into each well of the 96-well assay plates containing the samples in 100 μl of culture medium. The plates were incubated at 37 °C for 1–4 h in a humidified, 5% CO2 atmosphere. The optical density of each sample was determined immediately on an enzyme linked immunosorbent assay (ELISA) microplate reader (Wallac 1420; PerkinElmer, Waltham, MA) at 490 nm. Samples were tested in duplicate. The corrected absorbance at 490 nm (y-axis) was plotted against the incubation time of cells with ADMA (x-axis).</text>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013778</infon>
+        <location offset="6597" length="11"/>
+        <text>tetrazolium</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="6619" length="89"/>
+        <text>3-(4, 5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="6710" length="3"/>
+        <text>MTS</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028122</infon>
+        <location offset="6751" length="21"/>
+        <text>phenazine ethosulfate</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028122</infon>
+        <location offset="6774" length="3"/>
+        <text>PES</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028122</infon>
+        <location offset="6780" length="3"/>
+        <text>PES</text>
+      </annotation>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="6853" length="3"/>
+        <text>MTS</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008773</infon>
+        <location offset="6975" length="22"/>
+        <text>phenazine methosulfate</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008773</infon>
+        <location offset="6999" length="3"/>
+        <text>PMS</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008773</infon>
+        <location offset="7050" length="3"/>
+        <text>PMS</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="7067" length="3"/>
+        <text>MTS</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="7109" length="3"/>
+        <text>MTS</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013778</infon>
+        <location offset="7113" length="11"/>
+        <text>tetrazolium</text>
+      </annotation>
+      <annotation id="336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C070380</infon>
+        <location offset="7135" length="14"/>
+        <text>Owen’s reagent</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005562</infon>
+        <location offset="7189" length="8"/>
+        <text>formazan</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="7294" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="7319" length="32"/>
+        <text>nicotinamide-adenine dinucleotid</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="7353" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005562</infon>
+        <location offset="7446" length="8"/>
+        <text>formazan</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="7839" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="7850" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="7952" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007202</infon>
+        <location offset="7985" length="42"/>
+        <text>CellTiter 96® AQueous One Solution Reagent</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="8225" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="8552" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8595</offset>
+      <text>Examination of reactive oxygen species levels in bovine retinal capillary endothelial cells</text>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="8610" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8687</offset>
+      <text>Intracellular ROS levels in BRCECs were determined using CM-H2DCFDA (Invitrogen, Carlsbad, CA). Confluent BRCECs in 6-well plates were collected, centrifuged, washed with phosphate-buffered saline (PBS), which contained 1.06 mM monobasic potassium phosphate, 155.17 mM sodium chloride, and 2.97 mM dibasic sodium phosphate and incubated with 10 μM CM-H2DCFDA at 37 °C for 30 min. BRCECs incubated with PBS and dimethyl sulfoxide served as negative controls. The levels of fluorescence were immediately determined by flow cytometry (XL-4; Beckman-Coulter, Fullerton, CA).</text>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="8701" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110400</infon>
+        <location offset="8744" length="10"/>
+        <text>CM-H2DCFDA</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="8858" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="8885" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="8925" length="19"/>
+        <text>potassium phosphate</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="8956" length="15"/>
+        <text>sodium chloride</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="8993" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110400</infon>
+        <location offset="9035" length="10"/>
+        <text>CM-H2DCFDA</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="9089" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="9097" length="18"/>
+        <text>dimethyl sulfoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9265</offset>
+      <text>Permeability assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9284</offset>
+      <text>BRCECs (1×105 cells/ml) were plated in double-chamber tissue culture plates (Transwell, 24-well filter chambers with 0.4 μm pore size membrane; Costar, Coring Inc., New York, NY). At 80% confluence, cells were cultured with endothelial cell basal medium, consisting of 0.4% fetal bovine serum and 1% penicillin/streptomycin solution, overnight. The cells were then incubated with 100 μM ADMA, and 100 μM ADMA plus benazepril (10 μM), telmisartan (10 μM), DPI (10 μM), or NAC (10 mM) for 24 h. Controls were cultured with endothelial cell basal medium, consisting of 0.4% fetal bovine serum and 1% penicillin/streptomycin solution.</text>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="9584" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="9595" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="9671" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="9688" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="9698" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="9718" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="9739" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="9755" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="9881" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="9892" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9929</offset>
+      <text>For the permeability assay, horseradish peroxidase (HRP, 40 kDa; Sigma) was added to the upper chambers at a final concentration of 50 μg/ml. Aliquots of 5 μl were collected from the lower chamber after 15 min, 30 min, 45 min, and 1 h. The concentrations of HRP were determined in 5 μl aliquots added to 195 μl of freshly made substrate (o-phenylenediamine, 400 μg/ml in 0.05 mM citric acid and 0.1 mM phosphate, with 0.012% hydrogen peroxidase, pH 5.0). The reaction was terminated by the addition of 50 μl of 0.3 mM sulfuric acid after 15 min, and optical density was determined using a microplate reader (PerkinElmer, Boston, MA) at 490 nm. A standard curve was prepared from HRP serial dilutions in each experiment, and the samples were diluted such that all readings fell within the linear range of the standard curve. The readings for each tracer were then converted to nanograms per milliliter by comparison with standard curves generated using tracer samples taken at time zero. Permeability was calculated as flux: (ml/cm2)=(X)B/[(Y)i*A], where (X)B (μg) is the level of HRP in the lower chamber, (Y)i (μg/ml) is the concentration of HRP in the upper chamber, and A (cm2) is the effective surface area of the insert. Each experiment was repeated at least three times.</text>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C034193</infon>
+        <location offset="10267" length="18"/>
+        <text>o-phenylenediamine</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019343</infon>
+        <location offset="10308" length="11"/>
+        <text>citric acid</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="10331" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">OTHER</infon>
+        <location offset="10354" length="19"/>
+        <text>hydrogen peroxidase</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C033158</infon>
+        <location offset="10447" length="13"/>
+        <text>sulfuric acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11224</offset>
+      <text>Western blotting analysis of intercellular adhesion molecule-1 and occludin expression</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11311</offset>
+      <text>Cells were sonicated in Tris-buffered saline (TBS) containing protease inhibitors. After sonication, the lysate was centrifuged (12,000× g, 15 min, 4 °C) and the supernatant was transferred to a fresh tube. The protein content was quantified with a Pierce protein assay kit (Pierce, Rockford, IL). Samples of equal concentration (80 μg/lane) were separated on 10% sodium dodecyl sulfate polyacrylamide gel electropheresis (SDS–PAGE) and transferred onto polyvinylidene difluoride (PVDF) transfer membranes (Immobilon P; Millipore, Billerica, MA). The membranes were blocked in TBS containing 0.1% Tween-20 and 5% nonfat dry milk for 2 h, followed by overnight incubation at 4 °C with polyclonal antibodies for ICAM-1 (Abcam, Cambridge, UK) or occludin (Invitrogen, Carlsbad, CA) at 1:1,000 dilution. After rinsing in TBS with Tween-20 (TBST), the membranes were incubated for 2 h with an HRP-conjugated secondary antibody against mouse IgG (Dako, Glostrup, Denmark) in a 1:1,000 dilution and rinsed with TBST, and bands on the blots were then detected using SuperSignal West Pico Chemiluminescent Substrate (Pierce). The densities of the bands were analyzed using Gel-Pro Analyzer (Media Cybernetics, Bethesda, MD). The expression of β-actin (1:5000; monoclonal anti-β-actin; Sigma) was used as an internal control.</text>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965</infon>
+        <location offset="11335" length="20"/>
+        <text>Tris-buffered saline</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965</infon>
+        <location offset="11357" length="3"/>
+        <text>TBS</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="11675" length="22"/>
+        <text>sodium dodecyl sulfate</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="11734" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="11765" length="25"/>
+        <text>polyvinylidene difluoride</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="11792" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+      <annotation id="329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965</infon>
+        <location offset="11888" length="3"/>
+        <text>TBS</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="11908" length="8"/>
+        <text>Tween-20</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965,MESH:D011136</infon>
+        <location offset="12128" length="17"/>
+        <text>TBS with Tween-20</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965,MESH:D011136</infon>
+        <location offset="12147" length="4"/>
+        <text>TBST</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965,MESH:D011136</infon>
+        <location offset="12315" length="4"/>
+        <text>TBST</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12638</offset>
+      <text>Quantitative real-time PCR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12665</offset>
+      <text>After removal of the culture medium, cells were washed with PBS, then combined with the TRIzol reagent (Invitrogen). Extracted RNA was then quantified spectrophotometrically at 260 nm and integrity was assessed by agarose-formaldehyde gel electrophoresis. Total RNA samples were treated with DNase I (RQ1; Promega) and then reverse transcribed using a ReverTra Ace RT–PCR kit (Toyobo, Osaka, Japan) according to the manufacturer’s instructions. Primers were designed using DNA Star software according to the guidelines supplied with the software. The primer sequences were described in Table 1.</text>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="12725" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C411644</infon>
+        <location offset="12753" length="6"/>
+        <text>TRIzol</text>
+      </annotation>
+      <annotation id="G140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="12879" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="12887" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_title_caption</infon>
+      <offset>13264</offset>
+      <text>Primer sequences for quantitative RT–PCR.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13616</offset>
+      <text>To exclude DNA interference, primers were designed to span at least one intron. To quantify the amounts of specific mRNA (mRNA) in the samples, we generated a standard curve for each run using a plasmid (pGEM-T Easy Vector; Promega) containing the gene of interest as a standard. This enabled standardization of the initial mRNA content of cells relative to the amount of 18S rRNA. PCR assays were performed using SLAN® RT–PCR system (Hongshi, Shanghai, China). The quantitative RT–PCR solution consisted of 2.0 μl of diluted RT–PCR product, 0.5 μl of each primer pair, 25 μl of RT–PCR Master Mix (Toyobo, Osaka, Japan), 1.0 μl of fluorogenic probe, and 10 μl of PCR-grade water. The amplification conditions for ICAM-1 and occluding were as follows: 94 °C for 3 min, followed by 40 cycles of 94 °C for 20 s, 55 °C for 20 s, and 72 °C for 20 s. The results of quantitative RT–PCR were analyzed using the relative standard curve method with the SLAN software (v. 5.0). Values were normalized relative to the relative amounts of 18S rRNA, which were obtained from a similar standard curve.</text>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="14289" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14733</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14754</offset>
+      <text>All results are expressed as means±standard deviation unless otherwise indicated. Statistical evaluation was performed with the SPSS software (ver. 14.0 for Windows; SPSS, Chicago, IL) using ANOVA with multiple comparisons between groups and Pearson’s correlation test. In all analyses, p&lt;0.05 was taken to indicate statistical significance.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>15099</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15107</offset>
+      <text>Cell proliferation assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15132</offset>
+      <text>Cell proliferation was significantly inhibited after incubation of BRCECs with 10 μM, 50 μM, 100 μM, or 200 μM ADMA for 24–72 h. Moreover, cell proliferation showed more significant inhibition with increasing ADMA concentration (Figure 1).</text>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="15243" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="15341" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>15382</offset>
+      <text>Cell proliferation analysis of bovine retinal capillary endothelial cells. Cell proliferation was significantly inhibited by asymmetric dimethylarginine (ADMA) for 24–72 h. In group A, bovine retinal capillary endothelial cells (BRCECs) were cultured in endothelial cell medium (ECM) with 0.4% fetal bovine serum (FBS). In groups B throught E, BRCECs were cultured in ECM with 0.4% FBS plus 10 μM, 50 μM, 100 μM, or 200 μM ADMA. Results are expressed as absorbance at 490 nm and represent means±SEM, n=8: *p&lt;0.05 versus group A, **p&lt;0.01 versus group A, #p&lt;0.05 versus group B, ##p&lt;0.01 versus group B, +p&lt;0.05 versus group C, ++p&lt;0.01 versus group C, &amp;p&lt;0.05 versus group D, &amp;&amp;p&lt;0.01 versus group D.</text>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="15507" length="27"/>
+        <text>asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="15536" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="15636" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="15661" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="15750" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="15805" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16090</offset>
+      <text>Reactive oxygen species determination</text>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16090" length="23"/>
+        <text>Reactive oxygen species</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16128</offset>
+      <text>After incubation with ADMA (100 μM) for 24 h, intracellular ROS generation in BRCECs was significantly increased, compared with those incubated in normal medium (p&lt;0.01). The increased ROS production induced by ADMA was markedly inhibited by benazepril (10 μM), telmisartan (10 μM), DPI (10 μM), or NAC (10 mM; all p&lt;0.01; Figure 2).</text>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="16150" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16188" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16313" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="16339" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="16370" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="16390" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="16411" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="16427" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16471</offset>
+      <text>Intracellular reactive oxygen species generation in bovine retinal capillary endothelial cells for 24 h, as determined using the fluorescent probe CM-H2DCFDA. symmetric dimethylarginine (ADMA) increased intracellular reactive oxygen species (ROS) generation in bovine retinal capillary endothelial cells (BRCECs). The increased reactive oxygen species (ROS) production induced by asymmetric dimethylarginine (ADMA) was markedly inhibited by benazepril, telmisartan, diphenyliodonium, or N-acetyl-l-cysteine. In group C, BRCECs were cultured in endothelial cell medium with 0.4% fetal bovine serum. In group A, BRCECs were cultured in endothelial cell medium with 0.4% fetal bovine serum plus ADMA (100 μM). In group “A+B,” BRCECs were cultured in the same media as A and 10 μM benazepril. In group “A+T,” BRCECs were cultured in the same media as A and 10 μM telmisartan. In group “A+D,” BRCECs were cultured in the same media as A and 10 μM diphenyliodonium. In group “A+N,” BRCECs were cultured in the same media as group A and 10 mM N-acetyl-l-cysteine (mean±SD, n=3). **p&lt;0.01 versus group C, ##p&lt;0.01 versus group A.</text>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16485" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110400</infon>
+        <location offset="16618" length="10"/>
+        <text>CM-H2DCFDA</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="16630" length="26"/>
+        <text>symmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="16658" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16688" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16713" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16799" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="16824" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="16851" length="27"/>
+        <text>asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="16880" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="16912" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="16924" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="16937" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="16958" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="17015" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="17105" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="17163" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="17248" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="17330" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="17413" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="17507" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17614</offset>
+      <text>Permeability assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17633</offset>
+      <text>ADMA (100 μM) significantly increased HRP permeability in BRCECs. Treatment with benazepril (10 μM) and NAC (10 mM) for 15 min decreased HRP permeability in BRCECs exposed to ADMA (100 μM). The increase in permeability by ADMA (100 μM) was significantly downregulated by benazepril (10 μM), telmisartan (10 μM), DPI (10 μM), or NAC (10 mM) for 30 min, 45 min, and 1 h (Figure 3).</text>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="17633" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="17714" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="17737" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="17808" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="17855" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="17904" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="17924" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="17945" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="17961" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18029</offset>
+      <text>Horseradish peroxidase (HRP) permeability assay of bovine retinal capillary endothelial cells (BRCECs). Asymmetric dimethylarginine (ADMA) significantly increased HRP permeability in BRCECs. Treatment with benazepril and NAC for 15 min decreased HRP permeability in BRCECs. The permeability increase by ADMA was significantly downregulated by benazepril, telmisartan, diphenyliodonium (DPI), or N-acetyl-l-cysteine (NAC) for 30 min, 45 min, and 1 h. The group C bars are that BRCECs were cultured in endothelial cell medium (ECM) with 0.4% FBS. In group A, BRCECs were cultured in ECM with 0.4% FBS plus ADMA (100 μM). In group “A+B,” BRCECs were cultured in the same media as A and 10 μM benazepril. Group “A+T” was the same as for group A and 10 μM telmisartan. In group “A+D,” BRCECs were cultured in the same media as group A and 10 μM DPI. In group “A+N,” BRCECs were cultured in the same media as group A and 10 mM NAC (mean±SD, n=3). *p&lt;0.05 versus group C, **p&lt;0.01 versus group C, #p&lt;0.05 versus group A, ##p&lt;0.01 versus group A.</text>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="18133" length="27"/>
+        <text>Asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="18162" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="18235" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="18250" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="18332" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="18372" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="18384" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="18397" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="18415" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="18424" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="18445" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="18529" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="18554" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="18610" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="18633" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="18718" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="18780" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="18869" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="18950" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19089</offset>
+      <text>Western blotting analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19115</offset>
+      <text>Western blotting analysis indicated that exposure to ADMA (100 μM) for 24 h markedly upregulated ICAM-1 protein expression in BRCECs (p&lt;0.01). Treatment with telmisartan (10 μM), DPI (10 μM), or NAC (10 mM) downregulated ICAM-1 protein expression in BRCECs exposed to ADMA (100 μM; p&lt;0.01). Benazepril (10 μM) had no effect on ICAM-1 expression (p&gt;0.05; Figure 4).</text>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="19168" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="19273" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="19294" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="19310" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="19383" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="19406" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>19491</offset>
+      <text>Intercellular adhesion molecule-1 (ICAM-1) protein expression in bovine retinal capillary endothelial cells. A: western blotting analysis showing the presence of ICAM-1 protein in bovine retinal capillary endothelial cells (BRCECs). B: Results of statistical analysis of protein levels relative to β-actin. Asymmetric dimethylarginine (ADMA) markedly upregulated ICAM-1 protein expression in BRCECs. Telmisartan, diphenyliodonium (DPI), or N-acetyl-l-cysteine (NAC) downregulated ICAM-1 protein expression in BRCECs exposed to ADMA. Benazepril had no effect on ICAM-1 expression. In group C, BRCECs wrre cultured in endothelial cell medium (ECM) with 0.4% fetal bovine serum (FBS). In group A, BRCECs were cultured in ECM with 0.4% FBS plus ADMA (100 μM). In group “A+B,” BRCECs were cultured in the same media as A and 10 μM benazepril. In group “A+T,” BRCECs were cultured in the same media as group A and 10 μM telmisartan. In group “A+D,” BRCECs were cultured in the same media as group A and 10 μM DPI. In group “A+N,” BRCECs were cultured in the same media as A and 10 mM NAC (mean±SD, n=3). **p&lt;0.01 versus C, ##p&lt;0.01 versus group A.</text>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="19798" length="27"/>
+        <text>Asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="19827" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="19891" length="11"/>
+        <text>Telmisartan</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="19904" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="19922" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="19931" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="19952" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="20018" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="20024" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="20107" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="20132" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="20209" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="20232" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="20317" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="20405" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="20494" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="20569" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20655</offset>
+      <text>Experiments performed in vitro also showed that exposure to ADMA (100 μM) for 24 h significantly downregulated occludin protein expression in BRCECs (p&lt;0.01). Treatment with benazepril (10 μM) or telmisartan (10 μM) upregulated occludin protein expression in BRCECs exposed to ADMA (p&lt;0.01), while DPI (10 μM) and NAC (10 mM) had no effect on occludin expression (p&gt;0.05; Figure 5).</text>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="20715" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="20829" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="20851" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="20932" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="20953" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="20969" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21047</offset>
+      <text>Occludin protein expression in bovine retinal capillary endothelial cells. A: western blotting analysis showing the presence of occludin protein in bovine retinal capillary endothelial cells (BRCECs). B: The results of statistical analysis of protein level relative to β-actin. Asymmetric dimethylarginine (ADMA) significantly downregulated occludin protein expression in BRCECs. Benazepril and telmisartan upregulated protein expression of occludin in BRCECs exposed to ADMA. However, diphenyliodonium (DPI) and N-acetyl-l-cysteine (NAC) had no effect on occludin expression. In group C, BRCECs were cultured in ECM with 0.4% fetal bovine serum (FBS). In group A, BRCECs were cultured in ECM with 0.4% FBS plus ADMA (100 μM). Group “A+B” represents same as for group A and 10 μM benazepril. Group “A+T” represents same as for group A and 10 μM telmisartan. Group “A+D” represents same as for group A and 10 μM DPI. Group “A+N” represents same as for group A and 10 mM NAC (mean±SD, n=3). **p&lt;0.01 versus group C, ##p&lt;0.01 versus group A.</text>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="21325" length="27"/>
+        <text>Asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="21354" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="21427" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="21442" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="21518" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="21533" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="21551" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="21560" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="21581" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="21660" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="21736" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="21759" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="21827" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="21892" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="21958" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="22016" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22108</offset>
+      <text>Quantitative real-time PCR analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22144</offset>
+      <text>ICAM-1 mRNA expression in BRCECs was markedly upregulated following exposure to ADMA (100 μM) for 24 h (p&lt;0.01). Benazepril (10 μM), telmisartan (10 μM), DPI (10 μM), or NAC (10 mM) downregulated ICAM-1 mRNA expression in BRCECs exposed to ADMA (100 μM; p&lt;0.01; Figure 6).</text>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="22224" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="22257" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="22277" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="22298" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="22314" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="22384" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22428</offset>
+      <text>The statistical analysis results of bovine retinal capillary endothelial cells (BRCECs) intercellular adhesion molecule-1 (ICAM-1) gene expression relative to 18S rRNA for 24 h. Asymmetric dimethylarginine (ADMA) markedly upregulated ICAM-1 mRNA expression in BRCECs for 24 h. Benazepril, telmisartan, diphenyliodonium (DPI), or N-acetyl-l-cysteine (NAC) downregulated ICAM-1 mRNA expression in BRCECs exposed to ADMA. In group C, BRCECs were cultured in endothelial cell medium (ECM) with 0.4% fetal bovine serum (FBS). In group A, BRCECs were cultured in ECM with 0.4% FBS plus ADMA (100 μM). “A+B” represents same as for group A and 10 μM benazepril. In group “A+T,” BRCECs were cultured in the same media as group A and 10 μM telmisartan. In group “A+D,” BRCECs were cultured in the same media as group A and 10 μM DPI. In group “A+N,” BRCECs were cultured in the same media as group A and 10 mM NAC (mean±SD, n=3). **p&lt;0.01 versus group C, ##p&lt;0.01 versus group A.</text>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="22606" length="27"/>
+        <text>Asymmetric dimethylarginine</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="22635" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="22705" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="22717" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="22730" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="22748" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="22757" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="22778" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="22841" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="22883" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="22908" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="22985" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="23008" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="23070" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="23158" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="23247" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="23328" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23419</offset>
+      <text>Occludin mRNA expression in BRCECs was downregulated when cells were exposed to ADMA (100 μM) for 24 h (p&lt;0.05). Treatment with benazepril (10 μM), telmisartan (10 μM), or DPI (10 μM) upregulated the occludin mRNA level in BRCECs exposed to ADMA (p&lt;0.05). However, NAC (10 mM) had no effect on the occludin mRNA level (p&gt;0.05; Figure 7).</text>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="23499" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="23547" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="23567" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="23591" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="23660" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="23684" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>23766</offset>
+      <text>Results of statistical analysis of occludin gene expression relative to 18S rRNA in bovine retinal capillary endothelial cells (BRCECs) for 24 h. ADMA downregulated occludin mRNA expression in BRCECs for 24 h. Benazepril, telmisartan, or diphenyliodonium (DPI) upregulated occludin mRNA level. However, N-acetyl-l-cysteine (NAC) had no effect on occludin mRNA level. In group C, BRCECs were cultured in endothelial cell medium (ECM) with 0.4% fetal bovine serum (FBS). In group A, BRCECs were cultured in ECM with 0.4% FBS plus ADMA (100 μM). In group “A+B,” BRCECs were cultured in the same media as group A and 10 μM benazepril. In “A+T,” BRCECs were cultured in the same media as group A and 10 μM telmisartan. In group “A+D,” BRCECs were cultured in the same media as group A and 10 μM DPI. In group “A+N,” BRCECs were cultured in the same media as group A and 10 mM NAC (mean±SD, n=3). *p&lt;0.05 versus group C, #p&lt;0.05 versus group A.</text>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="23912" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="23976" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="23988" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="24004" length="16"/>
+        <text>diphenyliodonium</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="24022" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="24069" length="19"/>
+        <text>N-acetyl-l-cysteine</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="24090" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24169" length="23"/>
+        <text>endothelial cell medium</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24194" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24271" length="3"/>
+        <text>ECM</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="24294" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="24385" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="24467" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="24556" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="24637" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24726</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24737</offset>
+      <text>Kakimoto and Akazawa [19] first isolated and described ADMA from human urine in 1970. Since their initial observation, ADMA has been shown to represent a novel risk factor for the development of endothelial dysfunction. Oxidative stress has been shown to increase the activity of arginine-methylating and ADMA-degrading enzymes, leading to increased ADMA concentrations; moreover, high ADMA levels further contribute to the vascular oxidative stress burden in a positive feedback fashion [20,21]. As reported previously, BRCECs incubated in the presence of high glucose concentrations showed elevated ROS production, PRMT-1 expression, reduced DDAH activity, and DDAH II expression, and increased the accumulation of ADMA in a conditioned medium [5]. In the present study, we found that ADMA increased intracellular ROS generation in BRCECs. Thus, we propose that ADMA is not only a marker, but also a producer of oxidative stress, under high-glucose conditions.</text>
+      <annotation id="G283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="24792" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="24856" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="25017" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25042" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25087" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25123" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25299" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="25338" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25454" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25524" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="25553" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25601" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25680" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25700</offset>
+      <text>There have been many recent studies regarding the effects of different therapeutic interventions on ADMA plasma concentrations. ACEI and ARB have been shown to reduce the levels of ADMA and improve endothelial dysfunction in human essential hypertension and diabetes mellitus [22-24]. Although the mechanisms of the beneficial effects of ACEI and ARB remain obscure, ADMA is known to upregulate several components of microvascular RAS, leading to increased production of angiotensin II, which then activates NADPH oxidase and increases ROS production [25]. ADMA improves the p38 mitogen-activated protein kinase activity in human coronary artery endothelial cells, which may provide a link between ADMA and RAS, because ACE protein expression has been shown to be regulated by p38 mitogen-activated protein kinase [26,27]. In the present study, the NADPH oxidase inhibitor DPI or the free-radical scavenger NAC decreased intracellular ROS generation in BRCECs incubated with ADMA. Benazepril or telmisartan had effects similar to those from DPI and NAC, indicating that they may also exert their effects through the oxidase pathway.</text>
+      <annotation id="G301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25800" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="25881" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="26067" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="2X482">
+        <infon key="type">OTHER</infon>
+        <location offset="26208" length="13"/>
+        <text>NADPH oxidase</text>
+      </annotation>
+      <annotation id="G299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="26236" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="26257" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="26398" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="2X483">
+        <infon key="type">OTHER</infon>
+        <location offset="26549" length="13"/>
+        <text>NADPH oxidase</text>
+      </annotation>
+      <annotation id="G293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="26573" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="26607" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="G300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="26635" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="26675" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="26681" length="10"/>
+        <text>Benazepril</text>
+      </annotation>
+      <annotation id="G296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="26695" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="26741" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000111</infon>
+        <location offset="26749" length="3"/>
+        <text>NAC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26833</offset>
+      <text>It has been reported that ADMA regulates endothelial permeability and endothelial barrier function. Several possible mechanisms have been proposed to explain the effects of ADMA on endothelial barrier function. A previous study indicated that ADMA increased pulmonary endothelial permeability both in vitro and in vivo, and that this effect was mediated by nitric oxide, acting via protein kinase G and independent of ROS formation [16]. Others have demonstrated that ADMA compromises the integrity of the glomerular filtration barrier by altering the bioavailability of nitric oxide and superoxide, and that nitric oxide (NO)-independent activation of soluble guanylyl cyclase preserves the integrity of this barrier under conditions of NO depletion [28]. ADMA markedly downregulated connexin43 expression and damaged gap junction function in human umbilical vein endothelial cells by increasing the production of intracellular ROS and inducing phosphorylation of p38 MAPK [29]. However, to date, the role of ADMA in the BRB has not been studied.</text>
+      <annotation id="G315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="26859" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="27006" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="27076" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="27190" length="12"/>
+        <text>nitric oxide</text>
+      </annotation>
+      <annotation id="G313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="27251" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="27301" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="27404" length="12"/>
+        <text>nitric oxide</text>
+      </annotation>
+      <annotation id="G309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="27421" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="27442" length="12"/>
+        <text>nitric oxide</text>
+      </annotation>
+      <annotation id="G311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="27456" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="27571" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="27590" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="27762" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="27843" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27881</offset>
+      <text>The BRB, an important ocular barrier, consists of two components: the inner and outer BRB. The inner BRB is formed by retinal microvascular endothelial cells with tight junctions between them. The normal inner BRB is determined by the homeostasis of retinal microvessels, and plays a critical role in normal visual function. Enhanced retinal vascular permeability has been shown to aggravate microvascular endothelial cell damage and capillary nonperfusion [30]. Several studies linked inflammation to vascular leakage in diabetic retinopathy. Leukocytes adhere to the retinal vascular endothelium early in diabetic retinopathy, the onset of which occurs before the development of any clinical pathology [14]. Further, leukocyte adhesion coincides with the development of BRB breakdown and capillary nonperfusion [14]. The expression of ICAM-1 is upregulated in DR, and the specific inhibition of ICAM-1 prevents diabetic retinal leukocyte adhesion and BRB breakdown [14,31,32].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28860</offset>
+      <text>In this study, ADMA significantly increased BRCEC permeability within 1 h and was strongly involved in reducing the levels of the tight-junction protein occludin and upregulation of ICAM-1 expression in BRCECs. ACEI, ARB, or antioxidants significantly downregulated cell permeability increased by ADMA at 30 min, 45 min, and 1 h. Furthermore, we observed that benazepril, telmisartan, and the antioxidant DPI reversed the effects of ADMA on occludin and ICAM-1 expression. Based on our findings, we hypothesize that the mechanism of ADMA damage to the BRB is partly mediated by ROS and/or RAS pathways.</text>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="28875" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="29157" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044946</infon>
+        <location offset="29220" length="10"/>
+        <text>benazepril</text>
+      </annotation>
+      <annotation id="G322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077333</infon>
+        <location offset="29232" length="11"/>
+        <text>telmisartan</text>
+      </annotation>
+      <annotation id="G323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031291</infon>
+        <location offset="29265" length="3"/>
+        <text>DPI</text>
+      </annotation>
+      <annotation id="G327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="29293" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="29393" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="29438" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29463</offset>
+      <text>In summary, ADMA can inhibit BRCEC proliferation, increase intracellular ROS generation, increase cell permeability and in BRCECs, can reduce levels of the tight-junction protein occludin and increase ICAM-1 expression. Further studies are required to determine the precise mechanisms underlying the effects of ADMA in diabetes-induced BRB breakdown and the roles of ACEI, ARB, and antioxidants in the control of retinal endothelial barrier function under diabetic conditions.</text>
+      <annotation id="G330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="29475" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+      <annotation id="G329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="29536" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018524</infon>
+        <location offset="29774" length="4"/>
+        <text>ADMA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>29940</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

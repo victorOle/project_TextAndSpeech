@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5343855</id>
+    <passage>
+      <infon key="name_3">surname:Jing;given-names:Ruirui</infon>
+      <infon key="name_2">surname:Choi;given-names:Han-Pil</infon>
+      <infon key="name_1">surname:Azadzoi;given-names:Kazem M.</infon>
+      <infon key="name_0">surname:Zhao;given-names:Zuohui</infon>
+      <infon key="article-id_pmid">28165386</infon>
+      <infon key="issue">2</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">ijms-18-00319</infon>
+      <infon key="article-id_pmc">5343855</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.3390/ijms18020319</infon>
+      <infon key="elocation-id">319</infon>
+      <infon key="volume">18</infon>
+      <infon key="license">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).</infon>
+      <infon key="kwd">liquid chromatography-tandem mass spectrometry MNSOD oxidation ROS quantitative proteomics</infon>
+      <infon key="name_9">surname:Parrish;given-names:Alan</infon>
+      <infon key="name_8">surname:Yang;given-names:Jing-Hua</infon>
+      <infon key="name_7">surname:Lu;given-names:Jiaju</infon>
+      <infon key="name_6">surname:Wang;given-names:Fengqin</infon>
+      <infon key="name_5">surname:Li;given-names:Cuiling</infon>
+      <infon key="name_4">surname:Lu;given-names:Xin</infon>
+      <offset>0</offset>
+      <text>LC-MS/MS Analysis Unravels Deep Oxidation of Manganese Superoxide Dismutase in Kidney Cancer</text>
+      <annotation id="G0">
+        <infon key="type">OTHER</infon>
+        <location offset="45" length="30"/>
+        <text>Manganese Superoxide Dismutase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>93</offset>
+      <text>Manganese superoxide dismutase (MNSOD) is one of the major scavengers of reactive oxygen species (ROS) in mitochondria with pivotal regulatory role in ischemic disorders, inflammation and cancer. Here we report oxidative modification of MNSOD in human renal cell carcinoma (RCC) by the shotgun method using data-dependent liquid chromatography tandem mass spectrometry (LC-MS/MS). While 5816 and 5571 proteins were identified in cancer and adjacent tissues, respectively, 208 proteins were found to be up- or down-regulated (p &lt; 0.05). Ontological category, interaction network and Western blotting suggested a close correlation between RCC-mediated proteins and oxidoreductases such as MNSOD. Markedly, oxidative modifications of MNSOD were identified at histidine (H54 and H55), tyrosine (Y58), tryptophan (W147, W149, W205 and W210) and asparagine (N206 and N209) residues additional to methionine. These oxidative insults were located at three hotspots near the hydrophobic pocket of the manganese binding site, of which the oxidation of Y58, W147 and W149 was up-regulated around three folds and the oxidation of H54 and H55 was detected in the cancer tissues only (p &lt; 0.05). When normalized to MNSOD expression levels, relative MNSOD enzymatic activity was decreased in cancer tissues, suggesting impairment of MNSOD enzymatic activity in kidney cancer due to modifications. Thus, LC-MS/MS analysis revealed multiple oxidative modifications of MNSOD at different amino acid residues that might mediate the regulation of the superoxide radicals, mitochondrial ROS scavenging and MNSOD activity in kidney cancer.</text>
+      <annotation id="G9">
+        <infon key="type">OTHER</infon>
+        <location offset="93" length="30"/>
+        <text>Manganese superoxide dismutase</text>
+      </annotation>
+      <annotation id="410">
+        <infon key="type">OTHER</infon>
+        <location offset="125" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="166" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="191" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="411">
+        <infon key="type">OTHER</infon>
+        <location offset="330" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="414">
+        <infon key="type">OTHER</infon>
+        <location offset="780" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="413">
+        <infon key="type">OTHER</infon>
+        <location offset="824" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="849" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="874" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="890" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="933" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="983" length="10"/>
+        <text>methionine</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="1085" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="412">
+        <infon key="type">OTHER</infon>
+        <location offset="1294" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="415">
+        <infon key="type">OTHER</infon>
+        <location offset="1328" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="416">
+        <infon key="type">OTHER</infon>
+        <location offset="1411" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="417">
+        <infon key="type">OTHER</infon>
+        <location offset="1544" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="1563" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="1624" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1659" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="418">
+        <infon key="type">OTHER</infon>
+        <location offset="1678" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1711</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1727</offset>
+      <text>Superoxide dismutases (SODs) are the ubiquitous superfamily of antioxidant metalloenzymes that convert the superoxide anion (O2−) into oxygen and hydrogen peroxide (H2O2) when cells are exposed to oxidation. These enzymes are the major scavengers of reactive oxygen species (ROS), the natural side products during the process of aerobic cells respiration in physiological and pathological conditions [1]. Three forms of superoxide dismutases, namely Cu/ZnSOD (SOD1/3 in humans), Fe/MNSOD (also called MNSOD, SOD2 in humans), and NiSOD (only found in bacteria), are identified [2]. Among them, MNSOD is the primary mitochondrial ROS scavenging enzyme that catalyzes the conversion of superoxide to H2O2, which is subsequently transformed to water by catalase and other peroxidases [1,3]. MNSOD is essential for the survival of all aerobic organisms from bacteria to humans under physiological conditions [1,4].</text>
+      <annotation id="G35">
+        <infon key="type">OTHER</infon>
+        <location offset="1727" length="21"/>
+        <text>Superoxide dismutases</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="1834" length="16"/>
+        <text>superoxide anion</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="1852" length="3"/>
+        <text>O2−</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="1862" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="1873" length="17"/>
+        <text>hydrogen peroxide</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="1892" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1977" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2002" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G38">
+        <infon key="type">OTHER</infon>
+        <location offset="2147" length="21"/>
+        <text>superoxide dismutases</text>
+      </annotation>
+      <annotation id="268">
+        <infon key="type">OTHER</infon>
+        <location offset="2177" length="8"/>
+        <text>Cu/ZnSOD</text>
+      </annotation>
+      <annotation id="303">
+        <infon key="type">OTHER</infon>
+        <location offset="2206" length="8"/>
+        <text>Fe/MNSOD</text>
+      </annotation>
+      <annotation id="304">
+        <infon key="type">OTHER</infon>
+        <location offset="2228" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">OTHER</infon>
+        <location offset="2256" length="5"/>
+        <text>NiSOD</text>
+      </annotation>
+      <annotation id="306">
+        <infon key="type">OTHER</infon>
+        <location offset="2320" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2355" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="2410" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="2424" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="2467" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">OTHER</infon>
+        <location offset="2514" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2639</offset>
+      <text>Posttranslational modifications (PTMs) play a major role in regulating MNSOD activities, interactions, and localization [1]. Protein oxidative modification, a major class of PTM, is caused by oxidative or nitrative disruption of amino acid residues. Oxidative protein modification has been described during aging and various pathological conditions, and serves as a useful biomarker for assessing oxidative stress processes in aging and disease conditions [4]. Protein oxidation can lead to hydroxylation of aromatic groups and aliphatic amino acid side chains, nitration of aromatic amino acid residues, sulfoxidation of methionine residues [5]. Some specific enzymes, such as tyrosine hydroxylase (TH), facilitate the oxidation process in vivo [6]. Aromatic amino acid side chains, such as tyrosine (Tyr, Y) and tryptophan (Trp, W), are more susceptible to free radical incursion leading to specific modification of the aromatic ring. For example, tyrosine (Tyr) yields greater 3,4-dihydroxyphenylalanine (DOPA) and less 2,4-isomer [7]. Protein oxidation can lead to diverse functional consequences, such as loss of enzymatic and binding activities, increased susceptibility to aggregation, proteolysis and altered immunogenicity [8]. Overall, it is believed that protein oxidation is central to functional deficit of the target proteins [9].</text>
+      <annotation id="419">
+        <infon key="type">OTHER</infon>
+        <location offset="2710" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="2868" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="3177" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D024322</infon>
+        <location offset="3214" length="19"/>
+        <text>aromatic amino acid</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="3261" length="10"/>
+        <text>methionine</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">OTHER</infon>
+        <location offset="3317" length="20"/>
+        <text>tyrosine hydroxylase</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D024322</infon>
+        <location offset="3390" length="19"/>
+        <text>Aromatic amino acid</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="3431" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="3441" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="3453" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="3465" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="3589" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="3599" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004295,MESH:C053214</infon>
+        <location offset="3619" length="53"/>
+        <text>3,4-dihydroxyphenylalanine (DOPA) and less 2,4-isomer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3984</offset>
+      <text>In addition to direct oxidative damage, cells could undergo nitrative damage through reactive nitrogen species (RNS) pathway, which often occurs with the redox-sensitive amino acid residues including tyrosine and tryptophan [10]. Nitration on tyrosine 58 (Y58 or Y34 when the 24 amino acids transit peptide is cleaved) of MNSOD has been detected by crystal structures and mutation analysis [1,11]. Previous data showed that human MNSOD Y58 was exclusively nitrated to 3-nitrotyrosine (3-NT) to inactivate its enzymatic activity, and nitration of Y58 alone was sufficient for inactivation of MNSOD enzymatic activity [1]. Similar to nitration, acetylation of MNSOD was shown to impair its enzymatic activity. Recent evidence suggests the presence of multiple MNSOD acetylation sites on lysine (Lys, K), such as 53, 68, 89, 122, 130 [12]. It was also shown that SIRT3 could deacetylate MNSOD and enhance its enzymatic activity in vitro [1,3,13].</text>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026361</infon>
+        <location offset="4069" length="25"/>
+        <text>reactive nitrogen species</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D026361</infon>
+        <location offset="4096" length="3"/>
+        <text>RNS</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="4154" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="4184" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4197" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="4227" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="4263" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="310">
+        <infon key="type">OTHER</infon>
+        <location offset="4306" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="311">
+        <infon key="type">OTHER</infon>
+        <location offset="4414" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002744</infon>
+        <location offset="4452" length="15"/>
+        <text>3-nitrotyrosine</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002744</infon>
+        <location offset="4469" length="4"/>
+        <text>3-NT</text>
+      </annotation>
+      <annotation id="312">
+        <infon key="type">OTHER</infon>
+        <location offset="4575" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">OTHER</infon>
+        <location offset="4642" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="314">
+        <infon key="type">OTHER</infon>
+        <location offset="4742" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="4769" length="6"/>
+        <text>lysine</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="4777" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="315">
+        <infon key="type">OTHER</infon>
+        <location offset="4868" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4928</offset>
+      <text>Oxidative stress in mitochondria becomes a major source of ROS. Free radicals originating from mitochondria interact with surrounding molecules and initiate a cascade of signaling pathways leading to oxidative modifications of cellular organelles. Oxidative modifications within mitochondrial proteins may contribute to the development of carcinogenesis [14]. The precise mechanisms by which oxidative and nitrative conditions affect MNSOD structure and function remain unclear. While MNSOD is reportedly up-regulated in kidney cancer [15,16], its enzymatic activity in tumor areas is similar to adjacent kidney tissues [16,17], suggesting that MNSOD enzymatic activity does not necessarily correlate with its protein expression. It was recently shown that oxidative stress-mediated MNSOD modifications compromised its enzymatic activity and led to functional deficit [1,3,18,19]. In this study, we first pinpointed MNSOD as a vital protein in the kidney tissues from clear cell renal cell carcinoma (ccRCC) using liquid chromatography-tandem mass spectrometry (LC-MS/MS), then attempted to identify and quantify crucial sites of oxidative modifications of MNSOD using high resolution LC-MS/MS and Progenesis LC-MS software, respectively. The newly identified (to the best of our knowledge) oxidation sites we report may introduce novel perspectives for the refinement of MNSOD regulatory mechanisms. Characterization of MNSOD oxidative modifications may be vital for interpretation of previous studies on MNSOD in tumor biology and could enhance our intervening ability in tumorigenesis.</text>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="4987" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="317">
+        <infon key="type">OTHER</infon>
+        <location offset="5362" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="318">
+        <infon key="type">OTHER</infon>
+        <location offset="5413" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">OTHER</infon>
+        <location offset="5573" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">OTHER</infon>
+        <location offset="5711" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">OTHER</infon>
+        <location offset="5844" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="322">
+        <infon key="type">OTHER</infon>
+        <location offset="6085" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">OTHER</infon>
+        <location offset="6300" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">OTHER</infon>
+        <location offset="6349" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="325">
+        <infon key="type">OTHER</infon>
+        <location offset="6434" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6517</offset>
+      <text>2. Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6528</offset>
+      <text>2.1. Quantitative Proteomic Analysis Suggests the Involvement of Anti-Oxidative Stress Pathway in ccRCC</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6632</offset>
+      <text>Three pairs of tumor and adjacent tissues from ccRCC patients were analyzed by LC-MS/MS. Totally, 5571 and 5816 non-redundant proteins with FDR &lt; 0.01 were identified in adjacent and ccRCC tissues, respectively (Table S1). Among the identified proteins, the average spectral counts of three repeats were used to evaluate their expression levels, which revealed 100 up- and 108 down-regulated proteins for at least 1.4 folds in ccRCC vs. adjacent tissues with the criteria of p &lt; 0.05, detected in every replicate, and the average spectral counts of &gt;20 (Table S2). According to Database for Annotation, Visualization, and Integrated Discovery (DAVID) functional annotation, 33 of the 208 dysregulated proteins were related to oxido-reductases (p = 2.87 × 10−18) (Tables S3 and S4). Heatmap analysis (Figure 1a) denoted the involvement of these oxidoreductases in binding with cofactors, coenzyme, NAD, NADH and/or NAD(P). Notably, MNSOD was among these oxidoreductases, suggesting that mitochondrial MNSOD was also involved in the electron transport chain for ROS removal. Consistent with these observations, ontological category based on biological process using Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) (Table S5) indicated that one of the most significant categories was oxidation-reduction process (37 proteins, p = 6.49 × 10−17) (Table S6). Three main interactive clusters were formed among the 37 interacting proteins with MNSOD as an important node (Figure 1b). Because cancer cells usually demand high ROS concentrations to maintain their high proliferation rate [14], these data suggested that oxido-reductases, particularly MNSOD, played an important role in RCC pathogenesis [16].</text>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="7529" length="3"/>
+        <text>NAD</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="7534" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="7546" length="6"/>
+        <text>NAD(P)</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">OTHER</infon>
+        <location offset="7563" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">OTHER</infon>
+        <location offset="7632" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="7692" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="298">
+        <infon key="type">OTHER</infon>
+        <location offset="8089" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="8170" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">OTHER</infon>
+        <location offset="8294" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8358</offset>
+      <text>2.2. Oxidative Modification of MNSOD</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8395</offset>
+      <text>For a deep post-translational modification analysis, MNSOD was excised from SDS-PAGE (Figure 2a) and analyzed by LC-MS/MS. With a standard search using MASCOT and SEQUEST, 18 high confident peptides of MNSOD were identified, which covered 76% of the sequence (Figure 2b).</text>
+      <annotation id="329">
+        <infon key="type">OTHER</infon>
+        <location offset="8448" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="8471" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">OTHER</infon>
+        <location offset="8597" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8667</offset>
+      <text>Next, the MS/MS data were searched again with an open modification search algorithm [20] to identify the peptides of MNSOD containing oxidation at any possible amino acids with a delta mass of +16 Da (Table 1). Totally 168 of +16 modification events were counted, 81 of which occurred at tryptophan (W), 27 at glycine (G), 24 at tyrosine (Y), 14 at histidine (H), 13 at asparagine (N), 7 at alanine (A), and 2 at valine (V).</text>
+      <annotation id="331">
+        <infon key="type">OTHER</infon>
+        <location offset="8784" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="8827" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="8955" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="8977" length="7"/>
+        <text>glycine</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="8996" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="9016" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="9037" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="9058" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="9080" length="6"/>
+        <text>valine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9092</offset>
+      <text>To confirm whether these +16 modifications were due to oxidation, restricted search with dynamic oxidation (+15.995 Da) was performed using MASCOT and SEQUEST. High confident oxidation modifications were confirmed at tryptophan (W), tyrosine (Y), histidine (H), and asparagine (N) residues of MNSOD (Table 2). Markedly, these oxidation sites were located in three hotspots, including hotspot 1 (H54, H55, Y58), hotspot 2 (W147, W149) and hotspot 3 (W205, N206, N209, W210). Additionally, the known nitration (+44.985 Da) at tyrosine (Y58) was also identified in the kidney tissues (Table 2).</text>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="9309" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="9325" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="9339" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="9358" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="332">
+        <infon key="type">OTHER</infon>
+        <location offset="9385" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="9616" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9684</offset>
+      <text>2.3. Tryptophan Oxidation at W147/W149 and W205/W210 of MNSOD</text>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="9689" length="10"/>
+        <text>Tryptophan</text>
+      </annotation>
+      <annotation id="421">
+        <infon key="type">OTHER</infon>
+        <location offset="9740" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9746</offset>
+      <text>Over half of the observed oxidation events of MNSOD occurred at tryptophan. Four potentially oxidized sites, W147/W149 and W205/W210, were identified in two hotspots near the C-terminus. In the hotspot around the residues from 200 to 212 (hotspot 3), two of the oxidized tryptophan residues were found in the peptide AIW205NVINW210ENVTER. The oxidized W210 (Figure S1a) was identified by the unmodified b4–7 ions and the mass shift of the b8–13 ions, supported by the unmodified y2–6 and the modified y7–12 ions, which has been reported before [21]. Similarly, oxidation at W205 (Figure S1b) was identified by the unmodified y3–9,11 ions followed by the modified y12 ion; it was supported by the shifted b5,7–8,10–11 ions. The other oxidized tryptophan residues were found in the peptide LTAASVGVQGSGW147GW149LGFNK in hotspot 2. The oxidized tryptophan at W147 (Figure S1c) was uncovered by the unmodified y4–5,7 and modified y8–12,14 ions, which was supported by the unmodified b6,8–9,11 and modified b16,19 ions. Double oxidation at W147 and W149 in a different MS/MS profile of the same peptide (Figure S1d) was identified by the unmodified b6,8–9,11 ions and double mass shifts of 15.99 Da in the b15–19 ions. Markedly, these identified tryptophan oxidations at W147, W149, W205 and W210 were located in the hotspots that were reported to be important for the enzymatic activity of MNSOD [2]. Notably, tryptophan hydroxylase (TPH), a well characterized enzyme in mammals, was shown to convert tryptophan to 5-hydroxytryptophan, the precursor for the neurotransmitter serotonin and melatonin [22], although it was unclear whether TPH was involved in tryptophan oxidation in proteins.</text>
+      <annotation id="333">
+        <infon key="type">OTHER</infon>
+        <location offset="9792" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="9810" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10017" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10488" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10588" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10987" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="334">
+        <infon key="type">OTHER</infon>
+        <location offset="11132" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="335">
+        <infon key="type">OTHER</infon>
+        <location offset="11152" length="22"/>
+        <text>tryptophan hydroxylase</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11243" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006916</infon>
+        <location offset="11257" length="19"/>
+        <text>5-hydroxytryptophan</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012701</infon>
+        <location offset="11317" length="9"/>
+        <text>serotonin</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008550</infon>
+        <location offset="11331" length="9"/>
+        <text>melatonin</text>
+      </annotation>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11399" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11457</offset>
+      <text>2.4. Asparagine Oxidation at N206 and N209 of MNSOD</text>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="11462" length="10"/>
+        <text>Asparagine</text>
+      </annotation>
+      <annotation id="336">
+        <infon key="type">OTHER</infon>
+        <location offset="11503" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11509</offset>
+      <text>The asparagine residue in proteins might be oxidized to form beta-hydroxyl asparagine [23]. We identified two asparagine oxidation sites at N206 and N209 in MNSOD, and the two oxidized asparagine residues were found in the peptide AIWN206VIN209WENVTER, which was located in the C-terminal. Notably, this modification was observed only in combination with other modification: double oxidation at W205N206 and N209W210 in the same peptide (Table 2). The oxidized N206 in the peptide (Figure S1e) was identified by the unmodified y3–10 ions and the double mass shifts of 15.99 Da in the y12 ion, and it was further supported by the double mass shifts of 15.99 Da in the ions after b4. The oxidized N209 (Figure S1f) was identified by the first shift between the b4–6 ions and b7 ion, and the oxidized W210 identified by the second shift of 15.99 Da between the b7 ion and b8–13 ions; the double oxidized asparagine/tryptophan residues were confirmed by the unmodified y3–6 ions and double mass shifts of 15.99 Da in the y8–12 ions. Therefore, we concluded that the asparagine residues at N206 and N209 were hotspots for oxidation that could be spontaneously oxidized synchronously with tryptophan.</text>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="11513" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C050931</infon>
+        <location offset="11570" length="24"/>
+        <text>beta-hydroxyl asparagine</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="11619" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="337">
+        <infon key="type">OTHER</infon>
+        <location offset="11666" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="11694" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="12410" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12421" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="12571" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12692" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12714</offset>
+      <text>2.5. Histidine Oxidation at H54 and H55 of MNSOD</text>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="12719" length="9"/>
+        <text>Histidine</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">OTHER</infon>
+        <location offset="12757" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12763</offset>
+      <text>Histidine oxidations in proteins are commonly found in cells undergoing redox-mediated oxidation of histidine to 2-oxo-histidine. The oxidized product has been suggested as a biological marker for oxidatively modified proteins [24]. In this study, we identified two oxidized histidine residues at H54 and H55 in MNSOD. The oxidized histidine at H54 in the peptide H(54)HAAYVNNLNVTEEK (Figure S1g) was identified by the mass shifts at b2–14 ions, which was supported by the unmodified y2–14 ions followed by the total mass shift. The double oxidized histidine at H54 and H55 in the peptide H54H55AAYVNNLNVTEEK (Figure S1h) was identified by double mass shifts at b11,13 ions, which was supported by the unmodified y4,6–13 ions followed by 32 Da shift of the total mass. The two oxidative histidine residues were located in the first hotspot for oxidation, which was also reported previously in human medulloblastoma cells [21].</text>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="12763" length="9"/>
+        <text>Histidine</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="12863" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C083725</infon>
+        <location offset="12876" length="15"/>
+        <text>2-oxo-histidine</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="13038" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">OTHER</infon>
+        <location offset="13075" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="13095" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="13312" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="13550" length="9"/>
+        <text>histidine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13696</offset>
+      <text>2.6. Tyrosine Oxidation at Y58 of MNSOD</text>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="13701" length="8"/>
+        <text>Tyrosine</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">OTHER</infon>
+        <location offset="13730" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13736</offset>
+      <text>Tyrosine could be oxidized to form 3-hydroxyl tyrosine or 3,4-dihydroxyphenylalanine (L-DOPA) by tyrosine hydroxylase (TH) [6,10]; however, it was unclear whether TH oxidizes the tyrosine residue in proteins. The oxidized tyrosine at Y58 was identified because the mass shift of 15.99 Da was absent in the y4–10 ions, but present in the y11–14 ions in the MS/MS profile of the peptide HHAAY58VNNLNVTEEK (Figure S1i); it was further confirmed by the absence of the extra mass in the b2,4 ions and presence in the b5–14 ions.</text>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="13736" length="8"/>
+        <text>Tyrosine</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004295</infon>
+        <location offset="13771" length="19"/>
+        <text>3-hydroxyl tyrosine</text>
+      </annotation>
+      <annotation id="2X226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007980</infon>
+        <location offset="13794" length="26"/>
+        <text>3,4-dihydroxyphenylalanine</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007980</infon>
+        <location offset="13822" length="6"/>
+        <text>L-DOPA</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">OTHER</infon>
+        <location offset="13833" length="20"/>
+        <text>tyrosine hydroxylase</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="13915" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="13958" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14266</offset>
+      <text>2.7. Oxidation at H54, H55, Y58, W147 and W149 of MNSOD Is Up-Regulated in ccRCC</text>
+      <annotation id="342">
+        <infon key="type">OTHER</infon>
+        <location offset="14316" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14347</offset>
+      <text>The peak areas were commonly considered proportional to the amounts of the peptide. In this study, the level of an oxidized residue was measured by the areas of all peptide fragments containing the oxidized residue. In comparison with unoxidized, the relative level of oxidized residues at H54, H55, Y58, W147, W149, W205, N206, N209 and W210 were calculated as 0.00012, 0.00012, 0.00073, 0.09530, 0.06171, 0.06938, 0.05298, 0.05298 and 0.06938, respectively, in kidney tissues (Figure 3a, Table S7). Apparently, the basal levels of oxidation in MNSOD might indicate a managed balance between formation and neutralization of ROS in vivo. Note that abundances of W205 and N206 were identical to W210 and N209 because they were from two identical peptides with the same abundance but different pattern. The abundances of H54 and H55 were similar because they came from a low abundant, single oxidation peptide (H54) and a high abundant, double oxidation peptide (H54 and H55), so that their total abundances were mainly contributed by the high abundant peptide. Markedly, oxidation at H54 and H55 only found in kidney cancer tissues (p &lt; 0.05, n = 4), and oxidation at Y58, W147 and W149 increased 2.63, 3.26 and 3.13-fold (p &lt; 0.05, n = 4) in kidney cancer tissues, respectively, in comparison with those in adjacent non-cancer tissues of the same patient (Figure 3b). While, oxidation at N206 and N209 decreased 1.54-fold (p &lt; 0.05, n = 4) and oxidation at W205 and W210 decreased 1.40-fold (p &lt; 0.05, n = 4) in kidney cancer tissues. Thus, these data suggested that oxidation at certain amino acid positions of MNSOD could be dysregulated in kidney cancer.</text>
+      <annotation id="343">
+        <infon key="type">OTHER</infon>
+        <location offset="14893" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="14972" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15935" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="345">
+        <infon key="type">OTHER</infon>
+        <location offset="15959" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16005</offset>
+      <text>2.8. The Relative MNSOD Enzymatic Activity Is Attenuated in ccRCC</text>
+      <annotation id="346">
+        <infon key="type">OTHER</infon>
+        <location offset="16023" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16071</offset>
+      <text>Western blotting analysis of four individual ccRCC and adjacent tissue lysates showed a significant increase of MNSOD expression in ccRCC (p &lt; 0.05, Figure 4a). Then MNSOD enzymatic activity was measured from ccRCC and adjacent kidney tissue lysates using superoxide dismutase (SOD) activity kit. When normalized by MNSOD expression level, the relative enzymatic activity of MNSOD was decreased in ccRCC in comparison with adjacent tissues (p &lt; 0.05, Figure 4b), although the total activity was similar. This observation suggested that modification of MNSOD might impair its enzymatic activity.</text>
+      <annotation id="347">
+        <infon key="type">OTHER</infon>
+        <location offset="16183" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">OTHER</infon>
+        <location offset="16327" length="20"/>
+        <text>superoxide dismutase</text>
+      </annotation>
+      <annotation id="349">
+        <infon key="type">OTHER</infon>
+        <location offset="16387" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">OTHER</infon>
+        <location offset="16446" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">OTHER</infon>
+        <location offset="16623" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16666</offset>
+      <text>3. Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16680</offset>
+      <text>MNSOD is highly expressed in kidney and is reportedly up-regulated in ccRCC [15,16], the most common subtype of RCC in adults. Label-free quantitative proteomics approach, which is based on the number of acquired spectra for each protein or the ion intensities of identical peptides, has become a popular alternative to assess relative amount of peptides or proteins [25]. In this study, label-free quantification was performed to compare a number of proteins in kidney tissues, and 208 proteins were found to meet the criteria for dysregulation between ccRCC and adjacent tissues. Among them, MNSOD, a crucial protein regulating ROS was pinpointed as an important target by STRING and DAVID bioinformatics tools. It was followed by ion intensity-based quantification to compare oxidized peptides of MNSOD between ccRCC and adjacent tissues. Using MNSOD protein bands from 4 pairs of kidney samples, shotgun proteomics, and open search algorithm, this approach revealed 9 oxidative modification sites at 4 different amino acid residues on endogenous MNSOD protein (Table 2). Modified sites involved two histidine (H54 and H55), one tyrosine (Y58), four tryptophan (W147, W149, W205 and W210) and two asparagine (N206 and N209), and most of the oxidized residues clustered at the C-terminus. Consistent with our findings, it was recently reported that MNSOD could be oxidized at H54, H55 and W210 in medulloblastoma cells [21]. Notably, three hotspots at amino acid residues 54–58, 147–149, and 205–210 were observed and multiple oxidation incidents occurred simultaneously in the nearby positions, such as W147W149 and N209W210. Our data revealed that MNSOD could be oxidized at tryptophan/asparagine residues, while tryptophan oxidation and asparagine hydroxylation were previously reported to alter the structure and/or function of the oxidized protein [26,27]. These observations demonstrated that mitochondrial MNSOD was not only upregulated in kidney cancer, but it was also deeply oxidized at several hotspots.</text>
+      <annotation id="352">
+        <infon key="type">OTHER</infon>
+        <location offset="16680" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">OTHER</infon>
+        <location offset="17274" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="17310" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="354">
+        <infon key="type">OTHER</infon>
+        <location offset="17480" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="355">
+        <infon key="type">OTHER</infon>
+        <location offset="17528" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="17696" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">OTHER</infon>
+        <location offset="17730" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="17783" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="17812" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="17833" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="17880" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="358">
+        <infon key="type">OTHER</infon>
+        <location offset="18031" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="18134" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="18359" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="18370" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="18397" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="18422" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="359">
+        <infon key="type">OTHER</infon>
+        <location offset="18595" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18703</offset>
+      <text>Based on three-dimensional structure (1LUV.pdb), the catalytic core (active site) of MNSOD is located between the N-terminal helices and the C-terminal α/β domain, coordinating in a strained trigonal bipyramidal geometry by the side chains of His50, His98, Asp183 and His187 and the Mn ion in the active metal ion (Figure 2b and Figure 4c) [3,28]. The residues near the active site were known to affect the enzymatic activity or the stability of sites involving His54, Tyr58 and Trp147 [28,29,30]. The hydrophobic side chains that surrounded the metal-ligand cluster including His51, His54, His55, Tyr58, Phe101, Trp102, Trp149, Tyr190, and Tyr200 could also be altered [31]. Therefore, oxidation modifications of these residues in and around the MNSOD active site were believed to affect the catalytic activity [32]. In this study, we found that the oxidized residues were close to the active site or located in the hydrophobic side chains, which surrounded the manganese-ligand cluster and formed a hydrophobic pocket on the surface of proteins. These included the residues His54 (H54), His55 (H55), Tyr58 (Y58), Trp147 (W147) and Trp149 (W149) (Figure 4) [2,5,6,9,31]. These observations are supported by previous reports demonstrating that mutations and modifications close to the active site significantly affect the structural stability as well as the catalytic activity of MNSOD [33]. In addition, the relative enzymatic activity, when normalized by MNSOD expression, was decreased in ccRCC in comparison with the adjacent tissues. We, therefore, speculated that the newly identified oxidative modification may initially affect the structure then compromise the catalytic activity of MNSOD, and thereby contribute to ccRCC formation and development.</text>
+      <annotation id="269">
+        <infon key="type">OTHER</infon>
+        <location offset="18788" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="18946" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="18953" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="2X319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="18960" length="3"/>
+        <text>Asp</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="18971" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="18986" length="2"/>
+        <text>Mn</text>
+      </annotation>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19165" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19172" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19182" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19280" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19287" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19294" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19301" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="19308" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19316" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19324" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19332" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19344" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">OTHER</infon>
+        <location offset="19450" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="19666" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19779" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19792" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19805" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19818" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19836" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="365">
+        <infon key="type">OTHER</infon>
+        <location offset="20083" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">OTHER</infon>
+        <location offset="20160" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="367">
+        <infon key="type">OTHER</infon>
+        <location offset="20394" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20467</offset>
+      <text>Using MS, we found that human endogenous mitochondrial MNSOD can undergo oxidative modifications at histidine, tyrosine, tryptophan and asparagine residues. To our knowledge, we report for the first time that human MNSOD can be oxidized at tyrosine and asparagine residues. Although MNSOD oxidation at H54, H55 and W210 was reported in medulloblastoma cells [21], the extent of oxidation and its modification patterns have not been fully elucidated. Asparagine hydroxylation of ankyrin repeat domain (ARD) of ankyrin R by factor-inhibiting hypoxia-inducible factor (FIH) altered the structure and function of the erythrocyte cytoskeletal ankyrin protein [27], and tyrosine oxidation affected mouse bone marrow mesenchymal stem cells (BMMSCs) proliferation and differentiation [26], but little is known about asparagine and tyrosine oxidation in MNSOD. Label-free quantification demonstrated a significant increase of oxidation at H54, H55, Y58, W147 and W149 in ccRCC, comparing with adjacent tissues (Figure 3b). As protein oxidation usually altered the enzymatic activity [8], we speculated that the oxidation of H54, H55, Y58, W147 and W149 mediated MNSOD activity, and thereby, contributed to ccRCC initiation. It also accounts for the inconsistency of enzymatic activity and MNSOD expression in ccRCC versus adjacent tissues. Cancer cells produce greater amount of ROS than their corresponding normal cells, thus more MNSOD aggregates in ccRCC to scavenge ROS. However, increased ROS also inhibits MNSOD activity via oxidative mechanisms in ccRCC. Our observations suggest that, in addition to overexpression of MNSOD in cancer cells, MNSOD oxidation might also contribute to ROS regulation by mediation of MNSOD activity [34].</text>
+      <annotation id="282">
+        <infon key="type">OTHER</infon>
+        <location offset="20522" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="20567" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20578" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20588" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="20603" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">OTHER</infon>
+        <location offset="20682" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20707" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="20720" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">OTHER</infon>
+        <location offset="20750" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="20917" length="10"/>
+        <text>Asparagine</text>
+      </annotation>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="21131" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="21275" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="21290" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="369">
+        <infon key="type">OTHER</infon>
+        <location offset="21312" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">OTHER</infon>
+        <location offset="21620" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="371">
+        <infon key="type">OTHER</infon>
+        <location offset="21747" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="21837" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="372">
+        <infon key="type">OTHER</infon>
+        <location offset="21890" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="21928" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="21952" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">OTHER</infon>
+        <location offset="21970" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">OTHER</infon>
+        <location offset="22084" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="378">
+        <infon key="type">OTHER</infon>
+        <location offset="22107" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="22148" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">OTHER</infon>
+        <location offset="22179" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22200</offset>
+      <text>4. Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22225</offset>
+      <text>4.1. Sample Preparation and Protein Extraction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22272</offset>
+      <text>Kidney cancer tissues (ccRCC) and adjacent morphologically normal kidney cortex (adjacent tissues) were collected from 7 cancer patients with nephrectomy (5 males and 2 females, age from 46 to 75, Fuhrman nuclear grading with 2 G1 + 2 G2 + 2 G3 + 1 G4, TNM staging with 2 T1 + 3 T2 + 2 T3) in full compliance with Institutional Ethics Review Board’s guidance. All procedures were consistent with the National Institutes of Health Guide and approved by the institutional board with patients’ written consent. This study was evaluated and approved by the Ethics Committee of Shandong Provincial Hospital Affiliated to Shandong University. Frozen tissues were homogenized in RIPA lysis buffer (Millipore, Billerica, MA, USA) including the protease inhibitor cocktail (Roche, Basel, Switzerland). Protein concentration was determined using BCA protein assay (Biyuntian, Beijing, China). Total proteins of the ccRCC and adjacent tissues from 3 patients (TNM staging with 1 T1 + 1 T2 + 1 T3) were subjected to quantitative proteomic analysis, and those from 4 patients (TNM staging with 1 T1 + 2 T2 + 1 T3) were used for PTMs and MNSOD enzymatic activity analyses.</text>
+      <annotation id="381">
+        <infon key="type">OTHER</infon>
+        <location offset="23396" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23435</offset>
+      <text>4.2. Liquid Chromatography Tandem Mass Spectrometry</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23487</offset>
+      <text>For quantitative proteomic analysis, ~100 μg of total proteins from the tumor and adjacent tissues were separated on sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE), roughly divided into 10 slices according to molecular weights, and digested with trypsin as described previously [35]. The extracted peptides from each gel band were desalted by ZipTip (Millipore) and subjected to peptide fractionation using an EASY-nLC II system (Thermo Scientific, Waltham, MA, USA). The gradient-eluted peptides were analyzed by a Velos Pro ion trap mass spectrometer (Thermo Scientific). The liquid chromatography column (150 mm × Ø 0.075 mm) was packed with 3 μm 100 Å PepMap C18 (Thermo Scientific). Samples were analyzed using 120 min linear gradient of 5%–35% acetonitrile in 0.1% formic acid with a flow rate of 300 nL/min (solvent A: 0.1% formic acid in water, solvent B: 0.1% formic acid in acetonitrile) and the mass spectrometer was operated in a data-dependent mode, in which MS/MS fragmentation was performed using the 20 most intense peaks of every full MS scan. MS/MS spectra were searched against the human protein database (UniProtKB; 88,295 entries) using SEQUEST HT, which is part of the Proteome Discoverer 1.4 data analysis package (Thermo Scientific, San Jose, CA, USA). Trypsin (full cleavage) was specified as cleavage enzyme allowing up to two missing cleavages. MS/MS spectra were searched with a maximum allowed deviation of 1 Da for the precursor mass and 0.8 Da for fragment masses. Methionine oxidation was selected as a dynamic modification, and the false discovery rate (FDR) was 1%.</text>
+      <annotation id="G312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="23604" length="22"/>
+        <text>sodium dodecyl sulfate</text>
+      </annotation>
+      <annotation id="G313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016679</infon>
+        <location offset="23627" length="14"/>
+        <text>polyacrylamide</text>
+      </annotation>
+      <annotation id="G303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="23663" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="24259" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="G306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="24280" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="24340" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24355" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="24378" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="24393" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="G311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="25005" length="10"/>
+        <text>Methionine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25116</offset>
+      <text>For deep PTMs analysis, total proteins from the tumor and adjacent tissues were separated on SDS-PAGE and the ~22 kDa bands corresponding to MNSOD were excised. Proteins in the gel slices were digested with trypsin and peptides were recovered with C18 ZipTip. The extracted and desalted peptides were subjected to peptide fractionation by liquid chromatography on an EASY-nLC 1000 system (Thermo Scientific) equipped with a long C18 column (300 mm × Ø 0.075 mm, 3 μm particles). Samples were fractionated with 120 min linear gradient of 5%–35% acetonitrile/0.1% formic acid at a flow rate of 300 nL/min (solvent A: 0.1% formic acid in water, solvent B: 0.1% formic acid in acetonitrile). The MS and MS/MS spectra were acquired by a LTQ-Orbitrap Elite mass spectrometer (Thermo Scientific) in a data-dependent mode, in which MS/MS fragmentation of the 20 most intense peaks were acquired for every full MS scan. MS/MS spectra were searched against the human protein database using MASCOT and SEQUEST. Trypsin (full cleavage) was specified as cleavage enzyme allowing up to two missing cleavages. MS/MS spectra were searched with a maximum allowed deviation of 10 ppm for the precursor mass and 0.6 Da for fragment masses. The oxidation of various amino acid residues including methionine was selected as dynamic modification, and the false discovery rate (FDR) was 1%. For nitration, tyrosine was selected as dynamic modification. The thresholds for the accepted MS/MS spectra (peptides) were Ions Score of 38 for MASCOT or XCorr of 1.22 × charges for SEQUEST [36]. All modification site assignments were confirmed by manual spectrum interpretation.</text>
+      <annotation id="G314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="25209" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">OTHER</infon>
+        <location offset="25257" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="25660" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="G317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="25678" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="25736" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="25774" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="25789" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="G322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="26362" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="26392" length="10"/>
+        <text>methionine</text>
+      </annotation>
+      <annotation id="G324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="26499" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26771</offset>
+      <text>For open modification search, a multi-blind spectral alignment algorithm, termed MODification via alignment or MODa [20], was used. Amino acid residues with a delta mass of +16 Da and probability higher than 95% were retained for potential oxidation modifications.</text>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="26903" length="10"/>
+        <text>Amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27036</offset>
+      <text>4.3. Label-Free Quantification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27067</offset>
+      <text>To quantitatively compare the protein abundances between ccRCC and adjacent tissues, spectral count was performed [37]. This method compares the number of identified MS/MS spectra from the same protein in each of the multiple data sets. For normalization, the spectral counts of each protein were divided by the total spectral counts of all proteins from the same sample. To estimate the levels of oxidation at each oxidized residue, the intensities of all peptide fragments containing the oxidized residue were measured [38] by Progenesis LC-MS software (version 4.1, Nonlinear Dynamics, Newcastle, UK). For quantification of ratio of the oxidized residues, the abundance of oxidized residue was divided by the abundance of unoxidized residue in every four pairs of tissue samples as shown in Table S7.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27871</offset>
+      <text>4.4. Pathway and Network Analyses of Dysregulated Proteins in ccRCC</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27939</offset>
+      <text>The dysregulated proteins were chosen based on the criteria of p &lt; 0.05, presence in every replicate, average spectral counts of &gt;20 and fold change ratio of 1.4 (up or down) in ccRCC comparing with adjacent tissues. For identifying enriched signaling networks and diseases categories, the dysregulated proteins were subjected to bioinformatics tools: STRING (available on: ) and DAVID functional annotation tool (available on: ) [39]. The STRING database version 10 and medium confidence (0.4000) were used and active interaction sources included all default settings, such as text mining, experiments, database, co-expression, neighborhood, gene fusion, co-occurrence. For DAVID functional annotation, DAVID database version 6.8 was used.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28680</offset>
+      <text>4.5. Western Blotting (WB) Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28716</offset>
+      <text>Samples were separated on SDS-PAGE gel. After electrophoresis, the proteins were transferred to nitrocellulose (NC) membranes, blocked then probed with primary antibodies against MNSOD (1:750, Santa Cruz, Dallas, TX, USA) and Tubulin (1:10,000, Sigma-Aldrich, St. Louis, MO, USA). Proteins were detected using fluorescence conjugated secondary antibody. The membranes were scanned with Odyssey infrared imaging system (Li-Cor, Lincoln, NE, USA).</text>
+      <annotation id="G326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="28742" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="284">
+        <infon key="type">OTHER</infon>
+        <location offset="28895" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>29162</offset>
+      <text>4.6. MNSOD Enzymatic Activity Assay</text>
+      <annotation id="384">
+        <infon key="type">OTHER</infon>
+        <location offset="29167" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29198</offset>
+      <text>Commercial superoxide dismutase (SOD) activity kit (Jiancheng biotechnology, Nanjing, China) was used to measure MNSOD enzymatic activity from kidney tissue lysates according to manufacturer’s instructions and based on modified method as previously reported [16]. Total SOD activity was assayed by the inhibition of xantine/xantine oxidase mediated reduction of cytochrome c, and MNSOD activity was determined with addition of 3 mM KCN to inhibit Cu/ZnSOD.</text>
+      <annotation id="G327">
+        <infon key="type">OTHER</infon>
+        <location offset="29209" length="20"/>
+        <text>superoxide dismutase</text>
+      </annotation>
+      <annotation id="385">
+        <infon key="type">OTHER</infon>
+        <location offset="29311" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="387">
+        <infon key="type">OTHER</infon>
+        <location offset="29514" length="23"/>
+        <text>xantine/xantine oxidase</text>
+      </annotation>
+      <annotation id="386">
+        <infon key="type">OTHER</infon>
+        <location offset="29578" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="2X418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011190</infon>
+        <location offset="29630" length="3"/>
+        <text>KCN</text>
+      </annotation>
+      <annotation id="267">
+        <infon key="type">OTHER</infon>
+        <location offset="29645" length="8"/>
+        <text>Cu/ZnSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>29657</offset>
+      <text>4.7. Data Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29676</offset>
+      <text>The SPSS 17.0 software (SPSS Inc., Chicago, IL, USA) was used for statistical analysis. p &lt; 0.05 was considered statistically significant. Statistical analyses between two groups were performed using a Student’s t-test, whereas comparisons involving multiple groups were performed with a two-way ANOVA test.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>29986</offset>
+      <text>5. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30001</offset>
+      <text>Our study suggests that MNSOD could be highly susceptible to oxidative modifications in ccRCC. The newly identified oxidative modification sites, particularly those in the C-terminus hydrophobic pocket, may be developed as biomarkers or molecular targets to study ROS regulatory mechanisms, ease the interpretation of previous MNSOD data in tumor biology, and enhance our intervening ability in tumorigenesis [18,19].</text>
+      <annotation id="286">
+        <infon key="type">OTHER</infon>
+        <location offset="30025" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="30265" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">OTHER</infon>
+        <location offset="30328" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>30419</offset>
+      <text>Supplementary Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30443</offset>
+      <text>Supplementary materials can be found at .</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>30485</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30506</offset>
+      <text>Jiaju Lu and Jing-Hua Yang conceived and designed the experiments; Zuohui Zhao, Ruirui Jing and Cuiling Li performed the experiments; Fengqin Wang and Han-Pil Choi analyzed the data; Xin Lu contributed to sample collection; Zuohui Zhao, Jing-Hua Yang, Kazem M. Azadzoi and Han-Pil Choi wrote the manuscript and contributed to the revision of manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>30860</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30882</offset>
+      <text>The authors declare no conflict of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>30927</offset>
+      <text>References</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>34696</offset>
+      <text>Quantitative proteomic analysis revealed the importance of anti-oxidative stress pathway in ccRCC. (a) The heatmap showed the 33 oxidoreductases (by DAVID) were involved in binding cofactor, coenzyme, NAD, NADH or NAD(P). 1: NAD binding site; 2: NAD or NADH binding; 3: nucleotide phosphate-binding region; 4: NAD(P)-binding domain; 5: NAD; 6: coenzyme binding; 7: cofactor binding; 8: oxidation reduction; 9: oxidoreductase. Red arrow showed the candidate protein (MNSOD, SOD2). Green area: gene-term association positively reported, light blue area: gene term association not reported yet; (b) visualization of protein–protein interactions of the 37 oxidation-reduction related proteins in ccRCC using STRING analysis (confidence mode). 37 oxidation-reduction related proteins were input into STRING software and they formed three main clusters (only 33 connected proteins were shown and the clusters were divided by dotted lines), among which MNSOD (SOD2, red arrow) were participated in the network and were chosen to be validated later. The solid lines represented interactions between proteins and thickness of the solid lines denoted the confidence level associated with each interactions.</text>
+      <annotation id="G331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="34897" length="3"/>
+        <text>NAD</text>
+      </annotation>
+      <annotation id="G332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="34902" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="34910" length="6"/>
+        <text>NAD(P)</text>
+      </annotation>
+      <annotation id="G334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="34921" length="3"/>
+        <text>NAD</text>
+      </annotation>
+      <annotation id="G335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="34942" length="3"/>
+        <text>NAD</text>
+      </annotation>
+      <annotation id="G336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="34949" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="G337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="34966" length="20"/>
+        <text>nucleotide phosphate</text>
+      </annotation>
+      <annotation id="391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="35006" length="6"/>
+        <text>NAD(P)</text>
+      </annotation>
+      <annotation id="G339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="35032" length="3"/>
+        <text>NAD</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">OTHER</infon>
+        <location offset="35162" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">OTHER</infon>
+        <location offset="35642" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>35895</offset>
+      <text>LC-MS/MS coverage of MNSOD. (a) Whole cell lysates from kidney tissues were separated by SDS-PAGE and stained by Coomassie Blue (arrow indicated MNSOD). The gel image is the representative of 4 pairs of tumor and adjacent tissues used for PTMs analysis. A: adjacent; T: tumor; (b) CID-based sequence coverage of MNSOD. After Coomassie Blue staining, the 22 kDa protein bands corresponding to MNSOD were cut from the gel and digested, and peptides were analyzed by LC-MS/MS on LTQ-Orbitrap mass spectrometer (MS). The underlined amino acids (bold letters) were identified by Proteome Discoverer 1.4 (MASCOT and SEQUEST), which covered 76.13% sequence of MNSOD. Signal: the signal peptide; α: the α-helices; β: the β-sheets, subscript numbers represent original numbers; solid arrows: metal (Mn2+) binding sites.</text>
+      <annotation id="G340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="35984" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="36008" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="291">
+        <infon key="type">OTHER</infon>
+        <location offset="36040" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">OTHER</infon>
+        <location offset="36207" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">OTHER</infon>
+        <location offset="36287" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="36423" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">OTHER</infon>
+        <location offset="36548" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="36685" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>36720</offset>
+      <text>Quantification of the oxidized residues of MNSOD. (a) The average ratios of the oxidized to unoxidized residues in tumor + adjacent tissues. Abundances of the modified and unmodified peptide fragments containing the nine oxidized and unoxidized residues (H54, H55, Y58, W147, W149, W205, N206, N209 and W210) were used to calculate the ratios (Table S7). Three hotspots are indicated; (b) comparison of the oxidation modification between tumor and adjacent tissues. The relative ratios of oxidized to unoxidized residues at histidine 54 (H54), 55 (H55) and tyrosine 58 (Y58) were low both in ccRCC tumor tissues and adjacent tissues but, dramatically increased in tumor comparing with adjacent tissues (the left panel, * p &lt; 0.03, n = 4) (Table S7). The relative ratios at tryptophan 147 (W147) and 149 (W149) were also increased significantly in tumor, but the relative ratios at tryptophan 205 (W205), asparagine 206 (N206), asparagine 209 (N209) and tryptophan 210 (W210) were decreased slightly in tumor (the right panel, * p &lt; 0.03, n = 4) (Table S7).</text>
+      <annotation id="392">
+        <infon key="type">OTHER</infon>
+        <location offset="36763" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="37244" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="37277" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="G345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="37493" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="37601" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="37624" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="37647" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="G349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="37673" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>37777</offset>
+      <text>MNSOD expression, enzymatic activity and the potential oxidation hotspots of MNSOD. (a) The expression of MNSOD in adjacent (A) and ccRCC (T) tissues. Four individual ccRCC and adjacent tissue lysates were separated by SDS-PAGE and the expression of MNSOD was detected by Western blotting. Tubulin served as the loading control (* p &lt; 0.05, n = 4); (b) MNSOD enzymatic activity in adjacent (A) and ccRCC (T) tissues. Superoxide dismutase (SOD) activity kit was used to measure MNSOD enzymatic activity. The relative MNSOD enzymatic activity was normalized by MNSOD expression (* p &lt; 0.05, n = 4); (c) the potential oxidation hotspots in three dimensional structure of MNSOD. The ribbon structure of MNSOD subunit (1LUV.pdb) is depicted with the two separate polypeptide chains. The active sites (manganese ions, Mn) are depicted as solid spheres and the oxidative modification sites (H54, H55, Y58, W147, W149, W205, N206, N209, W210) are indicated as red dashed arrows. The 3D structure shows the three oxidation hotspots (hotspot 1 (H54, H55, Y58), hotspot 2 (W147, W149) and hotspot 3 (W205, N206, N209, W210)) are distributed in the surface of homotetrameric MNSOD and point to protein internal, which composite a hydrophobic side chain and affect the molecular structure of MNSOD. The colors in the ribbon structure of MNSOD subunit are the automatically displayed colors according to 1LUV.pdb.</text>
+      <annotation id="393">
+        <infon key="type">OTHER</infon>
+        <location offset="37777" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="395">
+        <infon key="type">OTHER</infon>
+        <location offset="37854" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="394">
+        <infon key="type">OTHER</infon>
+        <location offset="37883" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="37996" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">OTHER</infon>
+        <location offset="38027" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="397">
+        <infon key="type">OTHER</infon>
+        <location offset="38130" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="398">
+        <infon key="type">OTHER</infon>
+        <location offset="38194" length="20"/>
+        <text>Superoxide dismutase</text>
+      </annotation>
+      <annotation id="399">
+        <infon key="type">OTHER</infon>
+        <location offset="38254" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="400">
+        <infon key="type">OTHER</infon>
+        <location offset="38336" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="401">
+        <infon key="type">OTHER</infon>
+        <location offset="38445" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="402">
+        <infon key="type">OTHER</infon>
+        <location offset="38476" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="38573" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="G370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="38589" length="2"/>
+        <text>Mn</text>
+      </annotation>
+      <annotation id="403">
+        <infon key="type">OTHER</infon>
+        <location offset="38940" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="405">
+        <infon key="type">OTHER</infon>
+        <location offset="39056" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="404">
+        <infon key="type">OTHER</infon>
+        <location offset="39101" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>39177</offset>
+      <text>Frequency of +16 modification events of MNSOD at different amino acid residues *.</text>
+      <annotation id="406">
+        <infon key="type">OTHER</infon>
+        <location offset="39217" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="39236" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>39486</offset>
+      <text>* Note: total counts of the peptide with a delta mass of +16 Da at the indicated amino acids.</text>
+      <annotation id="G389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="39567" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>39580</offset>
+      <text>The modified (oxidized and nitrated) amino acid residues in MNSOD a.</text>
+      <annotation id="G390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="39617" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="407">
+        <infon key="type">OTHER</infon>
+        <location offset="39640" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>40465</offset>
+      <text>a The modified peptides in MNSOD (P04179, SODM_HUMAN), which were identified by MASCOT and SEQUEST. See Figure S1 for mass spectra containing b and y ions. b Precursor mass accuracy &lt;10 ppm. c Modified peptide sequences. ox: oxidation, no: nitration. The peptide sequences with bold letters indicate novel oxidized/nitrated residues. d Ions Score (&gt;38) by MASCOT, XCorr (&gt;1.22 × charges) by SEQUEST. e Asn oxidation combined with Trp oxidation.</text>
+      <annotation id="408">
+        <infon key="type">OTHER</infon>
+        <location offset="40492" length="5"/>
+        <text>MNSOD</text>
+      </annotation>
+      <annotation id="G391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="40867" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="G392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="40895" length="3"/>
+        <text>Trp</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

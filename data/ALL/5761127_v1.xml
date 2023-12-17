@@ -1,0 +1,4040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180118</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5761127</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:van Pelt;given-names:Jos</infon>
+      <infon key="name_2">surname:Athmouni;given-names:Khaled</infon>
+      <infon key="name_1">surname:Ben Hsouna;given-names:Anis</infon>
+      <infon key="name_0">surname:Bellassoued;given-names:Khaled</infon>
+      <infon key="article-id_pmid">29316974</infon>
+      <infon key="year">2018</infon>
+      <infon key="article-id_publisher-id">645</infon>
+      <infon key="article-id_pmc">5761127</infon>
+      <infon key="title">Keywords</infon>
+      <infon key="article-id_doi">10.1186/s12944-017-0645-9</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">9</infon>
+      <infon key="volume">17</infon>
+      <infon key="license">Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.</infon>
+      <infon key="kwd">M. piperita Essential oil Liver Kidney Oxidative stress Histopathological</infon>
+      <infon key="name_6">surname:Elfeki;given-names:Abdelfattah</infon>
+      <infon key="name_5">surname:Rebai;given-names:Tarek</infon>
+      <infon key="name_4">surname:Makni Ayadi;given-names:Fatma</infon>
+      <offset>0</offset>
+      <text>Protective effects of Mentha piperita L. leaf essential oil against CCl4 induced hepatic oxidative damage and renal failure in rats</text>
+      <annotation id="2XXx1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22" length="37"/>
+        <text>Mentha piperita L. leaf essential oil</text>
+      </annotation>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="68" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>132</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>143</offset>
+      <text>Mentha piperita L. is a flowering plant belonging to the Lamiaceae family. Mentha plants constitute one of the main valuable sources of essential oil used in foods and for medicinal purposes.</text>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="279" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>335</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>343</offset>
+      <text>The present study aimed to investigate the composition and in vitro antioxidant activity of Mentha piperita leaf essential oil (MpEO). A single dose of CCl4 was used to induce oxidative stress in rats, which was demonstrated by a significant rise of serum enzyme markers. MpEO was administrated for 7 consecutive days (5, 15, 40 mg/kg body weight) to Wistar rats prior to CCl4 treatment and the effects on serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP), lactate dehydrogenase (LDH), and γ -glutamyl transpeptidase (γ-GT) levels, as well as the liver and kidney superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPx) activity and thiobarbituric acid reactive substances (TBARS) levels were evaluated. In addition, histopathological examinations of livers and kidneys was performed.</text>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="435" length="34"/>
+        <text>Mentha piperita leaf essential oil</text>
+      </annotation>
+      <annotation id="2XXx5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="471" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="495" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="615" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="715" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx7">
+        <infon key="type">OTHER</infon>
+        <location offset="755" length="24"/>
+        <text>alanine aminotransferase</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">OTHER</infon>
+        <location offset="787" length="26"/>
+        <text>aspartate aminotransferase</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">OTHER</infon>
+        <location offset="849" length="21"/>
+        <text>lactate dehydrogenase</text>
+      </annotation>
+      <annotation id="2XXx10">
+        <infon key="type">OTHER</infon>
+        <location offset="956" length="20"/>
+        <text>superoxide dismutase</text>
+      </annotation>
+      <annotation id="2XXx11">
+        <infon key="type">OTHER</infon>
+        <location offset="1003" length="22"/>
+        <text>glutathione peroxidase</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="1045" length="39"/>
+        <text>thiobarbituric acid reactive substances</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="1086" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1205</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1213</offset>
+      <text>The in vitro antioxidant activity of MpEO was lower than that of silymarin. Pretreatment of animals with MpEO at a dose of 5 mg/kg did not have a significant effect on ALT, AST, ALP, LDH, γGT, urea or creatinine levels in CCl4-induced stress. Whereas pretreatment with MpEO at doses of 15 and 40 mg/kg prior to CCl4, significantly reduced stress parameters (ALT, AST, ALP, LDH, γGT, urea and creatinine) compared to the CCl4-only group. Moreover, a significant reduction in hepatic and kidney lipid peroxidation (TBARS) and an increase in antioxidant enzymes SOD, CAT and GPx was also observed after treatment with MpEO (40 mg/kg) compared to CCl4-treated rats. Furthermore, pretreatment with MpEO at 40 mg/kg can also markedly ameliorate the histopathological hepatic and kidney lesions induced by administration of CCl4.</text>
+      <annotation id="2XXx25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="1250" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="1278" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="1318" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="1406" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="1414" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="1435" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="1482" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="1524" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="1596" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="2XXx21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="1605" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="2XXx22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="1633" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="1706" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="gy45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="1726" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="1828" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="1856" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="1906" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="2030" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>2044</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>2056</offset>
+      <text>We could demonstrate with this study that MpEO protects liver and kidney from CCl4-induced oxidative stress and thus substantiate the beneficial effects attributed traditionally to this plant.</text>
+      <annotation id="2XXx33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="2098" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="2134" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2249</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2260</offset>
+      <text>Reactive oxygen species (ROSs) are various forms of activated oxygen. A disproportion of the reactive oxygen species and the absence of their scavenge systems in cells lead to oxidative stress and increases the risk of several human chronic diseases []. ROS contributes to the development of various diseases such as diabetes, atherosclerosis, cancer, neurodegenerative diseases, liver cirrhosis and the aging process []. The liver plays a central role in the maintenance of systemic lipid homeostasis and is especially susceptible to ROS damage. CCl4 is now of greatest concern as an environmental contaminant []. It was reported that CCl4 was one of the most commonly used toxins in the experimental study of liver diseases []. Abraham et al. [] showed that the nephrotoxic effects of CCl4 were also associated with free radical production.</text>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2260" length="23"/>
+        <text>Reactive oxygen species</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2285" length="4"/>
+        <text>ROSs</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="2322" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="2XXx42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2353" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2514" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="2XXx43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="2744" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2795" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="2XXx39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="2807" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="2896" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="3047" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="3078" length="12"/>
+        <text>free radical</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3103</offset>
+      <text>To prevent the damage caused by ROS, living organisms have developed an antioxidant defense system that includes the presence of non-enzymatic antioxidants and enzymes such as catalase (CAT), superoxide dismutase (SOD) and glutathione peroxidase (GPx) []. It has been anticipated that in addition to these natural antioxidants, other synthetic or natural ROS scavengers may reduce the incidence of free radical-mediated diseases. The use of antioxidants in the prevention and cure of various diseases is intensifying, and there is considerable interest in the study of the antioxidant activities of molecules such as plant polyphenolic and carotenoid components [, ]. Antioxidants appear to act against disease processes by increasing the levels of endogenous antioxidant enzymes and decreasing lipid peroxidation [].</text>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="3135" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">OTHER</infon>
+        <location offset="3295" length="20"/>
+        <text>superoxide dismutase</text>
+      </annotation>
+      <annotation id="2XXx49">
+        <infon key="type">OTHER</infon>
+        <location offset="3326" length="22"/>
+        <text>glutathione peroxidase</text>
+      </annotation>
+      <annotation id="2XXx46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="3458" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="3501" length="12"/>
+        <text>free radical</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002338</infon>
+        <location offset="3743" length="10"/>
+        <text>carotenoid</text>
+      </annotation>
+      <annotation id="2XXx51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="3898" length="5"/>
+        <text>lipid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3921</offset>
+      <text>A number of studies showed that various herbal extracts could protect liver and kidney against CCl4-induced oxidative stress by inhibiting lipid peroxidation and enhancing antioxidant enzyme activity []. Silymarin, a flavonolignan mixture of milk thistle (Silybum marianum), is one such important herbal hepatoprotective drug. Silymarin exhibits hepatoprotective effects by altering cytoplasmic membrane architecture and, in turn, preventing the penetration of hepatotoxic substances, such as carbon tetrachloride (CCl4), thioacetamide and D-galactosamine [].</text>
+      <annotation id="2XXx52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="4016" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="4060" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="4125" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D044947</infon>
+        <location offset="4138" length="13"/>
+        <text>flavonolignan</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="4248" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="4414" length="20"/>
+        <text>carbon tetrachloride</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="4436" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013853</infon>
+        <location offset="4443" length="13"/>
+        <text>thioacetamide</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005688</infon>
+        <location offset="4461" length="15"/>
+        <text>D-galactosamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4481</offset>
+      <text>The well-known and widely used peppermint (Mentha piperita L.) (Lamiaceae) is a cultivated natural hybrid of Mentha aquatica L. (water mint) and Mentha spicata L. (spearmint). Although a native genus of the Mediterranean region, it is cultivated all over the world for its use in flavor, fragrance, medicinal, and pharmaceutical applications. Peppermint oil is one of the most widely produced and consumed essential oils [, ]. Besides its uses in food, herbal tea preparations, and confectioneries, the medicinal uses of mint, which date back to ancient times, include carminative, anti-inflammatory, antispasmodic, antiemetic, diaphoretic, analgesic, stimulant, emmenagogue, and anticatharrhal application. It is also used against nausea, bronchitis, flatulence, anorexia, ulcerative colitis, and liver complaints. Mint essential oils are generally used externally for antipruritic, astringent, rubefacient, antiseptic, and antimicrobial purposes, and for treating neuralgia, myalgia, headaches, and migraines [, ].</text>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="4824" length="14"/>
+        <text>Peppermint oil</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="4887" length="14"/>
+        <text>essential oils</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="5297" length="19"/>
+        <text>Mint essential oils</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5498</offset>
+      <text>From the experimental and clinical studies performed on Mentha piperita leaf essential oil (MpEO), it seems that most of its pharmacological actions are due to its antioxidant activity which is mainly due to its ability to scavenge free radicals and/or inhibit lipid peroxidation [, ]. Antioxidants are substances that delay or prevent the oxidation of inter- or intra-cellular oxidizable substrates from oxidative stress. In this study, we report the chemical composition and antioxidant effects of MpEO in several in vitro systems (DPPH and superoxide scavenging activities). Besides, we are interested in determining the possible protective effects of MpEO against oxidative damage of the liver and kidney following an intraperitoneal administration of CCl4, by assessing the oxidative stress profile and some serum biochemical parameters.</text>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="5554" length="34"/>
+        <text>Mentha piperita leaf essential oil</text>
+      </annotation>
+      <annotation id="2XXx67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="5590" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="5730" length="13"/>
+        <text>free radicals</text>
+      </annotation>
+      <annotation id="2XXx72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="5759" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="5998" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="6032" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="6041" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="2XXx69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="6153" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="6254" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6341</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6349</offset>
+      <text>Plant material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6364</offset>
+      <text>Fresh leaves of M. piperita L. samples were harvested from the local market at Sfax (Tunisia) (N: 34.4426°, E: 10.4537°) during the vegetative stage in June 2013. The samples were identified and authenticated by a senior botanist, Pr. Ferjani Ben Abdallah, at the Faculty of Science of Sfax, University of Sfax (Tunisia). From 50 individual M. piperita L. plants each, a total of 80–100 leaves (≈ 12 cm2 in size) were randomly collected from the base to the apex. The fresh leaves were mixed and immediately dried in the shade away from light at room temperature. After drying, the samples were grounded to a fine powder that was used for the extraction of essential oil.</text>
+      <annotation id="2XXx73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="7021" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7043</offset>
+      <text>Essential oil preparation</text>
+      <annotation id="2XXx74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="7043" length="13"/>
+        <text>Essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7069</offset>
+      <text>MpEO was extracted by the steam distillation method. A mass of 3 kg of dry plant material was hydrodistillated for 2 h in a Clevenger-type apparatus. The recovered (0.47%) essential oil was dried with anhydrous Na2SO4, and stored at 4 °C.</text>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="7069" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="7241" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+      <annotation id="2XXx75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012036</infon>
+        <location offset="7280" length="6"/>
+        <text>Na2SO4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7312</offset>
+      <text>Mentha piperita essential oil composition</text>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="7312" length="29"/>
+        <text>Mentha piperita essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7354</offset>
+      <text>MpEO compositional analysis of the volatile constituents was performed on a Hewlett-Packard gas chromatograph GC: 5890 series II. The fused HP-Innowax capillary column (polyethylene glycol, 30 m, 0.25 μm, ID, 0.25 mm film thickness) was directly connected to the mass spectrometer. Nitrogen was used as a carrier gas at a flow rate of 1.2 ml/min. Oven temperature was initially set at 50 °C (1 min) and gradually raised to 250 °C (5 min) at 7 °C/min. The temperatures of the injection port and detector were maintained at 250 and 280 °C, respectively. The mass spectrometer was operated (full scan-mode) in the EI-mode at 70 eV.</text>
+      <annotation id="2XXx81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="7354" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011092</infon>
+        <location offset="7523" length="19"/>
+        <text>polyethylene glycol</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="7636" length="8"/>
+        <text>Nitrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7999</offset>
+      <text>Component identification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8024</offset>
+      <text>The essential oil components were identified based on their mass spectra and computer matching with the data available in the Wiley 275 library (Wiley, New York).</text>
+      <annotation id="2XXx82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="8028" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8187</offset>
+      <text>In vitro antioxidant activities test</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8224</offset>
+      <text>The antioxidant activity of the MpEO was determined by two methods and compared with the activity of silymarin, a standardized extract of the milk thistle seeds that containes a mixture of flavonolignans. Silymarin has a number of potential mechanisms including chemoprotective effects from environmental toxins and anti-inflammatory activity and is used as a drug.</text>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="8256" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="8325" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D044947</infon>
+        <location offset="8413" length="14"/>
+        <text>flavonolignans</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="8429" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8590</offset>
+      <text>Measurement of free radical-scavenging action</text>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="8605" length="12"/>
+        <text>free radical</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8636</offset>
+      <text>2,2-Diphenyl picrylhydrazyl (DPPH) free radicals scavenging activity was assessed according to Blois [], with a slight modification. Different concentrations of the MpEO and silymarin (5–100 μg/ml) were mixed with 1 ml of 0.1 mM DPPH in ethanol solution and 450 μL of 50 mM Tris-HCl buffer (pH 7.4) was added. The solution was incubated at 37 °C for 30 min and the reduction of DPPH free radicals was measured by reading the absorbance at ʎ = 517 nm. Silymarin was used as reference standard. The activity is given as % DPPH scavenging and calculated according to the following equation:</text>
+      <annotation id="2XXx88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="8636" length="27"/>
+        <text>2,2-Diphenyl picrylhydrazyl</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="8665" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="2XXx97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="8671" length="13"/>
+        <text>free radicals</text>
+      </annotation>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="8801" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="8810" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="8865" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="8873" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="8910" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="9014" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="9087" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="9156" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9243</offset>
+      <text>The antioxidant activity of MpEO is expressed as IC50, defined as the concentration of MpEO required to cause a 50% decrease in initial DPPH concentration. Each sample was analyzed six times.</text>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="9271" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="9330" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="9379" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9435</offset>
+      <text>Scavenging of superoxide anion</text>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9449" length="16"/>
+        <text>superoxide anion</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9466</offset>
+      <text>The influence of MpEO on the generation of superoxide anion was measured according to the method described by Yen &amp; Chen, 1995 []. Superoxide anion was generated in a non-enzymatic system and determined by spectrophotometric measurement for the reduction of nitroblue tetrazolium. The reaction mixture, which contained 100 μL of essential oil in ethanol, 800 μL of 1 M phosphate buffer (pH 7.4), 400 μL of distilled water, 100 μL of 0.1 M Na4EDTA, 100 μL of 1.5 mM NBT and 50 μL of 0.12 mM riboflavin was incubated at ambient temperature for 5 min, and the color was read at ʎ = 560 nm against blank samples.</text>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="9483" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9509" length="16"/>
+        <text>superoxide anion</text>
+      </annotation>
+      <annotation id="384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9597" length="16"/>
+        <text>Superoxide anion</text>
+      </annotation>
+      <annotation id="2XXx103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="9724" length="21"/>
+        <text>nitroblue tetrazolium</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="9812" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="9835" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="9882" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="9905" length="7"/>
+        <text>Na4EDTA</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="9931" length="3"/>
+        <text>NBT</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012256</infon>
+        <location offset="9956" length="10"/>
+        <text>riboflavin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10099</offset>
+      <text>Where blank OD is the absorbance of the control reaction and sample OD is the absorbance in the presence of MpEO. The IC50 was calculated from the plot of the inhibition percentage against the essential oil concentration. Each sample was analyzed six times.</text>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="10207" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="10292" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10357</offset>
+      <text>In vivo antioxidant properties</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>10388</offset>
+      <text>Animal</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10395</offset>
+      <text>Male Wistar rats, weighing about 200–220 g, were purchased from the Central Pharmacy of Tunisia (SIPHAT, Tunisia). They were housed at 22 ± 3 °C with light/dark periods of 12 h and a minimum relative humidity of 40%. The animals had free access to commercial pellet diet (SICO, Sfax, Tunisia) and water ad libitum. The general guidelines for the use and care of living animals in scientific investigations were followed []. The handling of the animals was approved by the Tunisian Ethical Committee for the Care and Use of laboratory animals.</text>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="10692" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>10949</offset>
+      <text>Experimental design</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10969</offset>
+      <text>After acclimatizing to the laboratory conditions for 1 week, 70 rats were divided into 7 groups of 10 animals and treated for 7 days as follow []:</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11117</offset>
+      <text>The rats of group 1 served as normal control and received saline orally daily for 7 days and were injected with 1 ml/kg BW of just olive oil (the solvent of CCl4) on the 7 day. The rats of group 2 served as CCl4-hepato and renotoxicity control and were received saline orally daily for 7 days and were injected with 1 ml/kg BW of CCl4 and olive oil mixture on the 7 day (a single intraperitoneal injection). The CCl4 dose was selected according to the reference dose for chronic oral exposure (RFD) as recommended for CCl4 (CASRN 56–23-5) [].</text>
+      <annotation id="2XXx119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077330</infon>
+        <location offset="11175" length="6"/>
+        <text>saline</text>
+      </annotation>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069463</infon>
+        <location offset="11248" length="9"/>
+        <text>olive oil</text>
+      </annotation>
+      <annotation id="2XXx115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="11274" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="11324" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077330</infon>
+        <location offset="11379" length="6"/>
+        <text>saline</text>
+      </annotation>
+      <annotation id="2XXx116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="11447" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069463</infon>
+        <location offset="11456" length="9"/>
+        <text>olive oil</text>
+      </annotation>
+      <annotation id="77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="11529" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="11635" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11664</offset>
+      <text>The rats of group 3 were pretreated orally seven times with a dose of 50 mg/kg BW of reference drug silymarin with an interval of 24 h [].</text>
+      <annotation id="2XXx124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="11764" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11805</offset>
+      <text>The rats of groups 4, 5, 6 and 7 were pretreated orally seven times with doses of 5, 15 and 40 mg MpEO /kg BW, respectively with an interval of 24 h [].</text>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="11903" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11960</offset>
+      <text>After pretreatment with either silymarin or MpEO for 7 days, the rats of groups 3, 4, 5 and 6 received a single intraperitoneal injection of CCl4 (1 ml/kg BW) on the 7 day.</text>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="11991" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="12004" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="12101" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12136</offset>
+      <text>Rats were killed 24 h after vehicle or CCl4 single injection. The animals in the different groups were killed by cervical decapitation to avoid stress conditions.</text>
+      <annotation id="82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="12175" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>12299</offset>
+      <text>Sample collection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12317</offset>
+      <text>Serum was prepared by centrifugation (1500×g, 15 min, 4 °C; Beckman-Coulter, Marseille, France) and stored at −80 °C for further biochemical assays. The liver and kidney tissues were immediately removed and dissected over ice-cold glass slides and a part was homogenized (10% w/v) with an Ultra Turrax homogenizer in ice-cold, 1.15% KCl-0.01 M sodium, potassium phosphate buffer. Homogenates were centrifuged at 10000×g for 20 min at 4 °C. The resulting supernatants were used for immediate lipid peroxidation and protein oxidation determination. Homogenate aliquots were stored at −80 °C for further biochemical assays. Other parts of these livers and kidney tissues were fixed in 10% formaldehyde solution and processed for paraffin sectioning and histological studies.</text>
+      <annotation id="2XXx130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="12650" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279,MESH:C013216</infon>
+        <location offset="12661" length="27"/>
+        <text>sodium, potassium phosphate</text>
+      </annotation>
+      <annotation id="441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="12808" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="13003" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010232</infon>
+        <location offset="13043" length="8"/>
+        <text>paraffin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13106</offset>
+      <text>Biochemical assays</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>13125</offset>
+      <text>Biochemical markers in plasma</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13155</offset>
+      <text>Plasma levels of aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase (ALP), γ-glutamyl transpeptidase (γ-GT), cholesterol (TC), triglycerides (TG), low-density lipoprotein (LDL), high-density lipoprotein (HDL), creatinine and urea rates were measured in plasma samples by standardized enzymatic procedures using commercial kits from (Biolabo, Maizy, France) on an automatic biochemistry analyzer (Vitalab Flexor E, Diamond Diagnostics, Holliston, MA).</text>
+      <annotation id="402">
+        <infon key="type">OTHER</infon>
+        <location offset="13172" length="26"/>
+        <text>aspartate aminotransferase</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">OTHER</infon>
+        <location offset="13206" length="24"/>
+        <text>alanine aminotransferase</text>
+      </annotation>
+      <annotation id="2XXx143">
+        <infon key="type">OTHER</infon>
+        <location offset="13266" length="25"/>
+        <text>γ-glutamyl transpeptidase</text>
+      </annotation>
+      <annotation id="2XXx135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="13300" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2XXx136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="13313" length="2"/>
+        <text>TC</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="13318" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="13333" length="2"/>
+        <text>TG</text>
+      </annotation>
+      <annotation id="2XXx139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="13401" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="2XXx140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="13416" length="4"/>
+        <text>urea</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>13650</offset>
+      <text>Protein quantification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13673</offset>
+      <text>Protein content in liver and kidney tissues were determined according to the method of Lowry et al. [] using bovine serum albumin as a standard.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>13818</offset>
+      <text>Lipid peroxidation</text>
+      <annotation id="95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="13818" length="5"/>
+        <text>Lipid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13837</offset>
+      <text>Malondialdehyde concentrations (marker for lipid peroxidation) in liver and kidney tissues were determined spectrophotometrically according to Draper &amp; Hadley []. Briefly, an aliquot of liver and kidney extracts supernatant was mixed with 1 ml of 5% trichloroacetic acid and centrifuged at 2500×g for 10 min. One ml of thiobarbituric acid reagent (0.67%) was added to 500 μl of supernatant and heated at 90 °C for 15 min. The mixture was cooled and the absorbance measured at 532 nm using a spectrophotometer (Jenway UV-6305, Essex, England). The malondialdehyde values were calculated using 1,1,3,3-tetraethoxypropane as standard and expressed as nmol of malondialdehyde/mg of protein.</text>
+      <annotation id="2XXx145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="13837" length="15"/>
+        <text>Malondialdehyde</text>
+      </annotation>
+      <annotation id="2XXx150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="13880" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="14087" length="20"/>
+        <text>trichloroacetic acid</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="14156" length="19"/>
+        <text>thiobarbituric acid</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="14384" length="15"/>
+        <text>malondialdehyde</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022168</infon>
+        <location offset="14429" length="26"/>
+        <text>1,1,3,3-tetraethoxypropane</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="14493" length="15"/>
+        <text>malondialdehyde</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>14533</offset>
+      <text>Determination antioxidant enzyme activities in liver and kidney tissue</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14604</offset>
+      <text>Catalase (CAT) activity was measured according to Aebi []. A total of 20 μL tissue homogenate (about 1.5 mg proteins) was added to 1 ml phosphate buffer (0.1 M, pH 7) containing 100 mM H2O2. Rate of H2O2 decomposition was followed by measuring the decrease in absorbance at 240 nm for 1 min. The enzyme activity was calculated using an extinction coefficient of 0.043 mM−1 cm−1 and expressed in international units (I.U.), i.e. in μmol H2O2 destroyed/min/ mg protein, at 25 °C.</text>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="14740" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="14789" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="14803" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="2XXx154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="15040" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15100</offset>
+      <text>Superoxide dismutase (SOD) activity was estimated according to Beyer and Fridovich []. The reaction mixture contained 50 mM of tissue homogenates in potassium phosphate buffer (pH 7.8), 0.1 mM EDTA, 13 mM L-methionine, 2 mM riboflavin and 75 mM nitro blue tetrazolium (NBT). The developed blue color in the reaction was measured at 560 nm. Units of SOD activity were expressed as the amount of enzyme required to inhibit the reduction of NBT by 50% and the activity was expressed as units/mg of protein, at 25 °C. Glutathione peroxidase (GPx) activity was measured by the procedure of Flohe and Gunzler []. One milliliter of reaction mixture containing 0.3 ml of phosphate buffer (0.1 M, pH 7.4), 0.2 ml of 2 mM glutathione (GSH), 0.1 ml of sodium azide (10 mM), 0.1 ml of H2O2 (1 mM) and 0.3 ml of liver and kidney supernatant were prepared. After incubation at 37 °C for 15 min, the reaction was terminated by adding 0.5 ml 5% TCA. Tubes were centrifuged at 1500×g for 10 min and the supernatant was collected. To 0.1 ml of this reaction supernatant, 0.2 ml of (0.1 M pH 7.4) and 0.7 mL of 5,5 dithiobis-(2-Nitrobenzoic acid) (DTNB, 0.4 mg/ml) were added. After mixing, absorbance was recorded at 420 nm and the enzyme activity was calculated as μmol of GSH oxidized/min/mg protein.</text>
+      <annotation id="2XXx173">
+        <infon key="type">OTHER</infon>
+        <location offset="15100" length="20"/>
+        <text>Superoxide dismutase</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="15249" length="19"/>
+        <text>potassium phosphate</text>
+      </annotation>
+      <annotation id="2XXx157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="15293" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008715</infon>
+        <location offset="15305" length="12"/>
+        <text>L-methionine</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012256</infon>
+        <location offset="15324" length="10"/>
+        <text>riboflavin</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="15345" length="22"/>
+        <text>nitro blue tetrazolium</text>
+      </annotation>
+      <annotation id="2XXx161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="15369" length="3"/>
+        <text>NBT</text>
+      </annotation>
+      <annotation id="2XXx162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="15538" length="3"/>
+        <text>NBT</text>
+      </annotation>
+      <annotation id="gy292">
+        <infon key="type">OTHER</infon>
+        <location offset="15614" length="22"/>
+        <text>Glutathione peroxidase</text>
+      </annotation>
+      <annotation id="2XXx164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="15763" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="2XXx165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="15812" length="11"/>
+        <text>glutathione</text>
+      </annotation>
+      <annotation id="2XXx166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="15825" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="2XXx167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019810</infon>
+        <location offset="15841" length="12"/>
+        <text>sodium azide</text>
+      </annotation>
+      <annotation id="2XXx168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="15873" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="2XXx169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="16029" length="3"/>
+        <text>TCA</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004228</infon>
+        <location offset="16192" length="35"/>
+        <text>5,5 dithiobis-(2-Nitrobenzoic acid)</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004228</infon>
+        <location offset="16229" length="4"/>
+        <text>DTNB</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="16356" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>16418</offset>
+      <text>Histopathological studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16444</offset>
+      <text>At the time of sacrifice, the liver and kidney tissues were removed and fixed in 10% formaldehyde solution and washed. The tissues were dehydrated in increasing gradient of ethanol, finally cleared in toluene and embedded in molten paraffin wax. Sections were cut at 4–5 μm thickness and stained with hematoxylin and eosin (H&amp;E). The slides were photographed with an Olympus UTU1X-2 camera connected to an Olympus CX41 microscope (Tokyo, Japan).</text>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="16529" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+      <annotation id="2XXx175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="16617" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014050</infon>
+        <location offset="16645" length="7"/>
+        <text>toluene</text>
+      </annotation>
+      <annotation id="2XXx178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010232,MESH:D014885</infon>
+        <location offset="16676" length="12"/>
+        <text>paraffin wax</text>
+      </annotation>
+      <annotation id="2XXx180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006416</infon>
+        <location offset="16745" length="11"/>
+        <text>hematoxylin</text>
+      </annotation>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004801</infon>
+        <location offset="16761" length="5"/>
+        <text>eosin</text>
+      </annotation>
+      <annotation id="2XXx177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006416,MESH:D004801</infon>
+        <location offset="16768" length="3"/>
+        <text>H&amp;E</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16894</offset>
+      <text>The histological damage in liver was quantified by measuring the index of tissue large numbers of inflammatory cells such as lymphocytes together with hepatic sinusoidal inflammation, hepatocyte necrosis and devastating liver architecture. Moreover, the histological damage in kidney was quantified by measuring the index of tissue the glomerular and tubular necrosis. To evaluate the severity of lesions, the degree of liver and kidney damage was graded according to a zero to four-point scoring system [], where 0 indicates no damage, I indicates slight damage (1–25%), II indicates discrete damage (26–50%), III indicates moderate damage (51–75%) and IV indicates severe damage (76–100%).The tabulation of data and the statistical analysis were made in accordance with the number of animals with established scores. All the parameters were quantified by a single observer who was not aware of the treatment groups.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>17820</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17841</offset>
+      <text>All values are expressed as mean ± SE for continues variables or as median with inter quartile range [25%, 75%] where appropriate. The results were analyzed by One-Way Analysis of Variance (ANOVA) followed by Tukey test for multiple comparisons using SPSS for Windows (version. 12) or ANOVA-on-ranks with Dunn’s correction. Differences were considered significant at p &lt; 0.05.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18229</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>18237</offset>
+      <text>Chemical constitution of Mentha piperita L. leaf essential oil</text>
+      <annotation id="2XXx181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="18262" length="37"/>
+        <text>Mentha piperita L. leaf essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">Tab1.xml</infon>
+      <infon key="id">Tab1</infon>
+      <infon key="type">table_caption</infon>
+      <offset>18300</offset>
+      <text>Chemical composition (%) of leaves essential oil from Tunisian M.piperita as identified by GC/MS analysis</text>
+      <annotation id="2XXx182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="18335" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18406</offset>
+      <text>Chemical composition of MpEO was determined by GC/MS analysis. The compounds, their percentages as well as their retention indices are listed in Table 1. MpEO is a mixture with 26 compounds representing 98.17% of the total oil composition. The most abundant chemicals categories for MpEO are oxygenated monoterpenes (79.50%), followed by monoterpene hydrocarbons (16.23%) and sesquiterpene hydrocarbons (2.44%). The major components of MpEO are menthol (33.59%) and iso-menthone (33.00%). In lower amounts we found a variety of compounds including limonene (8.00%), piperitone (3.20%), 1,8-cineole (2.80%), linalool (2.64%), iso-pulegol (2.40%), caryophyllene (1.95%) and pulegone (1.60%).</text>
+      <annotation id="2XXx191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="18430" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="18560" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009821</infon>
+        <location offset="18629" length="3"/>
+        <text>oil</text>
+      </annotation>
+      <annotation id="2XXx193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="18689" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D039821</infon>
+        <location offset="18709" length="12"/>
+        <text>monoterpenes</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D039821</infon>
+        <location offset="18744" length="24"/>
+        <text>monoterpene hydrocarbons</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18782" length="26"/>
+        <text>sesquiterpene hydrocarbons</text>
+      </annotation>
+      <annotation id="2XXx194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="18842" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="18851" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="gy320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C575995</infon>
+        <location offset="18872" length="12"/>
+        <text>iso-menthone</text>
+      </annotation>
+      <annotation id="2XXx185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077222</infon>
+        <location offset="18954" length="8"/>
+        <text>limonene</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C496656</infon>
+        <location offset="18972" length="10"/>
+        <text>piperitone</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077591</infon>
+        <location offset="18992" length="11"/>
+        <text>1,8-cineole</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018584</infon>
+        <location offset="19013" length="8"/>
+        <text>linalool</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C409816</infon>
+        <location offset="19031" length="11"/>
+        <text>iso-pulegol</text>
+      </annotation>
+      <annotation id="2XXx189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024714</infon>
+        <location offset="19052" length="13"/>
+        <text>caryophyllene</text>
+      </annotation>
+      <annotation id="138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039648</infon>
+        <location offset="19078" length="8"/>
+        <text>pulegone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19097</offset>
+      <text>Essential oil antioxidant activity</text>
+    </passage>
+    <passage>
+      <infon key="file">Tab2.xml</infon>
+      <infon key="id">Tab2</infon>
+      <infon key="type">table_caption</infon>
+      <offset>19234</offset>
+      <text>MpEO effects and positive controls on the in vitro free radical(DPPH and superoxide)</text>
+      <annotation id="2XXx202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="19234" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="19285" length="12"/>
+        <text>free radical</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="19298" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="2XXx201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="19307" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19319</offset>
+      <text>The antioxidant activity of MpEO was compared to that of silymarin, a well-known antioxidant, using two different assays, namely DPPH and superoxide oxygen radicals inhibition, the results are reported in Table 2. DPPH showed for MpEO an IC50 value around 3 times higher than the one recorded for silymarin indicating that antioxidant activity of MpEO was lower than that of silymarin.</text>
+      <annotation id="2XXx209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="19347" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="19376" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="19448" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="2XXx212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="19457" length="26"/>
+        <text>superoxide oxygen radicals</text>
+      </annotation>
+      <annotation id="2XXx206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="19533" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+      <annotation id="2XXx210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="19549" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="19616" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="19666" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="19694" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19706</offset>
+      <text>Serum biochemical parameters</text>
+    </passage>
+    <passage>
+      <infon key="file">Tab3.xml</infon>
+      <infon key="id">Tab3</infon>
+      <infon key="type">table_caption</infon>
+      <offset>20213</offset>
+      <text>Effects of CCl4, MpEO and their combination MpEO/CCl4 on hepatic markers in serum of control and experimental rats</text>
+      <annotation id="2XXx213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="20224" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="20230" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="20257" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="20262" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">Tab4.xml</infon>
+      <infon key="id">Tab4</infon>
+      <infon key="type">table_caption</infon>
+      <offset>20795</offset>
+      <text>Effects of CCl4,MpEO and their combination MpEO/CCl4 on lipid profile in serum of control and experimental rats</text>
+      <annotation id="2XXx217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="20806" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="20811" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="20838" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="20843" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="20851" length="5"/>
+        <text>lipid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">Tab5.xml</infon>
+      <infon key="id">Tab5</infon>
+      <infon key="type">table_caption</infon>
+      <offset>21231</offset>
+      <text>Effects of CCl4, MpEO and their combination MpEO/CCl4 on kidney markers in serum of control and experimental rats</text>
+      <annotation id="2XXx222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="21242" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="21248" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="21275" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="21280" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21345</offset>
+      <text>The results of biochemical indicators of liver and kidney function are summarized in Tables 3, 4 and 5. The administration of CCl4 caused severe hepato and reno-toxicity in the treated rats, as evidenced by the significant elevations of serum ALT, AST, ALP, LDH, γGT, total cholesterol, triglycerides, LDL urea and creatinine levels, while HDL level was decreased compared to control animals.</text>
+      <annotation id="2XXx226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="21471" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="21619" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2XXx228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="21632" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="2XXx229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="21651" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="21660" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21742</offset>
+      <text>Pretreatment with the MpEO at doses of 15 or 40 mg/kg significantly reduced levels of ALT, AST, ALP, LDH, γGT, total cholesterol, triglycerides, LDL urea and creatinine and increased the level of HDL compared to the CCl4 group. It is worth noting that the treatment with 5 mg/kg MpEO did not induce any significant changes in the biochemical parameters (ALT, AST, ALP, LDH, γGT, total cholesterol, triglycerides, LDL, urea, creatinine or HDL) when compared to the CCl4 group. Treatment of rats with only MpEO (40 mg/kg BW) did not result in significant alterations in biochemical parameters compared to control rats.</text>
+      <annotation id="2XXx241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="21764" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="21859" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="21872" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="21891" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="2XXx234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="21900" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="21958" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22021" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="22127" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="22140" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="22160" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="2XXx239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="22166" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="2XXx240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22206" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22246" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22367</offset>
+      <text>Pretreatment with silymarin (50 mg/kg), used as positive control, significantly decreased the elevated levels of ALT, AST, ALP, LDH, γGT, total cholesterol, triglycerides, LDL urea and creatinine and increased of HDL level as compared to CCl4 group. Its effect was comparable in reducing of liver and kidney damage induced by CCl4 with that observed for the highest dose of MpEO (40 mg/kg).</text>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="22385" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="22511" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2XXx246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="22524" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="2XXx247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="22543" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="22552" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22605" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22693" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22741" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22762</offset>
+      <text>Effects on lipid peroxidation</text>
+      <annotation id="442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="22773" length="5"/>
+        <text>lipid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22792</offset>
+      <text>(</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22794</offset>
+      <text>)</text>
+    </passage>
+    <passage>
+      <infon key="file">12944_2017_645_Fig1_HTML.jpg</infon>
+      <infon key="id">Fig1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>22796</offset>
+      <text>a Effects of CCl4, MpEO and their combinations MpEO/CCl4 on hepatic TBARS of control (Con) and experimental rats. Con, control group; mod, CCl4-model group; SL/CCl4, silymarin 50 mg/kg + CCl4; MpEO/CCl4 5 mg/kg + CCl4 group; MpEO/CCl4 15 mg/kg + CCl4 group; MpEO/CCl4 40 mg/kg + CCl4 group; MpEO 40 mg/kg group. Values are mean ± SEM for ten rats in each group. CCl4, MpEO, MpEO/CCl4 treated groups vs control group; *p &lt; 0.05, **p &lt; 0.01, *** p &lt; 0.001, CCl4 group vs (MpEO/CCl4) group; #p &lt; 0.05, ##p &lt; 0.01, ###p &lt; 0.001. b. Effects of CCl4, MpEO and their combinations MpEO/CCl4 on kidney TBARS of control (Con) and experimental rats. Con, control group; mod, CCl4-model group; SL/CCl4, silymarin 50 mg/kg + CCl4; MpEO/CCl4 5 mg/kg + CCl4 group; MpEO/CCl4 15 mg/kg + CCl4 group; MpEO/CCl4 40 mg/kg + CCl4 group; MpEO 40 mg/kg. Values are mean ± SEM for ten rats in each group. CCl4, MpEO, MpEO/CCl4 treated groups vs control group; *p &lt; 0.05, **p &lt; 0.01, *** p &lt; 0.001, CCl4 group vs (MpEO/CCl4) group; #p &lt; 0.05, ##p &lt; 0.01, ###p &lt; 0.001</text>
+      <annotation id="2XXx252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22809" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22815" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22843" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22848" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="gy436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="22864" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22935" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="22953" length="2"/>
+        <text>SL</text>
+      </annotation>
+      <annotation id="2XXx255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22956" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="22962" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22983" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="22989" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="22994" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23009" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23021" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23026" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23042" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23054" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23059" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23075" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23087" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23158" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23164" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23170" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23175" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23251" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23266" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23271" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23335" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23341" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23369" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23374" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="gy431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="23389" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23460" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="23478" length="2"/>
+        <text>SL</text>
+      </annotation>
+      <annotation id="2XXx266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23481" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="23487" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23508" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23514" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23519" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23534" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23546" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23551" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23567" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23579" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23584" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23600" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23612" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23677" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23683" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23689" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23694" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23770" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="23785" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="23790" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23939</offset>
+      <text>TBARS level is widely used as a marker for free radical mediated lipid peroxidation injury. We determined TBARS levels in the liver and kidney tissues of the investigated animals and our results are shown in Fig. 1a, b. The levels of TBARS were significantly increased in both liver and kidney tissues of CCl4-treated animals when compared to control untreated rats.</text>
+      <annotation id="gy510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="23939" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="24004" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="gy515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24045" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="gy518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24173" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="24244" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24307</offset>
+      <text>Pre-treatment with the MpEO at doses of 15 and 40 mg/kg BW significantly reduced levels of TBARS in liver and kidney tissues as compared to CCl4 group. There was a dose effect; treatment with MpEO at 5 mg/kg BW did not induce any significant decrease in the levels of TBARS in liver and kidney as compared to CCl4 group. When rats were treated with only MpEO (40 mg/kg BW), no significant differences in the TBARS values was observed compared to control rat. Pretreatment with silymarin (50 mg/kg) significantly decreased the elevated levels of TBARS in both liver and kidney compared to CCl4 control. Moreover, the effect of silymarin (50 mg/kg) in attenuation of TBARS levels in liver and kidney was comparable with highest dose of MpEO (40 mg/kg).</text>
+      <annotation id="2XXx316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="24330" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="gy523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24398" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="24447" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="24499" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="gy525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24575" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="24616" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="24661" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="gy535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24715" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="24784" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="gy536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24852" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="24895" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="24933" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="gy533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="24972" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="25041" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25064</offset>
+      <text>Effects on antioxidant enzymes</text>
+    </passage>
+    <passage>
+      <infon key="file">Tab6.xml</infon>
+      <infon key="id">Tab6</infon>
+      <infon key="type">table_caption</infon>
+      <offset>25421</offset>
+      <text>Effects of CCl4, MpEO and their combination MpEO/CCl4 on the activities of enzymatic antioxidants in liver of control and experimental rats</text>
+      <annotation id="214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="25432" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="25438" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="25465" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="25470" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">Tab7.xml</infon>
+      <infon key="id">Tab7</infon>
+      <infon key="type">table_caption</infon>
+      <offset>25886</offset>
+      <text>Effects of CCl4, MpEO and their combination MpEO/CCl4 on the activities of enzymatic antioxidants in kidney of control and experimental rats</text>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="25897" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="25903" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="25930" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="25935" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26027</offset>
+      <text>Results presented in Tables 6 and 7 showed a significant decrease in the levels of CAT, SOD, GPx in liver and kidney in CCl4-treated group when compared to control group. The decrease in hepatic and kidney CAT, SOD and GPx levels induced by CCl4 injection were significantly restored (elevated) in the MpEO and silymarin groups, and this effect was more pronounced with the increase of essential oil concentration. Pretreatment with MpEO at doses of 15 and 40 mg/kg significantly increased levels of hepatic and kidney CAT, SOD and GPx as compared to CCl4 group. It is worth noting that the treatment with MpEO at a dose 5 mg/kg did not induce any significant increase in the levels of hepatic and kidney CAT, SOD and GPx as compared to CCl4 group. No significant differences in the values were observed in rats treated with MpEO only (40 mg/kg) compared to control rat values. Moreover, the effect of silymarin (50 mg/kg) was comparable in attenuation of levels of hepatic and kidney CAT, SOD and GPx with highest dose of MpEO (40 mg/kg).</text>
+      <annotation id="2XXx333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="26147" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="26268" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="26329" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="26338" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="26413" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+      <annotation id="2XXx340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="26460" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="26578" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="26633" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="26764" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="26852" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="26929" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="27050" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27073</offset>
+      <text>Histopathological findings</text>
+    </passage>
+    <passage>
+      <infon key="file">12944_2017_645_Fig2_HTML.jpg</infon>
+      <infon key="id">Fig2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>27100</offset>
+      <text>Effect of MpEO on CCl4-induced liver damage. a Control group; (b) CCl4-model group showing marked inflammatory cells, necrosis and reduced lesions of necrosis; (c) Silymarin 50 mg/kg + CCl4 group; (d) MpEO 5 mg/kg + CCl4 group (e); MpEO 15 mg/kg + CCl4 group; (f) MpEO 40 mg/kg + CCl4 group; (g) MpEO 40 mg/kg group. Hematoxylin/eosin staining; magnification ×400.  : Marked inflammatory cells;  : Necrosis cells;  : Reduced lesions of necrosis;  : Regeneration area;  : Prominent nucleolus;  : Mild inflammatory cells</text>
+      <annotation id="2XXx354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="27110" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="27118" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="27166" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="27264" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="27285" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="27301" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="27316" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="27332" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="27348" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="27364" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="27380" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="27396" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006416</infon>
+        <location offset="27417" length="11"/>
+        <text>Hematoxylin</text>
+      </annotation>
+      <annotation id="232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004801</infon>
+        <location offset="27429" length="5"/>
+        <text>eosin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">Tab8.xml</infon>
+      <infon key="id">Tab8</infon>
+      <infon key="type">table_caption</infon>
+      <offset>27735</offset>
+      <text>Grades of inflammatory cells and cellular necrosis in rat liver</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27799</offset>
+      <text>The normal liver architecture was observed in liver histology of control group (Fig. 2a). Large numbers of inflammatory cells such as lymphocytes together with hepatic sinusoidal inflammation, hepatocyte necrosis and devastating liver architecture were observed in the CCl4 group (Fig. 2b). However, pretreatment with MpEO (40 mg/kg, Fig. 2f) can remarkably ameliorate the histopathological hepatic lesions induced by administration of CCl4. MpEO 15 mg/kg showed very few inflammatory cells along with prominent nucleolus (Fig. 2e). The highest dose of MpEO (40 mg/kg) and silymarin (50 mg/kg) significantly attenuated the damaged liver depicting marked focal regenerative changes which are illustrated by presence of actively dividing cells with a prominent nucleolus (Fig. 2f). In addition, silymarin at the dose of 50 mg/kg has shown to produce hepatoprotection evidenced by area of regeneration and dark nucleus (Fig. 2c). The histological pattern was almost normal in rats treated with MpEO oil alone. By analyzing the histopathological scoring attributed to the liver tissues it is possible to note that the highest dose of MpEO (40 mg/kg) or silymarin (50 mg/kg) pretreatment just conferred good protection on CCl4-induced liver damage (Table 8).</text>
+      <annotation id="2XXx359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="28068" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="28117" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="28235" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="28241" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="28352" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="28372" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="28592" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="28790" length="8"/>
+        <text>MpEO oil</text>
+      </annotation>
+      <annotation id="2XXx368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="28929" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="28948" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29016" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">12944_2017_645_Fig3_HTML.jpg</infon>
+      <infon key="id">Fig3</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>29062</offset>
+      <text>Effect of MpEO on CCl4-induced kidney damage. a Control group; (b) CCl4-model group showing some nephrotoxic lesions, as evidenced by the glomerular and tubular necrosis; (c) Silymarin 50 mg/kg + CCl4 group; (d) MpEO 5 mg/kg + CCl4 group (e); MpEO 15 mg/kg + CCl4 group; (f) MpEO 40 mg/kg + CCl4 group; (g) MpEO 40 mg/kg group. Hematoxylin/eosin staining; magnification ×400.  : glomerular necrosis;  : necrosis in epithelial cells of the proximal tubules</text>
+      <annotation id="2XXx379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="29072" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29080" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29129" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="29237" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29258" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="29274" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29289" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="29305" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29321" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="29337" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29353" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="29369" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006416</infon>
+        <location offset="29390" length="11"/>
+        <text>Hematoxylin</text>
+      </annotation>
+      <annotation id="2XXx378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004801</infon>
+        <location offset="29402" length="5"/>
+        <text>eosin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">Tab9.xml</infon>
+      <infon key="id">Tab9</infon>
+      <infon key="type">table_caption</infon>
+      <offset>29634</offset>
+      <text>Grades of glomerular and epithelial cells of the proximal tubules necrosis in rat kidney</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29723</offset>
+      <text>Kidney sections of normal histological appearance (Fig. 3a) and the CCl4 control group showed some nephrotoxic lesions, as evidenced by the glomerular and tubular necrosis (Fig. 3b). However, pretreatment with MpEO (40 mg/kg, Fig. 3f) can remarkably ameliorate the histopathological kidney lesions induced by administration of CCl4 (Fig. 3f). In addition, silymarin at the dose of 50 mg/kg has shown to produce renoprotection evidenced by amelioration the histopathological kidney lesions induced by injection of CCl4 (Fig. 3c). The histological pattern in kidney was almost normal in rats treated with MpEO alone. By analyzing the histopathological scoring attributed to the kidney tissues it is possible to note that the highest dose of MpEO (40 mg/kg) or silymarin (50 mg/kg) pretreatment just conferred good protection on CCl4-induced kidney damage (Table 9).</text>
+      <annotation id="2XXx384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="29791" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="29933" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="30050" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="30079" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="30236" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="30326" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="30462" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="30481" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="30549" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30593</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30604</offset>
+      <text>Chemical composition of the essential oil obtained from MpEO was determined by GC-MS analysis. The compounds, their percentages as well as the retention indices are listed in Table 1. The essential oil is a complex mixture with 26 compounds representing 98.17% of the total oil composition. The major component of the essential oil is menthol (33.59%) followed by iso-menthone (33.00%). In lower amounts we found a variety of compounds including limonene (8.00%), piperitone (3.20%), 1,8-cineole (2.80%), linalool (2.64%), iso-pulegol (2.40%), caryophyllene (1.95%) and pulegone (1.60%). The obtained results are in accordance with previous studies of M. piperita oils from Turkey, Spain (Barcelona), Norway and Poland that also had menthone and menthol as their most important components [–]. On the other hand, the composition of the essential oil from Iran is totally different, with α-terpinene (19.70%), isomenthone (10.30%), trans-carveol (14.50%), pipertitinone oxide (19.30%) and β-caryophyllene (7.60%) as the major compounds, and also the oil from the Girona region (Spain) is different, where limonene and 1.8-cineole, eucalyptol are the main compounds (33.37% and 30.75%, respectively) [, ].</text>
+      <annotation id="2XXx405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="30660" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="30792" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+      <annotation id="2XXx407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="30922" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+      <annotation id="420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="30939" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C575995</infon>
+        <location offset="30968" length="12"/>
+        <text>iso-menthone</text>
+      </annotation>
+      <annotation id="2XXx393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077222</infon>
+        <location offset="31050" length="8"/>
+        <text>limonene</text>
+      </annotation>
+      <annotation id="2XXx394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C496656</infon>
+        <location offset="31068" length="10"/>
+        <text>piperitone</text>
+      </annotation>
+      <annotation id="2XXx395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077591</infon>
+        <location offset="31088" length="11"/>
+        <text>1,8-cineole</text>
+      </annotation>
+      <annotation id="2XXx410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018584</infon>
+        <location offset="31109" length="8"/>
+        <text>linalool</text>
+      </annotation>
+      <annotation id="2XXx396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C409816</infon>
+        <location offset="31127" length="11"/>
+        <text>iso-pulegol</text>
+      </annotation>
+      <annotation id="2XXx397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024714</infon>
+        <location offset="31148" length="13"/>
+        <text>caryophyllene</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039648</infon>
+        <location offset="31174" length="8"/>
+        <text>pulegone</text>
+      </annotation>
+      <annotation id="2XXx411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="31256" length="16"/>
+        <text>M. piperita oils</text>
+      </annotation>
+      <annotation id="429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C019466</infon>
+        <location offset="31337" length="8"/>
+        <text>menthone</text>
+      </annotation>
+      <annotation id="424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="31350" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="2XXx399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018669</infon>
+        <location offset="31491" length="11"/>
+        <text>α-terpinene</text>
+      </annotation>
+      <annotation id="434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C575995</infon>
+        <location offset="31513" length="11"/>
+        <text>isomenthone</text>
+      </annotation>
+      <annotation id="2XXx400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C075856</infon>
+        <location offset="31535" length="13"/>
+        <text>trans-carveol</text>
+      </annotation>
+      <annotation id="gy683">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044956,MESH:D010087</infon>
+        <location offset="31559" length="19"/>
+        <text>pipertitinone oxide</text>
+      </annotation>
+      <annotation id="2XXx402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024714</infon>
+        <location offset="31592" length="15"/>
+        <text>β-caryophyllene</text>
+      </annotation>
+      <annotation id="2XXx415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009821</infon>
+        <location offset="31653" length="3"/>
+        <text>oil</text>
+      </annotation>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077222</infon>
+        <location offset="31708" length="8"/>
+        <text>limonene</text>
+      </annotation>
+      <annotation id="2XXx416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077591</infon>
+        <location offset="31721" length="11"/>
+        <text>1.8-cineole</text>
+      </annotation>
+      <annotation id="266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077591</infon>
+        <location offset="31734" length="10"/>
+        <text>eucalyptol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31815</offset>
+      <text>These studies showed variable chemotypes of M. piperita L. extracts with various major oil components. Differences in chemical composition observed for essential oils is likely related to abiotic factors such as soil type and climate specific regions of provenance samples and geographical factors []. Furthermore, menthol and iso-menthone, found at relatively high concentrations in the MpEO used in the present study, have been reported to exhibit anti-inflammatory activity [], making MpEO use a promising candidate against oxidative damage of the liver and kidney following an intraperitoneal administration of CCl4. To be noted: working with natural extracts, the antioxidant activity is considered to be primary related to the major active compounds in the essential oil such as menthol and its derivatives []. However the antioxidant activity could also come from a minor compound interacting in a synergistic or antagonistic way, to create an effective system against free radicals [, ], this has to be realized when evaluating different MpEO preparations.</text>
+      <annotation id="2XXx421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009821</infon>
+        <location offset="31902" length="3"/>
+        <text>oil</text>
+      </annotation>
+      <annotation id="2XXx422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="31967" length="14"/>
+        <text>essential oils</text>
+      </annotation>
+      <annotation id="2XXx423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="32130" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C575995</infon>
+        <location offset="32142" length="12"/>
+        <text>iso-menthone</text>
+      </annotation>
+      <annotation id="2XXx418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="32203" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="32303" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="32430" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="32578" length="13"/>
+        <text>essential oil</text>
+      </annotation>
+      <annotation id="2XXx426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="32600" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="2XXx427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005609</infon>
+        <location offset="32791" length="13"/>
+        <text>free radicals</text>
+      </annotation>
+      <annotation id="2XXx420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="32861" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32880</offset>
+      <text>Liver injury after CCl4 exposure is characterized by the elevated levels of serum hepatic marker enzymes indicating the cellular leakage and loss of functional integrity of hepatic membrane architecture. High levels of ALT, AST, ALP, LDH and γGT activities are sensitive indicators of liver cell injury and are most helpful in recognizing hepatic diseases []. CCl4-treated rats show increased activities of these enzymes, reflecting damage to the liver cells or changes in the cell membrane permeability leading to leakage of enzymes from cells to the circulation []. In the present study increased levels of serum hepatic markers suggested that an extensive liver injury was occasioned by CCl4 due to increased lipid peroxidation which had the ability to cause membrane damage. It is now generally accepted that CCl4 hepatotoxicity is the result of reductive dehalogenation, which is catalyzed by its specific isoenzyme of cytochrome P450 2E1, and which forms the highly reactive free radical. Hence, the suppression of P450 2E1 could result in reduced levels of reactive metabolites, and thus decreased tissue damage [].</text>
+      <annotation id="268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="32899" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="33240" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="33570" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="33592" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="2XXx431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="33693" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34007</offset>
+      <text>The liver plays a fundamental role in the metabolism of lipids. Injection of CCl4 caused a significant increase in the triglyceride, total cholesterol, and LDL levels and decrease in HDL level. Increase in the cholesterol levels might be due to the increased esterification of fatty acids, inhibition of fatty acid β-oxidation, and decreased excretion of cellular lipids []. CCl4 stimulates the transfer of acetate into liver cells (probably by increasing access to acetate) and leads to an increase in cholesterol synthesis. It also increases the synthesis of fatty acids and triglyceride from acetate and enhances lipid esterification []. The accumulation of triglyceride in liver might occur due to the inhibition of lysosomal lipase activity and VLDL secretion [].</text>
+      <annotation id="272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="34063" length="6"/>
+        <text>lipids</text>
+      </annotation>
+      <annotation id="2XXx433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="34084" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="34126" length="12"/>
+        <text>triglyceride</text>
+      </annotation>
+      <annotation id="275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="34146" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2XXx436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="34217" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="34284" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="34311" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="34371" length="6"/>
+        <text>lipids</text>
+      </annotation>
+      <annotation id="280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="34382" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000085</infon>
+        <location offset="34414" length="7"/>
+        <text>acetate</text>
+      </annotation>
+      <annotation id="282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000085</infon>
+        <location offset="34473" length="7"/>
+        <text>acetate</text>
+      </annotation>
+      <annotation id="2XXx443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="34510" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2XXx444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="34568" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="34584" length="12"/>
+        <text>triglyceride</text>
+      </annotation>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000085</infon>
+        <location offset="34602" length="7"/>
+        <text>acetate</text>
+      </annotation>
+      <annotation id="2XXx447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="34668" length="12"/>
+        <text>triglyceride</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34779</offset>
+      <text>The administration of CCl4 induced also renal toxicity evidenced by an elevation of serum creatinine and urea [, ]. These pathological changes can also be attributed to damages touching the structural integrity of nephrons [], which is consistent with reports confirming that the level of serum creatinine increases only if at least half of the kidney nephrons are already damaged [].</text>
+      <annotation id="2XXx448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="34801" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="34869" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="34884" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="35074" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35164</offset>
+      <text>Treatment of rats with MpEO prior to CCl4 exposure resulted in a dramatically protective effect against acute hepato and renotoxicity and oxidative stress, which was further also confirmed by the hepatic histopathological examinations. The stimulation of hepatic regeneration makes the liver more resistant to damage by the toxin []. Treatment with silymarin (50 mg/kg) or MpEO (40 mg/kg) significantly decreased the elevated levels of ALT, AST, ALP, LDH, γGT, total cholesterol, triglycerides, LDL urea and creatinine and increased of HDL level as compared to CCl4 group. Pharmacological studies have shown that essential oil derived from various plant materials possesses anti-inflammatory activities [, ] Knowing that sesquiterpenes have excellent anti-inflammatory activities [], the anti-inflammatory activity of M. piperita L. leaf essential oil could be partly explained by the presence of sesquiterpenes, such as spathulenol, cadinene, caryophyllene and caryophyllene oxide. The ethanolic extract of parsley leaves also showed significant anti-inflammatory [] and antioxidant activities [, ] which may contribute to its hepatoprotective action. Furthermore, menthol and iso-menthone, found at relatively high concentrations in the MpEO used in the present study, have been reported to exhibit anti-inflammatory activity [].</text>
+      <annotation id="2XXx465">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="35187" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="35201" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx453">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="35513" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="35537" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="35631" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2XXx455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="35644" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="35663" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003404</infon>
+        <location offset="35672" length="10"/>
+        <text>creatinine</text>
+      </annotation>
+      <annotation id="299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="35725" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="35885" length="14"/>
+        <text>sesquiterpenes</text>
+      </annotation>
+      <annotation id="2XXx468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="35982" length="33"/>
+        <text>M. piperita L. leaf essential oil</text>
+      </annotation>
+      <annotation id="2XXx460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="36061" length="14"/>
+        <text>sesquiterpenes</text>
+      </annotation>
+      <annotation id="302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013258</infon>
+        <location offset="36085" length="11"/>
+        <text>spathulenol</text>
+      </annotation>
+      <annotation id="303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="36098" length="8"/>
+        <text>cadinene</text>
+      </annotation>
+      <annotation id="2XXx463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024714</infon>
+        <location offset="36108" length="13"/>
+        <text>caryophyllene</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C515179</infon>
+        <location offset="36126" length="19"/>
+        <text>caryophyllene oxide</text>
+      </annotation>
+      <annotation id="2XXx470">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="36330" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C575995</infon>
+        <location offset="36342" length="12"/>
+        <text>iso-menthone</text>
+      </annotation>
+      <annotation id="2XXx467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="36403" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36500</offset>
+      <text>In the present study, the two fold increase in the TBARS levels and reduce activity of SOD, CAT and GPx observed in liver and kidney homogenate of CCl4-intoxicated rats. Silymarin significantly reversed CCl4-induced TBARS levels elevation but values obtained with MpEO at the highest dose was comparable in attenuation of TBARS levels in liver and kidney. Silymarin reversed CCl4-induced SOD, CAT and GPx activities decrease but values obtained with MpEO at the highest dose (40 mg/kg) was comparable in attenuation of SOD, CAT and GPx activities in liver and kidney.</text>
+      <annotation id="gy803">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="36551" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="36647" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="36670" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="36703" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="gy795">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="36716" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="2XXx476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="36764" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="gy793">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="36822" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="36856" length="9"/>
+        <text>Silymarin</text>
+      </annotation>
+      <annotation id="2XXx475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="36875" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx477">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="36950" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37069</offset>
+      <text>These results suggested that MpEO could exert its antioxidant and/or radical scavenging activities thus preventing the formation of the carbon free radicals originated from CCl4 metabolism as well as ROS and peroxidation products. This hypothesis is supported by the recent findings on the in vitro antiradical and antioxidative activities of MpEO []. Previous studies showed that menthol and its derivatives were the major compounds responsible for antioxidant activity of MpEO [].</text>
+      <annotation id="2XXx483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="37098" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="gy805">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244,MESH:D005609</infon>
+        <location offset="37205" length="20"/>
+        <text>carbon free radicals</text>
+      </annotation>
+      <annotation id="2XXx481">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="37242" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="37269" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="2XXx484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="37412" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="37450" length="7"/>
+        <text>menthol</text>
+      </annotation>
+      <annotation id="2XXx485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="37543" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37552</offset>
+      <text>In the present study, the rats of group 2 served as CCl4-hepato and renotoxicity control and rats of groups 3, 4, 5 and 6 were injected with 1 ml/kg BW of CCl4 and olive oil mixture on day seven (a single intraperitoneal injection). It has already been shown that a single dose of CCl4 initiates lipid peroxidation [–] that results in the disruption of cellular and organelle membrane integrity and subsequent leakage of cellular contents into the blood [, ]. CCl4 is further well known to induce fibrosis of the hepatic tissue that may further progress to cirrhosis if the stimuli persists [–]. Thus, a single CCl4 injection in mice can be used as an attractive and highly reproducible model of liver regeneration after toxic injury. The first appearance of histological fibrosis and scarring fibers is usually observed after repeated CCl4 treatment for 2 to 3 weeks, depending on the dosage and mouse strains used []. In the present work, the hepatic histoarchitecture of the CCl4-treated rats resulted large numbers of inflammatory cells such as lymphocytes along with hepatic sinusoidal inflammation, hepatocyte necrosis and devastating liver architecture The highest dose of MpEO (40 mg/kg) or silymarin (50 mg/kg) significantly attenuated the damaged liver depicting marked focal regenerative changes which are illustrated by presence of actively dividing cells with a prominent nucleolus. The administration of MpEO reducing the histological alterations in liver provoked by CCl4 was quite noticeable. In fact, the histological changes seen in the kidney of rats treated with CCl4 were characterized by some nephrotoxic lesions, as evidenced by the glomerular and tubular necrosis. Our results confirmed previous findings of Ozturk et al. [] who had found degenerative changes in kidney of rats exposed to CCl4. The results suggest that MpEO treatment prior to CCl4 intoxication could prevent the CCl4-induced alterations in kidney tissues of treated animals.</text>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="37604" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="37707" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069463</infon>
+        <location offset="37716" length="9"/>
+        <text>olive oil</text>
+      </annotation>
+      <annotation id="2XXx488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="37833" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="37848" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="38012" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="38163" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="38388" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx492">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="38530" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="38732" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012838</infon>
+        <location offset="38751" length="9"/>
+        <text>silymarin</text>
+      </annotation>
+      <annotation id="2XXx499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="38970" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39034" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39135" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39365" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="39396" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39420" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39456" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>39527</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39539</offset>
+      <text>The contents of MpEO not only protect the integrity of plasma membrane but, at the same time, increased the regenerative and reparative capacity of the liver and kidney. These results suggest that the compound present in MpEO has hepatorenal protective effects against CCl4 induced oxidative stress in rats. Further investigations are essential to elucidate the precise mechanism of active agents of MpEO protection against CCl4-induced hepatotoxicity and nephrotoxicity and it has to be tested against other biological parameters.</text>
+      <annotation id="2XXx506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="39555" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="2XXx507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="39760" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39808" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+      <annotation id="2XXx508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="39939" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002251</infon>
+        <location offset="39963" length="4"/>
+        <text>CCl4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>40071</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40085</offset>
+      <text>BHT</text>
+      <annotation id="2XXx510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002084</infon>
+        <location offset="40085" length="3"/>
+        <text>BHT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40089</offset>
+      <text>Butylated hydroxytoluene</text>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002084</infon>
+        <location offset="40089" length="24"/>
+        <text>Butylated hydroxytoluene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40114</offset>
+      <text>CAT</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40118</offset>
+      <text>Catalase</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40127</offset>
+      <text>DPPH</text>
+      <annotation id="2XXx512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="40127" length="4"/>
+        <text>DPPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40132</offset>
+      <text>1-Diphenyl-2-picrylhydrazyl</text>
+      <annotation id="2XXx513">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="40132" length="27"/>
+        <text>1-Diphenyl-2-picrylhydrazyl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40160</offset>
+      <text>DTNB</text>
+      <annotation id="333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004228</infon>
+        <location offset="40160" length="4"/>
+        <text>DTNB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40165</offset>
+      <text>5,5′-Dithio-bis(2-nitrobenzoic acid)</text>
+      <annotation id="334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004228</infon>
+        <location offset="40165" length="36"/>
+        <text>5,5′-Dithio-bis(2-nitrobenzoic acid)</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40204</offset>
+      <text>EDTA</text>
+      <annotation id="2XXx516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="40204" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40209</offset>
+      <text>Ethylenediaminetetraacetic acid</text>
+      <annotation id="336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="40209" length="31"/>
+        <text>Ethylenediaminetetraacetic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40241</offset>
+      <text>GPX</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40245</offset>
+      <text>Glutathione peroxidase</text>
+      <annotation id="2XXx518">
+        <infon key="type">OTHER</infon>
+        <location offset="40245" length="22"/>
+        <text>Glutathione peroxidase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40268</offset>
+      <text>GSH</text>
+      <annotation id="338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="40268" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40272</offset>
+      <text>Glutathione</text>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="40272" length="11"/>
+        <text>Glutathione</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40284</offset>
+      <text>M. piperita</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40296</offset>
+      <text> Mentha piperita </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40314</offset>
+      <text>MpEO</text>
+      <annotation id="2XXx520">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="40314" length="4"/>
+        <text>MpEO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40319</offset>
+      <text>Mentha piperita essential oil</text>
+      <annotation id="2XXx521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015424</infon>
+        <location offset="40319" length="29"/>
+        <text>Mentha piperita essential oil</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40349</offset>
+      <text>NBT</text>
+      <annotation id="2XXx522">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="40349" length="3"/>
+        <text>NBT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40353</offset>
+      <text>Nitroblue Tetrazolium</text>
+      <annotation id="2XXx523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009580</infon>
+        <location offset="40353" length="21"/>
+        <text>Nitroblue Tetrazolium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40375</offset>
+      <text>ROS</text>
+      <annotation id="2XXx524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="40375" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40379</offset>
+      <text>Reactive oxygen species</text>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="40379" length="23"/>
+        <text>Reactive oxygen species</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40403</offset>
+      <text>SD</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40406</offset>
+      <text>Standard deviation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40425</offset>
+      <text>SOD</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40429</offset>
+      <text>Superoxide dismutase</text>
+      <annotation id="2XXx526">
+        <infon key="type">OTHER</infon>
+        <location offset="40429" length="20"/>
+        <text>Superoxide dismutase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40450</offset>
+      <text>TBA</text>
+      <annotation id="2XXx527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="40450" length="3"/>
+        <text>TBA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40454</offset>
+      <text>Thiobarbituric Acid</text>
+      <annotation id="2XXx528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="40454" length="19"/>
+        <text>Thiobarbituric Acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40474</offset>
+      <text>TBARS</text>
+      <annotation id="gy886">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="40474" length="5"/>
+        <text>TBARS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40480</offset>
+      <text>Thiobarbituric acid reactive substances</text>
+      <annotation id="gy888">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017392</infon>
+        <location offset="40480" length="39"/>
+        <text>Thiobarbituric acid reactive substances</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40520</offset>
+      <text>TBS</text>
+      <annotation id="349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965</infon>
+        <location offset="40520" length="3"/>
+        <text>TBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40524</offset>
+      <text>Tris Buffered Saline</text>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D012965</infon>
+        <location offset="40524" length="20"/>
+        <text>Tris Buffered Saline</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40545</offset>
+      <text>TCA</text>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="40545" length="3"/>
+        <text>TCA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40549</offset>
+      <text>Trichloroacetic Acid</text>
+      <annotation id="352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="40549" length="20"/>
+        <text>Trichloroacetic Acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40570</offset>
+      <text>TRIS</text>
+      <annotation id="2XXx535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="40570" length="4"/>
+        <text>TRIS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40575</offset>
+      <text>Trishydroxymethyl aminomethane</text>
+      <annotation id="2XXx536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="40575" length="30"/>
+        <text>Trishydroxymethyl aminomethane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>40606</offset>
+      <text>Authors’ contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40631</offset>
+      <text>KB, ABH, KA, JvP, FMA, TR and AE designed and wrote the paper. All authors have read and approved the final manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40751</offset>
+      <text>Ethics approval and consent to participate</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40794</offset>
+      <text>Not applicable.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40810</offset>
+      <text>Consent for publication</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40834</offset>
+      <text>Not applicable.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40850</offset>
+      <text>Competing interests</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40870</offset>
+      <text>The authors declare that they have no competing interests.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40929</offset>
+      <text>Publisher’s Note</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40948</offset>
+      <text>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>41067</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

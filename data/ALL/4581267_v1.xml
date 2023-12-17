@@ -1,0 +1,4411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181117</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4581267</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Wang;given-names:Wenxing</infon>
+      <infon key="name_2">surname:Zhang;given-names:Qingzhu</infon>
+      <infon key="name_1">surname:Shi;given-names:Xiangli</infon>
+      <infon key="name_0">surname:Xu;given-names:Fei</infon>
+      <infon key="article-id_pmid">26270566</infon>
+      <infon key="fpage">18714</infon>
+      <infon key="issue">8</infon>
+      <infon key="year">2015</infon>
+      <infon key="article-id_publisher-id">ijms-16-18714</infon>
+      <infon key="article-id_pmc">4581267</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.3390/ijms160818714</infon>
+      <infon key="volume">16</infon>
+      <infon key="license">This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="kwd">chlorothiophenols chlorothiophenoxy radicals H radicals OH radicals reaction mechanism rate constants</infon>
+      <infon key="lpage">18731</infon>
+      <infon key="name_4">surname:Putz;given-names:Habil. Mihai V.</infon>
+      <offset>0</offset>
+      <text>Formation of Chlorotriophenoxy Radicals from Complete Series Reactions of Chlorotriophenols with H and OH Radicals</text>
+      <annotation id="638">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="13" length="26"/>
+        <text>Chlorotriophenoxy Radicals</text>
+      </annotation>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="74" length="17"/>
+        <text>Chlorotriophenols</text>
+      </annotation>
+      <annotation id="2X2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="97" length="17"/>
+        <text>H and OH Radicals</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>115</offset>
+      <text>The chlorothiophenoxy radicals (CTPRs) are key intermediate species in the formation of polychlorinated dibenzothiophenes/thianthrenes (PCDT/TAs). In this work, the formation of CTPRs from the complete series reactions of 19 chlorothiophenol (CTP) congeners with H and OH radicals were investigated theoretically by using the density functional theory (DFT) method. The profiles of the potential energy surface were constructed at the MPWB1K/6-311+G(3df,2p)//MPWB1K/6-31+G(d,p) level. The rate constants were evaluated by the canonical variational transition-state (CVT) theory with the small curvature tunneling (SCT) contribution at 600–1200 K. The present study indicates that the structural parameters, thermal data, and rate constants as well as the formation potential of CTPRs from CTPs are strongly dominated by the chlorine substitution at the ortho-position of CTPs. Comparison with the study of formation of chlorophenoxy radicals (CPRs) from chlorophenols (CPs) clearly shows that the thiophenoxyl-hydrogen abstraction from CTPs by H is more efficient than the phenoxyl-hydrogen abstraction from CPs by H, whereas the thiophenoxyl-hydrogen abstraction from CTPs by OH is less impactful than the phenoxyl-hydrogen abstraction from CPs by OH. Reactions of CTPs with H can occur more readily than that of CTPs with OH, which is opposite to the reactivity comparison of CPs with H and OH.</text>
+      <annotation id="2X46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="119" length="26"/>
+        <text>chlorothiophenoxy radicals</text>
+      </annotation>
+      <annotation id="2X4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="147" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="1490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="203" length="46"/>
+        <text>polychlorinated dibenzothiophenes/thianthrenes</text>
+      </annotation>
+      <annotation id="1491">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="251" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="293" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="340" length="16"/>
+        <text>chlorothiophenol</text>
+      </annotation>
+      <annotation id="2X27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="358" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="737">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="378" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="2X6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="893" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="904" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="939" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="986" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="756">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="1034" length="22"/>
+        <text>chlorophenoxy radicals</text>
+      </annotation>
+      <annotation id="758">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="1058" length="4"/>
+        <text>CPRs</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="1069" length="13"/>
+        <text>chlorophenols</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="1084" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="1523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="1112" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1567">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1125" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="1151" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1159" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1632">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="1188" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1568">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1197" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="1223" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1230" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="1245" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1569">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1258" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="1284" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="1292" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1633">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="1322" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1570">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1331" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="1357" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="1364" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="2X11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="1381" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1391" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="1429" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="1439" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="1493" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1502" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="1508" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1514</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1530</offset>
+      <text>Polychlorinated dibenzothiophenes (PCDTs) and polychlorinated thianthrenes (PCTAs) are analogues of dibenzofurans (PCDFs) and polychlorinated dibenzo-p-dioxins (PCDDs), respectively, in which the oxygen atoms are substituted by the sulfur atoms. Therefore, they have similar geochemical behavior, toxicity, and physicochemical properties in the environment. PCDT/TAs have been detected in various environmental samples such as stack gases, incineration of municipal waste, pulp mill effluents, soil and sediments, petroleum refineries, petroleum spills, pine needles, and some aquatic organisms. The long-term adverse environmental effects of PCDT/TAs have been at the forefront of public and regulatory concern, and information about the formation mechanisms of PCDT/TAs in the environment is required.</text>
+      <annotation id="1504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606</infon>
+        <location offset="1530" length="33"/>
+        <text>Polychlorinated dibenzothiophenes</text>
+      </annotation>
+      <annotation id="1505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606</infon>
+        <location offset="1565" length="5"/>
+        <text>PCDTs</text>
+      </annotation>
+      <annotation id="1506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009449,MESH:D017606</infon>
+        <location offset="1576" length="28"/>
+        <text>polychlorinated thianthrenes</text>
+      </annotation>
+      <annotation id="1507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009449,MESH:D017606</infon>
+        <location offset="1606" length="5"/>
+        <text>PCTAs</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023614</infon>
+        <location offset="1630" length="13"/>
+        <text>dibenzofurans</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023614,MESH:D017606</infon>
+        <location offset="1645" length="5"/>
+        <text>PCDFs</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="1656" length="33"/>
+        <text>polychlorinated dibenzo-p-dioxins</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317</infon>
+        <location offset="1691" length="5"/>
+        <text>PCDDs</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="1726" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="1762" length="6"/>
+        <text>sulfur</text>
+      </annotation>
+      <annotation id="1492">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="1888" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1493">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="2173" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="2293" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2334</offset>
+      <text>PCDT/TAs were never intentionally synthesized for commercial purposes, but are formed as byproducts from the chemical processes that are similar to those resulting in the formation of PCDD/Fs. The major known sources of PCDT/TAs in environment are combustion, emissions from municipal and hazardous waste incinerators as well as industrial incinerators. High correlation between concentrations of PCDT/TAs and PCDD/Fs in the environmental samples revealed their similar formation mechanism under the pyrolysis or combustion conditions. The most direct route to the formation of PCDT/TAs is the gas-phase reaction of chemical precursors.</text>
+      <annotation id="1495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="2334" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:C023614,MESH:D000072317</infon>
+        <location offset="2518" length="7"/>
+        <text>PCDD/Fs</text>
+      </annotation>
+      <annotation id="1496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="2554" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="2731" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:C023614,MESH:D000072317</infon>
+        <location offset="2744" length="7"/>
+        <text>PCDD/Fs</text>
+      </annotation>
+      <annotation id="1498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="2912" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2971</offset>
+      <text>Chlorophenols (CPs) are structurally similar to PCDD/Fs and the most direct precursors of PCDD/Fs. Similarly, chlorothiphenols (CTPs) are structurally similar to PCDT/TAs and have been demonstrated to be the predominant precursors or key intermediates of PCDT/TA formation. For instance, pentachlorothiophenol, an important additive in the vulcanization process of rubber in the tire industry, represents an important precursor for the formation of octachlorodibenzothiophene (octaCDT), heptachlorothianthrene (heptaCTA), and octachlorothianthrene (octaCTA). CTPs have been widely used in large quantities in various chemical industries, such as in manufacturing of dyes, insecticides, printing inks, pharmaceuticals, and polyvinyl chloride. CTPs are toxic and hazardous to human health and environment due to the presence of sulfur and chlorine. Variously halogenated derivatives of phenol and thiophenol were subjected to analysis of their inhibitory effect on human cytochrome P450 (CYP) 2E1, which showed that dichlorothiophenols have stronger potent inhibitory activities than dichlorophenols, and the toxicity of CTPs are influenced by chlorine substitution pattern.</text>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="2971" length="13"/>
+        <text>Chlorophenols</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="2986" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="1510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:C023614,MESH:D000072317</infon>
+        <location offset="3019" length="7"/>
+        <text>PCDD/Fs</text>
+      </annotation>
+      <annotation id="1511">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:C023614,MESH:D000072317</infon>
+        <location offset="3061" length="7"/>
+        <text>PCDD/Fs</text>
+      </annotation>
+      <annotation id="2X103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="3081" length="16"/>
+        <text>chlorothiphenols</text>
+      </annotation>
+      <annotation id="2X97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="3099" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="1499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="3133" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1514">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="3226" length="7"/>
+        <text>PCDT/TA</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C014146</infon>
+        <location offset="3259" length="21"/>
+        <text>pentachlorothiophenol</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C533782</infon>
+        <location offset="3420" length="26"/>
+        <text>octachlorodibenzothiophene</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C533782</infon>
+        <location offset="3448" length="7"/>
+        <text>octaCDT</text>
+      </annotation>
+      <annotation id="1518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="3458" length="22"/>
+        <text>heptachlorothianthrene</text>
+      </annotation>
+      <annotation id="1519">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="3482" length="8"/>
+        <text>heptaCTA</text>
+      </annotation>
+      <annotation id="1520">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="3497" length="21"/>
+        <text>octachlorothianthrene</text>
+      </annotation>
+      <annotation id="2X98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="3530" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011143</infon>
+        <location offset="3693" length="18"/>
+        <text>polyvinyl chloride</text>
+      </annotation>
+      <annotation id="2X99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="3713" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="3797" length="6"/>
+        <text>sulfur</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="3808" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="3855" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="3866" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="2X121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="3985" length="19"/>
+        <text>dichlorothiophenols</text>
+      </annotation>
+      <annotation id="2X95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="4053" length="15"/>
+        <text>dichlorophenols</text>
+      </annotation>
+      <annotation id="2X100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="4090" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="4113" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4144</offset>
+      <text>Similar to the formation of PCDD/Fs from CP precursors, the gas-phase formation of PCDT/TAs from CTP precursors was also proposed involving radical-radical coupling of two CTPRs and radical-molecule recombination of CTPR and CTP. The recent works have shown that radical-radical coupling are more competitive thermodynamically than radical-molecule recombination for the PCDT/TA formation. The dimerization of CTPRs is the major PCDT/TA formation pathway. Thus, the formation of CTPRs is the initial and key step involved in the formation of PCDT/TAs. Under the pyrolysis or combustion conditions, CTPRs can be formed through loss of the triophenoxyl-hydrogen via unimolecular, bimolecular, or possibly other low-energy pathways (including heterogenous reactions). The unimolecular reaction includes the decomposition of CTPs with the cleavage of the S–H bond. The bimolecular reactions include attack by H, OH, O(3P), or Cl under high-temperature oxidative conditions. As yet, very little work has been done at the high temperatures relevant to these reactions.</text>
+      <annotation id="1512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:C023614,MESH:D000072317</infon>
+        <location offset="4172" length="7"/>
+        <text>PCDD/Fs</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="4185" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="1500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="4227" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="2X138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="4241" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="1487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="4316" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="4360" length="4"/>
+        <text>CTPR</text>
+      </annotation>
+      <annotation id="2X143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="4369" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="1513">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="4515" length="7"/>
+        <text>PCDT/TA</text>
+      </annotation>
+      <annotation id="2X130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="4554" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="1515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="4573" length="7"/>
+        <text>PCDT/TA</text>
+      </annotation>
+      <annotation id="2X131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="4623" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="1501">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="4686" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="2X132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="4742" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="1649">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="4782" length="12"/>
+        <text>triophenoxyl</text>
+      </annotation>
+      <annotation id="1571">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="4795" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="4965" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="5049" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="5052" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="2X147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="5056" length="5"/>
+        <text>O(3P)</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="5066" length="2"/>
+        <text>Cl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>5209</offset>
+      <text>In recent research from this laboratory, we investigated the formation of chlorophenoxy radicals (CPRs) from the reactions of CPs with H and OH radicals, based on the kinetic model conclusion that PCDD/F yields are most sensitive to the reactions of CPs with H and OH. Thus, as part of our ongoing work in the field, the thiophenoxyl-hydrogen abstraction from CTPs with H and OH are naturally expected to play the most central role in the formation of CTPRs. Here, therefore, we performed a direct density functional theory (DFT) kinetic study on the formation of CTPRs from the complete series reactions of 19 CTP congeners with H and OH radicals. We also studied the reactions of thiophenol with H and OH radicals for comparison. The effect of the chlorine substitution pattern on the structures, energies, and rate constants is discussed. The formation potential of CTPRs from CTPs with H and OH are compared with that of CPRs from CPs with H and OH, respectively.</text>
+      <annotation id="757">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="5283" length="22"/>
+        <text>chlorophenoxy radicals</text>
+      </annotation>
+      <annotation id="759">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="5307" length="4"/>
+        <text>CPRs</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="5335" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="738">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="5344" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="1521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000072317,MESH:C023614,MESH:D000072317</infon>
+        <location offset="5406" length="6"/>
+        <text>PCDD/F</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="5459" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="5468" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="5474" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="5530" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1572">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="5543" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="5569" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="5579" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="5585" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="2X158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="5661" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="5773" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="5820" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="1224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="5839" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="5891" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="740">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="5907" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="5959" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="6078" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6089" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="6099" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="6105" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="760">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="6134" length="4"/>
+        <text>CPRs</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="6144" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="6153" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="6159" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6177</offset>
+      <text>2. Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6203</offset>
+      <text>Due to the different substitution pattern of thiophenol, chlorothiophenols have 19 congeners, including three monochlorothiophenols (2-CTP, 3-CTP and 4-CTP), six dichlorothiophenols (2,3-DCTP, 2,4-DCTP, 2,5-DCTP, 2,6-DCTP, 3,4-DCTP and 3,5-DCTP), six trichlorothiophenols (2,3,4-TCTP, 2,3,5-TCTP, 2,3,6-TCTP, 2,4,5-TCTP, 2,4,6-TCTP and 3,4,5-TCTP), three tetrachlorothiophenols (2,3,4,5-TeCTP, 2,3,4,6-TeCTP and 2,3,5,6-TeCTP), and pentachlorothiophenols (PCTP). Due to the asymmetric chlorine substitution, there are syn and anti-conformers for 2-CTP, 3-CTP, 2,3-DCTP, 2,4-DCTP, 2,5-DCTP, 3,4-DCTP, 2,3,4-TCTP, 2,3,5-TCTP, 2,3,6-TCTP, 2,4,5-TCTP, 2,3,4,5-TeCTP and 2,3,4,6-TeCTP, respectively. The conformer with the sulfydryl-hydrogen facing the closest neighboring Cl is labeled as the syn-conformer and otherwise the anti-conformer (Figure 1). For a given CTP, the syn-conformer is about 0.5 kcal/mol more stable than the corresponding anti form, suggesting a stabilization effect because of intramolecular hydrogen bonding. So, throughout this paper, CTPs denote the syn-conformers. </text>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="6248" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="2X204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6260" length="17"/>
+        <text>chlorothiophenols</text>
+      </annotation>
+      <annotation id="2X205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6313" length="21"/>
+        <text>monochlorothiophenols</text>
+      </annotation>
+      <annotation id="2X239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6336" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="2X193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6343" length="5"/>
+        <text>3-CTP</text>
+      </annotation>
+      <annotation id="2X240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6353" length="5"/>
+        <text>4-CTP</text>
+      </annotation>
+      <annotation id="2X206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6365" length="19"/>
+        <text>dichlorothiophenols</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6386" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6396" length="8"/>
+        <text>2,4-DCTP</text>
+      </annotation>
+      <annotation id="2X209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6406" length="8"/>
+        <text>2,5-DCTP</text>
+      </annotation>
+      <annotation id="2X210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6416" length="8"/>
+        <text>2,6-DCTP</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012894</infon>
+        <location offset="6426" length="8"/>
+        <text>3,4-DCTP</text>
+      </annotation>
+      <annotation id="2X212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6439" length="8"/>
+        <text>3,5-DCTP</text>
+      </annotation>
+      <annotation id="2X213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6454" length="20"/>
+        <text>trichlorothiophenols</text>
+      </annotation>
+      <annotation id="2X214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6476" length="10"/>
+        <text>2,3,4-TCTP</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035302</infon>
+        <location offset="6488" length="10"/>
+        <text>2,3,5-TCTP</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6500" length="10"/>
+        <text>2,3,6-TCTP</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035301</infon>
+        <location offset="6512" length="10"/>
+        <text>2,4,5-TCTP</text>
+      </annotation>
+      <annotation id="2X218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6524" length="10"/>
+        <text>2,4,6-TCTP</text>
+      </annotation>
+      <annotation id="2X219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6539" length="10"/>
+        <text>3,4,5-TCTP</text>
+      </annotation>
+      <annotation id="2X202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6558" length="22"/>
+        <text>tetrachlorothiophenols</text>
+      </annotation>
+      <annotation id="2X220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6582" length="13"/>
+        <text>2,3,4,5-TeCTP</text>
+      </annotation>
+      <annotation id="2X221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6597" length="13"/>
+        <text>2,3,4,6-TeCTP</text>
+      </annotation>
+      <annotation id="2X222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6615" length="13"/>
+        <text>2,3,5,6-TeCTP</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C014146</infon>
+        <location offset="6635" length="22"/>
+        <text>pentachlorothiophenols</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C014146</infon>
+        <location offset="6659" length="4"/>
+        <text>PCTP</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="6688" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6749" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="2X242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6756" length="5"/>
+        <text>3-CTP</text>
+      </annotation>
+      <annotation id="2X226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6763" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6773" length="8"/>
+        <text>2,4-DCTP</text>
+      </annotation>
+      <annotation id="2X228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6783" length="8"/>
+        <text>2,5-DCTP</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012894</infon>
+        <location offset="6793" length="8"/>
+        <text>3,4-DCTP</text>
+      </annotation>
+      <annotation id="2X230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6803" length="10"/>
+        <text>2,3,4-TCTP</text>
+      </annotation>
+      <annotation id="2X231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035302</infon>
+        <location offset="6815" length="10"/>
+        <text>2,3,5-TCTP</text>
+      </annotation>
+      <annotation id="2X197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6827" length="10"/>
+        <text>2,3,6-TCTP</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035301</infon>
+        <location offset="6839" length="10"/>
+        <text>2,4,5-TCTP</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6851" length="13"/>
+        <text>2,3,4,5-TeCTP</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="6869" length="13"/>
+        <text>2,3,4,6-TeCTP</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013438,MESH:D006859</infon>
+        <location offset="6921" length="18"/>
+        <text>sulfydryl-hydrogen</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="6971" length="2"/>
+        <text>Cl</text>
+      </annotation>
+      <annotation id="2X237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7063" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="7214" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7259" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-16-18714-g001.jpg</infon>
+      <infon key="id">ijms-16-18714-f001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>7292</offset>
+      <text>syn and anti conformers of CTP.</text>
+      <annotation id="2X243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7319" length="3"/>
+        <text>CTP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>7324</offset>
+      <text>The structures of CTPs along with the structure of thiophenol are presented in the Figure S1 of Supplementary Materials. The structural parameters of CTPs are strongly influenced by the ortho-substituted chlorine regardless of the number of chlorine substituents. There exists weak intramolecular hydrogen bonding in the ortho-substituted CTPs. The lengths of the intramolecular hydrogen bonds are from 2.391 to 2.490 Å. No such intramolecular hydrogen bonding forms in the anti-conformers except those with chlorine substitutions at both ortho-positions. The C–S bonds in CTPs are from 1.749 to 1.761 Å, which are longer than the C–S double bond and shorter than the C–S single bond. The C–S bonds lengths (1.749–1.754 Å) in the ortho-substituted CTPs are consistently shorter than those for all nonortho forms (1.756–1.761 Å). The structures of CTPRs along with the structure of thiophenoxy radical are shown in the Figure S2 of Supplementary Materials.</text>
+      <annotation id="2X249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7342" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="7375" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="2X250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7474" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="7528" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="7565" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="7621" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7663" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="7703" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="7768" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="7832" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="7897" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8072" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="8171" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="1218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013876,MESH:D005609</infon>
+        <location offset="8205" length="19"/>
+        <text>thiophenoxy radical</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8296</offset>
+      <text>Comparison of C–S bond lengths presented in Figure S1 with the C–O bond lengths of CPs in our previous study clearly shows that C–S bond lengths in CTPs are longer than the C–O bond length of CPs (1.331–1.352 Å). Similarly, S–H bond lengths in CTPs (1.332 or 1.333 Å) are longer than the O–H bond length of CPs (0.955–0.960 Å).  Table S1 shows the NBO charge of S and H of CTPs (NBOS and NBOH), NBO charge of O and H of CPs (NBOO and NBOH) and HOMO-LOMO gap of CTPs and CPs at MPWB1K/6-31+G(d,p) level. At a given CP and CTP, the NBOO of CP is more negative than the NBOS of CTP, and the NBOH of CP is more positive than that of CTP. This means the O atom in CP have stronger nucleophilicity than the S atom in CTP, i.e., the O–H bond strength in CP is stronger than the S–H bond in CTP. In addition, the HOMO-LOMO gap of CP is larger than that of CTP, which reconfirms that CP is more stable than CTP. Figure S3 depicts the electron density of 2-CTP/2-CP and 3-CTP/3-CP at MPWB1K/6-311+G(3df,2p) level. The S–H and C–S bond lengths of thiophenol were also studied by Larsen et al. using both experimental investigation and ab initio molecular calculations at B3LYP/aug-cc-pVQZ, MP2(full)/aug-cc-pVTZ and MP2(full)/aug-cc-pVQZ levels. The S–H bond length of 1.333 Å and C–S bond length of 1.761 Å obtained in our study at the MPWB1K/6-31+G(d,p) level are in good agreement with the experimental value of 1.333 Å and 1.773 Å with the discrepancy less than 1.0%. Compared with Larsen’s calculation values of S–H and C–S bond lengths, our MPWB1K/6-31+G(d,p) results are slightly closer to the values at MP2(full)/aug-cc-pVTZ (1.334 Å for S–H bond and 1.763 Å for C–S bond) and MP2(full)/aug-cc-pVQZ levels (1.332 Å for S–H bond and 1.760 Å for C–S bond) than those at B3LYP and aug-cc-pVQZ levels (1.341 Å for S–H bond and 1.779 Å for C–S bond). </text>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8379" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8444" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8488" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8540" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8603" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="8658" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="8664" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8669" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="8705" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="8711" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8716" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8757" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8766" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8810" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8817" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8834" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8871" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8892" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="8925" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="8945" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="8955" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="8997" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="2X300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="9007" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="9043" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="9079" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="9118" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="9144" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="9171" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="9194" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="2X308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="9241" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030683</infon>
+        <location offset="9247" length="4"/>
+        <text>2-CP</text>
+      </annotation>
+      <annotation id="2X309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="9256" length="5"/>
+        <text>3-CTP</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030682</infon>
+        <location offset="9262" length="4"/>
+        <text>3-CP</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="9332" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>10199</offset>
+      <text>2.1. Reactions of CTPs with H </text>
+      <annotation id="2X317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="10217" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10227" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>10230</offset>
+      <text>The formation of CTPRs from the reactions of CTPs with H proceeds via a direct hydrogen abstraction mechanism. The structures of the transition states were located at the MPWB1K/6-31+G(d,p) level and shown in Figure 2. The H–H and C–S bonds in CTPs with ortho-substitution (1.246–1.291 Å for H–H, and 1.752–1.758 Å for C–S) are systematically shorter than those without ortho-substitution (1.295–1.345 Å for H–H, and 1.764–1.770 Å for C–S), respectively. Besides, all the ortho-substituted transition states have relative longer S–H bonds lengths (1.395–1.405 Å) compared to those without ortho-substitution (1.387–1.393 Å). Table 1 gives the potential barriers and reaction heats obtained at the MPWB1K/6-311+G(3df,2p)//MPWB1K/6-31+G(d,p) level. The formation of CTPRs from the reactions of CTPs with H is strongly exothermic. Table 1 shows that the potential barriers are significantly correlated with the position of the chlorine substitution at the thiophenolicring, but not with the number of chlorine substituents. For example, for dichlorothiophenols, the potential barriers of the thiophenoxyl-hydrogen abstraction from 2,3-DCTP, 2,4-DCTP, 2,5-DCTP and 2,6-DCTP are higher than those from 3,4-DCTP and 3,5-DCTP. For trichlorothiophenols, the potential barriers of the phenoxyl-hydrogen abstraction from 2,3,4-TCTP, 2,3,5-TCTP, 2,3,6-TCTP, 2,4,5-TCTP and 2,4,6-TCTP are higher than that from 3,4,5-TCTP. Obviously, for a given number of chlorine substitutions, the potential barriers for the thiophenoxyl-hydrogen abstraction from the ortho-substituted CTPs are consistently higher than those for other structural conformers. The chlorine substitution at the ortho-position can lower the barrier heights of thiophenoxyl-hydrogen abstraction from CTPs by H. Intramolecular hydrogen bonding appears to stabilize the CTPs and reduce the reactivity of S–H bonds in CTPs with the ortho-substitution. A similar result was also observed in our previous study of CPs with H.</text>
+      <annotation id="2X324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="10247" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="10275" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10285" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10309" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="10474" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="10994" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11022" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11032" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="11154" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="11228" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11268" length="19"/>
+        <text>dichlorothiophenols</text>
+      </annotation>
+      <annotation id="1526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="11319" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1574">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11332" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11358" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11368" length="8"/>
+        <text>2,4-DCTP</text>
+      </annotation>
+      <annotation id="2X350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11378" length="8"/>
+        <text>2,5-DCTP</text>
+      </annotation>
+      <annotation id="2X351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11391" length="8"/>
+        <text>2,6-DCTP</text>
+      </annotation>
+      <annotation id="2X352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012894</infon>
+        <location offset="11427" length="8"/>
+        <text>3,4-DCTP</text>
+      </annotation>
+      <annotation id="2X353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11440" length="8"/>
+        <text>3,5-DCTP</text>
+      </annotation>
+      <annotation id="2X354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11454" length="20"/>
+        <text>trichlorothiophenols</text>
+      </annotation>
+      <annotation id="1634">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="11506" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1575">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11515" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11541" length="10"/>
+        <text>2,3,4-TCTP</text>
+      </annotation>
+      <annotation id="2X357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035302</infon>
+        <location offset="11553" length="10"/>
+        <text>2,3,5-TCTP</text>
+      </annotation>
+      <annotation id="2X358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11565" length="10"/>
+        <text>2,3,6-TCTP</text>
+      </annotation>
+      <annotation id="2X359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035301</infon>
+        <location offset="11577" length="10"/>
+        <text>2,4,5-TCTP</text>
+      </annotation>
+      <annotation id="2X360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11592" length="10"/>
+        <text>2,4,6-TCTP</text>
+      </annotation>
+      <annotation id="2X361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11629" length="10"/>
+        <text>3,4,5-TCTP</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="11674" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="1522">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="11729" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1566">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11742" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11790" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="11867" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="1527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="11944" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1576">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11957" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="11983" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11991" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12009" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="12051" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12087" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="12098" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="12192" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12201" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-16-18714-g002b.jpg</infon>
+      <infon key="id">ijms-16-18714-f002</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>12238</offset>
+      <text>MPWB1K/6-31+G(d,p) optimized geometries for the transition states of the thiophenoxyl-hydrogen abstraction from CTPs by H. Distances are in angstroms. Gray sphere, C; White sphere, H; Yellow sphere, S; Green sphere, Cl. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.</text>
+      <annotation id="1528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="12311" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1577">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12324" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="12350" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12358" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1077">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="12402" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12419" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="12437" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="12454" length="2"/>
+        <text>Cl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">ijms-16-18714-t001.xml</infon>
+      <infon key="id">ijms-16-18714-t001</infon>
+      <infon key="type">table_caption</infon>
+      <offset>12587</offset>
+      <text>Potential barriers ∆E (in kcal/mol), reaction heats ∆H (in kcal/mol, 0 K), imaginary frequencies (in cm−1) of the transition states, and the S–H bond dissociation energies D0 (S–H) (in kcal/mol) for the thiophenoxyl-hydrogen abstraction from CTPs by H.</text>
+      <annotation id="1529">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="12790" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1578">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12803" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="12829" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12837" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>13635</offset>
+      <text>In order to further investigate the relative strength of the S–H bonds in CTPs, we also calculated the S–H bond dissociation energies D0 (S–H). The values of D0 (S–H) obtained at the MPWB1K/6-311+G(3df,2p)//MPWB1K/6-31+G(d,p) level are summarized in Table 1. D0 (S–H) of 2-CTP is higher than those of 4-CTP. Similarly, D0 (S–H) of 2,3-DCTP, 2,4-DCTP, 2,5-DCTP and 2,6-DCTP are higher than that of 3,4-DCTP. D0 (S–H) of 2,3,4-TCTP, 2,3,5-TCTP, 2,3,6-TCTP, 2,4,5-TCTP and 2,4,6-TCTP are higher than that of 3,4,5-TCTP. The chlorine substitution at the ortho-position appears to increase the strength of the S–H bonds in CTPs. However, for a given number of chlorine substitutions, the S–H bond dissociation energies in CTPs with ortho-substitution are not consistently larger than those without ortho-substitution. For example, D0 (S–H) of 2-CTP is smaller than that of 3-CTP. D0 (S–H) of 2,3-DCTP, 2,4-DCTP and 2,6-DCTP are smaller than that of 3,5-DCTP. Chlorine in an aromatic ring is traditionally recognized as an electron-withdrawing group. The intramolecular hydrogen bonding in the ortho-substituted CTPs as well as the inductive effect of the electron-withdrawing chlorine and steric effect may ultimately be responsible for the relative strength of the S–H bonds in CTPs.</text>
+      <annotation id="2X393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13709" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="968">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13906" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="973">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13936" length="5"/>
+        <text>4-CTP</text>
+      </annotation>
+      <annotation id="2X403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13966" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13976" length="8"/>
+        <text>2,4-DCTP</text>
+      </annotation>
+      <annotation id="2X405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13986" length="8"/>
+        <text>2,5-DCTP</text>
+      </annotation>
+      <annotation id="2X406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="13999" length="8"/>
+        <text>2,6-DCTP</text>
+      </annotation>
+      <annotation id="2X407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012894</infon>
+        <location offset="14032" length="8"/>
+        <text>3,4-DCTP</text>
+      </annotation>
+      <annotation id="2X408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14054" length="10"/>
+        <text>2,3,4-TCTP</text>
+      </annotation>
+      <annotation id="2X409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035302</infon>
+        <location offset="14066" length="10"/>
+        <text>2,3,5-TCTP</text>
+      </annotation>
+      <annotation id="2X410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14078" length="10"/>
+        <text>2,3,6-TCTP</text>
+      </annotation>
+      <annotation id="2X411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035301</infon>
+        <location offset="14090" length="10"/>
+        <text>2,4,5-TCTP</text>
+      </annotation>
+      <annotation id="2X412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14105" length="10"/>
+        <text>2,4,6-TCTP</text>
+      </annotation>
+      <annotation id="2X388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14140" length="10"/>
+        <text>3,4,5-TCTP</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="14156" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14253" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="14290" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14352" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="969">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14473" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="1220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14503" length="5"/>
+        <text>3-CTP</text>
+      </annotation>
+      <annotation id="2X415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14522" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14532" length="8"/>
+        <text>2,4-DCTP</text>
+      </annotation>
+      <annotation id="2X417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14545" length="8"/>
+        <text>2,6-DCTP</text>
+      </annotation>
+      <annotation id="2X418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14579" length="8"/>
+        <text>3,5-DCTP</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="14589" length="8"/>
+        <text>Chlorine</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14699" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14741" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="14806" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="14909" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>14939</offset>
+      <text>It is interesting to compare the thiophenoxyl-hydrogen abstraction from CTPs by H with the phenoxyl-hydrogen abstraction from CPs by H. For a given CTP, the potential barrier for the thiophenoxyl-hydrogen abstraction from CTP by H is about 8–11 kcal/mol lower than phenoxyl-hydrogen abstraction from corresponding CP by H. In addition, the thiophenoxyl-hydrogen abstraction by H is more exothermic than the phenoxyl-hydrogen abstraction by H. This indicates that the thiophenoxyl-hydrogen abstraction from CTPs by H can occur more promptly than the phenoxyl-hydrogen abstraction CPs by H.</text>
+      <annotation id="1530">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="14972" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1579">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14985" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="15011" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15019" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1631">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="15030" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1580">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15039" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="15065" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15072" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="15087" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="1531">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="15122" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1581">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15135" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="15161" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15168" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1635">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="15204" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1582">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15213" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="15253" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="G334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15259" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1532">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="15279" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1583">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15292" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15316" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1636">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="15346" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1584">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15355" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15379" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="15406" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1585">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15419" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="15445" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15453" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1637">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="15488" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1586">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15497" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="15518" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15525" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15530</offset>
+      <text>2.2. Reactions of CTPs with OH</text>
+      <annotation id="2X456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="15548" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="15558" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15561</offset>
+      <text>For thiophenoxyl-hydrogen abstraction from CTPs by OH radical, prereactive intermediates are formed before the transition state. The structures of the prereactive intermediates are presented in Figure 3. As shown in Figure 3, conformations of the intermediates are difference between ortho-substituted structures and nonortho-substituted structures. In the ortho-substituted intermediates, H(1) atom is at the trans-position of O with respect to the O–H(2) bond. In contrast, H(1) atom is at the cis-position of O in the intermediates without ortho-substitution. In addition, the ortho-substitution also has an effect on other structural parameters, such as the H(1)–O, H(2)–S and C–S bonds. For example, all the ortho-substituted intermediates have relatively shorter C–S bond distances (1.748–1.757 Å) compared to those without ortho-substitution (1.756–1.761Å). The relative energy, ∆EIM, of the intermediate with respect to the total energy of the corresponding CTP and OH is listed in Table 2.</text>
+      <annotation id="1534">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="15565" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1587">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15578" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="15604" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="15612" length="10"/>
+        <text>OH radical</text>
+      </annotation>
+      <annotation id="2X463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15951" length="4"/>
+        <text>H(1)</text>
+      </annotation>
+      <annotation id="G352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="15989" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="2X465">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16037" length="4"/>
+        <text>H(1)</text>
+      </annotation>
+      <annotation id="G354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="16073" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="2X467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="16527" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="2X468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="16535" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-16-18714-g003b.jpg</infon>
+      <infon key="id">ijms-16-18714-f003</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16578</offset>
+      <text>MPWB1K/6-31+G(d,p) optimized geometries for the prereactive intermediates of the thiophenoxyl-hydrogen abstraction from CTPs by OH. Distances are in angstroms. Gray sphere, C; White sphere, H; Yellow sphere, S; Red sphere, O; Green sphere, Cl. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.).</text>
+      <annotation id="1535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="16659" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1588">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16672" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="16698" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="16706" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1091">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="16751" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="G360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="16768" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="16786" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="G361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="16801" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="G362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="16818" length="2"/>
+        <text>Cl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">ijms-16-18714-t002.xml</infon>
+      <infon key="id">ijms-16-18714-t002</infon>
+      <infon key="type">table_caption</infon>
+      <offset>16953</offset>
+      <text>The relative energies of the intermediates ∆EIM (in kcal/mol), potential barriers ∆ETS (in kcal/mol), reaction heats ∆H (in kcal/mol, 0 K), imaginary frequencies (in cm−1) of the transition states for the triophenoxyl-hydrogen abstraction from CTPs by OH.</text>
+      <annotation id="1647">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="17158" length="12"/>
+        <text>triophenoxyl</text>
+      </annotation>
+      <annotation id="1589">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="17171" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="17197" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="17205" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>18062</offset>
+      <text>The structures of the transition states are depicted in Figure 4. As shown in Figure 4, H(1) atom is at the trans-position of O with respect to the O–H(2) bond in the transition states with or without ortho-substitution. There are exit weak intramolecular hydrogen bondings in all the structures, which are governed by the chlorine substitution pattern. In the ortho-transition states, the intramolecular hydrogen bondings are between H(1) and ortho Cl atoms. In the transition states without ortho-substitution, the intramolecular hydrogen bondings are between O and H(3) atoms. The hydrogen bond can lower the energy of the transition state, i.e., lower the reaction potential barrier. Besides, the ortho-substitution also impacts other essential structural parameters of the transition states. Generally, the breaking S–H(2) bonds in the ortho-substituted transition states (1.437–1.456 Å) are longer than those without ortho-substitution (1.414–1.431 Å). The forming O–H(2) bonds in the transition states with ortho-substitution (1.382–1.419 Å) are shorter than those without ortho-substitution (1.420–1.464 Å).</text>
+      <annotation id="G368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18150" length="4"/>
+        <text>H(1)</text>
+      </annotation>
+      <annotation id="G369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="18188" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="G370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18318" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="18385" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="G372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18467" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18497" length="4"/>
+        <text>H(1)</text>
+      </annotation>
+      <annotation id="G375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="18512" length="2"/>
+        <text>Cl</text>
+      </annotation>
+      <annotation id="G376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18594" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="18624" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="2X501">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18630" length="4"/>
+        <text>H(3)</text>
+      </annotation>
+      <annotation id="G379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18646" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-16-18714-g004b.jpg</infon>
+      <infon key="id">ijms-16-18714-f004</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>19196</offset>
+      <text>MPWB1K/6-31+G(d,p) optimized geometries for the transition states of the thiophenoxyl-hydrogen abstraction from CTPs by OH. Distances are in angstroms. Gray sphere, C; White sphere, H; Yellow sphere, S; Red sphere, O; Green sphere, Cl. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.).</text>
+      <annotation id="1536">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="19269" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1590">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="19282" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="19308" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="19316" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="19361" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="G383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="19378" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="19396" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="G384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="19411" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="G385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="19428" length="2"/>
+        <text>Cl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>19563</offset>
+      <text>The potential barriers and reaction heats calculated at the MPWB1K/6-311+G(3df,2p)//MPWB1K/6-31+G(d,p) level are shown in Table 2. In particular, the potential barrier is the relative energy of the transition state with respect to the total energy of the separated reactants (the corresponding CTP and OH), without considering the very shallow prereactive intermediate. It can be seen from Table 2 that the potential barriers for the thiophenoxyl-hydrogen abstraction from the ortho-substituted CTPs by OH radicals consistently are higher than those from CTPs without ortho-substitution. This reaffirms the conclusion above that the chlorine substitution at the ortho position increases the strength of the S–H bonds and decreases its reactivity.</text>
+      <annotation id="2X518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="19857" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="2X519">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="19865" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1537">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="19997" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1591">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20010" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20058" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="1095">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20066" length="11"/>
+        <text>OH radicals</text>
+      </annotation>
+      <annotation id="2X517">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20118" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="20196" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>20312</offset>
+      <text>It is also necessary to compare the thiophenoxyl-hydrogen abstraction from CTPs by OH with the phenoxyl-hydrogen abstraction from CPs by OH of our previous study. For a given chlorotriophenol, the potential barrier for the thiophenoxyl-hydrogen abstraction from CTPs by OH is about 5–8 kcal/mol higher than phenoxyl-hydrogen abstraction from CPs by OH, which indicates that the thiophenoxyl-hydrogen abstraction from CTPs by OH are more difficult to happen than the phenoxyl-hydrogen abstraction CPs by OH. Compared to the stereo configurations of the transition states from CPs with OH, the transition states from CTPs with OH have the planar structure with all the S, O, H(1), and H(2) atoms almost in the same plane as the benzene ring. This can higher the energy of transition states, i.e., higher the potential energy of CTPs with OH radicals. </text>
+      <annotation id="1538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="20348" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1592">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20361" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20387" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20395" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1638">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="20407" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1593">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20416" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="20442" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X541">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20449" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20487" length="16"/>
+        <text>chlorotriophenol</text>
+      </annotation>
+      <annotation id="1539">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="20535" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1594">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20548" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20574" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20582" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1639">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="20619" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1595">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20628" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="20654" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20661" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1540">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="20690" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1596">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20703" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20729" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X549">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20737" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1640">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="20778" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1597">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20787" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="20808" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X552">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20815" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="20887" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X554">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20896" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="2X528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="20927" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X555">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20937" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="20979" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="G418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="20982" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="1488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20985" length="4"/>
+        <text>H(1)</text>
+      </annotation>
+      <annotation id="1489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20995" length="4"/>
+        <text>H(2)</text>
+      </annotation>
+      <annotation id="G419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001554</infon>
+        <location offset="21038" length="7"/>
+        <text>benzene</text>
+      </annotation>
+      <annotation id="2X529">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="21138" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="1099">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="21148" length="11"/>
+        <text>OH radicals</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21164</offset>
+      <text>Comparison of the values presented in Table 1 and Table 2 shows that for a given CTP, the potential barrier for the thiophenoxyl-hydrogen abstraction by OH is about 4–6 kcal/mol lower than that of the thiophenoxyl-hydrogen abstraction by H, which indicates that the thiophenoxyl-hydrogen abstraction from CTPs by OH is less efficient than the thiophenoxyl-hydrogen abstraction by H. This is completely on the contrary to the fact of phenoxyl-hydrogen abstraction CPs by OH is more impactfulthan the phenoxyl-hydrogen abstraction by H.</text>
+      <annotation id="2X568">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="21245" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="1541">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="21280" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1598">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21293" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X570">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="21317" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1542">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="21365" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21378" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21402" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1543">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="21430" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1599">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21443" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X562">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="21469" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X573">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="21477" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="21507" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1600">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21520" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21544" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1641">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="21597" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1601">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21606" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="21627" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X578">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="21634" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1642">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="21663" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1602">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21672" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21696" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21701</offset>
+      <text>2.3. Rate Constant Calculations </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21734</offset>
+      <text>Canonical variational transition state theory (CVT) with small-curvature tunneling (SCT) contribution has been successfully performed for formation of CPRs from the complete series reactions of 19 CP congeners with H and OH radicals, and is an efficient method to calculate the rate constants. In this study, we used this method to calculate the rate constants for the formation of CTPRs from the complete series reactions of 19 CTP congeners with H and OH radicals over a wide temperature range of 600–1200 K, as shown in Tables S2 and S3 of Supplementary Materials, respectively. This temperature range covers the possible formation temperature of PCDT/TAs under the pyrolysis or combustion conditions. Due to the absence of the available experimental rate constants, it is difficult to make a direct comparison of the calculated CVT/SCT rate constants with the experimental values for the reactions of CTPs with H and OH. Our previous studies have shown that the CVT/SCT rate constants of phenol + H → phenoxy + H2 and phenol + OH → phenoxy + H2O are in good agreement with the available experimental values. To be used more effectively, the CVT/SCT rate constants are fitted, and Arrhenius formulas are given in Table 3 for the triophenoxyl-hydrogen abstraction from CTPs by H and in Table 4 for the thiophenoxyl-hydrogen abstraction from CTPs by OH. The pre-exponential factor, the activation energy, and the rate constants can be obtained.</text>
+      <annotation id="761">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="21885" length="4"/>
+        <text>CPRs</text>
+      </annotation>
+      <annotation id="1383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="21931" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="741">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="21949" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="2X585">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="22116" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X596">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="22163" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="742">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="22182" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="1502">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="22384" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="2X586">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="22639" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22649" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X598">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="22655" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="22726" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="G448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22735" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042329</infon>
+        <location offset="22739" length="7"/>
+        <text>phenoxy</text>
+      </annotation>
+      <annotation id="G449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22749" length="2"/>
+        <text>H2</text>
+      </annotation>
+      <annotation id="G450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="22756" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="2X603">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="22765" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042329</infon>
+        <location offset="22770" length="7"/>
+        <text>phenoxy</text>
+      </annotation>
+      <annotation id="G452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22780" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="1650">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="22966" length="12"/>
+        <text>triophenoxyl</text>
+      </annotation>
+      <annotation id="1603">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22979" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X587">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="23005" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23013" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1545">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="23038" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1604">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23051" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X588">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="23077" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X608">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="23085" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">ijms-16-18714-t003.xml</infon>
+      <infon key="id">ijms-16-18714-t003</infon>
+      <infon key="type">table_caption</infon>
+      <offset>23186</offset>
+      <text>Arrhenius formulas (in cm3·molecule−1·s−1) for the thiophenoxyl-hydrogen abstraction from chlorothiophenols and thiophenol by H over the temperature range of 600–1200 K.</text>
+      <annotation id="1546">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="23237" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1605">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23250" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X615">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="23276" length="17"/>
+        <text>chlorothiophenols</text>
+      </annotation>
+      <annotation id="G466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="23298" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="G467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="23312" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>24879</offset>
+      <text>The chlorine substitution pattern of thiophenol strongly affects the CVT/SCT rate constants. At a given temperature, the calculated CVT/SCT rate constants for the thiophenoxyl-hydrogen abstraction from 2-CTP by H or OH radical is smaller than those of the thiophenoxyl-hydrogen abstraction from 3-CTP and 4-CTP by H or OH radical, respectively. The calculated CVT/SCT rate constants for the thiophenoxyl-hydrogen abstraction from 2,3-DCTP, 2,4-DCTP, 2,5-DCTP and 2,6-DCTP by H or OH radical are smaller than those of the thiophenoxyl-hydrogen abstraction from 3,4-DCTP and 3,5-DCTP by H or OH radical, respectively. The CVT/SCT rate constants for the thiophenoxyl-hydrogen abstraction from 2,3,4-TCTP, 2,3,5-TCTP, 2,3,6-TCTP, 2,4,5-TCTP and 2,4,6-TCTP by H or OH are smaller than that of the thiophenoxyl-hydrogen abstraction from 3,4,5-TCTP by H or OH, respectively. For example, at 1000 K, the CVT/SCT rate constants are 2.54 × 10−12, 1.35 × 10−12, 1.49 × 10−12, 1.63 × 10−12, 1.68 × 10−12 cm3·molecule−1·s−1 for reactions of 2,3,4-TCP, 2,3,5-TCP, 2,3,6-TCP, 2,4,5-TCP and 2,4,6-TCP with H, while the value is 3.82 × 10−12 cm3·molecule−1·s−1 for that from 3,4,5-TCP with H. Similarly, at 1000 K, the CVT/SCT rate constants are 2.99 × 10−15, 1.38 × 10−15, 2.76 × 10−15, 2.44 × 10−15, 1.20 × 10−16 cm3·molecule−1·s−1 for reactions of 2,3,4-TCP, 2,3,5-TCP, 2,3,6-TCP, 2,4,5-TCP and 2,4,6-TCP with OH, while the value is 3.44 × 10−14 cm3·molecule−1·s−1 for that from 3,4,5-TCP with OH. This perfectly matches the structural and thermodynamic analysis above that the chlorine substitution at the ortho-position of CTPs increases the strength of the S–H bonds and decreases its reactivity.</text>
+      <annotation id="G468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="24883" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="G469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="24916" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="1547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="25042" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1606">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25055" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X672">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25081" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="1117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="25090" length="15"/>
+        <text>H or OH radical</text>
+      </annotation>
+      <annotation id="1548">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="25135" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1607">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25148" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X673">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25174" length="5"/>
+        <text>3-CTP</text>
+      </annotation>
+      <annotation id="2X674">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25184" length="5"/>
+        <text>4-CTP</text>
+      </annotation>
+      <annotation id="1118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="25193" length="15"/>
+        <text>H or OH radical</text>
+      </annotation>
+      <annotation id="1549">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="25270" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1608">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25283" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X642">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25309" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X643">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25319" length="8"/>
+        <text>2,4-DCTP</text>
+      </annotation>
+      <annotation id="2X644">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25329" length="8"/>
+        <text>2,5-DCTP</text>
+      </annotation>
+      <annotation id="2X645">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25342" length="8"/>
+        <text>2,6-DCTP</text>
+      </annotation>
+      <annotation id="1116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="25354" length="15"/>
+        <text>H or OH radical</text>
+      </annotation>
+      <annotation id="1550">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="25400" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1609">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25413" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X647">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012894</infon>
+        <location offset="25439" length="8"/>
+        <text>3,4-DCTP</text>
+      </annotation>
+      <annotation id="2X648">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25452" length="8"/>
+        <text>3,5-DCTP</text>
+      </annotation>
+      <annotation id="1119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="25464" length="15"/>
+        <text>H or OH radical</text>
+      </annotation>
+      <annotation id="1551">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="25530" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1610">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25543" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X650">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25569" length="10"/>
+        <text>2,3,4-TCTP</text>
+      </annotation>
+      <annotation id="2X619">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C035302</infon>
+        <location offset="25581" length="10"/>
+        <text>2,3,5-TCTP</text>
+      </annotation>
+      <annotation id="2X620">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25593" length="10"/>
+        <text>2,3,6-TCTP</text>
+      </annotation>
+      <annotation id="2X651">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25605" length="10"/>
+        <text>2,4,5-TCTP</text>
+      </annotation>
+      <annotation id="2X675">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25620" length="10"/>
+        <text>2,4,6-TCTP</text>
+      </annotation>
+      <annotation id="G494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25634" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X653">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="25639" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1552">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="25671" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1611">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25684" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X655">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="25710" length="10"/>
+        <text>3,4,5-TCTP</text>
+      </annotation>
+      <annotation id="G498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25724" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X657">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="25729" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502485</infon>
+        <location offset="25907" length="9"/>
+        <text>2,3,4-TCP</text>
+      </annotation>
+      <annotation id="2X659">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C056693</infon>
+        <location offset="25918" length="9"/>
+        <text>2,3,5-TCP</text>
+      </annotation>
+      <annotation id="2X660">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="25929" length="9"/>
+        <text>2,3,6-TCP</text>
+      </annotation>
+      <annotation id="2X622">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009534</infon>
+        <location offset="25940" length="9"/>
+        <text>2,4,5-TCP</text>
+      </annotation>
+      <annotation id="2X661">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024564</infon>
+        <location offset="25954" length="9"/>
+        <text>2,4,6-TCP</text>
+      </annotation>
+      <annotation id="G505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="25969" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C534098</infon>
+        <location offset="26037" length="9"/>
+        <text>3,4,5-TCP</text>
+      </annotation>
+      <annotation id="G507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="26052" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C502485</infon>
+        <location offset="26213" length="9"/>
+        <text>2,3,4-TCP</text>
+      </annotation>
+      <annotation id="2X666">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C056693</infon>
+        <location offset="26224" length="9"/>
+        <text>2,3,5-TCP</text>
+      </annotation>
+      <annotation id="2X667">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="26235" length="9"/>
+        <text>2,3,6-TCP</text>
+      </annotation>
+      <annotation id="2X625">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009534</infon>
+        <location offset="26246" length="9"/>
+        <text>2,4,5-TCP</text>
+      </annotation>
+      <annotation id="2X626">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024564</infon>
+        <location offset="26260" length="9"/>
+        <text>2,4,6-TCP</text>
+      </annotation>
+      <annotation id="2X668">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="26275" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G514">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C534098</infon>
+        <location offset="26344" length="9"/>
+        <text>3,4,5-TCP</text>
+      </annotation>
+      <annotation id="2X670">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="26359" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="26443" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X629">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="26490" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">ijms-16-18714-t004.xml</infon>
+      <infon key="id">ijms-16-18714-t004</infon>
+      <infon key="type">table_caption</infon>
+      <offset>26627</offset>
+      <text>Arrhenius formulas (in cm3·molecule−1·s−1) for the triophenoxyl-hydrogen abstraction from chlorothiophenols and thiophenol by OH over the temperature range of 600–1200 K.</text>
+      <annotation id="1651">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="26678" length="12"/>
+        <text>triophenoxyl</text>
+      </annotation>
+      <annotation id="1612">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="26691" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X678">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="26717" length="17"/>
+        <text>chlorothiophenols</text>
+      </annotation>
+      <annotation id="G523">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="26739" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="2X679">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="26753" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>28360</offset>
+      <text>For a given thiochlorophenol, the CVT/SCT rate constants for the thiophenoxyl-hydrogen abstraction by H are noticeably larger than those of the thiophenoxyl-hydrogen abstraction by OH over the whole studied temperature range. For example, at 1000 K, the CVT/SCT rate constant of the thiophenoxyl-hydrogen abstraction from 2,3-DCTP by H is 2.66 × 10−12 cm3·molecule·s−1, whereas the value is 2.91 × 10−15 cm3·molecule·s−1 for the thiophenoxyl-hydrogen abstraction from 2,3-DCTP by OH. This is consistent with thermodynamic analysis: Thiophenoxyl-hydrogen abstraction from CTPs by H is more efficient than the thiophenoxyl-hydrogen abstraction by OH.</text>
+      <annotation id="2X684">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013438,MESH:D002733</infon>
+        <location offset="28372" length="16"/>
+        <text>thiochlorophenol</text>
+      </annotation>
+      <annotation id="1553">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="28425" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1613">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28438" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28462" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1554">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="28504" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1614">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28517" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X688">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="28541" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1555">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="28643" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1615">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28656" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X690">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="28682" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="G532">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28694" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1556">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="28789" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1616">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28802" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X693">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="28828" length="8"/>
+        <text>2,3-DCTP</text>
+      </annotation>
+      <annotation id="2X694">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="28840" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1557">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="28892" length="12"/>
+        <text>Thiophenoxyl</text>
+      </annotation>
+      <annotation id="1617">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28905" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X680">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="28931" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G538">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28939" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1558">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="28968" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1618">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28981" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X698">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29005" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>29023</offset>
+      <text>Comparison with the previous studies of phenoxyl-hydrogen abstraction by H and OH from CPs shows that the CVT/SCT rate constant for the reaction of CTP with H is consistently larger than that of corresponding CP with H at a given temperature, whereas the CVT/SCT rate constant for the reaction of CTP with OH is consistently smaller than that of corresponding CP with OH. This reconfirms thermodynamic analysis that the thiophenoxyl-hydrogen abstraction from CTPs by H is more efficient than the thiophenoxyl-hydrogen abstraction by H and the thiophenoxyl-hydrogen abstraction by OH is less efficient than the phenoxyl-hydrogen abstraction by OH.</text>
+      <annotation id="1643">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="29063" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1619">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29072" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G542">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29096" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X711">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29102" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="29110" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X713">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="29171" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G546">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29180" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G561">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="29232" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="G547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29240" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X700">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="29320" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="2X716">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29329" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="G560">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="29383" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="2X717">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29391" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1559">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="29443" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1620">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29456" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X699">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="29482" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G553">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29490" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1560">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="29519" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1621">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29532" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G555">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29556" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1561">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="29566" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1622">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29579" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X723">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29603" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1644">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="29633" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1623">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29642" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X725">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29666" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29670</offset>
+      <text>3. Experimental Section </text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29695</offset>
+      <text>3.1. Density Functional Theory</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29726</offset>
+      <text>The Gaussian 09 program was used to perform all the calculations on the geometries, energies, frequencies for stationary points (reactants, prereactive intermediates, transition states, and products). The MPWB1K method is a hybrid density functional theory (HDFT) model with excellent performance in thermochemistry, thermochemical kinetics, hydrogen bonding and weak interactions. This method has been successfully performed for formation of CPRs from the complete series reactions of 19 CP congeners with H and OH radicals. As a serious ongoing work, it is important to use a consistent method for the species involved in the formation of CTPRs from CTPs with H and OH radicals and compare the formation potential of CTPRs and CTPs. Geometry optimizations were optimized at the MPWB1K/6-31+G(d,p) level. The vibrational frequencies were also calculated at the same level to determine the nature of the stationary points, the zero-point energy (ZPE), and the thermal contributions to the free energy of activation. The intrinsic reaction coordinate (IRC) calculations were further carried out at the MPWB1K/6-31+G(d,p) level to confirm that the transition state connects to the right minima along the reaction path. For a more accurate evaluation of the energy parameters, a more flexible basis set, 6-311+G(3df,2p), was employed to determine the single-point energies of the various species. The profiles of the potential energy surface were constructed at the MPWB1K/6-311+G(3df,2p)//MPWB1K/6-31+G(d,p)level, including ZPE correction. </text>
+      <annotation id="G562">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30068" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="762">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="30169" length="4"/>
+        <text>CPRs</text>
+      </annotation>
+      <annotation id="1371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="30215" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="743">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="30233" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="2X728">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="30367" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X730">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="30378" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="744">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="30388" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="2X729">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="30445" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X731">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="30455" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>31265</offset>
+      <text>3.2. Kinetic Calculation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>31290</offset>
+      <text>Rate constants in this study over a wide temperature range (600–200 K) were calculated using the canonical variational transition state theory (CVT) with small-curvature tunneling (SCT) correction. To calculate the rate constants, 40 non-stationary points near the transition state along the minimum energy path, 20 points on the reactants side and 20 points on the product side were selected. Rate constant calculations were carried out using the Polyrate 9.7 program.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>31762</offset>
+      <text>3.3. Accuracy Verification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>31789</offset>
+      <text>The optimized geometries of thiophenol and the calculated vibrational frequencies of thiophenol and 4-chlorotriophenol at the MPWB1K/6-31+G(d,p) level are consistent with the available experimental values, and the relative deviation remains within 1.0% for the geometry parameters and 9.0% for the vibrational frequencies. To verify the reliability of the energy parameters, we calculated S–H bond dissociation energy for the reaction of thiophenol → thiophenoxy + H at the MPWB1K/6-311+G(3df,2p)//MPWB1K/6-31+G(d,p) level. The calculated value of 86.51 kcal/mol at 298.15 K and 1.0 atm is in excellent agreement with the corresponding experimental value of 86.5 kcal/mol. From these results, we inferred that accuracy can be expected for the species involved in this study.</text>
+      <annotation id="G569">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="31817" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="G570">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="31874" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="2X740">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="31889" length="18"/>
+        <text>4-chlorotriophenol</text>
+      </annotation>
+      <annotation id="G572">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="32227" length="10"/>
+        <text>thiophenol</text>
+      </annotation>
+      <annotation id="578">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013876,MESH:D005609</infon>
+        <location offset="32240" length="11"/>
+        <text>thiophenoxy</text>
+      </annotation>
+      <annotation id="G573">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="32254" length="1"/>
+        <text>H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>32568</offset>
+      <text>4. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>32583</offset>
+      <text>In this study, we investigated the theoretical formation of chlorothiophenoxy radicals (CTPRs) from the complete series reactions of 19 chlorothiophenol (CTP) congeners with H and OH radicals using DFT electronic structure theory and canonical variational transition-state (CVT) theory with the small curvature tunneling (SCT) contribution. Structural parameters were calculated for all the stationary (reactants, prereactive intermediates, transition states, and products). Potential barriers, reaction heats, and rate constants for all the elementary reactions were studied to compare the formation potential of CTPRs from CTPs with H and OH radicals. Comparison of this study with our previous studies of the chlorophenoxy radical (CPR) formation from chlorophenols (CPs) with H and OH radicals were discussed. Three specific conclusions can be drawn:</text>
+      <annotation id="2X749">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="32643" length="26"/>
+        <text>chlorothiophenoxy radicals</text>
+      </annotation>
+      <annotation id="2X745">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="32671" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X747">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="32719" length="16"/>
+        <text>chlorothiophenol</text>
+      </annotation>
+      <annotation id="2X758">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="32737" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="745">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="32757" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="2X746">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="33197" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X748">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="33208" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="746">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="33218" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+      <annotation id="2X756">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="33295" length="21"/>
+        <text>chlorophenoxy radical</text>
+      </annotation>
+      <annotation id="2X757">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042329</infon>
+        <location offset="33318" length="3"/>
+        <text>CPR</text>
+      </annotation>
+      <annotation id="G579">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="33338" length="13"/>
+        <text>chlorophenols</text>
+      </annotation>
+      <annotation id="G580">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="33353" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="747">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="33363" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>33438</offset>
+      <text>(1) The ortho chlorine increases the strength of the S–H bond in CTPs and decreased its reactivity, i.e., decreases the formation potential of CTPRs from the ortho-substitued CTPs with H and OH radicals.</text>
+      <annotation id="G591">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002713</infon>
+        <location offset="33452" length="8"/>
+        <text>chlorine</text>
+      </annotation>
+      <annotation id="2X762">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="33503" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X761">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="33581" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="2X763">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="33613" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="748">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="33623" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>33644</offset>
+      <text>(2) The triophenoxyl-hydrogen abstraction from CTPs by H is more efficient than the phenoxyl-hydrogen abstraction from CPs by H, whereas the thiophenoxyl-hydrogen abstraction from CTPs by OH is less impactful than the phenoxyl-hydrogen abstraction from CPs by OH.</text>
+      <annotation id="1648">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="33652" length="12"/>
+        <text>triophenoxyl</text>
+      </annotation>
+      <annotation id="1624">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33665" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X766">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="33691" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G600">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33699" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1645">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="33728" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1625">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33737" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G602">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="33763" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G603">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33770" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1562">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="33785" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1626">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33798" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X767">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="33824" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G606">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="33832" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1646">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="33862" length="8"/>
+        <text>phenoxyl</text>
+      </annotation>
+      <annotation id="1627">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33871" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G608">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="33897" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X781">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="33904" length="2"/>
+        <text>OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>33908</offset>
+      <text>(3) Different from reactions of CPs with H and OH, the thiophenoxyl-hydrogen abstraction from CTPs by H can occur more readily than the thiophenoxyl-hydrogen abstraction by OH radical.</text>
+      <annotation id="G610">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="33940" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="G616">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33949" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X792">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="33955" length="2"/>
+        <text>OH</text>
+      </annotation>
+      <annotation id="1563">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="33963" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1628">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33976" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X782">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34002" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G613">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34010" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="1564">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="34044" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1629">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34057" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="1115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="34081" length="10"/>
+        <text>OH radical</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>34093</offset>
+      <text>The obtained results can support the important input parameters for the PCDT/TA control models in the environment, and be used for future estimates of PCDT/TAs emission quantity based on the well estimated PCDT/TA inventory.</text>
+      <annotation id="1516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="34165" length="7"/>
+        <text>PCDT/TA</text>
+      </annotation>
+      <annotation id="1503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="34244" length="8"/>
+        <text>PCDT/TAs</text>
+      </annotation>
+      <annotation id="1517">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016366,MESH:D017606,MESH:C009449,MESH:D017606</infon>
+        <location offset="34299" length="7"/>
+        <text>PCDT/TA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">SUPPL</infon>
+      <offset>34318</offset>
+      <text>Supplementary Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">SUPPL</infon>
+      <offset>34342</offset>
+      <text>MPWB1K/6-31+G(d,p) optimized structures of CTPs and CTPRs. Electron density from total SCF density of 2-CTP, 2-CP, 3-CTP and 3-CP at MPWB1K/6-311+G(3df,2p) level. NBO charge of S and H atoms of CTPs, NBO charge O and H atoms of CPs and HOMO-LOMO gap of CTPs and CPs at MPWB1K/6-31+G(d,p) level. CVT/SCT rate constants for the thiophenoxyl-hydrogen abstraction from CTPs by H and OH radicals. Supplementary materials can be found at .</text>
+      <annotation id="2X801">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34385" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="2X800">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983,MESH:C042329</infon>
+        <location offset="34394" length="5"/>
+        <text>CTPRs</text>
+      </annotation>
+      <annotation id="971">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34444" length="5"/>
+        <text>2-CTP</text>
+      </annotation>
+      <annotation id="2X811">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030683</infon>
+        <location offset="34451" length="4"/>
+        <text>2-CP</text>
+      </annotation>
+      <annotation id="2X821">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34457" length="5"/>
+        <text>3-CTP</text>
+      </annotation>
+      <annotation id="G627">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030682</infon>
+        <location offset="34467" length="4"/>
+        <text>3-CP</text>
+      </annotation>
+      <annotation id="G640">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013455</infon>
+        <location offset="34519" length="1"/>
+        <text>S</text>
+      </annotation>
+      <annotation id="G628">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34525" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="2X802">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34536" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G630">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="34553" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="G631">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34559" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="G632">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="34570" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="2X803">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34595" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="G634">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002733</infon>
+        <location offset="34604" length="3"/>
+        <text>CPs</text>
+      </annotation>
+      <annotation id="1565">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042983</infon>
+        <location offset="34668" length="12"/>
+        <text>thiophenoxyl</text>
+      </annotation>
+      <annotation id="1630">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34681" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="2X804">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017606,MESH:C042983</infon>
+        <location offset="34707" length="4"/>
+        <text>CTPs</text>
+      </annotation>
+      <annotation id="749">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859,MESH:D005609,MESH:D017665</infon>
+        <location offset="34715" length="17"/>
+        <text>H and OH radicals</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>34776</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>34797</offset>
+      <text>Fei Xu designed and performed the mechanism calculations, then wrote the manuscript; Fei Xu and Xiangli Shi performed the kinetic calculation. Fei Xu, Xiangli Shi, Qingzhu Zhang and Wenxing Wang all analyzed the data in the manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>35033</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>35055</offset>
+      <text>The authors declare no conflict of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>35100</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>2902420</id>
+    <passage>
+      <infon key="name_3">surname:Yui;given-names:Jennifer</infon>
+      <infon key="name_2">surname:Li;given-names:Chenglong</infon>
+      <infon key="name_1">surname:Fuchs;given-names:James R</infon>
+      <infon key="name_0">surname:Bill;given-names:Matthew A</infon>
+      <infon key="article-id_pmid">20576164</infon>
+      <infon key="year">2010</infon>
+      <infon key="article-id_publisher-id">1476-4598-9-165</infon>
+      <infon key="article-id_pmc">2902420</infon>
+      <infon key="article-id_doi">10.1186/1476-4598-9-165</infon>
+      <infon key="type">front</infon>
+      <infon key="lpage">165</infon>
+      <infon key="fpage">165</infon>
+      <infon key="volume">9</infon>
+      <infon key="license">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="name_10">surname:Fossey;given-names:Stacey L</infon>
+      <infon key="name_13">surname:Li;given-names:Pui-Kai</infon>
+      <infon key="name_14">surname:Lesinski;given-names:Gregory B</infon>
+      <infon key="name_11">surname:Young;given-names:Gregory S</infon>
+      <infon key="name_12">surname:Carson;given-names:William E;suffix:III</infon>
+      <infon key="name_9">surname:Hoyt;given-names:Dale G</infon>
+      <infon key="name_8">surname:Lin;given-names:Jiayuh</infon>
+      <infon key="name_7">surname:Abdelhamid;given-names:Dalia</infon>
+      <infon key="name_6">surname:Schwartz;given-names:Eric B</infon>
+      <infon key="name_5">surname:Benson;given-names:Don M;suffix:Jr</infon>
+      <infon key="name_4">surname:Bakan;given-names:Courtney</infon>
+      <offset>0</offset>
+      <text>The small molecule curcumin analog FLLL32 induces apoptosis in melanoma cells via STAT3 inhibition and retains the cellular response to cytokines with anti-tumor activity</text>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="19" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="35" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>171</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>182</offset>
+      <text>We characterized the biologic effects of a novel small molecule STAT3 pathway inhibitor that is derived from the natural product curcumin. We hypothesized this lead compound would specifically inhibit the STAT3 signaling pathway to induce apoptosis in melanoma cells.</text>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="311" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>450</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>458</offset>
+      <text>FLLL32 specifically reduced STAT3 phosphorylation at Tyr705 (pSTAT3) and induced apoptosis at micromolar amounts in human melanoma cell lines and primary melanoma cultures as determined by annexin V/propidium iodide staining and immunoblot analysis. FLLL32 treatment reduced expression of STAT3-target genes, induced caspase-dependent apoptosis, and reduced mitochondrial membrane potential. FLLL32 displayed specificity for STAT3 over other homologous STAT proteins. In contrast to other STAT3 pathway inhibitors (WP1066, JSI-124, Stattic), FLLL32 did not abrogate IFN-γ-induced pSTAT1 or downstream STAT1-mediated gene expression as determined by Real Time PCR. In addition, FLLL32 did not adversely affect the function or viability of immune cells from normal donors. In peripheral blood mononuclear cells (PBMCs), FLLL32 inhibited IL-6-induced pSTAT3 but did not reduce signaling in response to immunostimulatory cytokines (IFN-γ, IL 2). Treatment of PBMCs or natural killer (NK) cells with FLLL32 also did not decrease viability or granzyme b and IFN-γ production when cultured with K562 targets as compared to vehicle (DMSO).</text>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="458" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="511" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="657" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="708" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="850" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C519885</infon>
+        <location offset="973" length="6"/>
+        <text>WP1066</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038106</infon>
+        <location offset="981" length="7"/>
+        <text>JSI-124</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C517409</infon>
+        <location offset="990" length="7"/>
+        <text>Stattic</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="1000" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="1135" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="1276" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="1453" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="1583" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1602</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1614</offset>
+      <text>These data suggest that FLLL32 represents a lead compound that could serve as a platform for further optimization to develop improved STAT3 specific inhibitors for melanoma therapy.</text>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="1638" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1796</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1807</offset>
+      <text>Malignant melanoma is the most deadly form of skin cancer, and its incidence is rising faster than that of any other cancer. The prognosis for patients with metastatic disease is poor, and even the most effective therapies produce an overall response rate of only 10-15%. Therefore, novel approaches for treating this disease are urgently needed.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2154</offset>
+      <text>Activation of signal transducer and activator of transcription-3 (STAT3) in melanoma tumors is associated with poor prognosis [1-3]. This transcription factor can promote cell proliferation and angiogenesis, inhibit apoptosis, and drive invasion and metastasis [1-3]. Constitutive STAT3 phosphorylation is mediated by several upstream kinases (e.g. Jak2, Src) and is thought to be a key component of the oncogenic process [4,5]. Despite its necessity in early embryogenesis, STAT3 appears to be largely dispensable in most normal adult cell and tissue types [6,7]. These data suggest that STAT3 inhibition represents a rational approach to therapy for this disease.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2820</offset>
+      <text>Emerging data suggest that natural products may represent effective candidate molecules for drug discovery. Curcumin, 1,7-bis(4-hydroxy-3methoxyphenyl)-1,6-heptadien-3,5-dione, is one such candidate [8] based on its chemopreventative and therapeutic properties in experimental models including melanoma and its ability to inhibit a variety of targets including STAT3 [9-11]. Administration of curcumin has been shown to be safe in humans [12,13], however its clinical utility is somewhat limited due to the poor bioavailability and target selectivity. The lack of selectivity is due to the numerous molecular targets with which curcumin is known to interact. Therefore, efforts are underway by our group and others to design and synthesize novel curcumin analogs to focus its inhibitory activity toward the STAT3 pathway [14]. Indeed prior studies by our group have shown that despite its direct pro-apoptotic effects on human melanoma cells, curcumin inhibits the cellular response to clinically relevant cytokines [15]. These data suggest that structural analogs of curcumin which retain the ability to inhibit the STAT3 oncogenic signaling pathways while leaving the STAT1 tumor suppressor pathway, and immune effector function intact could be most useful for cancer therapy.</text>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="2928" length="8"/>
+        <text>Curcumin</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="2938" length="57"/>
+        <text>1,7-bis(4-hydroxy-3methoxyphenyl)-1,6-heptadien-3,5-dione</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="3213" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="3448" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="3566" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="3763" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="3888" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4099</offset>
+      <text>The molecular structure of curcumin indicates that the molecule exists in two distinct tautomeric forms: 1) a diketone form and 2) a keto-enol form, which each have unique properties relevant for drug design (Figure 1A). We developed a series of analogs based on curcumin in its diketone form which were predicted by computational modeling to interact with the SH2 domain of STAT3 [16] and inhibit STAT3 homodimerization (unpublished observations, Dr. Pui-Kai Li, The Ohio State University). One analog, termed FLLL32, was selected as a candidate for inhibition of the Jak2-STAT3 pathway (Figure 1A). This analog has previously been shown to inhibit the Jak2-STAT3 pathway and elicit anti-tumor activity against pancreatic and breast cancer cells [16].</text>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="4126" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="4209" length="8"/>
+        <text>diketone</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659,MESH:D000438</infon>
+        <location offset="4232" length="9"/>
+        <text>keto-enol</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="4362" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="4378" length="8"/>
+        <text>diketone</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="4610" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>4852</offset>
+      <text>The FLLL32 curcumin analog induced apoptosis in human melanoma cells. (A) The molecular structure of curcumin indicates that the molecule exists in two distinct tautomeric forms: 1) a diketone form and 2) a keto-enol form. FLLL32 was designed as a novel structural analog of curcumin that approximates a modified version of the molecule when locked into the keto-form. (B) Annexin V/PI staining of human metastatic melanoma cells following a 48 hour treatment with FLLL32. Error bars show 95% prediction limits based on the model fit at the estimated IC50 from two or more independent experiments. The non-responsive 1106 MEL and 1259 MEL cell lines were pSTAT3-negative. (C) Annexin V/PI staining of representative pSTAT3+ melanoma cells treated with either 20 μM curcumin or 2 μM FLLL32. Data are presented as the mean percentage of apoptotic cells. Error bars represent the standard deviation from at least two individual experiments. (D) Immunoblot analysis (left panel) or immunoprecipitation for total Jak2 protein (right panel; blot with Jak2 or pJak2 antibodies) of pSTAT3-positive A375 and Hs294T cells following 24 hour treatment. (E) FLLL32 treatment reduced pSTAT3, the STAT3-regulated gene, cyclin D1 and induced apoptosis in primary human cells derived from recurrent cutaneous melanoma tumors. These primary melanoma cell cultures have been previously described by our group [17]. Cells were treated for 48 hours with the indicated concentrations of FLLL32 or curcumin (20 mM) as a biologic control and analyzed by immunoblot. Membranes were probed with β actin as a loading control and all blots represent data from at least two independent experiments.</text>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="4856" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="4863" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="4953" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="5036" length="8"/>
+        <text>diketone</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659,MESH:D000438</infon>
+        <location offset="5059" length="9"/>
+        <text>keto-enol</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="5075" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="5127" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="5235" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="5317" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="5538" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="5617" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="5634" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="5997" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="6317" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="6327" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6527</offset>
+      <text>In the present report we have characterized the biologic activity of the FLLL32 curcumin analog on human melanoma and immune effector cells. Our data indicate that FLLL32 can inhibit STAT3 phosphorylation and promote caspase-dependent apoptosis of human melanoma cells at concentrations 10-fold lower than curcumin [15]. FLLL32 displayed a greater specificity for STAT3 than curcumin or other comparable inhibitors. This compound did appear to alter the activation of other structurally similar STAT proteins, as interferon-induced STAT1 signaling and gene expression were intact in the presence of FLLL32. Treatment of PBMCs with FLLL32 also eliminated basal and IL-6 induced pSTAT3. In contrast, FLLL32 did not adversely affect the response of PBMCs to stimulation with IFN-γ and IL 2 or the viability and cytotoxicity of NK cells. These data suggest that FLLL32 represents a promising lead compound that can be optimized further for development as a therapeutic agent in melanoma.</text>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="6600" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="6607" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="6691" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="6833" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="6848" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="6902" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="7126" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="7158" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="7225" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="7385" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7515</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7537</offset>
+      <text>Cell Culture and Reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7563</offset>
+      <text>A375, HT144 and Hs294T human melanoma, and the K562 leukemia cell lines were purchased from the American Type Culture Collection (ATCC, Manassas, VA) and 1106 MEL, 1259 MEL, MEL-39 and F01 human melanoma cell lines were provided by Dr. Soldano Ferrone (University of Pittsburgh, Pittsburgh, PA) and cultured as described [17]. Melanoma cell lines were authenticated via karyotype analysis in the Molecular Cytogenetics Core Laboratory of The Ohio State University. The radial growth phase WM 1552c and vertical growth phase WM 793b human melanoma cell lines were provided by Dr. M. Herlyn (Wistar Institute, Philadelphia, PA) and cultured as described [18]. Primary cultures from patients with recurrent cutaneous melanomas were cultured as previously described [17]. Tetramethylrhodamine ethyl ester perchlorate (TMRE) was purchased from Invitrogen (Carlsbad, CA). The pan-caspase inhibitor (Z VAD-FMK), control (Z-FA-FMK) and recombinant human IFN-γ were purchased from R &amp; D Systems, Inc. (Minneapolis, MN). Recombinant human interleukin-6 (IL 6) was purchased from Peprotech, Inc. (Rocky Hill, NJ). Recombinant human IL-2 (specific activity = 107 U/mg) was purchased from Hoffmann-La Roche Pharmaceuticals (Nutley, NJ). The JSI-124 and Stattic inhibitors were purchased from Calbiochem (Gibbstown, NJ). WP1066 was synthesized in the laboratory of Dr. P-K Li [19]. FLLL32 and curcumin were synthesized, purified and evaluated for purity as previously described [16,20,21].</text>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110932,MESH:D010472</infon>
+        <location offset="8331" length="44"/>
+        <text>Tetramethylrhodamine ethyl ester perchlorate</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110932,MESH:D010472</infon>
+        <location offset="8377" length="4"/>
+        <text>TMRE</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C096713</infon>
+        <location offset="8456" length="9"/>
+        <text>Z VAD-FMK</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C057383</infon>
+        <location offset="8477" length="8"/>
+        <text>Z-FA-FMK</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038106</infon>
+        <location offset="8791" length="7"/>
+        <text>JSI-124</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C517409</infon>
+        <location offset="8803" length="7"/>
+        <text>Stattic</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C519885</infon>
+        <location offset="8870" length="6"/>
+        <text>WP1066</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="8931" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="8942" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9043</offset>
+      <text>Peripheral Blood Mononuclear Cell Isolation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9087</offset>
+      <text>Peripheral blood mononuclear cells (PBMCs) were isolated from source leukocytes of healthy donors (American Red Cross, Columbus, OH) via density gradient centrifugation using Ficoll-Paque (Amersham, Pharmacia Biotech, Bjorkgatan, Sweeden) as described [22]. NK cells were enriched from source leukocytes by negative selection with Rosette Sep reagents (Stem Cell Technologies, Inc., Vancouver, British Columbia, Canada).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9508</offset>
+      <text>Immunoblot Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9528</offset>
+      <text>Lysates were prepared from melanoma cell lines or PBMCs and assayed for protein expression by immunoblot analysis as previously described with antibodies (Ab) to STAT1 (BD Biosciences), Survivin (Novus Biologicals, Littleton, CO), pSTAT1, STAT3, pSTAT3, pSTAT5, STAT5, pJAK2, JAK2, PARP, Cyclin D1, Caspase-3, Caspase-8, Caspase-9, phosphorylated and total Akt (pAkt), Src (pSrc), p38 MAPK (p-p38 MAPK), ERK (pERK) (Cell Signaling Technology, Danvers, MA), or β-actin (Sigma) [23]. Following incubation with the appropriate horseradish-peroxidase-conjugated secondary Ab, immune complexes were detected using the SuperSignal West Pico Chemiluminescent Substrate (Thermo Fisher Scientific).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10221</offset>
+      <text>Annexin V/Propidium Iodide Staining</text>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="10231" length="16"/>
+        <text>Propidium Iodide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10257</offset>
+      <text>Phosphatidyl serine exposure was assessed in tumor cells by flow cytometry using APC-Annexin V and propidium iodide (PI; BD Pharmingen, San Diego, CA) as described [23]. Analyses were performed utilizing at least 10,000 events.</text>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010718</infon>
+        <location offset="10257" length="19"/>
+        <text>Phosphatidyl serine</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="10356" length="16"/>
+        <text>propidium iodide</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="10374" length="2"/>
+        <text>PI</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10485</offset>
+      <text>STAT3 DNA binding assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10510</offset>
+      <text>STAT3 DNA binding was measured with the Pierce LightShift Chemiluminescent EMSA kit used according to manufacturer's instructions (Thermo Fisher Scientific Inc, Rockford, IL). Nuclear protein was collected using the NucBuster™ Protein Extraction kit (EMD Chemicals Inc, Gibbstown, NJ). Binding reactions using equal amounts of nuclear protein were incubated for 20 minutes at room temperature with DNA probes. A biotinylated STAT3 binding sequence in the human survivin promoter (sense 5'-GAGACTCAGTTTCAAATAAATAAATAAAC-3') was purchased from Operon Biotechnologies (Huntsville, AL). Reactions with biotinylated target DNA only and nuclear protein with biotinylated target DNA and excess unlabelled target DNA to compete for binding were included. STAT3 specificity was confirmed by incubation with 6μg of anti-STAT3 Ab (Santa Cruz Biotechnology Inc, Santa Cruz, CA) to interfere with the protein-DNA complex. Following electrophoresis, DNA was transferred to a nylon membrane, cross-linked and detected by chemiluminescence.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11538</offset>
+      <text>Flow Cytometric Assay of Mitochondrial Membrane Potential</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11596</offset>
+      <text>The mitochondrial membrane potential (ΔΨm) was assayed using 150 nM TMRE in regular medium at 37ºC for 15 minutes and by subsequent flow cytometric analysis as described [24].</text>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110932,MESH:D010472</infon>
+        <location offset="11664" length="4"/>
+        <text>TMRE</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11778</offset>
+      <text>Real Time PCR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11792</offset>
+      <text>Real-time PCR was used to evaluate the expression of the IFN-γ stimulated gene (IRF1) as described [25,26] with pre-designed primer/probe sets (Assays On Demand; Applied Biosystems, Foster City, CA) and 2X TaqMan Universal PCR Master Mix (Applied Biosystems) per manufacturer's recommendations. Primer/probe sets for 18s rRNA (Applied Biosystems) were used to normalize expression values (housekeeping gene). Data were acquired and analyzed using the ABI Prism 7900HT Sequence Detection System (Applied Biosystems).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12312</offset>
+      <text>ELISPOT Assay for Granzyme B and IFN-γ</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12355</offset>
+      <text>To measure granzyme B (GrB) and IFN-γ secretion, ELISPOT experiments were conducted using MultiScreen 96-well plates (Millipore, Bedford, MA) and biotinylated monoclonal anti-human GrB or IFN-γ detecting Ab (Mabtech) as described [27]. Freshly isolated NK cells (effectors) were incubated overnight in IL-2-containing media (1 nM) with either 5μM FLLL32 or DMSO. Effector cells were then co-incubated in triplicate with K562 cells as targets at an effector:target ratio of 10:1 for four hours. Targets and effectors cultured alone were used as controls. Spots were visualized and counted using the ImmunoSpot Imaging Analyzer (Cellular Technology Ltd, Cleveland, OH).</text>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="12702" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="12712" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13032</offset>
+      <text>Statistical Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13053</offset>
+      <text>The 4-parameter logistic or Hill model [28] was the assumed dose-response relationship for FLLL32 concentration and proportion of apoptotic cells. Nonlinear least squares regression was used to estimate the parameters. ELISPOT data were compared between groups using a two-sample t-test. All analyses were performed in Statistical Analysis System (version 9.2; SAS Institute). P-values were considered significant at the 0.05 level and all tests were two-sided.</text>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="13144" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13515</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13523</offset>
+      <text>FLLL32 induces apoptosis in human melanoma cell lines</text>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="13523" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13577</offset>
+      <text>The pro-apoptotic effects of FLLL32 (Figure 1A) were examined by flow cytometry following Annexin V/PI staining of a panel of metastatic human melanoma cell lines with basal STAT3 phosphorylation (A375, Hs294T, FO1, HT144, MEL-39) and the pSTAT3 negative 1106 MEL and 1259 MEL cell lines [17]. Dose-response studies revealed consistent induction of apoptosis in pSTAT3-positive metastatic human melanoma cell lines following a 48 hour treatment with FLLL32 as compared to DMSO (vehicle) treated cells (Figure 1B). The pSTAT3-positive A375 cell line was particularly sensitive to the pro-apoptotic effects of FLLL32 (IC50 = 1.3μM at 48 hours). Similar data were obtained in multiple pSTAT3 positive human melanoma cell lines (IC50 range = 1.9 -- 2.8 at 48 hours). The pSTAT3 negative 1106 MEL and 1259 MEL cell lines were poorly sensitive to FLLL32 (Figure 1B). FLLL32 was more potent than curcumin at inducing apoptosis (Figure 1C). Consistent with prior studies from our group, a 10-fold greater concentration of curcumin was required to achieve the same degree of apoptosis at the 48 hour time point [15]. FLLL32-induced apoptosis was also confirmed in pSTAT3+ human melanoma cell lines derived from other disease phenotypes, including the WM 1552c radial growth phase and WM 793b vertical growth phase lines following treatment with FLLL32 (data not shown).</text>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="13606" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="13677" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14027" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="14049" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14185" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14418" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14438" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="14466" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="14591" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14685" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14913" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14939</offset>
+      <text>FLLL32 inhibits STAT3 phosphorylation and gene expression in human melanoma cell lines</text>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="14939" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15026</offset>
+      <text>FLLL32 inhibited STAT3 phosphorylation at Tyr705 but not at Tyr727 in multiple human melanoma cell lines after a 24 hour treatment (Figure 1D). Prior studies indicated FLLL32 could inhibit Jak2 kinase activity in an in vitro cell-free assay [16]. However, we did not observe an appreciable alteration in Jak2 phosphorylation even at a concentration of 8 μM, suggesting that this compound likely acted directly against the STAT3 protein (Figure 1D). Time course studies also revealed that fulminant cell death occurred after 24 hours of continuous culture, yet exposure to FLLL32 at 2 - 4 μM for only 4 hours was sufficient to reduce pSTAT3 and induce cell death (Additional File 1: Figure S1A-B). FLLL32 did not appear to inhibit the phosphorylation of other key signaling pathways that are constitutively active in malignant cells (e.g. Src, Akt) at doses capable of inhibiting STAT3 phosphorylation after 24 hours. Consistent with reciprocal activation of the p38 MAPK and STAT3 pathways [29], FLLL32 treatment led to increased levels of total p38 MAPK protein once pSTAT3 decreased (Figure 1D). Importantly, FLLL32 was capable of reducing pSTAT3 levels, cyclin D1 expression and inducing apoptosis in primary human melanoma cell cultures derived from recurrent cutaneous melanoma tumors [17] (Figure 1E). Finally, treatment of basal pSTAT3-positive human melanoma cell lines with FLLL32 for 24 hours led to reduced STAT3 DNA binding as determined by gel shift assays and expression of the STAT3-regulated genes, cyclin D1 and survivin as measured by immunoblot (Figure 2A-B).</text>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="15026" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="15068" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="15086" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="15194" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="15598" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="15723" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="16022" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="16137" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="16409" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16607</offset>
+      <text>FLLL32 reduced STAT3 DNA binding and gene expression. (A) STAT3 DNA binding was measured in A375 cells following a 16 hour treatment with FLLL32 (2 μM or 4 μM) as described in the Methods section. Unlabeled target DNA were included to compete for binding as indicated, and a STAT3 specific Ab was used to were included confirm specificity (last lane). Cell lysates were evaluated concurrently by immunoblot to control for total level of STAT3 protein at the 16 hour time point. (B) FLLL32 reduced STAT3-regulated gene expression. Expression of STAT3-regulated genes cyclin D1 and survivin were evaluated following a 24 hour treatment with FLLL32 in melanoma cell lines. Membranes were probed with β actin as a loading control and all blots represent data from at least two independent experiments.</text>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="16607" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="16745" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="17089" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="17246" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17410</offset>
+      <text>FLLL32 induced cell death is caspase-dependent</text>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="17410" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17457</offset>
+      <text>The mechanism by which FLLL32 induces apoptosis was subsequently investigated in the A375 melanoma cell line. Immunoblot analysis demonstrated a concentration-dependent increase in the processing of both initiator (caspase-8 and caspase-9) and effector caspases (caspase-3) following a 24 hour treatment with FLLL32 (Figure 3A). Treatment of with FLLL32 also resulted in a concentration-dependent loss of mitochondrial membrane potential as measured by flow cytometry (Figure 3B). These data support the involvement of the mitochondrial amplification loop in promoting cell death in response to this treatment. Apoptosis was caspase-dependent, as culture with a pan-caspase inhibitor (Z-VAD-FMK) inhibited melanoma cell death as compared to culture with the Z-FA-FMK control compound (Figure 3C and Additional File 1: Figure S2). These data were confirmed at the 48 hour time point by flow cytometry following annexin V/PI staining, and by reduced PARP cleavage by immunoblot analysis (Figure 3C-D). Interestingly, reduced levels of pSTAT3 and cyclin D1 occurred following treatment of A375 cells with FLLL32 in the presence of the pan-caspase inhibitor (Figure 3D). These data are consistent with a mechanism that places reduced pSTAT3 and its cellular targets upstream of the caspase cascade and subsequent apoptosis.</text>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="17480" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="17766" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="17804" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C096713</infon>
+        <location offset="18142" length="9"/>
+        <text>Z-VAD-FMK</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C057383</infon>
+        <location offset="18215" length="8"/>
+        <text>Z-FA-FMK</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="18377" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="18559" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18777</offset>
+      <text>FLLL32 induced caspase-dependent apoptosis and loss of mitochondrial membrane potential. (A) Processing of caspase proteins was measured by immunoblot following a 24 hour treatment of A375 cells with FLLL32. The molecular weight of each pro-caspase and their active forms are listed on each blot in kilodaltons (kDa). Data shown are representative of at least two independent experiments. (B) A375 cells were treated for 24 hours with FLLL32 and stained with 150 nM TMRE to assay loss of mitochondrial membrane potential (ΔΨm) by flow cytometry. Voltage was set using unstained cells (M1). The percentage of cells with reduced ΔΨm is denoted above each histogram. Data are representative of three or more independent experiments. Flow cytometric analysis of annexin V/PI staining following a 48 hour treatment of (C) A375 cells with FLLL32 in the presence of the Z VAD-FMK pan-caspase inhibitor or the Z-FA-FMK control compound. Inhibitors were used at 50μM and the percentage of cells in each quadrant are shown. (D) Immunoblot analysis of A375 cells following a 48 hour treatment with FLLL32 cultured in the presence of the Z-VAD-FMK pan caspase inhibitor (+) or the Z FA FMK control compound (-). Data shown are representative of two separate experiments with the A375 cell line and were also reproducible in the Hs294T cell line (Additional File 1: Figure S2).</text>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="18777" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="18977" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="19212" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="2X203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C110932,MESH:D010472</infon>
+        <location offset="19243" length="4"/>
+        <text>TMRE</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="19545" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="19610" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C096713</infon>
+        <location offset="19640" length="9"/>
+        <text>Z VAD-FMK</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C057383</infon>
+        <location offset="19679" length="8"/>
+        <text>Z-FA-FMK</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="19864" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C096713</infon>
+        <location offset="19903" length="9"/>
+        <text>Z-VAD-FMK</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20155</offset>
+      <text>IFN-γ induced STAT1 signaling and gene expression are not inhibited by FLLL32</text>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="20226" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20237</offset>
+      <text>Since many cytokines act via homologous STAT proteins (e.g. STAT1), it was imperative to test whether FLLL32 had deleterious effects on the action of cytokines that might promote an anti-tumor response. Of concern were the effects of FLLL32 on signal transduction in response to IFN γ, a cytokine that mediates its cellular effects via phosphorylation of STAT1, and a resulting STAT1-STAT1 homodimer [25]. To test these interactions in a biologic system, we investigated the effects of FLLL32 or curcumin pre-treatment on IFN-γ-induced signaling and gene expression. Pre treatment of pSTAT3 positive A375 and Hs294T cells with FLLL32 or curcumin led to reduced pSTAT3 versus DMSO-treated cells. However, in contrast to curcumin, FLLL32 did not adversely affect IFN-γ-induced pSTAT1 (Figure 4A and Additional File 1: Figure S3). A unique advantage of FLLL32 versus other STAT3 pathway inhibitors was its apparent specificity. Despite a similar degree of cytotoxicity and the ability to reduce basal pSTAT3 in human melanoma cells (Additional File 1: Figure S4), the WP1066, JSI-124, and Stattic compounds also inhibited IFN-γ-induced STAT1 phosphorylation (Figure 4B). Pre-treatment with FLLL32 also enhanced transcription of the pro-apoptotic interferon-regulatory factor-1 (IRF1) gene in response to IFN-γ stimulation as determined by Real Time PCR (Figure 4C). This IFN-γ responsive gene has been shown to be transcribed via STAT1-STAT1 homodimers binding to a gamma-activated sequence (GAS) element [25]. Consistent with our prior studies [15], IFN-γ stimulated IRF1 transcription was reduced in all cells pre-treated with curcumin (Figure 4C). The induction of IRF1 was not enhanced in the pSTAT3 negative 1106 MEL cell line (Figure 4C), suggesting that cross-reactivity of FLLL32 with STAT1 was negligible, and that IFN-γ driven gene transcription can be augmented via STAT3 inhibition. These data indicated that IFN-γ-induced signal transduction and gene expression were not reduced by FLLL32 and that its inhibitory actions were specific for STAT3 and not other homologous STAT proteins that function as tumor suppressors (e.g. STAT1) [30-33].</text>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="20339" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="20471" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="20723" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="20733" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="20864" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="20874" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="20912" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="20956" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="20966" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="21087" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C519885</infon>
+        <location offset="21302" length="6"/>
+        <text>WP1066</text>
+      </annotation>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038106</infon>
+        <location offset="21310" length="7"/>
+        <text>JSI-124</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C517409</infon>
+        <location offset="21323" length="7"/>
+        <text>Stattic</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="21424" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="21863" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="22015" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="22229" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22424</offset>
+      <text>IFN-γ-induced signal transduction was not adversely affected by FLLL32. (A) A375 cells were pre-treated for 16 hours with FLLL32 (2 -- 14 μM) or curcumin (20 μM) and subsequently treated with IFN-γ (10 ng/mL) for 15 minutes. IFN-γ-induced pSTAT1 and pSTAT3 were evaluated by immunoblot. Total STAT1, STAT3 and β-actin were also measured to control for loading. The data were also summarized by densitometry comparing relative expression of pSTAT1 to STAT1 and pSTAT3 to STAT3. (B) The same experiment was performed whereby A375 cells were pre-treated for 16 hours with other Jak2/STAT3 pathway inhibitors (WP1066, JSI-124, Stattic) prior to IFN-γ stimulation. Data shown are representative of two separate experiments and similar results were obtained in the Hs294T human melanoma cell line (Additional File 1: Figure S3). (C) IFN-γ-induced gene expression was enhanced in the presence of FLLL32. A375, Hs294T or 1106 MEL cells were pre-treated for 1 hour with 2μM FLLL32, 20μM curcumin or DMSO (negative control), and subsequently stimulated with IFN-γ (10 ng/mL) or PBS (vehicle) for an additional 4 hours. Expression of IRF1 was evaluated by Real Time PCR. Data were normalized to 18s rRNA levels (housekeeping gene) and expressed as the mean fold change versus DMSO-pre-treated cells stimulated with PBS. Error bars represent the standard deviation from n = 2 independent experiments.</text>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="22488" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="22546" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="22569" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C519885</infon>
+        <location offset="23030" length="6"/>
+        <text>WP1066</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C038106</infon>
+        <location offset="23038" length="7"/>
+        <text>JSI-124</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C517409</infon>
+        <location offset="23047" length="7"/>
+        <text>Stattic</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="23313" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="23389" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="23402" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="23414" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="23492" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="23689" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="23728" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23844</offset>
+      <text>Effects of FLLL32 on immune effector cells</text>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="23855" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23887</offset>
+      <text>STAT3 function in immune cells can promote tolerance to developing or established tumors. We therefore evaluated whether FLLL32 would affect the responsiveness of PBMCs to stimulation with clinically relevant cytokines that mediate tumor progression (IL 6), immunosurveillance (IFN-γ) or T and NK cell survival (IL 2) [34-36]. Pre treatment with increasing doses of FLLL32 reduced basal pSTAT3 in PBMCs from healthy donors and led to reduced IL-6-induced pSTAT3 in PBMCs (Figure 5A). FLLL32 pre-treatment also did not adversely affect the level of IFN-γ-induced pSTAT1 or IRF1 gene expression in PBMC (Figure 5B-C). The level of IL 2-induced pSTAT5 also was not altered by FLLL32 pre-treatment (Figure 5D). The FLLL32 compound did not decrease viability of PBMCs after a 24 hour treatment as compared to treatment with DMSO alone as determined by Annexin V/PI staining or PARP cleavage (Figure 6A-B). Similarly, NK cell viability from healthy donors cultured with IL-2 (1 nM) was not reduced following a 24 hour treatment with FLLL32 as compared to treatment with DMSO (Figure 6C). In addition, the production of granzyme b and IFN-γ by NK cells from normal donors when cultured with the K562 target cell line was not adversely affected in the presence of FLLL32 (Figure 6D). The mean difference (FLLL32 - DMSO) for granzyme b was 41.0 spots/well (95% CI: -79.0 to 161.0) and 65 spots/well for IFN-γ (95% CI: -146.0 to 277.9).</text>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="24008" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="24253" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="24371" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="24560" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="24598" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="24706" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="24744" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="24914" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="24951" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="25143" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="25184" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="25193" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>25330</offset>
+      <text>FLLL32 inhibited IL 6 signaling but did not modulate IFN-γ or IL 2 induced signaling in PBMCs. PBMCs from healthy donors were pre-treated for 16 hours with FLLL32 and subsequently treated with (A) IL 6 (0.1 ng/mL) or (B) IFN-γ (10 ng/mL) for 15 minutes. pSTAT3 and pSTAT1 were evaluated by immunoblot analysis. (C) The expression of the IFN-γ-stimulated gene, IRF1 was evaluated by Real Time PCR following a 1 hour pre-treatment with FLLL32 and subsequently stimulated with IFN-γ (10 ng/mL) or PBS for an additional 4 hours. Real Time PCR data were expressed as fold change versus DMSO-pre-treated cells stimulated with PBS. Data were normalized to 18s rRNA levels. (D) PBMCs were pre-treated for 16 hours and subsequently treated with 8 nM IL 2 for 15 minutes. IL 2-induced pSTAT5 was evaluated by immunoblot analysis. All data are representative of PBMCs from two separate healthy donors.</text>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="25330" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="25486" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="25764" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="25824" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="25911" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="25950" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>26237</offset>
+      <text>FLLL32 did not adversely affect viability of immune cells or NK cell function. Viability of normal donor PBMCs treated with FLLL32, curcumin (Cur; 20μM) or DMSO was assessed by (A) flow cytometric analysis following annexin V/PI staining and (B) by immunoblot analysis. (C) Viability of normal donor NK cells as measured by trypan blue staining after 24 hours in the presence of IL-2 (1 nM) and either FLLL32 (5μM) or DMSO. Data are presented as the mean percentage of viable NK cells and error bars represent the standard deviation from n = 3 individual donors. (D) NK cell mediated Gzmb and IFN μ secretion was not altered in the presence of FLLL32 (5μM) as measured by ELISPOT against K562 targets (10:1 E:T ratio). Data are presented as the mean number of Gzmb or IFN-γ spots and error bars represent the standard deviation from n = 3 individual donors.</text>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="26237" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="26361" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="26369" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="26379" length="3"/>
+        <text>Cur</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="26393" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011419</infon>
+        <location offset="26463" length="2"/>
+        <text>PI</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014343</infon>
+        <location offset="26561" length="11"/>
+        <text>trypan blue</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="26639" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="26655" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="26881" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27103</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27114</offset>
+      <text>We have characterized the biologic activity of the curcumin analog, FLLL32 on melanoma and immune effector cells. The present study has demonstrated that the FLLL32 small molecule can inhibit STAT3 signal transduction and induce caspase-dependent, pro-apoptotic effects against human melanoma cell lines and primary melanoma cultures at micromolar concentrations. In contrast to curcumin and other STAT3 pathway inhibitors, IFN-γ-induced STAT1 phosphorylation was not altered in the presence of FLLL32. This compound did not inhibit the viability of PBMCs, NK cells or their cellular responsiveness to clinically relevant cytokines. These data show that FLLL32 represents a novel small molecule curcumin analog with STAT3 pathway specificity that will be considered as a lead compound for further drug development in melanoma.</text>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="27165" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="27182" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="27272" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="27493" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="27609" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="27768" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="27809" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27945</offset>
+      <text>FLLL32 represents a structural analog of curcumin when locked into its diketone tautomeric form. A number of favorable biologic properties resulting from these modifications have been characterized in this study. First, FLLL32 was ten-fold more potent than curcumin at inducing apoptosis of melanoma cells [15]. Second, FLLL32 did not appear to have toxic effects on either normal PBMCs or NK cells. Third, FLLL32 was designed to specifically target the oncogenic STAT3 pathway, while leaving the STAT1 pathway intact. Data from the present report indicate that in terms of in vitro specificity, FLLL32 was superior to other STAT3 pathway inhibitors or to curcumin. In fact, prior studies from our group have demonstrated that curcumin inhibited the phosphorylation of numerous STAT proteins in response to clinically relevant cytokines including IFN-γ (STAT1), IFN-γ (STAT1) and IL 2 (STAT5) [15]. These inhibitory effects of curcumin were observed in both melanoma cell lines and in PBMCs from healthy donors. As a result, design of the FLLL32 analog was focused on maximizing the target specificity for STAT3 over other STAT proteins. The present data support the STAT3 specificity of the FLLL32 lead compound, although they do not conclusively exclude that FLLL32 could modulate the phosphorylation of other unidentified kinases.</text>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="27945" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="27986" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="28016" length="8"/>
+        <text>diketone</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="28165" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="28202" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="28265" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="28352" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="28541" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="28601" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="28672" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="28872" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="28984" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="29137" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="29206" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29287</offset>
+      <text>Numerous early generation small molecule STAT3 inhibitors (e.g. Stattic, STA-21, LLL12, S32 M2001, S3I-201) have been reported to induce apoptosis via inhibition of STAT3 activation and/or dimerization [33,37], while siRNA specific for the SH2 coding region of STAT3 could induce apoptosis in prostate cancer cells in vitro and in nude mice bearing human xenograft tumors [32]. Finally, studies have also shown that platinum complexes can promote anti-tumor activity by virtue of their ability to inhibit STAT3 [38]. Collectively, these studies provide precedent for targeting STAT3 as a means of inducing tumor cell apoptosis. However, the specificity of many existing inhibitory strategies for STAT3 and not other STAT proteins (e.g. STAT1) or oncogenic pathways has not been validated in biological systems. An attractive aspect of FLLL32 was its specificity and activity at micromolar concentrations. Data from the present study suggest that FLLL32 represents a unique molecule that can be optimized further for inhibition of the STAT3 pathway.</text>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C517409</infon>
+        <location offset="29351" length="7"/>
+        <text>Stattic</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C500947</infon>
+        <location offset="29360" length="6"/>
+        <text>STA-21</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C549232</infon>
+        <location offset="29368" length="5"/>
+        <text>LLL12</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="29375" length="9"/>
+        <text>S32 M2001</text>
+      </annotation>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C520337</infon>
+        <location offset="29386" length="7"/>
+        <text>S3I-201</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010984</infon>
+        <location offset="29703" length="8"/>
+        <text>platinum</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="30122" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="30233" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30336</offset>
+      <text>STAT3 can promote immune tolerance in the setting of cancer and thus represents an attractive target to enhance immunotherapy (Reviewed in [39]). Recent studies from our group and others have demonstrated that the presence of constitutively active STAT3 in melanoma cells is correlated with reduced responsiveness to cytokines which act via STAT1 signal transduction [17]. These data suggest that the balance between pSTAT1 and pSTAT3 may influence cellular responsiveness to immunostimulatory cytokines and ultimately immune-mediated tumor regression [17,40]. Data from this report also shows that FLLL32 inhibited IL-6 induced STAT3 phosphorylation within PBMCs. Of note, elevated levels of IL 6 are associated with poor prognosis in melanoma, and contribute to the generation of immunosuppressive lymphoid cell populations [41]. Finally, our studies indicate that FLLL32-mediated inhibition of STAT3 does not alter production of granzyme b or IFN γ by NK cells from normal donors when cultured with K562 targets, or their viability when cultured with IL-2. These properties are of importance based on recent murine studies showing the Jak2 inhibitor WP1193 can augment immunotherapy with IFN-α [42], and STAT3 siRNA-CpG oligodeoxynucleotides can elicit anti-tumor immune responses [43]. Together these data suggest that STAT3 pathway inhibition could be investigated further as a potential means by which to overcome immune tolerance and augment responsiveness to standard or experimental immune-based therapies.</text>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="30935" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="31203" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C551527</infon>
+        <location offset="31489" length="6"/>
+        <text>WP1193</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31860</offset>
+      <text>Despite its improved STAT3 specificity, the FLLL32 analog retains some structural properties of its parent compound, curcumin which as expected, limit its solubility and bioavailability (data not shown). Therefore, our group is pursuing additional structural modifications or formulation approaches to further improve upon the bioavailability of this small molecule, in light of its potent and specific in vitro activity. The present results provide evidence that the FLLL32 curcumin analog represents a promising lead compound on which to base the further development of STAT3-specific inhibitors against melanoma. The ability of FLLL32 to specifically inhibit the STAT3 pathway while retaining the cellular response to cytokines with anti-tumor activity is a particular advantage that will be optimized in future pre-clinical studies.</text>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="31904" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="31977" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="32328" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="32335" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548902</infon>
+        <location offset="32491" length="6"/>
+        <text>FLLL32</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>32697</offset>
+      <text>Competing interests</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32717</offset>
+      <text>JRF, CL, JL, and PK are listed as inventors on a full patent that has been filed.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>32799</offset>
+      <text>Authors' contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32822</offset>
+      <text>Study concept and design: JRF, CL, JL, PL, GBL; Acquisition of data: MAB, JY, CB, DB, SLF, GBL; Analysis and Interpretation of Data: MAB, JY, CB, DB, SLF, PL, GBL; drafting of the manuscript: GY, GBL; statistical analysis: GY; obtained funding: JRF, DB, WEC, GBL; technical and material support JRF, CL, EBS, DA, JL, DGH. All authors have read and approved the final manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>33201</offset>
+      <text>Supplementary Material</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>33224</offset>
+      <text>Acknowledgements</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33241</offset>
+      <text>This work was supported by NIH Grants K22CA134551 (Lesinski), 1R21CA141434-01A1 (Lesinski), P01CA95426 (Caligiuri), P30CA16058 (Caligiuri), CA84402, K24CA93670 (Carson); The Valvano Foundation for Cancer Research (Lesinski), and Grant # IRG-67-003-44 from the American Cancer Society (Benson and Fuchs). The project described was supported by Award Number UL1RR025755 from the National Center for Research Resources, funded by the Office of the Director, National Institutes of Health (OD) and supported by the NIH Roadmap for Medical Research. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Center for Research Resources or the National Institutes of Health. We also thank the OSU CCC Analytical Cytometry, Nucleic Acid, Molecular Cytogenetics, Pharmacoanalytical and Biostatistics Shared Resources. We also thank Dr. Mitch Phelps, Dr. Cheryl London and Dr. Samuel Kulp for their guidance associated with this project.</text>
+    </passage>
+  </document>
+</collection>

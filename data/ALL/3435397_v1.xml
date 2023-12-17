@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180331</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3435397</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Luan;given-names:Weisha</infon>
+      <infon key="name_2">surname:Patterson;given-names:Andrea R.</infon>
+      <infon key="name_1">surname:Chen;given-names:Chao-Sheng</infon>
+      <infon key="name_0">surname:Bayfield;given-names:Oliver W.</infon>
+      <infon key="article-id_pmid">22970197</infon>
+      <infon key="issue">9</infon>
+      <infon key="year">2012</infon>
+      <infon key="article-id_publisher-id">PONE-D-12-13892</infon>
+      <infon key="article-id_pmc">3435397</infon>
+      <infon key="alt-title">Oligomeric State and Thermostability</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1371/journal.pone.0044309</infon>
+      <infon key="elocation-id">e44309</infon>
+      <infon key="volume">7</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</infon>
+      <infon key="name_7">surname:Korolev;given-names:Sergey</infon>
+      <infon key="name_6">surname:Antson;given-names:Alfred A.</infon>
+      <infon key="name_5">surname:Gollnick;given-names:Paul</infon>
+      <infon key="name_4">surname:Smits;given-names:Callum</infon>
+      <offset>0</offset>
+      <text> Trp RNA-Binding Attenuation Protein: Modifying Symmetry and Stability of a Circular Oligomer</text>
+      <annotation id="gy0">
+        <infon key="type">OTHER</infon>
+        <location offset="1" length="35"/>
+        <text>Trp RNA-Binding Attenuation Protein</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>94</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>Subunit number is amongst the most important structural parameters that determine size, symmetry and geometry of a circular protein oligomer. The L-tryptophan biosynthesis regulator, TRAP, present in several Bacilli, is a good model system for investigating determinants of the oligomeric state. A short segment of C-terminal residues defines whether TRAP forms an 11-mer or 12-mer assembly. To understand which oligomeric state is more stable, we examine the stability of several wild type and mutant TRAP proteins.</text>
+      <annotation id="gy2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="251" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>622</offset>
+      <text>Methodology/Principal Findings</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>653</offset>
+      <text>Among the wild type B. stearothermophilus, B. halodurans and B. subtilis TRAP, we find that the former is the most stable whilst the latter is the least. Thermal stability of all TRAP is shown to increase with L-tryptophan concentration. We also find that mutant TRAP molecules that are truncated at the C-terminus - and hence induced to form 12-mers, distinct from their 11-mer wild type counterparts - have increased melting temperatures. We show that the same effect can be achieved by a point mutation S72N at a subunit interface, which leads to exclusion of C-terminal residues from the interface. Our findings are supported by dye-based scanning fluorimetry, CD spectroscopy, and by crystal structure and mass spectrometry analysis of the B. subtilis S72N TRAP.</text>
+      <annotation id="gy4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="863" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1421</offset>
+      <text>Conclusions/Significance</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1446</offset>
+      <text>We conclude that the oligomeric state of a circular protein can be changed by introducing a point mutation at a subunit interface. Exclusion (or deletion) of the C-terminus from the subunit interface has a major impact on properties of TRAP oligomers, making them more stable, and we argue that the cause of these changes is the altered oligomeric state. The more stable TRAP oligomers could be used in potential applications of TRAP in bionanotechnology.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1902</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1915</offset>
+      <text>Cyclic protein oligomers pose promise as the basis for engineering molecular machines, including those that operate by rotation of one or more components about a principal axis. Their suitability, owing to their unique geometry, is evident by their frequent occurrence in key bio-mechanical and regulatory roles. Examples include circular protein oligomers found in flagellar motors , the ATP synthase  and the molecular motor of tailed bacteriophages which translocate DNA into the capsid during viral particle assembly –. The stoichiometry of the MS-ring and C-ring in flagellar motors are variable . Likewise, the central component of the bacteriophage DNA-translocating motor can also exist in different oligomeric states . This demonstrates a general problem associated with instability of circular oligomers and variation in their oligomeric states when they are extracted from their natural environment. Engineering stable molecular devices of suitable size, geometry, and hence subunit number is of interest for applications in molecular biology and medicine. For example, applications of viral DNA-translocating devices in the transfer of genetic information across biological membranes are attractive. Recent studies aimed at the incorporation of a portal protein into lipid bilayers look particularly promising .</text>
+      <annotation id="gy8">
+        <infon key="type">OTHER</infon>
+        <location offset="2304" length="12"/>
+        <text>ATP synthase</text>
+      </annotation>
+      <annotation id="gy7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="3194" length="5"/>
+        <text>lipid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3241</offset>
+      <text>The tryptophan RNA-binding attenuation protein, TRAP, possesses similar geometric features to other circular assemblies, being assembled of multiple subunits and containing a central tunnel. Typically composed of 11 or 12 identical subunits, with a molecular weight of 90.6 to 101.9 kDa , , TRAP regulates L-tryptophan biosynthesis genes by attenuation in many Bacilli . When activated by increased levels of L-tryptophan – bound to receptor sites nestled between adjacent subunits – TRAP binds single stranded RNA at the leader region of the trpEDCFBA operon transcript. This modulates terminator hairpin formation and so downregulates L-tryptophan biosynthesis . In this study TRAP is employed as a model for investigating the influences of oligomeric state and stability of such assemblies. To date TRAP has already alluded to its value in bionanotechnology, showing that mutations to residues protruding into the central cavity allow gold nanoparticle binding . Nanotubes consisting of stacked TRAP rings linked by disulfide bonds have also been shown to self-assemble, in response to the introduction of cysteine residues on the ring-faces orthogonal to the principal axis .</text>
+      <annotation id="gy20">
+        <infon key="type">OTHER</infon>
+        <location offset="3245" length="42"/>
+        <text>tryptophan RNA-binding attenuation protein</text>
+      </annotation>
+      <annotation id="gy14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="3547" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="3650" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="3878" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006046</infon>
+        <location offset="4179" length="4"/>
+        <text>gold</text>
+      </annotation>
+      <annotation id="gy9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004220</infon>
+        <location offset="4260" length="9"/>
+        <text>disulfide</text>
+      </annotation>
+      <annotation id="gy15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="4350" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4425</offset>
+      <text>TRAP oligomers have previously been reported to be highly thermostable . Predictably, we find that the melting temperature is highest in the case of TRAP from B. stearothermohphilus, a hyperthermophile. The presence of L-tryptophan – and hence the bound holo-TRAP state – has been associated with a greater structural rigidity and integrity . Prior to the recent determination of the B. stearothermophilus apo-TRAP crystal structure  TRAP was crystallized in the presence of L-tryptophan , . We find that L-tryptophan binds with a Kd in the 2.8 µM to 6.9 µM range, with small variation between TRAP from different species. We explore how the presence of L-tryptophan and its’ binding affects thermal stability in the context of the three wild type and three mutant TRAP molecules. We also explore the influence of the oligomeric state on thermal stability by comparing wild type 11-subunit and mutant 12-subunit molecules from the same species. Finally, we show how the 11-subunit to 12-subunit switch could be induced by the point mutation S72N. The analysis includes crystal structure and native mass spectrometry data on B. subtilis S72N TRAP. We find that the increase in subunit number increases the stability of the assembly.</text>
+      <annotation id="gy26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4644" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4900" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4930" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="5079" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5665</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5673</offset>
+      <text>Crystal Structure and Native Mass Spectrometry of B. subtilis S72N TRAP</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5745</offset>
+      <text>We previously demonstrated the importance of the C-terminus in oligomer formation during B. subtilis TRAP assembly . However, this work required deletion of the C-terminus to increase the subunit stoichiometry and we questioned if a more subtle mutation at the C-terminus could induce formation of a 12-subunit assembly. Based on the previous structural work, we chose the S72N mutation because we expected that the bulky side chain at this position would result in the exclusion of N72 and following C-terminal residues from the subunit interface. The crystal structure of B. subtilis S72N TRAP, determined at 2.7 Å, reveals a circular 12-mer assembly ( Figure 1 ), which is similar to previously reported crystal structures of TRAP. In the crystal the 12 subunit assembly is generated by combination of six TRAP subunits, present in the asymmetric unit, with the crystallographic 2-fold axis of the P21212 space group ( Table 1 ). The final electron density maps allowed positioning of all residues, with the exception of the four N-terminal residues and the five C-terminal residues of most subunits, for which no clear electron density has been observed, indicating their flexibility. The structure of the S72N TRAP was compared against the wild type TRAP ( Figure 2A ), which highlighted change in the conformation of the C-terminus in the mutant protein, starting from position 69. The weighted Fo – Fc omit electron density maps for residues E69 and M70 ( Figure 2B ) demonstrate the absence of interpretable electron density beyond position 70 in all chains, indicating that five C-terminal residues are disordered. The crystal structure compares well with our predictions on the effect of the point mutation, in inducing the removal of the C-terminus from the subunit interface through steric hindrance, thus facilitating rigid-body rotations of subunits for the accommodation of one additional subunit into the ring.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0044309.g001.jpg</infon>
+      <infon key="id">pone-0044309-g001</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>7675</offset>
+      <text>Ribbon diagram of the B. subtilis S72N TRAP viewed along the 12-fold axis.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0044309.g001.jpg</infon>
+      <infon key="id">pone-0044309-g001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>7750</offset>
+      <text>Each subunit is shown in a different colour. L-tryptophan molecules are shown as van der Waals models with oxygen atoms in red, nitrogen atoms in blue and carbon atoms in yellow.</text>
+      <annotation id="gy37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="7795" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="7857" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="gy34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="7878" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="gy36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="7905" length="6"/>
+        <text>carbon</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>7929</offset>
+      <text>Values in parentheses are for the highest resolution shell.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>7989</offset>
+      <text> Rmerge  =  ∑hkl∑i|Ii(h) - &lt;I(h)&gt;|/∑hkl∑i Ii(h), where I(h) is intensity of reflection h, &lt;I(h)&gt; is average value of intensity, the sum ∑hkl is over all measured reflections and the sum ∑i is over i measurements of a reflection.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>8234</offset>
+      <text>Crystallographic R  =  ∑hkl||Fobs - Fcalc||/∑hkl|Fobs|, Rfree was calculated using a randomly chosen set of reflections that were excluded from the refinement.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone-0044309-t001.xml</infon>
+      <infon key="id">pone-0044309-t001</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>8402</offset>
+      <text>Data collection and refinement statistics for B. subtilis S72N TRAP.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8471</offset>
+      <text>To understand if the 12-mer state of the S72N TRAP observed in the X-ray structure, predominates in solution, we analyzed this protein by native mass spectrometry (Text S1). The 12-mer state was identified as the dominant species in the mass spectra (Figure S1), as opposed to the wild type protein which forms 11-mers .</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0044309.g002.jpg</infon>
+      <infon key="id">pone-0044309-g002</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>8792</offset>
+      <text>Structural differences between 11-subunit and 12-subunit TRAP.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0044309.g002.jpg</infon>
+      <infon key="id">pone-0044309-g002</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>8855</offset>
+      <text>(A) Comparison of the B. subtilis wild type (red) and S72N mutant TRAP (blue). Two neighboring subunits were least-square fitted using main chain atoms of the subunit on the left. The C-terminal residues that are pivoted out of the subunit interface in S72N TRAP are highlighted in white on the wild type TRAP, starting from residue 69. (B) C-terminal residues E69 and M70 are shown in sticks with main chain in yellow and side chains in turquoise, the rest of each subunit is shown in ribbons. The weighted F
+o – F
+c omit maps, contoured at 2σ, were calculated after omitting residues 69 and 70 from the final model and 10 cycles of refinement.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9505</offset>
+      <text>12-mer TRAP Assemblies are More Stable</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9544</offset>
+      <text>Melting temperatures for six TRAP molecules, including three wild type and three mutant TRAP listed in Table 2, were determined at varied L-tryptophan concentrations (0–100 µM) using dye-based scanning fluorimetry as described in the methods. Fluorescence versus temperature melting curve data (Figure S2, S3) was averaged between four observations and the midpoints of fitted sigmoidal curves were taken as the melting temperatures, Tm. Melting temperatures (Table S1) were then plotted against L-tryptophan concentration ( Figure 3 ).</text>
+      <annotation id="gy41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="9682" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10040" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0044309.g003.jpg</infon>
+      <infon key="id">pone-0044309-g003</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>10085</offset>
+      <text>Melting temperatures of different TRAP oligomers.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0044309.g003.jpg</infon>
+      <infon key="id">pone-0044309-g003</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>10135</offset>
+      <text>The dependence of melting temperature is shown for six TRAP oligomers, as a function of L-tryptophan concentration, determined by dye-based scanning fluorimetry. From the top: B. stearothermophilus E71stop 12-mer (triangle), B. stearothermophilus wild type 11-mer (square), B. halodurans wild type 12-mer (diamond), B. subtilis K71stop 12-mer (open cross), B. subtilis S72N 12-mer (circle), B. subtilis wild type 11-mer (crossed square).</text>
+      <annotation id="gy43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10223" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0044309-t002.xml</infon>
+      <infon key="id">pone-0044309-t002</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>10573</offset>
+      <text>L-tryptophan binding constants (Kd) of three wild type and three mutant TRAP.</text>
+      <annotation id="gy45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10573" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10651</offset>
+      <text>As the fluorescent dye could potentially bind in the tryptophan-binding pocket, we employed CD spectroscopy (Text S2) to verify that melting temperatures were not perturbed by interaction with the dye, Figure S2. We note that there is coherence between melting temperatures derived from the two respective techniques.</text>
+      <annotation id="gy47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10704" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10969</offset>
+      <text>Increasing the L-tryptophan concentration increases the thermal stability of all the TRAP proteins except for wild type B. subtilis TRAP. B. halodurans TRAP was included as a reference, as it is naturally a 12-mer, without engineering. Throughout the L-tryptophan concentrations for which the Tm was measured, the wild type B. subilis TRAP was least stable, while the B. stearothermophilus was most stable. Significantly, the mutant 12 subunit assemblies were at least as stable, but usually more stable than the 11 subunit wild-type, at all L-tryptophan concentrations measured. This stabilization was particularly marked at high L-tryptophan concentrations as the mutant 12-mer subunit TRAPs have a larger increase in Tm with increasing L-tryptophan concentration than their wild type 11-mer counterparts. For example, from 0 to 100 µM L-tryptophan, B. subtilis wild type increases in stability by 0.8°C, while the Tm of the K71stop and S72N 12-mer mutants increases by 23.2°C and 13.3°C respectively. The B. stearothermophilus wild type TRAP increases in stability by 7.1°C, whereas the Tm of E71stop TRAP increases by 20.2°C. The thermal stability of B. subtilis wild type TRAP appeared to show little dependence on L-tryptophan concentration up to 100 µM. We observed that the stability of the wild type 12-mer B. halodurans TRAP lies midway between that of mutant 12-mers, B. subtilis K71stop and B. stearothermophilus E71stop TRAP ( Figure 3 ).</text>
+      <annotation id="gy60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="10984" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11220" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11511" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11600" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11708" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="11807" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12189" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12429</offset>
+      <text>L-Tryptophan Binding</text>
+      <annotation id="gy63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12429" length="12"/>
+        <text>L-Tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12450</offset>
+      <text>The increased stabilization by L-tryptophan of the 12-subunit assemblies, as compared to 11-mers, was unexpected. To investigate this further we measured the affinity of each TRAP for L-tryptophan ( Table 2 ). A comparison of the dissociation constants of the mutant 12-mers to their 11-mer wild type counterparts showed no obvious correlation. Although an 11-mer to 12-mer transition in B. subtilis TRAP increases the affinity of binding, this is not observed in B. stearothermophilus TRAP. This suggests stabilization by L-tryptophan is not directly related to affinity towards L-tryptophan.</text>
+      <annotation id="gy70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12481" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12634" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="12973" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="13030" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13044</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13055</offset>
+      <text>The conformation of the C-terminus has previously been shown to play a major role in determining whether the 11-mer or the 12-mer oligomeric state assembles , and the new structure of the S72N mutant reinforces this. The relationship between subunit number and thermal stability has for the first time been probed, revealing the 12-mer configuration is more stable than the 11-mer counterpart.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13449</offset>
+      <text>Comparison of Thermal Stability in Wild Type TRAP</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13499</offset>
+      <text>We compared the thermal stability of B. stearothermophilus, B. halodurans, and B. subtilis wild type TRAP. The relative thermal stabilities of the oligomers reflect the temperature environments of the respective species’ habitats, as might be expected. For example, at 50 µM L-tryptophan, the melting temperatures for the respective wild type TRAP are: B. stearothermophilus, 81.4°C; B. halodurans, 75.6°C; B. subtilis, 44.3°C. These melting temperatures reflect the respective species’ hyperthermophilic, thermophilic and mesophilic origins respectively. This relationship appears to hold across all of the L-tryptophan concentration range ( Figure 3 ).</text>
+      <annotation id="gy75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="13774" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="14107" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14162</offset>
+      <text>Within these wild type TRAP oligomers, B. stearothermophilus and B. subtilis both have 11-mer TRAP, and B. halodurans has 12-mer TRAP. It is apparent therefore that the temperature environment in which the species have evolved is the overriding factor in determining the thermal stability of the wild type TRAP, as we have an 11-mer as both the most and least stable. However, we find that one effect of inducing a change of oligomeric state from 11-mer to 12-mer by mutations is increased thermal stability, implying that species-specific structural characteristics unrelated to subunit number are not the only determinant of thermal stability.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14808</offset>
+      <text>C-terminal Truncation Induces 11- to 12-mer Transition and Increases Stability</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14887</offset>
+      <text>Comparing the structure of the 12-mer B. halodurans TRAP with that of the 11-mer structures of B. subtilis TRAP and B. stearothermophilus TRAP, the importance of the C-terminus (residues 71 to 75) becomes apparent. In B. halodurans TRAP, the nature of the last four amino acids dictate that the C-terminal segment is excluded from the subunit-subunit interface, thereby generating favorable interactions at the outer surface of the oligomer. This is considered as the crucial factor in permitting the higher oligomeric state, which is related to the 11-mer state by a 2.7o rigid-body rotation of adjacent subunits . Hence what can be considered macroscopically as the result of the extraction of a thin “wedge” between subunits on the outer side of the ring, has the effect of decreasing the angle that a single subunit contributes towards the full 360°.</text>
+      <annotation id="gy77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15153" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15747</offset>
+      <text>Taking our investigation a step further, we focused further studies at determining whether there is a general relationship between the oligomeric state of TRAP and its thermal stability, hence exploring factors that are not species-specific. The scenario found in the 12-mer B. halodurans TRAP, regarding the exclusion of the C-terminus, could logically be mimicked by truncating the 4 or 5 C-terminal residues, removing this segment from the subunit interface. This is observed in the previously determined structures of B. stearothermophilus E71stop TRAP and B. subtilis K71stop TRAP . With respect to thermal stability accompanying the 11-mer to 12-mer transition, we find that this truncation results in an increase in melting temperature, so that at 50 µM L-tryptophan the increase in melting temperature between B. stearothermophilus wild type and E71stop is 6°C, from 81.4°C to 87.4°C. The equivalent increase between B. subtilis wild type and K71stop is 18.7°C, 44.3°C to 63.0°C. This hints at an increase in thermal stability in response to incorporation of an additional subunit into the ring. However, this difference in melting temperature could also be a result of the absence of the C-terminal residues themselves. For instance, we note that both B. subtilis and B. stearothermophilus wild type TRAP contain two flexible lysine residues at their C-termini  that can contribute electrostatically to the overall stability of TRAP. To understand which of these two factors – C-terminus or oligomeric state – has the greater influence we compared thermal stability of wild type B. subtilis TRAP 11-mer with that of the B. subtilis S72N TRAP 12-mer, which still possesses the C-terminal segment but has it excluded from the subunit interface for steric reasons.</text>
+      <annotation id="gy81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="16508" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="17082" length="6"/>
+        <text>lysine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17529</offset>
+      <text>S72N Mutation also Increases Subunit Number and Stability</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17587</offset>
+      <text>Exclusion of the C-terminus from the subunit interface can be achieved by introducing steric strain at a key region towards the C-terminus that causes the segment to pivot out. In this respect, exclusion of the C-terminus in S72N is achieved in a manner more similar to how exclusion is achieved in B. halodurans TRAP. Residue 72 in particular (Ser 72 in B. subtilis TRAP) – which sits at the subunit-subunit interface in both wild type 11-mer structures studied – serves as a critical determinant in the conformation of the C-terminus. This is evident from the crystal structure presented in this study. From the structure of the S72N TRAP we see that substituting serine 72 for a bulkier amino acid, asparagine, does indeed introduce the necessary constraints to exclude the subsequent segment from the subunit interface. The thermal stability of this mutant 12-mer TRAP, S72N, is higher than that of its wild type 11-mer counterpart. For example at 50 µM L-tryptophan the melting temperature of the wild type and mutant oligomers are 44.°C and 54.5°C respectively, yielding a stabilization of 10.2°C. This is significant, albeit it is less compared to the 18.7°C stabilization we see from C-terminal truncation (i.e. B. subtilis K71stop).</text>
+      <annotation id="gy90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="17932" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="gy91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="18253" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="gy88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="18277" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="gy84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="18289" length="10"/>
+        <text>asparagine</text>
+      </annotation>
+      <annotation id="gy89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="18545" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18838</offset>
+      <text>We conclude that by inducing an expansion in the oligomeric state from 11 to 12 subunits the thermal stability of the oligomer is increased. This increase is predominantly a result of the oligomeric state transition, and to a much lesser extent the influence of C-terminal or other specific residues. A potential, general relationship in TRAP oligomers therefore exists, in which melting temperature depends on subunit number. Further studies should be focused on evaluation of influence of the oligomeric state of TRAP on its activity in vivo.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19383</offset>
+      <text>Binding Affinity Towards L-tryptophan</text>
+      <annotation id="gy93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19408" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19421</offset>
+      <text>To explore whether the stabilization by L-tryptophan was directly related to the affinity of TRAP oligomers to the binding of L-tryptophan, dissociation constants were measured. Results showed no obvious correlation with thermal stability or subunit number ( Table 2 ). Although between B. subtilis wild type and S72N mutant TRAP, the 11-mer to 12-mer transition does coincide with a slight increase in affinity for L-tryptophan, these changes are only twofold, implying there are other more significant influences.</text>
+      <annotation id="gy98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19461" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19547" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19837" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19937</offset>
+      <text>Increasing L-tryptophan Concentration Increases Thermal Stability</text>
+      <annotation id="gy101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19948" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20003</offset>
+      <text>For most TRAP oligomers studied we observe an increase in melting temperature in response to an increase in L-tryptophan concentration from 0 µM to 100 µM added. The trend does not appear in B. subtilis wild type TRAP however, over the L-tryptophan concentration range studied. Most concentrations in the monitored range represent many times the typical Kd value, hence L-tryptophan binding-sites in TRAP are expected to be saturated. This therefore suggests a degree of non-specific binding of L-tryptophan to TRAP as the principal cause of the stabilization, over a thermodynamic or kinetic influence involving the L-tryptophan binding sites. It is likely that non-specific binding, beyond the 1∶1 stoichiometry, would hence increase with increasing concentration of L-tryptophan.</text>
+      <annotation id="gy109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20111" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20239" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20373" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20498" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20620" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="20772" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20794</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20806</offset>
+      <text>This study demonstrates how the oligomeric state of a circular protein can be changed by introducing a point mutation at a subunit interface. Importantly, we demonstrate that a change in subunit number changes the stability of a circular assembly in vitro. In the case of TRAP, used in our studies, an increase in subunit number increases the stability for the oligomeric assembly. Predictably, this stability is dependent on solvent conditions, specifically L-tryptophan concentration. We conclude that a similarly subtle approach could be used during protein engineering of other ring-like structures, for stabilizing a particular oligomeric state thereby modifying dimensions, symmetry and stability.</text>
+      <annotation id="gy115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="21265" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21510</offset>
+      <text>Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21532</offset>
+      <text>Gene Cloning, Protein Purification, Crystallization and Data Collection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21604</offset>
+      <text>The B. subtilis S72N mutant TRAP was generated using the QuikChange kit (Stratagene, US) and a pET9a plasmid containing the wild type gene. S72N TRAP proteins were produced and purified as described previously . Before crystallization, protein samples were transferred into solution containing 2 mM Tris (pH 8.5), 300 mM NaCl and purified by size-exclusion chromatography using Superdex 200 Column (GE healthcare, UK). TRAP samples were initially analysed by size-exclusion chromatography, employing a Superdex 200 10/300 column (GE healthcare, UK) for the preliminary oligomeric assembly analysis. A 200–300 µg TRAP sample was injected and eluted by a buffer containing 20 mM Tris-HCl, 30 mM NaCl, and 0.1 mM L-tryptophan (pH 8.5). TRAP samples with an elution volume less than 14.5 ml were selected for further analysis by native mass spectrometry analysis (Figure S1) and X-ray crystallographic studies.</text>
+      <annotation id="gy117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="21903" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="gy124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="21925" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="gy118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="22281" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="gy120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="22297" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="gy122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="22314" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22515</offset>
+      <text>Crystallization was carried out at 18°C by hanging drop vapor diffusion. For crystallization, B. subtilis S72N TRAP was transferred into solution containing 10 mM triethanolamine (pH 8.0), 100 mM NaCl, 15 mM L-tryptophan and concentrated to 33.5 mg/ml. The reservoir contained 100 mM Bis-Tris propane (pH 8.5), 200 mM KSCN and 13% PEG 3350 (v/v). Protein crystals were frozen using solutions containing all the crystallization ingredients with addition of 20% glycerol (v/v). The X-ray data were collected at 120 K at I04 beamline at the Diamond Light Source. Data were processed using HKL2000 , ( Table 1 ).</text>
+      <annotation id="gy137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009546</infon>
+        <location offset="22678" length="15"/>
+        <text>triethanolamine</text>
+      </annotation>
+      <annotation id="gy136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="22711" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="gy134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="22723" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C034249</infon>
+        <location offset="22799" length="16"/>
+        <text>Bis-Tris propane</text>
+      </annotation>
+      <annotation id="gy135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009941</infon>
+        <location offset="22833" length="4"/>
+        <text>KSCN</text>
+      </annotation>
+      <annotation id="gy132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011092</infon>
+        <location offset="22846" length="3"/>
+        <text>PEG</text>
+      </annotation>
+      <annotation id="gy131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="22975" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23125</offset>
+      <text>Structure Determination and Refinement</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23164</offset>
+      <text>All crystallographic calculations were carried out using the CCP4 program package . The structure was determined by molecular replacement using MOLREP  with three adjacent subunits of B. stearothermophilus TRAP as a search model. Refinement was performed by REFMAC  and model rebuilding was done using COOT . Water molecules were added automatically with the program ARP/wARP  and further corrected using maximum likelihood-weighted 2|Fo| - |Fc| and |Fo| - |Fc| electron density maps. Molecular contacts between adjacent monomers of TRAP were examined by CONTACT .  Figure 1  was generated using Bobscript ,  Figure 2A  using UCSF Chimera , and  Figure 2B  using CCP4 mg .</text>
+      <annotation id="gy139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23473" length="5"/>
+        <text>Water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23837</offset>
+      <text>Dye-based Scanning Fluorimetry</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23868</offset>
+      <text>Dye-based scanning fluorimetry, or the Thermofluor method, was performed as previously described , . Protein samples were prepared by transferring to 50 mM Tris pH 8, 150 mM NaCl, 10 mM MgCl2, with variable L-tryptophan concentration, in 30 kDa cut-off Vivaspin concentrators, and diluting to 1 mg/ml, monitoring concentration by the Comassie-blue Bradford method. L-tryptophan concentration was varied from 0 to 0.1 mM (final well concentration). Samples were transferred to 96-well thin-walled clear PCR plates. Each well contained 30 µl of solution, consisting of 15 µl of the 1 mg/ml protein (yielding a final concentration of 0.5 mg/ml), 1/1000 diluted SYPRO Orange (Sigma-Aldrich) and 50 mM Tris pH 8 with a specified L-tryptophan concentration. A Stratagene Mx3005P QPCR instrument was programmed to increase temperature in 1°C increments at 30 second intervals, from 25°C to 95°C with 470 nm excitation, measuring fluorescence at 570 nm.</text>
+      <annotation id="gy153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="24024" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="gy151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="24042" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="gy148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="24054" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="gy154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24075" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy146">
+        <infon key="identifier">MESH:C048139</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="24202" length="13"/>
+        <text>Comassie-blue</text>
+      </annotation>
+      <annotation id="gy150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24233" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24526" length="12"/>
+        <text>SYPRO Orange</text>
+      </annotation>
+      <annotation id="gy149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="24565" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="gy155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24592" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24822</offset>
+      <text>Measurement of L-tryptophan Dissociation Constants</text>
+      <annotation id="gy157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24837" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24873</offset>
+      <text>L-tryptophan binding to TRAP was measured using a fluorescence assay based on competition between L-tryptophan and 1-anilionaphthalene-8-sulfonic acid (ANS) as described previously . ANS fluoresces weakly in solution but fluoresces strongly at 460 nm with 372 nm excitation upon binding to TRAP. L-tryptophan has a greater affinity than ANS for TRAP, and displaces ANS thus reducing the fluorescence. The change in fluorescence, ΔF, was monitored using a LS-50B fluorometer (Perkin Elmer). A 100 µL sample of 15 µM TRAP was prepared in 60 µM ANS and 0.5 mM sodium phosphate at pH 8.0. Readings of fluorescence intensity were taken from 0 to 2000 µM tryptophan. At each concentration of tryptophan, fluorescence intensity was collected at room temperature for one minute to allow the reaction to reach equilibrium. Fluorescence intensity was averaged for each concentration of L-tryptophan and then used to calculate the change in fluorescence (ΔF). The maximal change in fluorescence was set to 100% and values of ΔF were normalised accordingly. GraphPad Prizm 4 was used to plot % ΔF as a function of tryptophan concentration to obtain L-tryptophan dissociation constants and binding curves.</text>
+      <annotation id="gy166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24873" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24971" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027132</infon>
+        <location offset="24988" length="35"/>
+        <text>1-anilionaphthalene-8-sulfonic acid</text>
+      </annotation>
+      <annotation id="gy159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027132</infon>
+        <location offset="25025" length="3"/>
+        <text>ANS</text>
+      </annotation>
+      <annotation id="gy177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027132</infon>
+        <location offset="25056" length="3"/>
+        <text>ANS</text>
+      </annotation>
+      <annotation id="gy180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="25169" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027132</infon>
+        <location offset="25210" length="3"/>
+        <text>ANS</text>
+      </annotation>
+      <annotation id="gy162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027132</infon>
+        <location offset="25238" length="3"/>
+        <text>ANS</text>
+      </annotation>
+      <annotation id="gy173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027132</infon>
+        <location offset="25415" length="3"/>
+        <text>ANS</text>
+      </annotation>
+      <annotation id="gy181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="25430" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="gy171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="25522" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="gy168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="25559" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="gy174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="25749" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+      <annotation id="gy179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="25975" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="gy176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="26010" length="12"/>
+        <text>L-tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>26098</offset>
+      <text>Data Deposition</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26114</offset>
+      <text>Refined coordinates of the B. subtilis S72N TRAP and structure factors have been deposited with the Protein Data Bank under accession code 4B27.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>26259</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>26282</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

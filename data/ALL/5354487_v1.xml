@@ -1,0 +1,3305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5354487</id>
+    <passage>
+      <infon key="name_3">surname:Burtscher;given-names:Verena</infon>
+      <infon key="name_2">surname:Hasenhuetl;given-names:Peter S.</infon>
+      <infon key="name_1">surname:Mayer;given-names:Felix P.</infon>
+      <infon key="name_0">surname:Li;given-names:Yang</infon>
+      <infon key="article-id_pmid">28096460</infon>
+      <infon key="issue">10</infon>
+      <infon key="fpage">4235</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">M116.760140</infon>
+      <infon key="article-id_pmc">5354487</infon>
+      <infon key="alt-title">Allosteric Modulation of the Transport Cycle of DAT</infon>
+      <infon key="article-id_doi">10.1074/jbc.M116.760140</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">292</infon>
+      <infon key="license">Author's Choice—Final version free via Creative Commons CC-BY license.</infon>
+      <infon key="kwd">dopamine electrophysiology metal monoamine transporter neurotransmitter transport</infon>
+      <infon key="name_7">surname:Sandtner;given-names:Walter</infon>
+      <infon key="name_6">surname:Freissmuth;given-names:Michael</infon>
+      <infon key="lpage">4243</infon>
+      <infon key="name_5">surname:Sitte;given-names:Harald H.</infon>
+      <infon key="name_4">surname:Schicker;given-names:Klaus</infon>
+      <offset>0</offset>
+      <text>Occupancy of the Zinc-binding Site by Transition Metals Decreases the Substrate Affinity of the Human Dopamine Transporter by an Allosteric Mechanism*</text>
+      <annotation id="490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17" length="4"/>
+        <text>Zinc</text>
+      </annotation>
+      <annotation id="491">
+        <infon key="type">OTHER</infon>
+        <location offset="102" length="20"/>
+        <text>Dopamine Transporter</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>151</offset>
+      <text>The human dopamine transporter (DAT) has a tetrahedral Zn2+-binding site. Zn2+-binding sites are also recognized by other first-row transition metals. Excessive accumulation of manganese or of copper can lead to parkinsonism because of dopamine deficiency. Accordingly, we examined the effect of Mn2+, Co2+, Ni2+, and Cu2+ on transport-associated currents through DAT and DAT-H193K, a mutant with a disrupted Zn2+-binding site. All transition metals except Mn2+ modulated the transport cycle of wild-type DAT with affinities in the low micromolar range. In this concentration range, they were devoid of any action on DAT-H193K. The active transition metals reduced the affinity of DAT for dopamine. The affinity shift was most pronounced for Cu2+, followed by Ni2+ and Zn2+ (= Co2+). The extent of the affinity shift and the reciprocal effect of substrate on metal affinity accounted for the different modes of action: Ni2+ and Cu2+ uniformly stimulated and inhibited, respectively, the substrate-induced steady-state currents through DAT. In contrast, Zn2+ elicited biphasic effects on transport, i.e. stimulation at 1 μm and inhibition at 10 μm. A kinetic model that posited preferential binding of transition metal ions to the outward-facing apo state of DAT and a reciprocal interaction of dopamine and transition metals recapitulated all experimental findings. Allosteric activation of DAT via the Zn2+-binding site may be of interest to restore transport in loss-of-function mutants.</text>
+      <annotation id="2XXx22">
+        <infon key="type">OTHER</infon>
+        <location offset="161" length="20"/>
+        <text>dopamine transporter</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="206" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="225" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="328" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="344" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="387" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="447" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="2XXx7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="453" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="459" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="469" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="560" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="608" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="840" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="893" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="911" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="920" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="928" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="1070" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="1079" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="1204" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="1445" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="1554" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1643</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1656</offset>
+      <text>The physiological role of the dopamine transporter (DAT/SLC6A3)3 is to clear the extracellular space from previously released dopamine and to replenish vesicular stores (1). Accordingly, the transport capacity of DAT shapes the synaptic response. We recently showed that the endogenous ligand Zn2+ increases the turnover rate of DAT (2). This action of Zn2+ is presumably of physiological relevance: Zn2+ is accumulated in synaptic vesicles via a dedicated transporter (ZnT3/SLC30A3) and released as a co-transmitter (3).</text>
+      <annotation id="2XXx27">
+        <infon key="type">OTHER</infon>
+        <location offset="1686" length="20"/>
+        <text>dopamine transporter</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="1782" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="1949" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2009" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2056" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2178</offset>
+      <text>Numerous proteins require Zn2+ for their activity; it has been estimated that about 10% of the proteins encoded by the human genome bind Zn2+ (4). Similarly, about 30% of all enzymes are thought to require Zn2+ for catalysis (5). In addition, structural Zn2+-binding sites are important for protein stability, e.g. in transcription factors harboring the eponymous zinc fingers (6). Zn2+-binding sites rely on the permutation of specific arrangements of cysteine, histidine, aspartate, and glutamate residues and, in catalytic Zn2+ sites, of water. The resulting affinities range from picomolar to micromolar (7). However, other first-row transition metal ions can also be trapped by these binding sites (5, 8). As an approximation, the stability of their interaction increases across the period to a maximum stability for complexes containing Cu2+, resulting in the Irving-Williams series: Mn2+ &lt; Fe2+ &lt; Co2+ &lt; Ni2+ &lt; Cu2+ &gt; Zn2+ (9). It is thought that mismetallation of proteins is prevented by controlling the concentration of metal ions in the compartment in which the target protein operates (4, 7).</text>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2204" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2315" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2384" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2432" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="gy55">
+        <infon key="type">OTHER</infon>
+        <location offset="2542" length="12"/>
+        <text>zinc fingers</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2560" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="2631" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="2641" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="2652" length="9"/>
+        <text>aspartate</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="2667" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2704" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="2719" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="3021" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="3068" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="2XXx46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007501</infon>
+        <location offset="3075" length="4"/>
+        <text>Fe2+</text>
+      </annotation>
+      <annotation id="2XXx41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="3082" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="3089" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="3096" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="3103" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3283</offset>
+      <text>Mismetallation of DAT may be of toxicological relevance. It has long been known that occupational exposure to manganese can result in a syndrome resembling idiopathic Parkinson's disease (10, 11). Studies in primates indicate that manganese poisoning impairs dopamine release in the basal ganglia (12). Loss-of-function mutations in the manganese transporter SLC39A14 result in manganese overload and cause a syndrome of childhood dystonia/parkinsonism (13). This is reminiscent of inactivating mutations of DAT/SLC6A3 (14). Inactivating mutations in SLC30A10, another manganese extruder, also gives rise to parkinsonism (15). Similarly, Wilson's disease is caused by a deficiency in the copper transporter ATP7B, which results in copper accumulation in the basal ganglia and produces, inter alia, Parkinsonian symptoms (16). Before the link between dopamine deficiency and Parkinson's disease had been established, it was noted that dopamine excretion was augmented in patients suffering from Wilson's disease (17). Accordingly, in this study, we explored the effect of transition metals on human DAT. In our analysis, we relied on electrophysiological recordings because they provided the time resolution required to dissect the actions of the transition metals on individual steps of the transport cycle. We observed that individual metals differ in their ability to affect the transport cycle of DAT because they differed in the extent to which they were subject to a reciprocal modulation by substrate.</text>
+      <annotation id="46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="3393" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="3514" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="3542" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="gy63">
+        <infon key="type">OTHER</infon>
+        <location offset="3620" length="21"/>
+        <text>manganese transporter</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="3661" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="3852" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="gy67">
+        <infon key="type">OTHER</infon>
+        <location offset="3971" length="24"/>
+        <text>copper transporter ATP7B</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="4014" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="4133" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="4217" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4791</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>4799</offset>
+      <text>Effects of Transition Metals on the Steady-state Current through DAT</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4868</offset>
+      <text>When challenged with substrate, monoamine transporters of the SLC6 family produce two types of currents that can be recorded in the whole-cell patch clamp configuration: an initial capacitive peak current that reflects the binding of substrate and co-substrate ions to the transporter and their movement in the electric field of the membrane (18, 19) and a sustained, steady-state current that reflects movement of the transporter through the transport cycle (18). These two components can be seen when dopamine is applied to a voltage-clamped HEK293 cell expressing DAT in the whole-cell patch clamp configuration (cf. Fig. 1, A–E). Zn2+ accelerates the return step, i.e. the transition of the empty inward-facing to the outward-facing state of the transporter (2). The resulting acceleration of the transport cycle resulted in an increase in the steady-state current when Zn2+ was applied while the cell was continuously superfused with dopamine (Fig. 1E). We employed Zn2+ at 10 μm because this was shown previously to be a saturating concentration (20–23). We compared the action of the transition metals Mn2+, Co2+, Ni2+, and Cu2+ (Fig. 1, A–D) with that of Zn2+ (Fig. 1E). We found Mn2+ to be ineffective at concentrations between 1 and 100 μm. In Fig. 1, A and F, we show the absence of any effect at 30 and 100 μm.</text>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="5371" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="5502" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="5742" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="5807" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="5839" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="5977" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="5983" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="5989" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="5999" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="6031" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="6056" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>6200</offset>
+      <text>Effects of first-row transition metals on the steady-state current amplitude (Isteady-state) carried by hDAT. HEK293 cells stably expressing hDAT were voltage-clamped to −60 mV. The cells were challenged with 30 μm dopamine (DA). After 2 s, the transition metal was co-applied for 3 s as indicated. A, co-application of 30 μm Mn2+ was ineffective. B, C, and E, co-application of 10 μm Co2+, Ni2+, or Zn2+ stimulated the current. D, 10 μm Cu2+ led to inhibition. In all instances, the steady-state current recovered to its initial amplitude upon metal removal. F, the steady-state current upon co-application of the indicated transition metals was related to that seen prior to metal application (-fold change = Isteady-state after application / Isteady-state before application) to normalize for differences in current sizes in individual cells. Data represent mean ± S.D. The respective -fold changes were tested against the hypothetical value 1 (= no change, indicated as a dotted line in the bar graph) using Wilcoxon matched pairs signed-rank test.</text>
+      <annotation id="68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="6415" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="6425" length="2"/>
+        <text>DA</text>
+      </annotation>
+      <annotation id="69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="6526" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="6585" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="6591" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="6600" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="6638" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7260</offset>
+      <text>In contrast, application of 10 μm Co2+ (Fig. 1B) led to a small but significant increase in the steady-state current amplitude by about 10%. The current did not increase further in the presence of 30 μm Co2+ (Fig. 1F). This weak stimulatory effect of Co2+ precluded further analysis. Application of 10 μm Ni2+ resulted in a robust increase in the steady-state current, which relaxed to its initial amplitude upon removal of Ni2+ (Fig. 1C). We also tested 3 and 30 μm Ni2+ (summarized in Fig. 1F). The effect elicited by 30 μm Ni2+ was essentially comparable with that caused by 10 μm Ni2+, indicating that, at saturating levels of Ni2+, the steady-state currents were about 1.3-fold larger than in the absence of any metal. Contrary to Co2+ and Ni2+, Cu2+ reversibly inhibited the steady-state current through DAT (Fig. 1D) with an IC50 of 4.4 μm (2.3–8.2 μm, 95% confidence interval). These observations suggest that all tested transition metals except Mn2+ either stimulate or inhibit the transport cycle of DAT. Two explanations can account for the inability of Mn2+ to modulate the activity of DAT: Mn2+ binds but neither stimulates nor inhibits the transport cycle, or the affinity of Mn2+ for the Zn2+-binding site of DAT is too low. We distinguished between these two possibilities by first concomitantly applying 30 μm dopamine and 100 μm Mn2+ to elicit the steady-state current through DAT. If Mn2+ had occupied the Zn2+-binding site of DAT, then it should preclude the increase in steady-state current resulting from the subsequent application of Zn2+. This, however, was not the case. As can be seen in Fig. 2A, wash-in of Zn2+ induced a robust stimulation of the current that was similar to that seen in the absence of Mn2+ (cf. Fig. 2F, first and fifth columns).</text>
+      <annotation id="2XXx74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="7294" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="7463" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="7511" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7565" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7684" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7727" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7786" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7844" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7891" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="7996" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="8005" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="8011" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8214" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="gy113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8325" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8363" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8450" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="8463" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="8587" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8607" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8663" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="8685" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="8817" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="8894" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="8991" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>9048</offset>
+      <text>Interaction of Co2+, Ni2+, and Cu2+ but not Mn2+ with the endogenous Zn2+-binding site of DAT. A–E, HEK293 cells stably expressing hDAT (A) or transiently transfected with the mutant hDAT-H193K (B–E) were clamped to −60 mV. Currents were evoked by 30 μm dopamine. A, representative trace of a current recorded in the continuous presence of 100 μm Mn2+. Co-application of 10 μm Zn2+ increased the current amplitude. B–E, representative traces of currents carried by DAT-H193K. Co-application of 10 μm Co2+, Ni2+, Cu2+, or Zn2+ did not affect the current. F, summary of A–E. The steady-state current upon co-application of the indicated transition metals was related to that seen prior to metal application (-fold change); Zn2+ increased the current carried by hDAT in the continuous presence of 100 μm Mn2+. Currents by hDAT-H193K were unchanged upon co-application of 10 μm Co2+, Ni2+, Cu2+, or Zn2+, respectively. Data represent mean ± S.D. The respective -fold changes were tested against the hypothetical value 1 (= no change, indicated as a dotted line in the bar graph) using Wilcoxon matched pairs signed-rank test.</text>
+      <annotation id="2XXx98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="9063" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="9069" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="9079" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="9092" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="9117" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="9302" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="9395" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="9425" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="9548" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="9554" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="9560" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="9569" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="9769" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="9849" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="2XXx112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="9922" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="9928" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="9934" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="9943" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10187</offset>
+      <text>We also verified that both the stimulatory action of Co2+ and Ni2+ and the inhibitory action of Cu2+ required the Zn2+-binding site of DAT by examining their action on steady-state currents through DAT-H193K. In this mutant, the Zn2+-coordinating histidine is replaced by lysine, the residue found at the equivalent position of the norepinephrine transporter. The norepinephrine transporter is the closest relative of DAT but is insensitive to Zn2+. Accordingly, the mutation of His193 to Lys eliminates high-affinity Zn2+ binding to DAT (20, 21). It is evident from the current traces shown in Fig. 2, B–E, and the summary shown in Fig. 1F that both the stimulation of the steady-state current by Co2+, Ni2+, and Zn2+ and its inhibition by Cu2+ were abrogated in DAT-H193K. This comparison is based on recordings done in a stable cell line and transiently transfected cells for wild-type DAT (Fig. 1) and the DAT-H193K mutant (Fig. 2), respectively. We also recorded currents through wild-type DAT in transiently transfected HEK293 cells. These experiments recapitulated the data shown in Fig. 1, i.e. stimulation of substrate-induced currents by Co2+, Ni2+, and Zn2+, their inhibition by Cu2+, and the absence of any effect in the presence of Mn2+ (data not shown). Hence, we rule out that differences between transiently and stably transfected cells can account for the distinct effects of transition metals on wild-type and DAT-H913K.</text>
+      <annotation id="2XXx116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="10240" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="10249" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="10283" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="10301" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="10416" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="10434" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="10459" length="6"/>
+        <text>lysine</text>
+      </annotation>
+      <annotation id="2XXx135">
+        <infon key="type">OTHER</infon>
+        <location offset="10519" length="26"/>
+        <text>norepinephrine transporter</text>
+      </annotation>
+      <annotation id="497">
+        <infon key="type">OTHER</infon>
+        <location offset="10551" length="26"/>
+        <text>norepinephrine transporter</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="10631" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="10666" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="10676" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="10705" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="10885" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="10891" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="10901" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="10928" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="2XXx130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="11335" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="11341" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="11351" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="11377" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="11432" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>11628</offset>
+      <text>Transition Metal-induced Shifts of EC50 for Substrate-induced Steady-state Currents through hDAT</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11725</offset>
+      <text>The substrate-induced steady-state current reflects cycling of DAT through the forward transport mode (18). Dopamine increased the steady-state current through DAT in a concentration-dependent manner (Fig. 3A). This concentration-response curve was shifted by all transition metals; representative original traces are shown in Fig. 3, B–E, for dopamine-induced steady-state currents in the presence of 10 μm Zn2+, Co2+, Ni2+, and Cu2+, respectively. The pertinent analysis for all transition metals is summarized in Fig. 3E; the concentration-response curve was adequately described by a saturation hyperbola. More importantly, all transition metals reduced the apparent affinity of dopamine, but the magnitude of the shift differed. In the absence of any metal, the EC50 for the currents induced by dopamine was 0.8 μm (0.6–1 μm, 95% confidence interval) and increased to EC50 Zn2+ = 1.6 μm (1.2–2.2 μm), EC50 Co2+ = 2.4 μm (2.1–2.8 μm), EC50 Ni2+ = 4.3 μm (3.5–4.7 μm), and EC50 Cu2+ = 36.5 μm (17.1–72.2 μm) in the presence of Zn2+, Co2+, Ni2+, and Cu2+, respectively.</text>
+      <annotation id="138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="11833" length="8"/>
+        <text>Dopamine</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="12069" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="12133" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="12139" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="12145" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="12155" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="12408" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="12525" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="12603" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="12636" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="12669" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="12706" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="12755" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="12761" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="12767" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="12777" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12820</offset>
+      <text>Rightward shift by Zn2+, Co2+, Ni2+, and Cu2+ in the EC50 of dopamine in eliciting the steady-state current through DAT. HEK293 cells stably expressing hDAT were clamped to −60 mV. Currents through DAT were evoked by 5-s applications of increasing dopamine concentrations (0.3–100 μm) in the absence and presence of 10 μm Zn2+, Co2+, Ni2+, and Cu2+. A–E, representative traces of currents through hDAT evoked by increasing dopamine concentrations in the absence (A) or presence of 10 μm Zn2+, Co2+, Ni2+, and Cu2+, respectively (B–E). F, the concentration-response curve of the steady-state current was shifted to higher dopamine concentrations in the presence of the metals. The amplitudes of the steady-state current were normalized to the current at saturation. The EC50 values were estimated by a fit to a binding hyperbola. EC50 control = 0.8 μm (0.6–1, n = 9), EC50 Zn2+ = 1.6 μm (1.2–2.2, n = 8), EC50 Co2+ = 2.4 μm (2.1–2.8, n = 8), EC50 Ni2+ = 4.3 μm (3.5–4.7, n = 6), and EC50 Cu2+ = 36.5 μm (17.1–72.2, n = 6). Data represent mean and 95% confidence interval (in parentheses).</text>
+      <annotation id="154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="12839" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="12845" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="12851" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="12861" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="12881" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="13068" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="13142" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="13148" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="13154" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="13164" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="13243" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="13307" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="13313" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="13319" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="13329" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="13441" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="13692" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="13729" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="13766" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="13807" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>13934</offset>
+      <text>Sole Activation of DAT by Ni2+</text>
+      <annotation id="2XXx174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="13960" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13965</offset>
+      <text>Taken together, the data summarized in Figs. 1–3 indicate that transition metals induced distinct effects on the transport cycle of DAT despite their binding to the same site: Cu2+ was uniformly inhibitory. The action of Zn2+ depends on the substrate concentration and the internal Na+ concentration (see below and Refs. 2, 22–24). Accordingly, we selected Ni2+ as an additional representative of the transition metals to understand their action on DAT because, contrary to Co2+, Ni2+ elicited a robust enhancement of the steady-state current. We recently demonstrated that current stimulation by Zn2+ is caused by an enhancement of the turnover rate of DAT (2). We verified that this was also true for Ni2+ by examining the turnover rate; the pertinent protocol and representative current traces are shown in Fig. 4. The approach relies on the paired application of substrate (i.e. dopamine) pulses. The first application elicits a robust peak current that corresponds to the conformational transition associated with substrate binding and drives DAT into the transport cycle, which gives rise to the sustained steady-state current. This steady-state current decays when substrate is withheld. During this decay, only a fraction of the transporters are available for binding of dopamine because they have not yet reached the outward-facing conformation. Full recovery of the peak current is achieved only after all transporters have completed the transport cycle. Hence, the rate of peak current recovery is a measure of the turnover rate. The time-dependent recovery of the peak current is evident from the original traces shown in Fig. 4A. The shorter the interval between the first and the second substrate pulse, the smaller a peak current was elicited by the second dopamine pulse. Full recovery was accomplished within 2 s with a time course that was adequately described by a monoexponential rise (Fig. 4B, open symbols. In the presence of Ni2+, the peak current recovered at a faster rate (Fig. 4B, closed symbols). Thus, similar to Zn2+, Ni2+ significantly accelerated the transport cycle of hDAT (p &lt; 0.0001, F test).</text>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="14141" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="14186" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="gy238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="14247" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="14322" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="14439" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="14445" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="14562" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="14668" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="14848" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="15244" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="15737" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="15913" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="16007" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="16013" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16098</offset>
+      <text>Ni2+-induced increase in the turnover rate of DAT. HEK293 cells stably expressing hDAT were voltage-clamped to −60 mV. A, protocol to measure the turnover rate of DAT. 30 μm dopamine was applied to the cell for 0.5 s. This was followed by a second pulse (30 μm dopamine for 0.5 s) applied after different wash intervals (0.1, 0.2, 0.5, 0.8, 1, 1.5, and 2 s). The peak current recovered over time and reached its full amplitude after prolonged dopamine-free intervals. B, the peak current recovers faster in the presence of 10 μm Ni2+ (green circle) in comparison with the control. The peak currents were normalized to the respective largest peak current from the same cell. The time course of the peak current recovery was fit to a monoexponential function (black lines, R2 = 0.96 and 0.96). The time constants estimated by the fits were as follows: control, 0.55 s (0.51–0.60, n = 6); Ni2+, 0.38 s (0.35–0.42, n = 6). Data represent mean and 95% confidence interval (in parentheses).</text>
+      <annotation id="2XXx189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="16098" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="16272" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="16359" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="16541" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="16627" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="16984" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17092</offset>
+      <text>This analysis of currents through DAT is consistent with the interpretation that Ni2+ acts as a stimulator of substrate uptake. We verified this conjecture by comparing cellular uptake of dopamine by hDAT in the absence and presence of 1 and 10 μm Zn2+ (Fig. 5A) and Ni2+ (Fig. 5C). Uptake of [3H]dopamine uptake was stimulated at both Ni2+ concentrations. In contrast, [3H]dopamine uptake was stimulated by 1 μm Zn2+ but inhibited by 10 μm Zn2+. This biphasic action of Zn2+ on substrate uptake in HEK293 cells has not been reported previously (20, 21). However, in earlier studies, the action of Zn2+ on substrate uptake by hDAT was explored at substrate concentrations below the Km of the transporter. Thus, we surmise that the stimulation at low Zn2+ concentrations escaped detection in studies (20, 21) that examined the action of Zn2+ at non-saturating substrate concentrations. We explored the biphasic effect of Zn2+ in the presence of saturating substrate concentrations (30 μm dopamine) in the absence and presence of 0.1, 1, 3, 10, and 30 μm Zn2+ (Fig. 5B). Under these conditions, the stimulation of maximal transport velocity peaks at about 1 μm Zn2+. We also explored the effect of Ni2+ at saturating substrate concentrations (30 μm dopamine) in the absence and presence of 1, 10, and 30 μm Ni2+. We found substrate uptake stimulated for Ni2+ concentrations up to 30 μm (Fig. 5D). At concentrations exceeding 30 μm, Ni2+ causes a nonspecific inhibition of transport, i.e. this inhibition is also seen in DAT-H193K (data not shown). Accordingly, it was not possible to examine how higher concentrations of Ni2+ affected substrate transport via the transition metal ion-binding site.</text>
+      <annotation id="2XXx195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="17173" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="17280" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17340" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="17359" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="gy262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D004298</infon>
+        <location offset="17385" length="12"/>
+        <text>[3H]dopamine</text>
+      </annotation>
+      <annotation id="2XXx199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="17428" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="gy295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D004298</infon>
+        <location offset="17462" length="12"/>
+        <text>[3H]dopamine</text>
+      </annotation>
+      <annotation id="201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17505" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17533" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17563" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17690" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17842" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="17928" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="18012" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="18079" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="18145" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="18251" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18288" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="18339" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18397" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18444" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18522" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18711" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18798</offset>
+      <text>Ni2+-mediated stimulation of substrate uptake by hDAT. A and C, [3H]dopamine (DA) uptake in the absence and in the presence of 1 and 10 μm Zn2+ (A) or Ni2+ (C), respectively. Each data point in A and C is the mean of five independent experiments. The data were fit to the Michaelis-Menten equation, and the estimated parameters were as follows (Km in micromolar, Vmax in picomoles per million per minute). A, control, Km = 1.6 (0.6–2.7, Vmax = 27.3 (22.6–31.9); 1 μm Zn2+, Km = 1.5 (0.5–3.0), Vmax = 50.3 (35.8–64.0); 10 μm Zn2+, Km = 2.9 (0.9–4.9), Vmax = 18.3 (14.0–21.0). C, control, Km = 1.6 (0.3–3.0), Vmax = 136 (107.5–164.7); 1 μm Ni2+, Km = 1.8 (0.7–2.9), Vmax = 174.3 (144.0–204.0); 10 μm Ni2+, Km = 3.4 (1.4–5.3), Vmax = 223.2 (180.9–265.0). Data represent mean and 95% confidence interval (in parentheses). The estimated Vmax values were significantly different between 0, 1, and 10 μm Zn2+ (p &lt; 0.0008, F-test) and between 0, 1, and 10 μm Ni2+ (p &lt; 0.0024, F-test). B and D, Vmax (= [3H]dopamine uptake at a final concentration of 30 μm dopamine) as a function of the applied Zn2+ or Ni2+ concentration. The blue line in B and the green line in D show spline fits through the data points. The error bars indicate standard deviation (n = 6).</text>
+      <annotation id="2XXx218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18798" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="gy300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D004298</infon>
+        <location offset="18862" length="12"/>
+        <text>[3H]dopamine</text>
+      </annotation>
+      <annotation id="495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="18876" length="2"/>
+        <text>DA</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="18937" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="18949" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="19265" length="3"/>
+        <text>Zn2</text>
+      </annotation>
+      <annotation id="2XXx221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="19322" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="19436" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="19496" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="19695" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="19749" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="gy318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D004298</infon>
+        <location offset="19793" length="12"/>
+        <text>[3H]dopamine</text>
+      </annotation>
+      <annotation id="506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="19847" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="19886" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="19894" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>20083</offset>
+      <text>Stimulation of Currents through DAT by Ni2+ at High [Na+]i</text>
+      <annotation id="2XXx233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="20122" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20136" length="3"/>
+        <text>Na+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20142</offset>
+      <text>The action of Zn2+ depends on the intracellular sodium concentration. At low [Na+]i, Zn2+ acts as an activator of dopamine transport, but it is inhibitory when [Na+]i is high. This is the case in HEK293 cells overexpressing DAT (2, 22–24). Accordingly, the finding that Ni2+ increased substrate uptake into HEK293 cells suggested that Ni2+ can also stimulate DAT at high [Na+]i. We tested this conjecture by comparing the action of 10 μm Zn2+ and 10 μm Ni2+ on currents by DAT in the presence of 25 mm Na+i. Fig. 6A shows representative currents through hDAT that were induced by the rapid application of 30 μm dopamine followed by the concomitant superfusion with 10 μm Ni2+ (Fig. 6A, left panel) or 10 μm Ni2+ (Fig. 6A, right panel) for 5 s. It is evident from these recordings that, in the presence of 25 mm [Na+]i, Zn2+ inhibits the steady-state current whereas Ni2+ does not. Although we failed to detect current inhibition in the presence of 10 μm Ni2+, it is worth pointing out that the stimulatory effect of Ni2+ was lower with 25 mm [Na+]i than the one observed with 6 mm [Na+]i (Fig. 1C). This suggests that, although the inhibitory action of [Na+]i is smaller with Ni2+ than with Zn2+, it is not fully eliminated.</text>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="20156" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20190" length="6"/>
+        <text>sodium</text>
+      </annotation>
+      <annotation id="2XXx253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20220" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="20227" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="20256" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="521">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20303" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="20412" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="20477" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20514" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="20580" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="20595" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20644" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="20753" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="20813" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="20849" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="20954" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="20961" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="gy348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21008" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21096" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21158" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="21185" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="529">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="21224" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="522">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="21296" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21318" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="21333" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21375</offset>
+      <text>Inhibition by Zn2+ but not by Ni2+ of steady-state currents through DAT in the presence of 25 mm [Na+]i. A, a HEK293 cell stably expressing hDAT was clamped to −60 mV with [Na+]i set to 25 mm. The cell was challenged with 30 μm dopamine to elicit a current. Although co-application of 10 μm Ni2+ led to a small increase in the current amplitude, co-application of 10 μm Zn2+ decreased it. B, -fold change of the steady-state current at 25 mm [Na+]i in the presence of 10 μm Ni2+ (green column) and 10 μm Zn2+ (blue column). Data represent mean ± S.D. The respective -fold changes were tested against the hypothetical value 1 (= no change, indicated as a dotted line in the bar graph) using Wilcoxon matched pairs signed-rank test.</text>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="21389" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21405" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="526">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="21473" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="21548" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="21603" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21666" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="21745" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="524">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="21818" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="21849" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="21879" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>22114</offset>
+      <text>Differential Modulation of the Peak Current Amplitude by Ni2+ and Zn2+</text>
+      <annotation id="2XXx270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="22171" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="22180" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22185</offset>
+      <text>The substrate-induced peak current reflects the initiation of the transport cycle, where substrate and co-substrate ions are bound by the transporter and moved through the electric field of the membrane (18, 19). Zn2+ decreases the amplitude of this substrate-induced peak current (2), presumably because Zn2+ does not only favor the return of the empty transporter (forward transport mode) but also the return of the substrate-bound transporter to the outward-facing state (substrate exchange mode) (2). Accordingly, the charge that gives rise to the inwardly directed peak current is moved into the opposite direction, and, hence, the peak current amplitude is decreased. Ni2+ and Zn2+ differed in their ability to stimulate steady-state transport. In the micromolar range, Ni2+ uniformly stimulated substrate uptake, but Zn2+ gave rise to a stimulation at 1 μm and inhibition at 10 μm (cf. Fig. 5A). This suggests that Zn2+ and Ni2+ do not affect the conformational transitions hDAT must undergo during the transport cycle in the same way. Hence, we compared the effect of Ni2+ on the dopamine-induced peak current by employing the protocol shown in Fig. 7A. We applied 10 μm Ni2+ or Zn2+ for 5 s to a HEK293 cell expressing hDAT. Subsequently, test pulses of 30 μm dopamine were applied immediately or 0.2, 0.5, 1, and 2 s after removal of the metal ion. As can be seen in Fig. 7B, the effect of Ni2+ on the peak current was much smaller than that of Zn2+. Although Zn2+ decreased the peak current amplitude by about 30%, Ni2+ only affected it to a very minor extent.</text>
+      <annotation id="261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="22398" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="22490" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="22859" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="22868" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="22961" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23009" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23107" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23116" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23261" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="23273" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23364" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23372" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="23454" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23585" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23640" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23655" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23711" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>23761</offset>
+      <text>Comparison of Ni2+- and Zn2+-induced changes in the peak current. A, protocol for determining the effect of Ni2+ (or Zn2+) on the peak current by hDAT. A HEK293 cell stably expressing hDAT was clamped to −60 mV and exposed to 10 μm Ni2+ for 5 s. After wash periods of 0.2, 0.5, 1, 2, and 5 s, a peak current was triggered by rapid application of 30 μm dopamine (0.5 s). The original traces are from a representative experiment that was reproduced in seven independent experiments with 10 μm Ni2+ and Zn2+, respectively. B, recovery of the peak current following application of 10 μm Ni2+ (green circles) and 10 μm Zn2+ (blue circles), respectively. The peak current amplitudes were normalized to the respective largest current and plotted as a function of the wash time interval. The two sets of data points were each fit to a monoexponential function (green and blue lines). The fits yielded the following parameters: Ni2+, Trecovery = 0.15 s (0.07–5.66), blocked fraction 13% (10–17); Zn2+, Trecovery = 1.25 s (0.82–2.5), blocked fraction 28% (22–33). Data represent mean and 95% confidence interval (in parentheses). The estimated blocked fractions were significantly different (p &lt; 0.0001, F-test).</text>
+      <annotation id="2XXx289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23775" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23785" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23869" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="23878" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="23993" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="24113" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="24252" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="24261" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="24344" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="24375" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="gy419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="24680" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="gy423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="24748" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>24979</offset>
+      <text>Amphetamine-induced Substrate Release in the Presence of Zn2+ and Ni2+</text>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="24979" length="11"/>
+        <text>Amphetamine</text>
+      </annotation>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="25036" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="25045" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25050</offset>
+      <text>During amphetamine-induced substrate release, DAT operates in the substrate exchange mode rather than the forward transport mode, i.e. amphetamine is carried inward and exchanged for dopamine (25, 26, 27). As outlined above, Zn2+ inhibits the peak current because it favors substrate exchange. Accordingly, Zn2+ increases amphetamine-induced substrate release mediated by DAT (21). In contrast, Ni2+ reduced the peak current amplitude only to a very modest extent (cf. Fig. 7) and did not block the steady-state current (i.e. the forward transport mode) in the presence of elevated [Na+]i. Based on our model, these findings predict that, contrary to Zn2+, Ni2+ does not enhance amphetamine-induced substrate efflux. This conjecture was verified (Fig. 8). In hDAT-expressing HEK293 cells that had been preloaded with [3H]MPP+, superfusion with 3 μm d-amphetamine (AMPH) caused a robust release of radioactive substrate that was further augmented by the concomitant application of 10 μm Zn2+. In contrast, Ni2+ did not enhance amphetamine-induced substrate release.</text>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="25057" length="11"/>
+        <text>amphetamine</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="25185" length="11"/>
+        <text>amphetamine</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="25233" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="25275" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="25357" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="25372" length="11"/>
+        <text>amphetamine</text>
+      </annotation>
+      <annotation id="2XXx310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="25445" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="25633" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="25701" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="25707" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="25729" length="11"/>
+        <text>amphetamine</text>
+      </annotation>
+      <annotation id="gy447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D015655</infon>
+        <location offset="25867" length="8"/>
+        <text>[3H]MPP+</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="25899" length="13"/>
+        <text>d-amphetamine</text>
+      </annotation>
+      <annotation id="gy450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="25914" length="4"/>
+        <text>AMPH</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="26036" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="26055" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="26076" length="11"/>
+        <text>amphetamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>26117</offset>
+      <text>Stimulation of amphetamine-induced [3H]MPP+ release by Zn2+ but not Ni2+. HEK293 cells transfected with hDAT loaded with [3H]MPP+ were superfused with KHP buffer for 45 min (see “Experimental Procedures”). Thereafter (time point 0), 2-min fractions were collected. The prior interval of 45 min allowed for establishing a stable baseline as verified by the first seven fractions. After 12 min, 3 μm AMPH was added, which resulted in [3H]MPP+ release (black circles). This increase was larger in the presence of 10 μm Zn2+ (blue circles) but unchanged in the presence of 10 μm Ni2+ (green circles). The data are averages of 12 experiments. The data points at 20 and 22 min were used to conduct a one-way analysis of variance (Kruskal-Wallis test) followed by Dunn's multiple comparisons test (post hoc test). The difference between AMPH and AMPH + 10 μm Zn2+ is significant (p = 0.026).</text>
+      <annotation id="310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000661</infon>
+        <location offset="26132" length="11"/>
+        <text>amphetamine</text>
+      </annotation>
+      <annotation id="gy463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D015655</infon>
+        <location offset="26152" length="8"/>
+        <text>[3H]MPP+</text>
+      </annotation>
+      <annotation id="312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="26172" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="26185" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="gy464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D015655</infon>
+        <location offset="26238" length="8"/>
+        <text>[3H]MPP+</text>
+      </annotation>
+      <annotation id="gy472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="26268" length="3"/>
+        <text>KHP</text>
+      </annotation>
+      <annotation id="316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="26515" length="4"/>
+        <text>AMPH</text>
+      </annotation>
+      <annotation id="gy461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D015655</infon>
+        <location offset="26549" length="8"/>
+        <text>[3H]MPP+</text>
+      </annotation>
+      <annotation id="318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="26633" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="26692" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="26947" length="4"/>
+        <text>AMPH</text>
+      </annotation>
+      <annotation id="gy473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="26956" length="4"/>
+        <text>AMPH</text>
+      </annotation>
+      <annotation id="322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="26969" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27010</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27021</offset>
+      <text>DAT has a tetrahedral Zn2+-binding site. The coordination sphere is comprised of H193 in extracellular loop 2 (EL2), His375 and Glu396, which reside on top of transmembrane helix 7 in the first helical part of extracellular loop 4 (EL4A) and on top of transmembrane helix 8 in the second helix of extracellular loop 4 (EL4B), respectively (28), and Asp206 in EL2 (29). The extracellular loops are thought to be flexible, in particular the extended EL2 (29). Accordingly, it is not surprising that this binding site can accommodate transition metals other than Zn2+ even when their optimum coordination geometries differ (5). In fact, our observations are in line with the general prediction of the Irving-William series. It was, however, surprising that the effects elicited by individual metal ions, in particular Zn2+, Ni2+, and Cu2+, differed substantially. Ni2+ and Cu2+ uniformly stimulated and inhibited, respectively, the forward transport mode of DAT. In contrast, Zn2+ elicited biphasic effects. In addition, and most importantly, Zn2+ was the only transition metal ion that also promoted the substrate exchange mode. The different modes of action of the metals must be accounted for by a plausible model of the transport cycle. It is a priori reasonable to posit that occupancy of the Zn2+-binding site produces the same primary effect. In fact, this was the case. All effective metals shifted the EC50 of dopamine for eliciting the substrate-induced steady-state current, albeit to a different extent. The shift was most pronounced for Cu2+, followed by Ni2+ and Zn2+ (and Co2+). These shifts indicate that Zn2+, and, to a larger extent, Ni2+ and Cu2+, destabilized the substrate-bound conformation(s). Destabilization is most parsimoniously explained by preferred binding of these metals to the apo conformation(s) of DAT. Thermodynamics dictate that the effect on affinity must be reciprocal. If the transition metal lowers the affinity of DAT for substrate, then raising the substrate concentration must lower the affinity for metals. In addition, because individual metals differed in their ability to shift the EC50 of dopamine, they must discriminate between apo and substrate-bound transporters to different extents, with Zn2+ and Cu2+ having the least and most pronounced affinity differences, respectively.</text>
+      <annotation id="323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="27043" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="27138" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="2XXx357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="27149" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="27370" length="3"/>
+        <text>Asp</text>
+      </annotation>
+      <annotation id="325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="27581" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="27836" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="27842" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="27852" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="2XXx340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="27882" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="27891" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="27994" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="28061" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="28316" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="28437" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="28568" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="2XXx347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="28586" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="28595" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="28605" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="28639" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="28670" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="28679" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="29156" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="29261" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="29270" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29348</offset>
+      <text>We implemented this information into a kinetic model (18) that was extended to account for metal-bound states (Fig. 9A). This allowed for recapitulating all experimental findings. 1) It is, for instance, possible to account for the observation that low Zn2+ concentrations (1 μm) increased substrate uptake in the presence of high [Na+]i and for the biphasic effect of Zn2+ on substrate uptake. The conformation that displays the highest affinity for Zn2+ is the outward-facing apo state of DAT; the Zn2+-binding site is fully occupied at 1 μm. Upon substrate binding, the affinity at the binding site decreases, and Zn2+ dissociates. Thus, at low concentrations (1 μm), Zn2+ interacts almost exclusively with the apo conformations. This leads to an acceleration of the rate-limiting step in the transport cycle and stimulation of substrate uptake. At elevated concentrations (e.g. 10 μm), Zn2+ also binds to the substrate-loaded conformations. This gives rise to Zn2+-induced inhibition when [Na+]i is high (Fig. 9, E and G). 2) The key actions of Ni2+ were reproduced when the observation that Ni2+ induced a larger shift in the EC50 of dopamine than Zn2+ was incorporated into the model. These actions are stimulation of the dopamine-induced steady-state current by Ni2+ (Fig. 9B), the modest effect of Ni2+ on the peak current (Fig. 9H), and the stimulatory action of Ni2+ despite elevated [Na+]i (Fig. 9F). 3) Finally, the model also accounts for current inhibition by Cu2+ (Fig. 9C). In the presence of Cu2+, the shift in EC50 was most pronounced, i.e. larger than with any other transition metal (cf. Figs. 3C and 9D). This observation indicated that Cu2+ had the highest preference for the apo conformations. Hence, its uniform inhibitory action can be rationalized as follows. In the absence of Cu2+, 30 μm dopamine is a saturating concentration that induces maximal currents and allows the transporter to cycle at maximum velocity in the forward transport mode. In contrast, Cu2+ lowers the affinity of dopamine to an extent that a dopamine concentration of 30 μm does not suffice for saturation (Fig. 9D). This leads to a decrease in current amplitude, which reflects inhibition of dopamine transport by Cu2+. Thus, the parsimonious explanation for the action of transition metals on DAT is the reciprocal effect of substrate and metal: binding of one lowers the affinity for the respective other. Given the location of the coordinating residues, it is attractive to assume that occupancy of the Zn2+-binding site by metals precludes the transition of DAT from the outward open to the occluded state. By definition, this reduces the apparent substrate affinity because the substrate can more readily dissociate from the outward open than from the occluded state. Conversely, in the occluded state, the relative position of the residues that coordinate the transition metal is likely to change. This is predicted to translate into a decline in affinity for the metal.</text>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="29601" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="531">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="29680" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="29717" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="29799" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="29848" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="29965" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="30019" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="30238" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="30312" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="532">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="30342" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="30397" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="30444" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="30487" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="30501" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="30576" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="30617" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="30654" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="2XXx373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="30720" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="30743" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="30822" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="30857" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="31006" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="31152" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="31164" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="31333" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="31361" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="31390" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="31541" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="31563" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="31855" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>32332</offset>
+      <text>A kinetic model of the action of first-row transition metals on the transport cycle of DAT. A, the model scheme, which is the same as in Li et al. (2). X indicates transition metals. For each metal there is a separate set of parameters (see supplemental Table 1). Parameters are shared between these sets when they describe conformational rearrangements and binding reactions within DAT that are unaffected by the metals. Red and orange arrows indicate metal binding to substrate-bound states, and arrows in violet and blue indicate metal binding to apo states. B and C, simulated current evoked by 30 μm dopamine stimulated by 10 μm Ni2+ (B) or inhibited by 10 μm Cu2+ (C). D, simulated concentration dependence of dopamine-induced currents in the absence and presence of 10 μm Zn2+, Ni2+, and Cu2+, respectively. E, simulated Vmax of dopamine uptake by DAT in the absence and presence of 1 and 10 μm Zn2+, assuming 25 mm [Na+]i. F, simulated currents induced by 30 μm dopamine with [Na+]i set to 25 mm. Under this condition, the model predicts current stimulation by Ni2+ and inhibition by Zn2+. G, simulated peak current recovery after application of 10 μm Ni2+ (green circles) or Zn2+ (blue circles). The simulations evidently account for the measured data.</text>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="32937" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="32966" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="32997" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="33048" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="33111" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="33117" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="33127" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="33168" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="33234" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="535">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="33256" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="33302" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="33317" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="33401" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="33424" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="33492" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="33516" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33601</offset>
+      <text>The affinity of Mn2+ for the Zn2+-binding site of DAT was so low that there was no appreciable occupancy up to 100 μm Mn2+. This low affinity is consistent with the Irving-Williams series (5, 8, 9). Based on this low affinity, it appears unlikely that mismetallation of the Zn2+-binding site by manganese is relevant to the mechanistic understanding of manganese-induced dopamine deficiency (10–15). In contrast, in the low micromolar range, Cu2+ caused a profound inhibition of DAT. Hence, this inhibition may be relevant to understand symptoms that occur in the course of Wilson's disease for the following reasons. 1) Although it is difficult to estimate the free concentration of Cu2+ in the brain, the serum concentration of free Cu2+ (i.e. not bound to coeruloplasmin) is in the micromolar range (30). The concentration of Cu2+ at the site of dopaminergic projections is thought to exceed that in serum because Cu2+ accumulates in several brain regions, including the corpus striatum. Thus, Cu2+ levels in the brain are likely to reach concentrations that impair retrieval of dopamine by DAT and thus lead to a hypodopaminergic state. 2) Imaging studies suggest that a presynaptic dopaminergic deficit contributes to the neurological symptoms from which patients with Wilson's disease suffer (31–33). 3) In addition, patients with Wilson's disease are very susceptible to side effects of neuroleptic drugs that arise from dopamine receptor blockage in the caudate nucleus and putamen. When erroneously treated with both typical and atypical neuroleptic/antipsychotic drugs, these patients are prone to develop drug-induced extrapyramidal symptoms (34). This enhanced susceptibility presumably arises from low D2 receptor occupancy by endogenous dopamine because of impaired synaptic release. 4) Finally, administration of zinc (e.g. 150 mg of zinc acetate/day) is an effective treatment for Wilson's disease and can be used as an alternative to chelation therapy with d-penicillamine or trientine (16, 30). The effect relies on the Zn2+-dependent induction of metallothionein into the gut epithelium and the resulting reduced systemic bioavailability of dietary copper (16). Interestingly, Zn2+ has been found to be particularly effective in improving neurological deficits (30, 35) even when prior chelation therapy failed (36, 37). Based on this circumstantial evidence and on our observations, we propose that displacement of Cu2+ from the Zn2+-binding site of DAT may contribute to the therapeutic efficacy of Zn2+ in Wilson's disease.</text>
+      <annotation id="391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="33617" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="33630" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="33719" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="33875" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="33896" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="33954" length="9"/>
+        <text>manganese</text>
+      </annotation>
+      <annotation id="397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="33972" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="34043" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="34285" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="34336" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="34430" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="34518" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="34598" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="34683" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="35029" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="35352" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="35429" length="4"/>
+        <text>zinc</text>
+      </annotation>
+      <annotation id="2XXx421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019345</infon>
+        <location offset="35450" length="12"/>
+        <text>zinc acetate</text>
+      </annotation>
+      <annotation id="2XXx422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010396</infon>
+        <location offset="35575" length="15"/>
+        <text>d-penicillamine</text>
+      </annotation>
+      <annotation id="2XXx423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014266</infon>
+        <location offset="35594" length="9"/>
+        <text>trientine</text>
+      </annotation>
+      <annotation id="411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="35639" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="35769" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="35797" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="36036" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="36050" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="36121" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36152</offset>
+      <text>Occupancy of the allosteric Zn2+-binding site allows for a wide range of effects, i.e. stimulation and inhibition of the forward transport mode and enhancing the substrate exchange mode. It is likely that this binding site can be addressed by compounds other than transition metals. Allosteric activators of the forward transport mode are of particular interest. There are several loss-of-function mutations in the coding sequence of human DAT that lead to a syndrome of infantile or juvenile dystonia and parkinsonism (14). The vast majority of these mutations result in defective folding and, hence, retention of the mutated proteins in the endoplasmic reticulum. However, there are some mutants that do reach the cell surface but fail to transport dopamine with adequate turnover rates. A search for allosteric activators is therefore justified because they may act as correctors and restore the forward transport mode to a velocity that is commensurate with normal dopaminergic transmission (40). In fact, it appears worthwhile to test whether Ni2+ (or any other transition metal) accelerates transport in these mutants.</text>
+      <annotation id="418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="36180" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="36903" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="2XXx432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="37200" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>37277</offset>
+      <text>Experimental Procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>37301</offset>
+      <text>Whole-cell Patch Clamp</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37324</offset>
+      <text>HEK293 cells stably expressing hDAT or transiently expressing hDAT H193K were seeded at low density 24 h before recordings. Currents by the transporter were measured in the whole-cell patch clamp configuration. The electrode resistances were between 2–5 megohms. For the majority of the recordings, we used the following internal solution: 133 mm potassium gluconate, 6 mm NaCl, 1 mm CaCl2, 0.7 mm MgCl2, 10 mm EGTA, and 10 mm HEPES adjusted to pH 7.2 with KOH. For some experiments we used an internal solution containing 25 mm Na+, 25 mm NaCl, 125 mm KCl, 1 mm CaCl2, 0.7 mm MgCl2, 10 mm EGTA, and 10 mm HEPES (pH 7.2 with KOH). The external solution in all experiments was 140 mm NaCl, 3 mm KCl, 2.5 mm CaCl2, 2 mm MgCl2, 20 mm glucose, and 10 mm HEPES adjusted to pH 7.4 with NaOH. For rapid solution exchange, we used an OctaFlow superfusion device (ALA Scientific, Farmingdale, NY). Cells were continuously superfused either with blank external solution or an external solution containing dopamine, respectively. For the solutions containing Mn2+, Co2+, Ni2+, Zn2+, or Cu2+, we used the respective chloride salts (Sigma-Aldrich, St. Louis, MO). For current acquisition, we employed an Axopatch 200B amplifier and pClamp 10.2 software (Molecular Devices, Sunnyvale, CA). The cells were clamped to −60 mV, and the washout period following substrate application was 30 s in all cases. Current traces were filtered at 1 kHz and digitized at 10 kHz using a Digidata 1550 (Molecular Devices). The currents induced by dopamine were quantified using Clampfit 10.2 software. Passive holding currents were subtracted, and the traces were filtered using a 100-Hz digital Gaussian low-pass filter.</text>
+      <annotation id="2XXx433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005942</infon>
+        <location offset="37671" length="19"/>
+        <text>potassium gluconate</text>
+      </annotation>
+      <annotation id="422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="37697" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="37708" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="2XXx436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="37722" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="2XXx437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004533</infon>
+        <location offset="37735" length="4"/>
+        <text>EGTA</text>
+      </annotation>
+      <annotation id="426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="37751" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="2XXx439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029943</infon>
+        <location offset="37781" length="3"/>
+        <text>KOH</text>
+      </annotation>
+      <annotation id="428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="37853" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="37864" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="37877" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="37887" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="37901" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004533</infon>
+        <location offset="37914" length="4"/>
+        <text>EGTA</text>
+      </annotation>
+      <annotation id="434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="37930" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029943</infon>
+        <location offset="37949" length="3"/>
+        <text>KOH</text>
+      </annotation>
+      <annotation id="436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="38007" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="38018" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="38030" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="38042" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="38055" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="38074" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="2XXx454">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="38104" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+      <annotation id="444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="38319" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008345</infon>
+        <location offset="38372" length="4"/>
+        <text>Mn2+</text>
+      </annotation>
+      <annotation id="2XXx457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003035</infon>
+        <location offset="38378" length="4"/>
+        <text>Co2+</text>
+      </annotation>
+      <annotation id="2XXx458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="38384" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="38390" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="38399" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712,MESH:D012492</infon>
+        <location offset="38428" length="14"/>
+        <text>chloride salts</text>
+      </annotation>
+      <annotation id="451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="38841" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>39020</offset>
+      <text>Uptake Assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39033</offset>
+      <text>HEK293 cells stably expressing hDAT were seeded on 48-well plates precoated with poly-d-lysine (0.5 × 105 cells/well) 24 h before the assay. Cells were first washed with 500 μl/well Krebs-HEPES buffer (KHP): 130 mm NaCl, 10 mm HEPES, 1.3 mm KH2PO4, 1.5 mm CaCl2, and 0.5 mm MgSO4 (pH 7.4) with NaOH. The cells were then incubated in 200 μl of KHP buffer containing 0.1 μm [3H]dopamine and diluted with the respective cold substrates to reach final concentrations ranging from 0.1–100 μm, both in the absence and presence of 1 and 10 μm ZnCl2 or NiCl2, respectively. The cells were incubated at room temperature for 1 min with [3H]dopamine. A subsequent wash with 500 μl/well of ice-cold KHP buffer terminated uptake. Cells were finally lysed with 500 μl of 1% SDS, transferred into 2 ml of scintillation mixture (Rotiszint Eco Plus LSC, Art. 0016.3, Carl Roth GmbH + Co. KG, Karlsruhe, Germany), and counted in a Packard 2300TR TriCarb liquid scintillation analyzer (PerkinElmer Life Sciences).</text>
+      <annotation id="2XXx463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011107</infon>
+        <location offset="39114" length="13"/>
+        <text>poly-d-lysine</text>
+      </annotation>
+      <annotation id="gy644">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="39215" length="11"/>
+        <text>Krebs-HEPES</text>
+      </annotation>
+      <annotation id="gy643">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="39235" length="3"/>
+        <text>KHP</text>
+      </annotation>
+      <annotation id="456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="39248" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="39260" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="39274" length="6"/>
+        <text>KH2PO4</text>
+      </annotation>
+      <annotation id="459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="39289" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008278</infon>
+        <location offset="39307" length="5"/>
+        <text>MgSO4</text>
+      </annotation>
+      <annotation id="461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="39327" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+      <annotation id="gy661">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="39376" length="3"/>
+        <text>KHP</text>
+      </annotation>
+      <annotation id="gy649">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D004298</infon>
+        <location offset="39405" length="12"/>
+        <text>[3H]dopamine</text>
+      </annotation>
+      <annotation id="2XXx472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016837</infon>
+        <location offset="39569" length="5"/>
+        <text>ZnCl2</text>
+      </annotation>
+      <annotation id="466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022838</infon>
+        <location offset="39578" length="5"/>
+        <text>NiCl2</text>
+      </annotation>
+      <annotation id="gy664">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D004298</infon>
+        <location offset="39659" length="12"/>
+        <text>[3H]dopamine</text>
+      </annotation>
+      <annotation id="gy670">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="39720" length="3"/>
+        <text>KHP</text>
+      </annotation>
+      <annotation id="2XXx475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="39793" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>40038</offset>
+      <text>Superfusion Experiments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40062</offset>
+      <text>HEK293 cells stably expressing hDAT (2.5 × 104 cells/coverslip) were preloaded with 0.2 μm [3H]MPP+ for 30 min. The coverslips were transferred to superfusion chambers and perfused with KHP buffer (0.7 ml/min at 22 °C). After an initial wash period of 45 min, fractions were collected every 2 min. The collection of the first fraction defined time point zero. Cells were exposed 10 μm ZnCl2 or 10 μm NiCl2 after two baseline fractions (4 min). 3 μm d-amphetamine was added to the superfusion buffer after 12 min. All fractions were analyzed by liquid scintillation counting (see above).</text>
+      <annotation id="gy675">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316,MESH:D015655</infon>
+        <location offset="40153" length="8"/>
+        <text>[3H]MPP+</text>
+      </annotation>
+      <annotation id="gy671">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="40248" length="3"/>
+        <text>KHP</text>
+      </annotation>
+      <annotation id="473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016837</infon>
+        <location offset="40447" length="5"/>
+        <text>ZnCl2</text>
+      </annotation>
+      <annotation id="474">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022838</infon>
+        <location offset="40462" length="5"/>
+        <text>NiCl2</text>
+      </annotation>
+      <annotation id="475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="40511" length="13"/>
+        <text>d-amphetamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>40655</offset>
+      <text>Modeling</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40664</offset>
+      <text>The recorded currents were emulated with a previously published kinetic model of the transport cycle of DAT (2). This model was extended to account for the binding of Zn2+, Ni2+, and Cu2+. The time-dependent changes in state occupancies were evaluated by numerical integration of the resulting system of differential equations using Systems Biology Toolbox (38) and Matlab 2012a (Mathworks, Natick, MA). The voltage dependence of individual rates was modeled according to Laeuger (39), assuming a symmetric barrier as kij = k0ijexp(−zQijFV / 2RT), with F = 96,485 Cmol−1, r = 8.314 JK−1mol−1, V the membrane voltage in volts, and T = 293 K. The extra- and intracellular ion concentrations were set to the values used in the experiments. Substrate uptake was modeled as (TiClS × kSioff − TiCl × Si × kSion + TiClSZn × kSioff − TiClZn × Si × kSion) × NC/NA, where NC is the number of transporters and NA is the Avogadro constant. Currents and substrate uptake were simulated assuming a transporter density of 25 × 106/cell.</text>
+      <annotation id="gy682">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="40831" length="4"/>
+        <text>Zn2+</text>
+      </annotation>
+      <annotation id="2XXx485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="40837" length="4"/>
+        <text>Ni2+</text>
+      </annotation>
+      <annotation id="478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="40847" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>41706</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>41727</offset>
+      <text>Y. L., F. P. M., P. S. H., K. S., M. F., and W. S. conceptualized the study and designed the experiments. P. S. H., K. S., and W. S. designed the model. Y. L., F. P. M., and V. B. performed all experiments and analyzed the data. Y. L., F. P. M., H. H. S., M. F., and W. S. wrote the manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42022</offset>
+      <text>This work was supported by the Austrian Science Fund/FWF Project P28090 (to W. S.), Project Program Grant SFB35 (Grants F3506 to H. H. S. and F3510 to M. F.), Project W1232 (to H. H. S.), and Chinese Scholarship Council Grant 201308310446 (to Y. L.). The authors declare that they have no conflicts of interest with the contents of this article.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42368</offset>
+      <text>This article contains supplemental Table 1.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42412</offset>
+      <text>DAT</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42416</offset>
+      <text>dopamine transporter</text>
+      <annotation id="511">
+        <infon key="type">OTHER</infon>
+        <location offset="42416" length="20"/>
+        <text>dopamine transporter</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42437</offset>
+      <text>hDAT</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42442</offset>
+      <text>human dopamine transporter</text>
+      <annotation id="512">
+        <infon key="type">OTHER</infon>
+        <location offset="42448" length="20"/>
+        <text>dopamine transporter</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42469</offset>
+      <text>AMPH</text>
+      <annotation id="487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="42469" length="4"/>
+        <text>AMPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42474</offset>
+      <text>d-amphetamine</text>
+      <annotation id="488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003913</infon>
+        <location offset="42474" length="13"/>
+        <text>d-amphetamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42488</offset>
+      <text>EL</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42491</offset>
+      <text>extracellular loop</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42510</offset>
+      <text>DA</text>
+      <annotation id="496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="42510" length="2"/>
+        <text>DA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42513</offset>
+      <text>dopamine</text>
+      <annotation id="489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004298</infon>
+        <location offset="42513" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42522</offset>
+      <text>EC50</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42527</offset>
+      <text>half-maximal effective concentration.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>42565</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>42594</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

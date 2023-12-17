@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180803</date>
+  <key>pmc.key</key>
+  <document>
+    <id>6051333</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Noreen;given-names:Sobia</infon>
+      <infon key="name_2">surname:Iqbal;given-names:Shahid</infon>
+      <infon key="name_1">surname:Akbar;given-names:Jamshed</infon>
+      <infon key="name_0">surname:Batool;given-names:Fozia</infon>
+      <infon key="article-id_pmid">30065756</infon>
+      <infon key="year">2018</infon>
+      <infon key="article-id_pmc">6051333</infon>
+      <infon key="article-id_doi">10.1155/2018/3463724</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">3463724</infon>
+      <infon key="volume">2018</infon>
+      <infon key="license">This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="name_4">surname:Bukhari;given-names:Syed Nasir Abbas</infon>
+      <offset>0</offset>
+      <text>Study of Isothermal, Kinetic, and Thermodynamic Parameters for Adsorption of Cadmium: An Overview of Linear and Nonlinear Approach and Error Analysis</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="77" length="7"/>
+        <text>Cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>150</offset>
+      <text>Reports about presence and toxicity of Cd2+ in different chemical industrial effluents prompted the researchers to explore some economical, rapid, sensitive, and accurate methods for its determination and removal from aqueous systems. In continuation of series of investigations, adsorption of Cd2+ onto the stem of Saccharum arundinaceum is proposed in the present work. Optimization of parameters affecting sorption potential of Cd2+ including pH, contact time, temperature, sorbent dose, and concentration of sorbate was carried out to determine best suited conditions for maximum removal of sorbate. To understand the nature of sorption process, linear and nonlinear forms of five sorption isotherms including Freundlich and Langmuir models were employed. Feasibility and viability of sorption process were evaluated by calculating kinetics and thermodynamics of the process, while error analysis suggested best fitted sorption model on sorption data. Thermodynamic studies demonstrated exothermic nature of reaction, while kinetic studies suggested pseudo-second order of reaction.</text>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="189" length="4"/>
+        <text>Cd2+</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="444" length="4"/>
+        <text>Cd2+</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="581" length="4"/>
+        <text>Cd2+</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="662" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="745" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1237</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1253</offset>
+      <text>Environmental pollution should be taken into special consideration because it is a very serious matter affecting every type of organism at every level. The most adversely affected environmental resource is water []. As water is an essential element for the survival of living beings, it is very necessary to keep it pure and clean []. Quality of drinking water is of prime importance for mankind because waterborne diseases can decimate population of the whole area. These diseases arise due to toxic release of chemicals from industrial zones []. Particularly in industrial areas, these waterborne diseases are a great threat towards safety of water supplies. Other sources which may pollute water include domestic waste, pesticides run off from agricultural land, metal plating operations, and so on. Key contaminants present in water include heavy metals, chlorinated hydrocarbons, pathogens, detergents, pesticides, algal nutrients, trace organic compounds, dyes, and so on. These hazardous substances are of concern because of their ultimate effect on survival of human life []. Heavy metals like Cd, Zn, Ni, and Pb are present in relatively major amounts in industrial effluents and enter in rivers and oceans and ultimately pollute groundwater leading to adverse effects on aquatic life. Metals resist the process of biodegradability and hence remain in ecosystem, affecting food chain and human health []. In order to provide clean environment and healthy lifestyle to our coming generations, it is necessary to remove hazardous pollutants from the environment. In environmental restoration areas, conventional techniques are practiced to eradicate those pollutants from the environment which include chemical precipitation, evaporative method, electrolytic extraction, reverse osmosis, ion exchange, and electrochemical and membrane processes []. All these methods are costly and produce large amount of sludge which is difficult to dispose of. Use of biological materials for the removal of pollutants from aqueous media is considered superior to other methods in terms of cost effectiveness and simple design. It is a surface phenomenon, in which pollutants get accumulated on the surface of the adsorbent material. Binding nature is based on type of sorbent and sorbate, but mostly physisorption or chemisorption takes place []. Materials with ease in availability and low cost are preferred for the purpose. In this context, agrowastes are considered a significant material for adsorption. Binding capacity of these materials can be intensified by physical and chemical treatments and heat therapy [].</text>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019216</infon>
+        <location offset="2098" length="12"/>
+        <text>heavy metals</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006843</infon>
+        <location offset="2112" length="24"/>
+        <text>chlorinated hydrocarbons</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019216</infon>
+        <location offset="2337" length="12"/>
+        <text>Heavy metals</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="2355" length="2"/>
+        <text>Cd</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="2359" length="2"/>
+        <text>Zn</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="2363" length="2"/>
+        <text>Ni</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007854</infon>
+        <location offset="2371" length="2"/>
+        <text>Pb</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="3527" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3868</offset>
+      <text>To explore the appropriate adsorbent, it is necessary to establish equilibrium correlation of sorbent to predict behavior of sorbent under different experimental conditions. This equilibrium correlation is developed by using equilibrium isotherms. These isotherms express way of sorbent interaction with the surface of adsorbent, that is, whether it is monolayer or multilayer sorption []. Similarly, thermodynamic studies are of prime importance to predict whether the adsorption is spontaneous or not. Furthermore, it provides information about suitable temperature range for sorption and nature of sorbent and sorbate at equilibrium [].</text>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="4481" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4508</offset>
+      <text>The aim of the present research was to explore Saccharum arundinaceum for adsorption of cadmium under different operating conditions including pH, contact time, initial concentration, and temperature. The application of linear and nonlinear forms of equilibrium isotherms was to determine appropriate isotherm for the purpose, and thermodynamic and kinetic studies were performed to check reaction nature of the adsorption phenomenon. Error analysis based on five different error functions was also performed.</text>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="4596" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5018</offset>
+      <text>2. Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5043</offset>
+      <text>2.1. Preparation of Adsorbent</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5073</offset>
+      <text>On the basis of literature survey and indigenous availability of agrowaste materials, the stem of Saccharum arundinaceum (hardy sugar cane) was collected from different regions of Sargodha District, Pakistan. After collection, the sample was properly washed with deionized water to remove dust and surface impurities. The sorbent was initially dried in an open container at room temperature and later in an electric oven (Model, LEB-1-20) at 105°C for 24 h to remove all the moisture contents. The dried sorbent was ground, and appropriate particle size was separated by sieves and was stored for further analyses.</text>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="5346" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5691</offset>
+      <text>2.2. Chemicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5706</offset>
+      <text>All the chemicals, reagents, and solvents used in the present work were of analytical reagent grade and purchased from Merck (Germany) or Sigma-Aldrich (Germany). Standard solutions were prepared, and successive dilutions were made with double-distilled water to make working solutions.</text>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="5960" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5993</offset>
+      <text>2.3. Pretreatment of Sorbents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6023</offset>
+      <text> Saccharum arundinaceum was pretreated with HCl (0.1 M) and NaOH (0.1 M) to evaluate the effects of acid and base treatments on pore size, that is, pore area, pore volume, and sorption capacity. For chemical treatment, the sorbent (20 g) was stirred for 4 h in 1 L solution of 0.1 M NaOH or HCl followed by filtration and extensive washing with distilled water to remove any traces of acid/base. After that, the treated sorbent material was dried at 110°C and stored in airtight zipper bags at −4°C before further use.</text>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="6067" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="6083" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="6306" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="6314" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6378" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6558</offset>
+      <text>2.4. Characterization of Sorbent</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6591</offset>
+      <text>To determine different physical and chemical parameters affecting adsorption, it is necessary to characterize the sorbent. Therefore, physical and chemical characterization was done by scanning electron microscopy (SEM) and Fourier transform infrared spectroscopy (FTIR).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>6863</offset>
+      <text>2.4.1. Scanning Electron Microscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6899</offset>
+      <text>Surface analysis was performed using scanning electron microscope JEOL model 2300. SEM provides information about surface area available for adsorption and morphology of sorbent []. Analysis of each sorbent was carried out in optimized conditions under argon atmosphere.</text>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001128</infon>
+        <location offset="7152" length="5"/>
+        <text>argon</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>7170</offset>
+      <text>2.4.2. Fourier Transform Infrared Spectroscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7217</offset>
+      <text>Functional groups present in structure of sorbent were determined by Fourier transform infrared spectrophotometer (Model Shimadzu AIM-8800). These functional groups are responsible for adsorption of sorbate on the surface of sorbent, and their detection helps in determining the nature of binding interactions between sorbate and sorbent surface []. Diffused reflectance infrared technique (DRIFT) was used for analysis taking KBr as a background reagent.</text>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="7416" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="7535" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039004</infon>
+        <location offset="7644" length="3"/>
+        <text>KBr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7673</offset>
+      <text>2.5. Equilibrium Isotherms</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7700</offset>
+      <text>In order to study adsorption pathway and equilibrium relationship between sorbent and sorbate, it is necessary to design proper adsorption isotherms. Isotherms predict the appropriate parameters and behavior of sorbent towards different sorption systems []. In this context, linear and nonlinear models are utilized using Microsoft Excel®2007 (equilibrium isotherms applied on the present work are given in Table 1s of supplementary data).</text>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="7786" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8141</offset>
+      <text>2.6. Error Functions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8162</offset>
+      <text>In order to determine best fitting of linear or nonlinear models onto adsorption data, it is necessary to calculate the error function []. These error functions include sum square error, hybrid functional error, average relative error, sum of absolute error, nonlinear chi-square, and so on (calculated error functions and their equations are present in Table 2s of supplementary data).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8549</offset>
+      <text>2.7. Thermodynamic Investigations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8583</offset>
+      <text>Thermodynamic investigations are another important parameter of adsorption studies. For thermodynamic studies, the adsorption experiment was carried out at different temperature conditions and calculated parameters included enthalpy (ΔH), entropy (ΔS), and Gibbs free energy (ΔG).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8876</offset>
+      <text>For this purpose, (1)–(3) were applied  where R is the natural gas constant and K C is the constant at equilibrium and is calculated aswhere C e is the concentration of sorbent at equilibrium condition.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9081</offset>
+      <text>2.8. Adsorption Kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9106</offset>
+      <text>In batch adsorption process, kinetic studies provide information about optimum conditions, mechanism of sorption, and possible rate controlling step. For this purpose, linear and nonlinear form of pseudo-first- and pseudo-second-order kinetics is applied on adsorption data []. In order to check the effect of contact time (10–70 min) on adsorption, initial concentration of 100 mg/L for cadmium was prepared and 100 ml of this sample was used for study. Sorbent (0.5 g) was added in this cadmium solution and applied for shaking at 150 rpm speed. After fixed interval of time, the sample was removed from flask and analyzed for cadmium concentration by atomic absorption spectrophotometer. The amount of cadmium adsorbed at different time intervals was calculated by employing the following formula:where Q t is the amount of cadmium adsorbed at any time t, Q o and Q e are initial and equilibrium concentrations, respectively. The volume of cadmium solution taken is represented by V(L), and W sorbent is the amount of sorbent in g.</text>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="9494" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="9595" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="9735" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="9811" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="9933" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="10049" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>10153</offset>
+      <text>2.8.1. Pseudo-First-Order Kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10188</offset>
+      <text>In order to calculate pseudo-first-order kinetics for adsorption system, following equations were used:where Q t is the amount adsorbed at time t, Q e is the equilibrium amount, t is time in minutes, and k 1 is the rate constant.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>10418</offset>
+      <text>2.8.2. Pseudo-Second-Order Kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10454</offset>
+      <text>For pseudo-second-order kinetics, linear and nonlinear forms were applied as follows: </text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10541</offset>
+      <text>3. Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10567</offset>
+      <text>3.1. Effect of Pretreatment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10595</offset>
+      <text>Pretreatment has promising effect on adsorption potential of Saccharum arundinaceum. Results reveal that base-treated (97.5%) sorbent shows good efficiency for cadmium sorption as compared to raw (91.15%) and acid-treated (57.6) sorbent as shown in Figure 1. Adsorption capacity depends upon functional groups present on the surface of sorbent and its microporous structure []. Increase in sorption capacity by base treatment can be attributed to hydroxyl groups created on the surface of adsorbent by base treatment or modification of cell wall components by base []. Decrease in adsorption after acid treatments was found as the binding sites available on the surface of biosorbent got destructed due to acid []. So, base-treated Saccharum arundinaceum was used for adsorption analysis.</text>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="10755" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11384</offset>
+      <text>3.2. Characterization of Sorbents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11418</offset>
+      <text> Saccharum arundinaceum was characterized in terms of surface morphology and functional group analysis by scanning electron microscopy and Fourier transform infrared spectroscopy.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>11598</offset>
+      <text>3.2.1. Scanning Electron Microscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11634</offset>
+      <text>Three native and two treated sorbents (acid- and base-treated Saccharum arundinaceum) were analyzed through scanning electron microscope to study surface morphology. Large pore size available on the surfaces of native and base-treated sorbent was responsible for enhanced adsorption on the surface of these agrowaste materials. Results for SEM analysis are given in Figure 2. Hollow cavities appear in the structure of raw adsorbent, which were responsible for binding of sorbate onto the surface of sorbent. Acid treatment decreases these cavities by deforming surface of the sorbent, so adsorption decreases after acid treatment because surface becomes smooth and thin adsorption layer is formed on the sorbent surface. Raw and base-treated sorbent surface is found rough and cylindrical, which make possible multilayer and thick adsorption on the sorbent surface as compared to smooth surface. Results obtained in the SEM micrograph are in good agreement with reported data [].</text>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="12106" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>12615</offset>
+      <text>3.2.2. Fourier Transform Infrared Spectroscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12662</offset>
+      <text>Fourier transform infrared spectrometer provides information about functional groups present on the surface of sorbent and makes possible attachment of sorbate []. FTIR spectra of sorbent obtained in the range of 4000–450 cm−1 wavenumber and major functional groups present in adsorbent are listed in Table 1. A broadband appears in the range of 3000–3700 cm−1 which was due to –OH stretching vibration of hydroxyl functional groups including hydrogen bonding because broadband of –OH group in this range is indication of hydrogen bonding present in the compound. This peak appears in raw and base-treated sorbent but disappears in case of acid treated due to reaction of –OH group with acid hydrogen. Stretching band of –CH appears in 2900–3000 cm−1 wavenumber range for all sorbents. The peak at 1750 cm−1 appears due to C=O and 1200 cm−1 due to C-O functional group. In some cases, –CN also appears at 1049 cm−1 value. Vibration due to secondary amide appears at 1645 cm−1 []. For adsorption purpose, significant role is played by –OH group and heteroatoms to attach sorbate on the surface.</text>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="12814" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="13105" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="13184" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011522</infon>
+        <location offset="13349" length="13"/>
+        <text>acid hydrogen</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="13611" length="5"/>
+        <text>amide</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="13732" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13802</offset>
+      <text>3.3. Adsorption Study</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13824</offset>
+      <text>Adsorption study was performed by the batch adsorption method by varying different parameters including pH, contact time, and initial concentration of sorbate to find best suited conditions for the removal of cadmium from aqueous media.</text>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="13975" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="14033" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>14061</offset>
+      <text>3.3.1. Effect of Contact Time</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14091</offset>
+      <text>Contact time was varied from 10 to 100 minutes under neutral conditions with constant amount of sorbent (1 g), initial concentration (60 ppm), and shaking speed (150 rpm), and results obtained are shown in Figure 1s (Supplementary material).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14339</offset>
+      <text>Maximum adsorption was achieved at 60 minutes time interval and no significant increase found by further increase in time. Initially, excess of vacant places are available on the surface of sorbent, and uptake of metal ions was more, so there was continuous increase in adsorption capacity by increasing time slot from zero to 60 minutes. But, further increase could not cause sufficient change in adsorption of metals as vacant spaces are already filled, and equilibrium is achieved [].</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>14827</offset>
+      <text>3.3.2. Effect of pH</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14847</offset>
+      <text>Initial pH of the adsorption system has significant role in adsorption of sorbate, as it affects the surface morphology of the sorbent and binding nature of sorbate. The range of pH selected was 2–10 with 1 g sorbent and 60 ppm initial concentration of sorbate. The result given in Figure 2s (Supplementary material) reveals the fact that adsorption capacity is quite low under acidic conditions. When pH is increased, it causes increase in adsorbed amount of sorbate on the surface of sorbent. At low pH value, metals have to compete with H+ ions for adsorption on sorbent surface since H+ ions are present in excess at that pH value. But when pH value is raised, it causes significant increase in adsorption due to attraction developed between negatively charged surfaces of sorbent by –OH groups and positively charged metal ions []. So, for cadmium, optimum pH range was found from 6 to 8; in this range, cadmium shows best adsorption behavior. When pH is further increased, there is decline in adsorption capacity due to formation of metal hydrides.</text>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="14921" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="15004" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="15100" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="15307" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15387" length="2"/>
+        <text>H+</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="15435" length="2"/>
+        <text>H+</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="15692" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="15756" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>15910</offset>
+      <text>3.3.3. Effect of Initial Concentration</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15949</offset>
+      <text>Initial concentration of sorbate is another important parameter, which affects the adsorption phenomenon. For this purpose, initial concentration of cadmium was varied in range of 10–100 ppm by keeping all other parameters constant (Figure 3s Supplementary material).</text>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="15974" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="16098" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16221</offset>
+      <text>Rapid increase in adsorption capacity was observed initially for adsorption of cadmium on Saccharum arundinaceum as vacant spaces were available on the surface of sorbent. So, rise in concentration also raised adsorption of sorbate on available sites []. Adsorbent readily occupies these adsorption sites, and adsorption capacity has positive influence of concentration in this range. Further increase in concentration from 60 to 100 ppm has no significant effect on adsorption phenomenon. Surface of adsorbent becomes saturated with sorbate, and after establishment of equilibria, increase in concentration has no significant influence on adsorption phenomenon. Previous studies also report that accommodation for sorbate decreases as concentration is very high due to unavailability of resident sites [].</text>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="16300" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="16445" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="16755" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="16936" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>17030</offset>
+      <text>3.3.4. Effect of Temperature</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17059</offset>
+      <text>The effect of temperature on adsorption was studied by using temperature range 20, 30, 40, and 50°C with pH 6 (Figure 4s) (Supplementary material). Adsorption of cadmium onto Saccharum arundinaceum agrowaste was found to increase with increase in temperature. At high temperature, intraparticle diffusion increases and more adsorption sites are created which boost up adsorption phenomenon [].</text>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="17221" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17454</offset>
+      <text>3.4. Equilibrium Isotherms</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17481</offset>
+      <text>Adsorption system can be designed by adsorption isotherms commonly known as equilibrium isotherms which represent the amount of solute adsorbed per unit weight of sorbent []. These isotherms use equilibrium concentration of sorbent at constant temperature. In order to remove effluents from the system, particular design is optimized to generate proper correlation for experimental data which is called adsorption isotherm. Researches proposed many isotherms in this regard which are based on the adsorption system including Langmuir, Freundlich, Redlich–Peterson, Temkin, and Elovich [, ]. Sorption was carried out by employing linear as well as nonlinear adsorption models by varying initial concentration from 10 to 100 ppm.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>18213</offset>
+      <text>3.4.1. Freundlich Isotherm</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18240</offset>
+      <text>Freundlich adsorption isotherm was developed for the heterogeneous system, and it gives concept of multilayer adsorption on the surface of sorbent (Figure 5s Supplementary material).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18423</offset>
+      <text>Parameters calculated for Freundlich isotherm by employing its linear and nonlinear form are given in Table 4. Freundlich isotherm was obtained by plotting log Cad versus log Ce. K F and n are constants obtained from intercept and slope, respectively. Freundlich adsorption capacity (K F) is an indicator of a system, whether it is favorable for adsorption or not. Adsorption is considered promising if value of K F is found in range of 1–20, and results reveal that in the present study, K F was 9.5 and 12.2, respectively, for linear and nonlinear approaches of Freundlich adsorption isotherm. Similarly, adsorption intensity represented by n indicates fitness of model for adsorption purposes if value of n is above 1. Value of R 2 obtained from the plot is significant (0.9446) representing good fitness of this model for adsorption of cadmium onto Saccharum arundinaceum.</text>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="19263" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>19302</offset>
+      <text>3.4.2. Langmuir Isotherm</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19327</offset>
+      <text>Langmuir adsorption isotherm is based on monolayer adsorption of metal ions on the surface of agrowastes, and energy of adsorption system is considered constant. In order to calculate Langmuir model, initial concentrations were changed from 10 to 100 ppm with 1 g sorbent amount and 1 h shaking time. Distribution of metal ions between liquid and solid surface was calculated by equations given in Table 1, employing linear and nonlinear forms of the model. Langmuir adsorption isotherm was obtained by plotting Ce/Cad versus Ce as shown in Figure 6s Supplementary material. R 2 value obtained for plot was found satisfactory showing fitness of model on the adsorption experiment. Q o represents metal ion uptake per unit mass of adsorbent (mg/g) and b is Langmuir constant []. A dimensionless constant R L is calculated by using Langmuir constant, and initial concentration represents model fitness for a particular system. If value of R L falls between 0 and 1, the system is considered appropriate for adsorption purpose and Table 2 shows results which are in this range. Furthermore, experimental data and predicted results obtained for the present work were found in close correlation with low value of residual sum of square (0.006) making this model applicable for the present work.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>20623</offset>
+      <text>3.4.3. Dubinin–Radushkevich Isotherm</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20662</offset>
+      <text>Dubinin–Radushkevich isotherm was designed as an empirical model for adsorption of vapors onto solid surface. It is successfully applied for adsorption of heterogeneous system including solid and liquid. This model is considered more general than Langmuir because in its derivation homogenous surface and constant sorption potential are not assumed []. The relationship given in Table 1s (supplementary data) was employed to relate ln Cad with ε 2, where ε 2 is Polanyi potential which is based on temperature, natural gas constant, and equilibrium concentration as given in the following equation: </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21274</offset>
+      <text>Slope of the plot gives value of k ad and the intercept is q s. The model showed good applicability on the adsorption system in nonlinear form with high value of R 2.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21441</offset>
+      <text>Dubinin–Radushkevich isotherm has found very promising applications for determination of nature of sorption, whether it is physical or chemical. For this purpose, k ad obtained from the slope of the plot is used in the following equation: </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21683</offset>
+      <text>The value of E calculated for the present research was 0.764 and suggests physical nature of sorption. Because the value of E below 8 kj/mol reflects physical sorption and 8–16 kj/mol reflects chemical sorption (Figure 7s Supplementary material).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>21936</offset>
+      <text>3.4.4. Temkin Isotherm</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21959</offset>
+      <text>Temkin adsorption isotherm discusses interaction of sorbent and sorbate, and the model is based on assumption that heat of adsorption will not remain constant. It decreases due to interaction between sorbent and sorbate during adsorption phenomenon []. Linear and nonlinear forms of Temkin model are given in Table 1s (Supplementary data). Equilibrium constant of binding K T provides information about binding energy, and β expresses heat of adsorption for a particular adsorption experiment (Figure 8s Supplementary material). Linear form of Temkin model is found more suitable with high value of binding constant as given in Table 2. The model indicates the exothermic nature of adsorption reaction as B &gt; 0 which is an indicator of heat release during the process [].</text>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="22023" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="22171" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>22736</offset>
+      <text>3.4.5. Elovich Isotherm</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22760</offset>
+      <text>According to Elovich model, mechanism of adsorption is based on chemical reactions which are responsible for adsorption. Plot of ln C ad/C e versus C ad gives R 2 value close to unity. K E and Q m are obtained from intercept and slope of plot, respectively. K E shows initial sorption rate and Q m is adsorption constant. Initial sorption rate obtained from linear form of Elovich model is quite high (35,100.411) as compared to nonlinear form (11.7891), so making linear form adequate to describe adsorption of cadmium onto Saccharum arundinaceum. Furthermore, R 2 value (0.9033) for linear form is also high than nonlinear form (0.835) (Figure 9s-Supplementary material).</text>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="23272" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23434</offset>
+      <text>3.5. Error Analysis for Equilibrium Isotherms</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23480</offset>
+      <text>In order to check the fit of adsorption model to experimental data, error functions are used []. In the present work, six error functions were applied on linear and nonlinear form of data by minimizing the error function in a range of concentration used for analysis by employing solver add-in with Microsoft Excel 2010. Results for optimization of equilibrium isotherms by error analysis are given in Table 3. For meaningful results, a comparison of each error function for linear and nonlinear forms was made (Figure 10s Supplementary material).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24028</offset>
+      <text>  R 2: Temkin &gt; Langmuir &gt; Elovich &gt; Freundlich &gt; Dubinin–Radushkevich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24119</offset>
+      <text>  RSS: Temkin &gt; Dubinin–Radushkevich &gt; Elovich &gt; Freundlich &gt; Langmuir</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24210</offset>
+      <text>  ARE: Dubinin–Radushkevich &gt; Temkin &gt; Freundlich &gt; Langmuir &gt; Elovich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24301</offset>
+      <text>  EABS: Dubinin–Radushkevich &gt; Langmuir &gt; Temkin &gt; Freundlich &gt; Elovich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24393</offset>
+      <text>  Chi-square (χ 2): Elovich &gt; Dubinin–Radushkevich &gt; Freundlich &gt; Temkin &gt; Langmuir</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24498</offset>
+      <text>For linear form of adsorption isotherms, a comparison of error functions reflects that Langmuir, Freundlich, and Elovich isotherms have good correlation with experimental values for the present adsorption study. These isotherms give low values for most of error functions. Applicability of these models for removal of cadmium ions from aqueous media is also studied by many researchers [, ]. </text>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="24816" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24891</offset>
+      <text>  R 2: Langmuir &gt; Freundlich &gt; Dubinin–Radushkevich &gt; Temkin &gt; Elovich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24982</offset>
+      <text>  RSS: Temkin &gt; Dubinin–Radushkevich &gt; Freundlich &gt; Langmuir &gt; Elovich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25073</offset>
+      <text>  ARE: Temkin &gt; Dubinin–Radushkevich &gt; Langmuir &gt; Elovich &gt; Freundlich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25164</offset>
+      <text>  EABS: Temkin &gt; Dubinin–Radushkevich &gt; Elovich &gt; Langmuir &gt; Freundlich</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25256</offset>
+      <text>  Chi-square (χ 2): Temkin &gt; Freundlich &gt; Dubinin–Radushkevich &gt; Elovich &gt; Langmuir</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25361</offset>
+      <text>Similar study was carried out by employing nonlinear form of adsorption models, and results are summarized below. Nonlinear form of Temkin isotherm was not found suitable for adsorption of cadmium onto Saccharum arundinaceum agrowaste because of high value of error functions. Freundlich and Elovich isotherms have been proved to be suitable models for this study with low value for error functions. </text>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="25550" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25762</offset>
+      <text>  R 2: Freundlich (linear approach) &lt; Freundlich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25829</offset>
+      <text>  RSS: Freundlich (linear approach) &lt; Freundlich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25896</offset>
+      <text>  ARE: Freundlich (linear approach) &gt; Freundlich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25963</offset>
+      <text>  EABS: Freundlich (linear approach) &lt; Freundlich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26031</offset>
+      <text>  Chi-square (χ 2): Freundlich (linear approach) &lt; Freundlich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26112</offset>
+      <text>A comparison between linear and nonlinear approaches of each adsorption isotherm was also made to select the most appropriate form for adsorption study. Linear form of Freundlich adsorption isotherm was found superior over nonlinear form with small error functions in most of the cases. </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26400</offset>
+      <text>  R 2: Langmuir (linear approach) &gt; Langmuir (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26472</offset>
+      <text>  RSS: Langmuir (linear approach) &lt; Langmuir (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26544</offset>
+      <text>  ARE: Langmuir (linear approach) &lt; Langmuir (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26616</offset>
+      <text>  EABS: Langmuir (linear approach) &lt; Langmuir (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26689</offset>
+      <text>  Chi-square (χ 2): Langmuir (linear approach) &lt; Langmuir (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26775</offset>
+      <text>For Langmuir adsorption isotherm, error function for nonlinear form was obtained high as compared with linear to exception of R 2. </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26907</offset>
+      <text>  R 2: Dubinin–Radushkevich (linear approach) &lt; Dubinin–Radushkevich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26998</offset>
+      <text>  RSS: Dubinin–Radushkevich (linear approach) &lt; Dubinin–Radushkevich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27089</offset>
+      <text>  ARE: Dubinin–Radushkevich (linear approach) &gt; Dubinin–Radushkevich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27180</offset>
+      <text>  EABS: Dubinin–Radushkevich (linear approach) &lt; Dubinin–Radushkevich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27272</offset>
+      <text>  Chi-sq/χ 2: Dubinin–Radushkevich (linear approach) &lt; Dubinin–Radushkevich (nonlinear)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27371</offset>
+      <text>Applicability of linear Dubinin–Radushkevich model was found better than nonlinear due to small value of error function (except ARE). </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27508</offset>
+      <text>  R 2: Elovich (linear approach) &gt; Elovich (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27578</offset>
+      <text>  RSS: Elovich (linear approach) &gt; Elovich (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27648</offset>
+      <text>  ARE: Elovich (linear approach) &lt; Elovich (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27718</offset>
+      <text>  EABS: Elovich (linear approach) &lt; Elovich (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27789</offset>
+      <text>  Chi-square (χ 2): Elovich (linear approach) &gt; Elovich (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27873</offset>
+      <text>Linear form of Elovich isotherm, which is also based on multilayer sorption on the surface of sorbent, shows small value of ARE and EABS, but other error functions were found lower for nonlinear form. </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28075</offset>
+      <text>  R 2: Temkin (linear approach) &gt; Temkin (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28143</offset>
+      <text>  RSS: Temkin (linear approach) &lt; Temkin (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28211</offset>
+      <text>  ARE: Temkin (linear approach) &lt; Temkin (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28279</offset>
+      <text>  EABS: Temkin (linear approach) &lt; Temkin (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28348</offset>
+      <text>  Chi-square (χ 2): Temkin (linear approach) &lt; Temkin (nonlinear approach)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28430</offset>
+      <text>Linear approach for Temkin isotherm was found favorable for adsorption of cadmium ions onto Saccharum arundinaceum with low error function. </text>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="28504" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28571</offset>
+      <text>3.6. Thermodynamic Studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28598</offset>
+      <text>Effect of temperature on adsorption was studied by using temperature range 20, 30, 40, and 50°C with pH 6 and variable initial concentration (30–120 ppm). Adsorption of cadmium onto Saccharum arundinaceum agrowaste was found to increase with increase in temperature. At high temperature, intraparticle diffusion increases and more adsorption sites are created which boost up adsorption phenomenon. Results for thermodynamic study are given in Table 4: </text>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="28767" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29056</offset>
+      <text>Plot of log Cad/Ce versus 1/T was obtained with R-squared value 0.927. Slop and intercept provide value of ∆H° and ∆S°, respectively, as shown in (10).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29214</offset>
+      <text>∆G° was calculated by employing (1) given in Section 2 in temperature range 292–328 K. Results show a negative value for Gibb's free energy at all temperature ranges, and ∆G° increases with the increase in temperature. These negative values represent spontaneous nature as well as feasibility of adsorption reaction []. Decrease in ∆G° with the increase in temperature reflects better sorption at elevated temperature. The positive value for change in enthalpy is due to endothermic nature of adsorption of cadmium. Enthalpy was also found positive because randomness in system increases due to solid-liquid interaction during adsorption phenomenon. Sorption energy calculated by Dubinin–Radushkevich model was found below 1 which is an indication of physical nature of cadmium sorption on the surface of sorbent. E &lt; 8 kJ/mol is representative of physical sorption, and E &gt; 8–16 kJ/mol is due to chemical sorption []. For adsorption of cadmium value of E is found below 8, so adsorption of cadmium occurred on the surface and no chemical bonding took place between sorbent and sorbate. Similar results for adsorption of cadmium onto agrowaste were reported in the literature [].</text>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="29721" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="29984" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="30151" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="30205" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="30292" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="30335" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>30423</offset>
+      <text>3.7. Adsorption Kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30448</offset>
+      <text>Adsorption kinetics has prime importance in describing solute uptake rate and time required for adsorption process. In the present work, kinetic study was performed at different time intervals for cadmium adsorption by employing linear and nonlinear forms of pseudo-first- and second-order kinetics. Results indicate that amount of cadmium adsorbed increases with the increase in time interval; however, this increase was sharp in the start of reaction and gradually magnitude of adsorption decreases down. Initially, plenty of active sites were available on the surface of sorbent, so sharp rise in adsorption occurred, but these sites got occupied with the passage of time, so magnitude of adsorption gradually decreases [].</text>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="30645" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="30780" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>31175</offset>
+      <text>3.7.1. Pseudo-First-Order Kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31210</offset>
+      <text>For pseudo-first-order kinetic model, log (Q e − Q t) was plotted against time interval and value of k was obtained from slope of the line and Q e from intercept. Initial sorption rate, h, was calculated by the following equation: </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31448</offset>
+      <text>Poor correlation was obtained for linear form of the model with low value of R 2 (0.0918). Results indicate that adsorption of cadmium onto Saccharum arundinaceum does not follow pseudo-first-order kinetics. Nonlinear form of pseudo-first-order kinetics was obtained by using Microsoft Excel 2010 [].</text>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="31575" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>31749</offset>
+      <text>3.7.2. Pseudo-Second-Order Kinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31785</offset>
+      <text>Second-order kinetics is applicable on small amount of initial concentration for determination of initial sorption rate. Different linear and nonlinear forms of pseudo-second-order kinetics are given in Table 3s (Supplementary material). These four linear forms of pseudo-second-order kinetic models were applied on experimental data, and Figures 11s–15s (Supplementary material) show results for these models. Coefficient of determination (R 2), found for type 1, was quite high indicating the best fitting of this model on adsorption data of cadmium. Results obtained for pseudo-second-order kinetic are given in Table 4s (Supplementary material). Theoretical results obtained for amount of cadmium adsorbed at equilibrium are found best fitted with experimental data for pseudo-second-order kinetics. For nonlinear form of pseudo-second-order, a computer-based procedure was used in Microsoft Excel 2010 using solver add-in method as reported in the literature []. For sorption of cadmium onto Saccharum arundinaceum pseudo-second-order kinetic may describe the method of adsorption in quite appropriate way as compared to pseudo-first-order approach. Furthermore, nonlinear form of pseudo-second-order gives close results to experimental data.</text>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="32329" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="32478" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="32769" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>33035</offset>
+      <text>3.8. Effect of Interfering Ions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33067</offset>
+      <text>Process of adsorption becomes complicated in case of multicomponent adsorption as many interactions of sorbent and sorbate are involved. Effect of interfering ions was measured by observing adsorption of one metal ion, and then, by addition of interfering ion change in adsorption capacity was noted. Interfering effect was calculated by employing the following equation:where C mix is the % adsorption of mixture of two metal ions and C is the % adsorption of pure metal on selected sorbent. If the value of C mix/C is found equal to 1, then there is no effect of interfering ions on adsorption phenomenon. However, if it is found less than 1, then adsorption capacity is found to be affected by addition of these interfering ions. To study interference, ions were divided into three categories as monovalent, bivalent, and trivalent ions based on valences of ions. One ion was selected from each class of ions to check the interfering effect on adsorption of cadmium ions. Metals are attached on the surface of sorbent through electrostatic forces, and competition of metals for sorbent place is mainly based on metal ion charge and its attraction towards functional groups present on the surface on adsorbent. Results for interference of metal ions are summarized in Table 5. Metals with high charge value were found to have maximum effect on adsorption of cadmium as compared with those with low charge. Anions have also found to affect the adsorption phenomenon of metal ions but their interference is comparatively very less than cations. Adsorption of anions on sorbent is dependent on charge present on the surface of sorbent. Since negatively charged hydroxyl groups are present on the surface of adsorbent, adsorption of anions is not as favored as cations [].</text>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="33182" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="34028" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="34427" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>34838</offset>
+      <text>4. Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34852</offset>
+      <text>Removal of cadmium was performed by employing the stem powder of Saccharum arundinaceum. In order to generate proper correlation for the removal of cadmium, five adsorption isotherms were applied on experimental data including Freundlich, Langmuir, Dubinin–Radushkevich, Elovich, and Temkin. Error analysis provides information about fitness of these models on experimental data. The model with minimum error was selected best for adsorption data. Order of equilibrium isotherms according to increasing RSS value was found as Temkin &gt; Dubinin–Radushkevich &gt; Elovich &gt; Freundlich &gt; Langmuir.</text>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="34863" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="35000" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35463</offset>
+      <text>Linear form of Freundlich and Langmuir models was found best fitted with minimum value of error. Effect of temperature on cadmium adsorption was investigated by thermodynamic analysis, and it was found to increase with increase in temperature. Gibb's free energy (∆G° = −612.34 at 303 K) revealed spontaneous nature of sorbent-sorbate binding reaction, and it followed pseudo-second-order kinetics.</text>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="35585" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013011</infon>
+        <location offset="35790" length="7"/>
+        <text>sorbate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>35873</offset>
+      <text>Data Availability</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35891</offset>
+      <text>The data used to support the findings of this study are available from the corresponding author upon request.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>36001</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36023</offset>
+      <text>The authors declare that they have no conflicts of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>36084</offset>
+      <text>Supplementary Materials</text>
+    </passage>
+    <passage>
+      <infon key="file">BCA2018-3463724.001.jpg</infon>
+      <infon key="id">fig1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>40428</offset>
+      <text>Effect of pretreatment on adsorption capacity of Saccharum arundinaceum (0.1 M HCl and NaOH treated sorbent, 60 minutes time, and 60 ppm initial concentration).</text>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="40507" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="40515" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">BCA2018-3463724.002.jpg</infon>
+      <infon key="id">fig2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>40593</offset>
+      <text>(a) SEM image of raw Saccharum arundinaceum at three different resolutions. (b) SEM image of base-treated Saccharum arundinaceum at three different resolutions. (c) SEM image of acid-treated Saccharum arundinaceum at three different resolutions.</text>
+    </passage>
+    <passage>
+      <infon key="file">tab1.xml</infon>
+      <infon key="id">tab1</infon>
+      <infon key="type">table_caption</infon>
+      <offset>40839</offset>
+      <text>Identified functional groups present in Saccharum arundinaceum by FTIR spectroscopy.</text>
+    </passage>
+    <passage>
+      <infon key="file">tab2.xml</infon>
+      <infon key="id">tab2</infon>
+      <infon key="type">table_caption</infon>
+      <offset>41220</offset>
+      <text>Linear and nonlinear parameters of isothermal models for sorption of Cd onto Saccharum arundinaceum</text>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="41289" length="2"/>
+        <text>Cd</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">tab3.xml</infon>
+      <infon key="id">tab3</infon>
+      <infon key="type">table_caption</infon>
+      <offset>41841</offset>
+      <text>Error functions for optimization of equilibrium isotherms.</text>
+    </passage>
+    <passage>
+      <infon key="file">tab4.xml</infon>
+      <infon key="id">tab4</infon>
+      <infon key="type">table_caption</infon>
+      <offset>42550</offset>
+      <text>Thermodynamic parameters for adsorption of cadmium onto Saccharum arundinaceum.</text>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="42593" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">tab5.xml</infon>
+      <infon key="id">tab5</infon>
+      <infon key="type">table_caption</infon>
+      <offset>42839</offset>
+      <text>Effect of interfering cations and anions on % adsorption of cadmium.</text>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002104</infon>
+        <location offset="42899" length="7"/>
+        <text>cadmium</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

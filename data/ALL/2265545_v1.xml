@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180329</date>
+  <key>pmc.key</key>
+  <document>
+    <id>2265545</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Wu;given-names:Suh-Chin</infon>
+      <infon key="name_2">surname:Butler;given-names:Michael</infon>
+      <infon key="name_1">surname:Lee;given-names:Shiang-Chi</infon>
+      <infon key="name_0">surname:Liu;given-names:Chia-Chyi</infon>
+      <infon key="article-id_pmid">18350148</infon>
+      <infon key="issue">3</infon>
+      <infon key="year">2008</infon>
+      <infon key="article-id_publisher-id">07-PONE-RA-01686R1</infon>
+      <infon key="article-id_pmc">2265545</infon>
+      <infon key="alt-title">Dengue Virus Genetic Stability</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1371/journal.pone.0001810</infon>
+      <infon key="elocation-id">e1810</infon>
+      <infon key="volume">3</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</infon>
+      <infon key="name_4">surname:Kallas;given-names:Esper Georges</infon>
+      <offset>0</offset>
+      <text>High Genetic Stability of Dengue Virus Propagated in MRC-5 Cells as Compared to the Virus Propagated in Vero Cells</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>115</offset>
+      <text>This work investigated the replication kinetics of the four dengue virus serotypes (DEN-1 to DEN-4), including dengue virus type 4 (DEN-4) recovered from an infectious cDNA clone, in Vero cells and in MRC-5 cells grown on Cytodex 1 microcarriers. DEN-1 strain Hawaii, DEN-2 strain NGC, DEN-3 strain H-87, and DEN-4 strain H-241 , and DEN-4 strain 814669 derived from cloned DNA, were used to infect Vero cells and MRC-5 cells grown in serum-free or serum-containing microcarrier cultures. Serum-free and serum-containing cultures were found to yield comparable titers of these viruses. The cloned DNA-derived DEN-4 started genetically more homogeneous was used to investigate the genetic stability of the virus propagated in Vero cells and MRC-5 cells. Sequence analysis revealed that the DEN-4 propagated in MRC-5 cells maintained a high genetic stability, compared to the virus propagated in Vero cells. Amino acid substitutions of Gly104Cys and Phe108Ile were detected at 70%, 60%, respectively, in the envelope (E) protein of DEN-4 propagated in Vero cells, whereas a single mutation of Glu345Lys was detected at 50% in E of the virus propagated in MRC-5 cells. Sequencing of multiple clones of three separate DNA fragments spanning 40% of the genome also indicated that DEN-4 propagated in Vero cells contained a higher number of mutations than the virus growing in MRC-5 cells. Although Vero cells yielded a peak virus titer approximately 1 to 17 folds higher than MRC-5 cells, cloned DEN-4 from MRC-5 cells maintained a greater stability than the virus from Vero cells. Serum-free microcarrier cultures of MRC-5 cells offer a potentially valuable system for the large-scale production of live-attenuated DEN vaccines.</text>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052839</infon>
+        <location offset="337" length="9"/>
+        <text>Cytodex 1</text>
+      </annotation>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="1021" length="10"/>
+        <text>Amino acid</text>
+      </annotation>
+      <annotation id="211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="1049" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="1055" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="1063" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007532</infon>
+        <location offset="1069" length="3"/>
+        <text>Ile</text>
+      </annotation>
+      <annotation id="215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="1206" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="1212" length="3"/>
+        <text>Lys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1840</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1853</offset>
+      <text>The four dengue serotype viruses (DEN-1 to DEN-4) (genus flavivirus, family Flaviviridae) are single stranded, positive-sense RNA viruses that are transmitted to humans primarily by Aedes aegypti mosquitoes. The RNA genome contain sequences coding for three structural protein genes (core C, precursor membrane prM, and envelope E), seven non-structural protein genes (NS1, NS2A, NS2B, NS3, NS4A, NS4B, NS5), and the flanking non-translating regions. DEN infection in humans causes a spectrum of illnesses, ranging from dengue fever (DF) to dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS) . Approximately 50–100 million infections, including 250,000 cases of DHF with fatality rates varying from &lt;1% to 5%, occur every year mostly in tropical and subtropical areas . Dengue is endemic in South-east Asia, where the severe form of DHF/DSS frequently associated with secondary DEN infections is the major cause of hospitalization of young children . A safe and effective dengue vaccine is still not available for prevention of DEN infection.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2910</offset>
+      <text>The current DEN immunization strategy favors the use of live-attenuated vaccines which offer the advantage of a single dose, delivering a complete set of protective antigens and achieving a long-lasting immunity . Further, the use of a tetravalent DEN vaccine against each of the four serotypes would have the possibility to minimize the risk of severe dengue . Wild type DEN-1, DEN-2, DEN-3, DEN-4 strains have been attenuated by serial passage in primary dog kidney cells (or monkey kidney cells) – and final vaccines were produced in fetal rhesus lung cells or Vero cells –. Extensive clinical trials have demonstrated that each monovalent DEN vaccine appeared to be immunogenic and safe –. However, data obtained from clinical trials with a tetravalent vaccine formulation have not shown the predicted response, as immune imbalance or reactogenicity occurred for certain DEN serotypes , . Several other vaccine researchers also have applied the cDNA cloning added by chimeric virus technology and strategic modifications to generate viruses with the growth restriction phenotype in the genetic background of attenuated virus (for example, using DEN-4 with a deletion in 3′ NTR, attenuated 17D yellow fever vaccine or DEN-2 strain PDK-53) –. All of these cDNA-derived candidate DEN vaccines have been produced in Vero cells, recently certified for vaccine production. Although clinical trails with a few of these monotypic chimeric vaccines appeared to show desirable immunogenicity and reactogenicity, data from studies with such vaccines of other serotypes or a tetravalent vaccine formulation are still not available. Potential replication interference among the four serotype vaccine components that results in immune imbalance remains a concern.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4674</offset>
+      <text>Replication interference could result from loss or increase of infectivity due to genetic instability and accumulation of mutations in certain vaccine components. Passages of DEN viruses or their derived chimeras in Vero cells ,  have been shown to generate mutations specific for host cell adaptation, virus attenuation, or other properties yet to be characterized. Recently, spot-check sequencing in the manufacturing of chimeric DEN-2 PDK-53 vaccine components has detected loss of attenuating mutation markers in a number of seed stocks during first several passages in Vero cells and these vaccine seeds were not appropriate for use . It is also possible that passage of virus in certain cells produces host-cell specific mutations which could contribute to host cells' innate immunity response in the vaccinees. The use of appropriate cell substrates and methods for culturing these cells for production of vaccines represents a critical factor affecting the maximum viral yield, genetic stability, immunogenicity, and ultimately vaccine safety and economic feasibility.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5751</offset>
+      <text>Recently, a serum-free medium has been developed to support the growth of Vero cells on solid microcarriers and produce a high final yield for reovirus , Japanese encephalitis virus , and enterovirus type 71 , . Although an attempt has not been made for producing DEN vaccines, human diploid MRC-5 cells have been already used for the production of several live-virus vaccines such as oral polio, rubella, small pox, and varicella zoster . This study investigated Vero cells and MRC-5 cells for the production of the four wild type DEN serotypes, including DEN-4 derived from an infectious DNA clone. We focused on the processes of cell culture using microcarrier systems which can be adapted for large-scale production and serum-free medium to avoid potential contamination from bovine serum. Currently, several panels of tetravalent DEN vaccine candidates have been derived from viruses of diverse genetic background responsible for growth restriction , . In order to simplify interpretation of results, cloned DNA derived wild type DEN-4 was used for comparison of progeny genetic stabilities from passages of the virus in Vero cells and in MRC-5 cells. This strategy using cloned DNA-derived wild type rather than attenuated DEN-4 has been previously used to investigate the genetic mutations of chimeric DEN-4 after Vero cell adaptation . Our present studies show that Vero cells yielded a peak virus titer approximately 1 to 17 folds higher than MRC-5 cells, and DEN-4 propagated in MRC-5 cells maintained a greater stability than the virus propagated in Vero cells. Serum-free microcarrier cultures of MRC-5 cells offer a potentially valuable system for the large-scale production of live-attenuated DEN vaccine.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>7471</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7479</offset>
+      <text>Microcarrier cultures of Vero cells and MRC-5 cells grown in serum-free and serum-containing media</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7578</offset>
+      <text>Solid microcarriers (Cytodex 1) have been shown to support the growth of Vero cells in either serum-containing or serum-free medium –. To investigate whether microcarriers also support the growth of MRC-5 cells, MRC-5 cells were seeded at an initial density of 3×105 cell/ml in serum-containing medium or 6×105 cells/ml in serum-free medium on microcarriers. Vero cells were also seeded at same density in the respective medium as a control. Three days after incubation, both the Vero cells and MRC-5 cells adhered to the entire surface of the microcarrier beads, reaching confluency as seen microscopically (Fig. 1). The cell density was determined at 1.6×106 cells/ml in serum-free medium or 1.4×106 cells/ml in serum-containing medium for MRC-5 cells, compared to 1.7×106 cells/ml in serum-containing medium or 1.8×106 cells/ml in serum-free medium for Vero cells. Doubling the cell density in serum-free culture was needed to support the cell growth on microcarriers. Increased cell seed lot consumption in serum-free cultures is a continuing problem in vaccine manufacturing processes, particularly in large-scale microcarrier cultures. We are currently optimizing additional components in the M-VSFM medium to reduce the cell density for initial inoculation in serum-free microcarrier cultures (data not shown).</text>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052839</infon>
+        <location offset="7599" length="9"/>
+        <text>Cytodex 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0001810.g001.jpg</infon>
+      <infon key="id">pone-0001810-g001</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>8904</offset>
+      <text>Vero and MRC-5 cell growth on Cytodex 1 microcarriers in serum-free cultures.</text>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052839</infon>
+        <location offset="8934" length="9"/>
+        <text>Cytodex 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0001810.g001.jpg</infon>
+      <infon key="id">pone-0001810-g001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>8982</offset>
+      <text>Microscopic observation shows (A) Vero and (B) MRC-5 cells on microcarriers in M-VSFM after 3 days culture.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9090</offset>
+      <text>Production of DEN-1, DEN-2, DEN-3 and DEN-4 in infected Vero cells and MRC-5 cells</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9173</offset>
+      <text>Production of DEN-1 strain Hawaii, DEN-2 strain NGC, DEN-3 strain H-87 and DEN-4 strain H-241 in Vero cells and in MRC-5 cells grown in serum-containing and serum-free media was studied. Figs. S2, S3, S4 and S5 show the cell growth and virus replication curves at a multiplicity of infection (MOI) of 0.01 in serum-free and serum-containing media. In each case the cell density decreased gradually during the 10-day period following virus infection, and no appreciable differences were observed between cells growing in serum-free medium and in serum-containing cultures. The virus yields from Vero cells was 1 to 17 folds higher than that from MRC-5 cells for each serotype virus (Table 1), whether in serum-containing or serum-free medium. Compared to DEN-2 NGC, DEN-3 H87 and DEN-4 H241 produced a 103- to 104-fold lower viral yield from Vero cells or a 102- to 103-fold lower yield from MRC-5 cells in serum-containing medium. The serotype difference was probably not responsible for the low viral yields, as the DEN-4 strain derived from cDNA replicated as efficiently as DEN-2. A plausible reason for the unexpected low yields is that these viruses have acquired mutations during passages in cultured cells or in animals. This probability was supported from the analysis of viral yields in similar infections with the wild type DEN-4 derived from a cDNA clone (see next section). Importantly, higher viral yields from Vero cells or MRC-5 cells were consistently observed at 0.3- to 2.6-fold higher for the four DEN serotypes in serum-free medium than in serum-containing media.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone-0001810-t001.xml</infon>
+      <infon key="id">pone-0001810-t001</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>10757</offset>
+      <text>The maximum virus titers for four-serotype DEN virus strains and the cloned DNA-derived DEN-4 viruses in Vero cells and MRC-5 cells on microcarriers, in serum-containing and serum-free media.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10949</offset>
+      <text>Propagation of cloned DNA-derived DEN-4 in Vero cells and MRC-5 cells and sequence analysis of progeny DEN-4</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11058</offset>
+      <text>DEN-4 strain 814669 recovered from cloned DNA was propagated in microcarrier cultures of both cell lines. Infection with the virus was carried out at the same multiplicity as described earlier. The density of Vero cells or MRC-5 cells decreased steadily during the subsequent 10-day period, indicating that both cells were readily infected (Fig. S5). The viral yields of cloned DNA derived DEN-4 in microcarrier cultures of both cells were comparable to that observed for DEN-2 NGC. There were appreciable differences in the viral yields between cell cultures in serum-containing or serum-free medium (Table 1). Vero cells produced a virus titer of cloned DEN-4 increased by 11 folds (serum-free medium) and 14 folds (serum-containing medium) as compared to MRC-5 cells.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11829</offset>
+      <text>DEN-4 derived from cloned DNA was propagated in the microcarrier cultures of Vero cells or MRC-5 cells in serum-free or serum-containing medium for 4 days. The nucleotide sequence of progeny DEN-4 was determined from a single cDNA clone representing each of the four overlapping regions, designated as W01/W02R, W03/W04R, W05/W06R, W07/W08R, spanning the entire DEN genome. Each progeny DEN-4 sequence was compared with the parent DEN-4 DNA sequence (GenBank accession number: AF375822). The results in Table 2 revealed that there were 18 nucleotide mutations resulting in 13 amino acid changes in DEN-4 propagated in Vero cells using serum-containing medium, and 11 nucleotide mutations resulting in 6 amino acid changes in DEN-4 propagated in Vero cells grown in serum-free medium. In contrast, there was only one nucleotide mutation resulting in one amino acid change in each DEN-4 propagated in MRC-5 cells grown in serum-containing medium or in serum-free medium. None of the amino acid changes was identical between the DEN-4 propagated in Vero cells grown in serum–containing medium or in serum-free medium. Further, these amino acid changes in DEN-4 occurred in nearly all gene segments and the number of mutations, ie., a total of 6 each in NS3 and in NS4B-NS5, appeared to reflect the large size of the gene segments. This suggests that a host range selection of mutations was probably not involved. By comparison, there was only one amino acid change in the entire genome of DEN-4 from MRC-5 cells whether or not serum was present in the medium. This finding indicates that a greater genomic stability of cloned DNA-derived DEN-4 was observed when the virus was propagated in MRC-5 cells, compared to virus propagated in Vero cells.</text>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="11989" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="12368" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12405" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="12496" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12532" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="12645" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12682" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12810" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12959" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="13273" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0001810-t002.xml</infon>
+      <infon key="id">pone-0001810-t002</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>13575</offset>
+      <text>Genomic sequences of the cloned DNA-derived DEN-4 viruses in Vero and MRC-5 cells on microcarriers, in serum-containing and serum-free media.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13717</offset>
+      <text>Sequences of multiple clones of three genomic fragments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13773</offset>
+      <text>Since the previous DEN-4 sequence determination was made from one DNA clone representing each of the four genome segments, to further investigate the genome stability of DEN-4 during passages in Vero cells and in MRC-5 cells, sequences of multiple clones were determined. The DNA-derived DEN-4 viruses were obtained in Vero cells or in MRC-5 cells at three consecutively passages after in vitro RNA transfection (as P1, P2, P3 samples). P1 and P2 viruses were harvested from cells grown in T flask cultures and the P3 passage virus was from a microcarrier culture. Multiple clone sequencings were conducted on the three genomic fragments (WE1/W02R, W28/W29R, W21/W23R) because most mutations identified earlier were localized in these fragments. These fragments are: (i) WE1/W02R, consisting of the full-length E gene and the NS1 gene portion encoding the first 152 amino acids; (ii) W28/W29R, consisting of part of NS3 gene encoding the amino acids 42–455; and (iii) W21/W23R, consisting of the entire NS4B gene and the NS5 gene portion encoding the first 180 amino acids. A total of 180 independent clones were obtained for sequence determination in this study.</text>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="14639" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="14711" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="14834" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14939</offset>
+      <text>No nucleotide mutation was found in the WE1/W02R (E-NS1) fragments of P1 and P2 passages from Vero or MRC-5 cells (Table 3). However, there were 7 nucleotide differences that resulted in 5 amino acid mutations in E protein at G104C, F108I, G427R, V439F, and V463L from Vero cells after three passages. Likewise, there were 3 nucleotide differences including 3 amino acid mutations in E protein at E345K, N362K, and G427R from MRC-5 cells (Table 3). The mutation frequencies of G104C and F108I in Vero cells and E345K in MRC-5 cells were 70%, 60%, and 50% respectively. In the W28/W29R (NS3) fragments, the P3 viruses from microcarrier cultures revealed 16 mutations resulting in 11 amino acid changes in Vero cells and 3 mutations resulting in 2 amino acid changes in MRC-5 cells. Each of these mutations in the NS3 protein occurred at a frequency of 10% except E341G at a frequency of 20% (Table 4). In the W21/W23R (NS4B-NS5) fragment, there were 11 mutations resulting in 10 amino acid changes in the P3 virus from Vero cells on microcarriers. The mutations were found at L112F and A240V in the NS4B protein at a frequency of 30%, while other mutations occurred at a frequency of 10%. Interestingly, there was only 1 nucleotide mutation resulting in 1 amino acid change in DEN-4 from MRC-5 cells grown on microcarriers at P3 (Table 5).</text>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="14942" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="15086" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15128" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="15264" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15299" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15621" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15685" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="15917" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="16159" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="16194" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>16278</offset>
+      <text>10 clones were sequenced in each case.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone-0001810-t003.xml</infon>
+      <infon key="id">pone-0001810-t003</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>16317</offset>
+      <text>Nucleotide and amino acid mutations in the WE1-W02R (E-NS1) genetic fragment of the cloned DNA-derived DEN-4 viruses propagated in Vero and MRC-5 cells at three consecutive passages using serum-free medium.</text>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="16317" length="10"/>
+        <text>Nucleotide</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="16332" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>16524</offset>
+      <text>10 clones were sequenced in each case.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone-0001810-t004.xml</infon>
+      <infon key="id">pone-0001810-t004</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>16563</offset>
+      <text>Nucleotide and amino acid mutations in the W28-W29R (NS3) genetic fragment of the cloned DNA-derived DEN-4 viruses propagated in Vero and MRC-5 cells at three consecutive passages using serum-free medium.</text>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="16563" length="10"/>
+        <text>Nucleotide</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="16578" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>16768</offset>
+      <text>10 clones were sequenced in each case.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone-0001810-t005.xml</infon>
+      <infon key="id">pone-0001810-t005</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>16807</offset>
+      <text>Nucleotide and amino acid mutations in the W21-W23R (NS4B-NS5) genetic fragment of the cloned DNA-derived DEN-4 viruses propagated in Vero and MRC-5 cells at three consecutive passages using serum-free medium.</text>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="16807" length="10"/>
+        <text>Nucleotide</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="16822" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17017</offset>
+      <text>These results were then analyzed on the basis of amino acid mutations detected in each of the three fragments sequenced. The mean diversity and mean p-distance of amino acid mutations in each genomic fragment of 10 independent clones were calculated (Table 6). The numbers of amino acid mutations within the WE1/W02R, W28/W29R, W21/W23R fragments respectively were 17, 12, 13 from Vero cells, and 7, 2, 0 from MRC-5 cells. The values of mean diversity calculated for these three genomic fragments were 0.31 (WE1/W02R), 0.29 (W28/W29R), and 0.31 (W21/W23R) in Vero cells, as compared to 0.13 (WE1/W02R), 0.05 (W28/W29R), and 0 (W21/W23R) in MRC-5 cells. The values of mean diversity calculated from MRC-5 cells were at least 2 folds lowered than from Vero cells. Calculation of the p-distance based on pair wise comparisons of amino acid sequences between clones also showed the values of mean p-distance were 0.36 (range 0–0.70) in Vero cells compared to 0.19 (range 0–0.50) in MRC-5 cells in the WE1-W02R fragment; 0.56 (range 0–0.12) in Vero cells compared to 0.13 (range 0–0.50) in MRC-5 cells in the W28-W29R fragment; 0.50 (range 0–1.40) in Vero cells compared to 0 (range 0) in MRC-5 cells in the W21-W23R fragment. All of these data demonstrated that the cloned DEN4 propagated in MRC-5 cells were more stable than those propagated in Vero cells.</text>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="17066" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="17180" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="17293" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="17843" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>18381</offset>
+      <text>The mean diversity is the number of substitutions divided by the total number of amino acids sequenced.</text>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="18462" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>18485</offset>
+      <text>p-distances were calculated by pair wise comparison of amino acid sequences between clones by the program MEGA.</text>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="18540" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0001810-t006.xml</infon>
+      <infon key="id">pone-0001810-t006</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>18597</offset>
+      <text>The number of amino acid mutations and the mean diversity for the three genetic fragments of the cloned DNA-derived DEN-4 viruses propagated in Vero and MRC-5 cells in serum-free cultures.</text>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="18611" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18786</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18797</offset>
+      <text>This work has investigated the replication kinetics of four-serotype and cloned DNA-derived DEN viruses in Vero and MRC-5 cells. Vero (African green monkey kidney) cells are polyploidy (recently certified as cell hosts for producing DEN vaccines) and MRC-5 (human fetal lung fibroblast cells) are diploid. Both cell lines have been already used to develop several human vaccines , and Vero cells are currently used for candidate DEN vaccine production. However, viral yield and genetic stability of DEN viruses have not been systematically compared between Vero and MRC-5 cell lines.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19381</offset>
+      <text>High titers of DEN-1 (HAWAII) and DEN-2 (NGC) but relatively low titers of DEN-3 (H-87) and DEN-4 (H-241) were obtained in this study in either Vero cells or MRC-5 cells, although both cells were grown to a similar density on microcarrieres prior to virus infection. A possible explanation is that the DEN-4 (H-241) virus strain used was the non mouse-adapted strain rather than the prototype mouse-adapted strain since the non mouse-adapted strain was associated with two E protein mutations (Ile for Thr-155, Leu for Phe-401) . This study obtained high titers (1∼2×106 pfu/ml) of cloned DEN-4 (81466 strain) in both Vero cells and MRC-5 cells. The viral yield of cloned DEN-4 (81466 strain) produced in MRC-5 cells on microcarriers (at P3) was approximately 10 folds lower and had only one amino acid change compared to those in Vero cells with thirteen and six amino acid mutations in serum-free and serum-containing cultures, respectively (Table 2). Almost no P1 and P2 virus mutations in the Vero and MRC-5 cells grown in T flasks were found by sequencing of multiple clones (Tables 3∼ 5). The increased genetic mutations of cloned DEN4 observed in Vero cells were probably caused by passage number or high-density microcarrier culture rather than the increased virus yield.</text>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007532</infon>
+        <location offset="19875" length="3"/>
+        <text>Ile</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="19883" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="19892" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="19900" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="20173" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="20245" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20666</offset>
+      <text>Comparative mutation rate in this study was based only on the genomic sequences of the cloned DNA-derived DEN4 from passages 1 through 3, the latter representing microcarrier culture viruses. This study did not investigate the genomic characteristics of the non-cloned wild type viruses such as the DEN-1 (HAWAII), DEN-2 (NGC), DEN-3 (H-87), and DEN-4 (H-241) strains used for the virus yield studies in Figs S1, S2, S3 and S4. Thus, only the cloned DNA-derived DEN-4 virus started genetically more homogeneous was analyzed. The genomic changes in the cloned DEN-4 viruses in Table 2 indicate that the mutations occurred in C, E, NS1, NS2A, NS3, NS4A, NS4B, and NS5 but not in the 5′-NTR or 3′-NTR regions. This result is partly agreed with other related reports of mutations in C, M, E, NS2A, NS4B and NS5 regions for the DEN-2/DEN-4 chimeric virus , and in 5′ NTR, C, E, NS1, NS3, NS4A, NS4B and NS5 regions for the chimeric DEN-4/Japanese encephalitis virus . Multiple cloning experiments showed that most mutations were at 10% frequency and occurred in the third passage (P3) using microcarrier cultures (Tables 3, 4, 5). The E-G104C, E-F108I in Vero cells and the E-E345K in MRC-5 cells had mutation rates exceeding 50% and the NS4B-L112F and NS4B-A240V in Vero cells had mutation rates of 30%. These results conflict with the high rate of NS3 gene mutation reported in a recent study of the full-genomic sequences of several DEN-3 clinical isolates . Reportedly, NS4B is a key determinant of Vero cell adaptation for the intertypic-DEN chimeric viruses , . Our experiments showed that the NS4B-L112F and NS4B-A240V mutations occur in Vero cells at a frequency of only 30% (Table 5), which partially correlates with other studies of infectious clone DEN viruses  and 5′-FU mutagenized DEN viruses . However, the present report found that the E-G104C, E-F108I mutations in Vero cells and the E-E345K mutation in MRC-5 cells occurred at a higher frequency than the NS4B-L112F and NS4B-A240V mutations in Vero cells.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22693</offset>
+      <text>The DEN2-PDK-53-based chimeric viruses have recently been characterized by multiple plaque selection and spot/genomic sequencing . The current data based on the first three passages have already demonstrated a better genetic stability in MRC-5 cells than in Vero cells. Prompted by reports of success in manufacturing the DEN2-PDK-53-based tetravalent vaccine in certified Vero cells , the authors are currently investigating the genetic stability of attenuated chimeric cloned viruses of four serotypes to high passage levels. Passage numbers are limited to less than 10 since live-attenuated vaccines require limited passage levels from the seed virus to prevent unsafe virus reversion. After all, the data obtained in this study at the third passage of serum-free microcarrier cultures have already shown that the DEN virus propagated in MRC-5 cells is genetically more stable than in Vero cells. Therefore, despite the acceptance of Vero cells for many candidate DEN vaccine productions, the current findings indicate that MRC-5 cells grown on microcarriers may offer a more stable system for DEN virus production. This study is apparently the first to demonstrate that MRC-5 cells are a potentially better cell host for live-attenuated DEN vaccine production. These findings may be helpful in developing a biomanufacturing process for DEN vaccine production using high-density microcarrier cultures.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24098</offset>
+      <text>Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24120</offset>
+      <text>Cells and Media</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24136</offset>
+      <text>Vero cells, MRC-5 cells and BHK-21 cells were obtained from the Bioresource Collection and Research Center (BCRC), Food Industrial Research and Development Institute, Hsinchu, Taiwan. Vero cells and MRC-5 cells were grown in Dulbecco's Modified Essential Medium (DMEM) (Invitrogen) and BHK-21 cells were grown in Eagle's Minimum Essential Medium (EMEM) (Sigma) supplemented with 10% heat-inactivated fetal bovine serum (FBS) and 100 U/ml of penicillin G sodium-Streptomycin (Invitrogen). Vero cells and MRC-5 cells were also cultured in serum-free medium using M-VSFM serum free medium (Biogro) – plus 100 U/ml of penicillin G sodium-Streptomycin. No prior adaptation in reduced serum concentrations was required for serum free cultures. Trypsin inhibitor (GIBCO) was used at 0.25% for cell detachment to protect cell damage by trypsin treatment under serum-free conditions.</text>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24361" length="36"/>
+        <text>Dulbecco's Modified Essential Medium</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24399" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24449" length="32"/>
+        <text>Eagle's Minimum Essential Medium</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24483" length="4"/>
+        <text>EMEM</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="24577" length="19"/>
+        <text>penicillin G sodium</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="24597" length="12"/>
+        <text>Streptomycin</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010400</infon>
+        <location offset="24750" length="19"/>
+        <text>penicillin G sodium</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="24770" length="12"/>
+        <text>Streptomycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25013</offset>
+      <text>Viruses</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25021</offset>
+      <text>DEN-1 virus (Hawaii), DEN-2 virus (NGC), DEN-3 virus (H-87) and DEN-4 virus (H-241) were provided by the Center of Disease Control, Department of Health, Taiwan. Stock viruses were prepared from supernatants of infected C6/36 cells grown in Hank's MEM medium (GIBCO) plus supplements 6 days post-infection at 28°C . The plasmid of DEN-4 strain 814669 contained the full-length genomic sequence . The plasmid was first linearized by cleavage with restriction enzyme Kpn I and then added to a transcription reaction mixture (Promega kit) containing m7G(5′)ppp(5′)G (Merck) for cap addition at the RNA 5′-end. After incubation at 37°C for 1.5 hour, the RNA product was purified with TRIzol reagent (Invitrogen) according to manufacturer's instructions. Prior to RNA transfection, subconfluent Vero cells and MRC-5 cells in a 24-well plate were rinsed once with serum-free medium and then covered with 0.3 ml of DMEM medium per well. The transfection mixture was prepared by adding 4 µl of DMRIE-C reagent (Invitrogen) to 1 ml of DMEM, then mixing with 10 µg of the RNA product. The transfection mixture was added directly to cell monolayers. After 18 hours incubation at 37°C, either DMEM+10% FBS or M-VSFM medium were added to the well. Eight days after transfection, culture supernatants were collected. All virus stocks were stored at −80°C freezer for further analysis.</text>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="25262" length="10"/>
+        <text>Hank's MEM</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C411644</infon>
+        <location offset="25701" length="6"/>
+        <text>TRIzol</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="25929" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C087276</infon>
+        <location offset="26007" length="7"/>
+        <text>DMRIE-C</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="26047" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="26202" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>26406</offset>
+      <text>Microcarrier cultures</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26428</offset>
+      <text>Cytodex 1 microcarriers (Amersham Biosciences) were prepared according to manufacturer's instructions. Briefly, the Cytodex 1 microcarriers were immersed in phosphate buffer saline (PBS) for at least three hours and autoclaved for 15 min before each experiment. The autoclaved microcarriers were washed twice with the culture medium. Bellco spinner flasks (100-ml) were used in the experiments for a working volume of 50 ml. The spinner flasks were stirred at 60 rpm and placed inside an incubator with 5% CO2 at 37°C. Cells were detached from tissue culture flasks using trypsin-EDTA, and then transferred to a spinner flask containing 2g/l Cytodex 1 microcarriers. Starting cell densities were 3×105 cells/ml in serum-containing cultures and 6×105 cells/ml in serum-free cultures. The cell cultures were infected after 3 day inoculation and by replacing 70% of the medium with fresh medium containing the virus inoculum at a multiplicity of infection (MOI) of 0.01. Inoculation continued without further replacement with fresh medium or addition of supplements.</text>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052839</infon>
+        <location offset="26428" length="9"/>
+        <text>Cytodex 1</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052839</infon>
+        <location offset="26544" length="9"/>
+        <text>Cytodex 1</text>
+      </annotation>
+      <annotation id="2X121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="26585" length="23"/>
+        <text>phosphate buffer saline</text>
+      </annotation>
+      <annotation id="2X122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="26610" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="26934" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="27008" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052839</infon>
+        <location offset="27070" length="9"/>
+        <text>Cytodex 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27495</offset>
+      <text>Determination of cell density and virus titer</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27541</offset>
+      <text>The number of cells attached to the microcarriers was determined by nuclei staining. Briefly, a 1-ml sample of the microcarrier culture was taken and centrifuged at 200 g for 5 min to remove the supernatant. The pellets were treated with 1 ml 0.1 M citric acid [containing 0.1% (w/v) crystal violet] and incubated at 37°C for 1 hour. The released nuclei were counted in a hemocytometer. The virus titer was measured by 10-fold serial dilutions of the culture supernatant in duplicate infections of BHK-21 cell monolayers in a 6-well plate. After 1 hour incubation at 37°C, 4 ml of medium containing 10% FBS and 1.1% methylcellulose (4 ml/well) was added to each well. Virus plaques were stained with naphthol blue black dye six days after incubation. The infectivity titer in plaque forming units (pfu) per ml was determined.</text>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019343</infon>
+        <location offset="27790" length="11"/>
+        <text>citric acid</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005840</infon>
+        <location offset="27825" length="14"/>
+        <text>crystal violet</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008747</infon>
+        <location offset="28157" length="15"/>
+        <text>methylcellulose</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C558655</infon>
+        <location offset="28241" length="19"/>
+        <text>naphthol blue black</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28369</offset>
+      <text>Sequencing the entire genome of cloned DNA-derived DEN-4</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28426</offset>
+      <text>Viral RNA was extracted from culture supernatants using TRIzol reagent (Invitrogen), and the cDNA synthesized by reverse transcription using Superscript II RTase (Invitrogen). The double-stranded DNA was then generated by polymerase chain reaction (PCR) using Platinum® Pfx DNA polymerase (Invitrogen). Four overlapping fragments that span the entire DEN genome were produced using 4 sets of forward and reverse primers: (i) W01/W02R, (ii) W03/W04R, (iii) W05/W06R, and (iii) W07/W08R as listed in Table S1. The DNA products were purified by Gel/PCR DNA fragments extraction kit (Geneaid, Taiwan), cloned into the pGEM T-easy vector (Promega). The nucleotide sequences of each of the four fragments cloned into the pGEM T-easy vector (from two upstream promoters SP6 and T7 at both ends of the vector) were determined by Mission Biotech Inc., Taipei, Taiwan. The cloned DNA segments that span the entire DEN genome were mapped using the software Lasergene version 6.00 (DNASTAR, Inc. USA) to determine the extent of overlapping sequences.</text>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C411644</infon>
+        <location offset="28482" length="6"/>
+        <text>TRIzol</text>
+      </annotation>
+      <annotation id="2X134">
+        <infon key="type">OTHER</infon>
+        <location offset="28686" length="28"/>
+        <text>Platinum® Pfx DNA polymerase</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="29074" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>29466</offset>
+      <text>Sequencing multiple clones of three DEN-4 fragments</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29518</offset>
+      <text>Three DNA fragments were synthesized from DEN-4 RNA by RT-PCR using Platinum® Pfx DNA polymerase with their respective forward and reverse primer sets: (i) WE1/W02R, (ii) W28/W29R, and (iii) W21/W23R (see Table S1 for sequences and their genomic locations). Each of these DNA fragments was inserted into pGEM T-easy cloning vector to obtain 10 or more independent clones for sequence analysis. The sequences were aligned in the WE1/W02R region (1,653-bp), the W28/W29R region (1,260-bp), and the W21/W23R region (1,278-bp) using the program Lasergene version 6.00 to generate the consensus sequence for each of the three fragemnts. The mean diversity of amino acids was determined as the number of amino acid substitutions divided by the total number amino acids sequenced , , . Pair wise comparisons of amino acid sequences between clones were performed to determine the mean and range of pair wise distance matrix (p-distance) using the program MEGA version 3.1 (Molecular Evolutionary Genetics Analysis, Pennsylvania State University, PA). The p-distance is the proportion of amino acid mutations at which the two sequences to be compared are different.</text>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="30172" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="30216" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="30269" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="30322" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="30597" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30676</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>30699</offset>
+      <text>Competing Interests: The authors have declared that no competing interests exist.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>30781</offset>
+      <text>Funding: This work was supported by the National Health Research Institutes (NHRI-EX95-9534SI) and the National Science Council (NSC94-2214-E-007-014; NSC95-2311-B-007-024-MY3), Taiwan.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>30967</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3929277</id>
+    <passage>
+      <infon key="name_3">surname:Zakalskiy;given-names:Andriy</infon>
+      <infon key="name_2">surname:Zakalska;given-names:Oksana</infon>
+      <infon key="name_1">surname:Nisnevitch;given-names:Marina</infon>
+      <infon key="name_0">surname:Sigawi;given-names:Sasi</infon>
+      <infon key="article-id_pmid">24672387</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_pmc">3929277</infon>
+      <infon key="article-id_doi">10.1155/2014/898323</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">898323</infon>
+      <infon key="volume">2014</infon>
+      <infon key="license">This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="name_5">surname:Gonchar;given-names:Mykhailo</infon>
+      <infon key="name_4">surname:Nitzan;given-names:Yeshayahu</infon>
+      <offset>0</offset>
+      <text>Bioconversion of Airborne Methylamine by Immobilized Recombinant Amine Oxidase from the Thermotolerant Yeast Hansenula polymorpha </text>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="26" length="11"/>
+        <text>Methylamine</text>
+      </annotation>
+      <annotation id="G1">
+        <infon key="type">OTHER</infon>
+        <location offset="65" length="13"/>
+        <text>Amine Oxidase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>131</offset>
+      <text>Aliphatic amines, including methylamine, are air-pollutants, due to their intensive use in industry and the natural degradation of proteins, amino acids, and other nitrogen-containing compounds in biological samples. It is necessary to develop systems for removal of methylamine from the air, since airborne methylamine has a negative effect on human health. The primary amine oxidase (primary amine : oxygen oxidoreductase (deaminating) or amine oxidase, AMO; EC 1.4.3.21), a copper-containing enzyme from the thermotolerant yeast Hansenula polymorpha which was overexpressed in baker's yeast Saccharomyces cerevisiae, was tested for its ability to oxidize airborne methylamine. A continuous fluidized bed bioreactor (CFBR) was designed to enable bioconversion of airborne methylamine by AMO immobilized in calcium alginate (CA) beads. The results demonstrated that the bioreactor with immobilized AMO eliminates nearly 97% of the airborne methylamine. However, the enzymatic activity of AMO causes formation of formaldehyde. A two-step bioconversion process was therefore proposed. In the first step, airborne methylamine was fed into a CFBR which contained immobilized AMO. In the second step, the gas flow was passed through another CFBR, with alcohol oxidase from the yeast H. polymorpha immobilized in CA, in order to decompose the formaldehyde formed in the first step. The proposed system provided almost total elimination of the airborne methylamine and the formaldehyde.</text>
+      <annotation id="2X23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="131" length="16"/>
+        <text>Aliphatic amines</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="159" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="272" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="295" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="398" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="439" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">OTHER</infon>
+        <location offset="494" length="21"/>
+        <text>primary amine oxidase</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">OTHER</infon>
+        <location offset="517" length="51"/>
+        <text>primary amine : oxygen oxidoreductase (deaminating)</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">OTHER</infon>
+        <location offset="572" length="13"/>
+        <text>amine oxidase</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="608" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="798" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="905" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="939" length="16"/>
+        <text>calcium alginate</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="957" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="1072" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="1144" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="1243" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">OTHER</infon>
+        <location offset="1379" length="15"/>
+        <text>alcohol oxidase</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="1439" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="1469" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="1578" length="11"/>
+        <text>methylamine</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="1598" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1616</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1632</offset>
+      <text>Outdoor and indoor organic air-pollutants pose a serious threat to public health. According to estimates of the World Health Organization (WHO), nearly 800,000 people worldwide die annually from diseases caused by the effects of air-pollution []. Methylamine (MA) is the simplest primary amine which is used to produce a variety of important chemical products: pharmaceuticals, pesticides, fuel additives, explosives, solvents, cleaning agents, photographic processing reagents, and chemicals for the tanning of leather and dye processes. MA pollutes the air because of its intensive use in industry and as a result of natural degradation of proteins, amino acids, and other nitrogen-containing compounds in biological samples. Exposure to MA at normal background levels is unlikely to have any negative effects on human health. However, inhalation of air that contains high levels of MA can result in a number of adverse health effects, such as breathing difficulties, a burning sensation, sore throat, headache, and accumulation of fluid in the lungs (pulmonary oedema) []. MA can be found in very high concentrations in some kinds of fish, especially of the Gadoid species, due to the enzymatic degradation of a natural osmolyte, trimethylamine N-oxide [, ].</text>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="1879" length="11"/>
+        <text>Methylamine</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="1892" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="1912" length="13"/>
+        <text>primary amine</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="2171" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="2284" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="2307" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="2372" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="2517" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="2708" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005855</infon>
+        <location offset="2865" length="22"/>
+        <text>trimethylamine N-oxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2894</offset>
+      <text>Recombinant Saccharomyces cerevisiae yeast was constructed to overproduce primary amine oxidase (primary amine : oxygen oxidoreductase (deaminating) or amine oxidase, AMO; EC 1.4.3.21), from the thermotolerant yeast Hansenula polymorpha. This copper-containing enzyme is known for its ability to decompose primary amines into aldehydes. The following reaction represents a process of MA bioconversion [, ]:  </text>
+      <annotation id="G38">
+        <infon key="type">OTHER</infon>
+        <location offset="2968" length="21"/>
+        <text>primary amine oxidase</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">OTHER</infon>
+        <location offset="2991" length="51"/>
+        <text>primary amine : oxygen oxidoreductase (deaminating)</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">OTHER</infon>
+        <location offset="3046" length="13"/>
+        <text>amine oxidase</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="3137" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="3200" length="14"/>
+        <text>primary amines</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000447</infon>
+        <location offset="3220" length="9"/>
+        <text>aldehydes</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="3278" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3307</offset>
+      <text>This enzyme has been used for bioanalytical purposes, for example, for spectrophotometric monitoring of the enzymatic decomposition of MA by amine oxidases []. To date, this enzyme has not been exploited for bioremediation purposes, that is, for bioconversion of MA into nontoxic products.</text>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="3442" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">OTHER</infon>
+        <location offset="3448" length="14"/>
+        <text>amine oxidases</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="3570" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3597</offset>
+      <text>The aim of the present work was to construct a recombinant overproducer of AMO from thermostable H. polymorpha, isolate and purify the enzyme from the recombinant yeast cells, and design a continuous bioreactor based on immobilized AMO for bioconversion of airborne MA. A two-step continuous fluidized bed bioreactor (CFBR) based on immobilized AMO (step 1) and alcohol oxidase (AOX) (step 2) was designed for bioconversion of airborne MA and the formaldehyde (FA) which is produced in this process. In our previous work we presented a one-step CFBR that performed bioconversion of airborne FA into formic acid by AOX from the yeast H. polymorpha that was immobilized in calcium alginate (CA) beads [].</text>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="3863" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">OTHER</infon>
+        <location offset="3959" length="15"/>
+        <text>alcohol oxidase</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="4033" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="4044" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="4058" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="4188" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="4196" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="4268" length="16"/>
+        <text>calcium alginate</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="4286" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4300</offset>
+      <text>2. Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4325</offset>
+      <text>2.1. Chemicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4340</offset>
+      <text>Paraformaldehyde, MA (40% aqueous solution), PMSF, chromotropic acid, and sodium alginate were purchased from Sigma-Aldrich (Israel).</text>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003043</infon>
+        <location offset="4340" length="16"/>
+        <text>Paraformaldehyde</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="4358" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010664</infon>
+        <location offset="4385" length="4"/>
+        <text>PMSF</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020996</infon>
+        <location offset="4391" length="17"/>
+        <text>chromotropic acid</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="4414" length="15"/>
+        <text>sodium alginate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4474</offset>
+      <text>FA solution (1 M) was prepared by hydrolysis of the corresponding amount of paraformaldehyde in water (300 mg in 10 mL water) by heating the suspension in a sealed ampoule at 105°C for 6 h.</text>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="4474" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003043</infon>
+        <location offset="4550" length="16"/>
+        <text>paraformaldehyde</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="4570" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="4593" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4673</offset>
+      <text>2.2. Cloning of the AMO Gene into the Expression Vector pYEX-4T-1</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4739</offset>
+      <text>The pYEX-4T-1 plasmid (CLONTECH) was modified prior to cloning of the AMO gene. The fragment of the vector containing the CUP1 promoter and GST was cut out. The sequence encoding the CUP1 promoter was amplified by PCR and inserted into the plasmid to produce pYEX4T-1-delGST. In order to clone the H. polymorpha AMO gene into pYEX4T-1-delGST BamHI and NotI restriction sites as well as the sequence encoding for (His)6-tag were introduced by amplifying the gene with the primers AMO-for and AMO-rev. The pADES-AMO plasmid was used as a template []. The PCR product containing the AMO gene was cleaved with BamHI and NotI restrictases (Fermentas, Lithuania) and cloned into pYEX-4T-1-del-GST. The resulting plasmid was marked as pYEX-4-AMO (Figure 1), and the correct nucleotide sequence of the AMO reading frame was confirmed by sequencing.</text>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="5152" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="5506" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5580</offset>
+      <text>2.3. Copper-Inducible Expression of AMO in Saccharomyces cerevisiae </text>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="5585" length="6"/>
+        <text>Copper</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5649</offset>
+      <text>Transformants of the yeast strain S. cerevisiae C13ABYS86 (Mat a, leu2-3, ura3, his, pra1-1, prb1-1, prc1-1, and cps1-3) were grown for 18 h at 30°C in minimal synthetic medium containing histidine. The cells were harvested by centrifugation (3,000 ×g, 5 min), resuspended in the same medium, and grown for 2 h to restore log phase growth. Expression was induced by the addition of cupric sulfate to 0.5 mM, and the cultures were maintained for 6–8 h before harvest.</text>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="5837" length="9"/>
+        <text>histidine</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019327</infon>
+        <location offset="6031" length="14"/>
+        <text>cupric sulfate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6132</offset>
+      <text>2.4. Assay of Enzyme Activities</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6164</offset>
+      <text>AMO activity was measured at 30°C and pH 7.0 according to the method described by Haywood and Large []. Kinetic studies were carried out under the same conditions within an MA concentration range from 0.02 to 5 mM. The AMO concentration in the incubation mixture was 40 ng mL−1. AOX activity was measured as described previously []. One unit (1 U) of activity of AMO and AOX was defined as the amount of enzyme which forms 1 μmole of the product per 1 min under standard conditions of the assay. Protein concentration was estimated by the Lowry method. SDS-PAGE was performed in 12% gel according to the Laemmli procedure [].</text>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="6337" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="6717" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6806</offset>
+      <text>2.5. Isolation and Purification of AMO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6845</offset>
+      <text>The cells were resuspended in 0.1 M Tris-sulfate buffer, pH 9.4, and treated with 10 mM DTT at 30°C for 10 min. After washing, the cells were suspended in 20 mM potassium phosphate buffer, pH 7.4, containing 1.2 M sorbitol and 2 mg of Zymolyase 20T (Seikagaku Corp., Japan) per 1 g of wet cell weight and incubated at 30°C for 45 min. The spheroplasts were washed once with sorbitol solution and resuspended in 50 mM sodium phosphate buffer, pH 8.0, containing 300 mM NaCl and 2 mM β-mercaptoethanol. The spheroplasts were disrupted with glass beads in a BeadBeater (BioSpec Products, USA). After removal of unbroken cells and cell debris by low speed centrifugation, the supernatant was centrifuged at 40,000 ×g for 45 min. The crude extract from 1 L of culture containing 120 mg of protein was applied to a 1 mL Hi-Trap Ni-agarose column (Pharmacia). After removal of nonspecifically bound proteins by washing with 50 mM sodium phosphate buffer, pH 8.0, containing 300 mM NaCl and 2 mM β-mercaptoethanol, the (His)6-AMO was eluted by a FPLC-mediated 10–500 mM imidazole gradient. The fractions containing high AMO activity were pooled, dialyzed against 50 mM sodium phosphate buffer, pH 8.0, supplemented with 300 mM NaCl and 2 mM β-mercaptoethanol, and were used as the final AMO preparation. The specific activity of the pooled preparation was 3.2 U mg−1 protein, but in some fractions it reached 13.7 U mg−1.</text>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="6881" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013431</infon>
+        <location offset="6886" length="7"/>
+        <text>sulfate</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="6933" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="7006" length="19"/>
+        <text>potassium phosphate</text>
+      </annotation>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013012</infon>
+        <location offset="7059" length="8"/>
+        <text>sorbitol</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013012</infon>
+        <location offset="7219" length="8"/>
+        <text>sorbitol</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="7262" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="7313" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="7327" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="7667" length="2"/>
+        <text>Ni</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="7670" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="7768" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="7819" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="7833" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="7857" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="7907" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="8006" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="8064" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="8078" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8325</offset>
+      <text>2.6. Isolation and Purification of AOX</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8364</offset>
+      <text>Cells of the mutant strain H. polymorpha C-105 (gcr1 catX) overproducing AOX with an additional catalase inactivation mutation [, ] were grown in glucose medium [, ] and served as a source for AOX isolation. Purification of the enzyme was carried out using a two-step precipitation with ammonium sulfate (at 40 and 60% saturation) in the presence of 1 mM EDTA and 0.4 mM PMSF to inhibit proteases. At 40% saturation, the protein precipitate was discarded, and the AOX precipitate obtained at 60% saturation was collected by centrifugation. The final activity of the enzyme portions used for immobilization was 6–8 U mg−1 protein.</text>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="8510" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000645</infon>
+        <location offset="8651" length="16"/>
+        <text>ammonium sulfate</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="8719" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010664</infon>
+        <location offset="8735" length="4"/>
+        <text>PMSF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9006</offset>
+      <text>2.7. Immobilization of AMO and AOX in CA Gel</text>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="9044" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9051</offset>
+      <text>Aliquots of 1 mL AMO or AOX solutions in 0.05 M PBS, pH 7.5 (buffer A), with 2–40 U mL−1 activity, were mixed with 2 mL of 3% (w/v) sodium alginate. The mixtures were dropped into a 2.5 mM CaCl2 aqueous solution using a syringe with a 21 G needle under stirring at room temperature and kept for 45 min for beads formation. The obtained gel beads were washed with buffer A.</text>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="9099" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="9183" length="15"/>
+        <text>sodium alginate</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="9240" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9444</offset>
+      <text>2.8. One-Step Bioconversion of MA in a CFBR</text>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="9475" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9488</offset>
+      <text>The gel beads with immobilized AMO (8.8–26.6 U g−1 of CA) were applied onto a bioreactor of the CFBR type built as a 1 × 30 cm column (1.5 g of beads in 20 mL of buffer A) connected to an air source with a known MA concentration using a scheme analogous to the one described previously by us []. The 10–100 ppm MA concentrations in air were obtained by bubbling an air flow of 7–132 mL min⁡−1 using a multichannel Ecoline peristaltic pump (Ismatec, Switzerland) through a 0.9–9 mM aqueous MA solution at 25°C. The MA concentration in the gaseous phase at the inlet was calculated, according to Henry's law, taking the Henry constant at 25°C as 1.125 Pa m3 mol−1 []. It was also measured at the inlet and at the outlet by means of adsorption of MA in analytical tubes containing XAD-7 beads covered with 10% 4-chloro-7-nitrobenz-2-oxa-1,3-diazole chloride (SKC Inc., USA) and extraction of MA by tetrahydrofuran (Sigma, Israel) and analyzing the extract by HPLC (Jasco PU 1580, Japan) supplied with a UV/Vis-1578 detector (465 nm) on the Goldsil-100 C18 column (0.46 × 25 cm, 5 μm) according to OSHA Protocol no. 40 []. The MA concentration in the aqueous phase was determined by a reaction with lactose and measured by a colorimetric method [] at 545 nm with UV-Vis Cary-50 (Varian, Australia). The control CFBR column contained CA gel beads without AMO.</text>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="9700" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="9799" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="9977" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="10002" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="10232" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015661</infon>
+        <location offset="10266" length="5"/>
+        <text>XAD-7</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009327</infon>
+        <location offset="10295" length="47"/>
+        <text>4-chloro-7-nitrobenz-2-oxa-1,3-diazole chloride</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="10377" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018674</infon>
+        <location offset="10383" length="15"/>
+        <text>tetrahydrofuran</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="10611" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007785</infon>
+        <location offset="10683" length="7"/>
+        <text>lactose</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="10817" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10904</offset>
+      <text>2.9. Two-Step CFBR System for Continuous Bioconversion of Airborne MA and Produced FA</text>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="10971" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="10987" length="2"/>
+        <text>FA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10990</offset>
+      <text>A two-step system consisting of two 1 × 30 cm CFBR columns connected in series was built according to Figure 2. The first reactor, R1, contained gel beads with immobilized AMO (13.3 U g−1 of CA) and the second reactor, R2, contained immobilized AOX (6.6 U g−1 of CA). Two additional columns (R3 and R4) with blank gel beads served as the control. A flow of airborne MA was split into two streams. The 1st stream was bubbled through R1 and R2, where the outlet from R1 was connected to the inlet of R2. The 2nd stream was bubbled through R3 which was connected to R4. The MA and FA concentrations were tested in the gaseous phase at the outlets of all four reactors, R1–R4, and in the aqueous phase within the reactors. The FA concentration in the gaseous phase was measured with the formaldehyde gas detector (Model FP-40 Riken Keiki, Japan) and in the liquid phase by a standard photometric method using a reaction with 1% chromotropic acid [].</text>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="11181" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="11253" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="11356" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="11561" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="11568" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="11713" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="11773" length="12"/>
+        <text>formaldehyde</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C020996</infon>
+        <location offset="11914" length="17"/>
+        <text>chromotropic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11957</offset>
+      <text>3. Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11983</offset>
+      <text>3.1. Cloning of the AMO Gene in an Expression Vector</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12036</offset>
+      <text>The AMO gene, encoding for the microbody matrix enzyme AMO (EC 1.4.3.21) from the yeast H. polymorpha, has been cloned, sequenced, and found to contain an open reading frame of 692 amino acids. The enzyme has a dimeric structure with a subunit molecular weight of 78 kDa [, ].</text>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="12217" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12315</offset>
+      <text>The copper-inducible system used for expression of the AMO gene was based on the pYEX-4T-1 plasmid, a shuttle expression vector developed for high-level expression of glutathione S-transferase (GST) fusion proteins in the yeast. The copper-inducible CUP1 promoter from the S. cerevisiae metallothionein gene drove the expression of the fusion cassette. pYEX-4T-1 included the Escherichia coli AmpR gene, the yeast selectable markers leu2-d (a LEU2 gene with a truncated but functional promoter), and URA3.</text>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="12319" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">OTHER</infon>
+        <location offset="12482" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="12548" length="6"/>
+        <text>copper</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12821</offset>
+      <text>The AMO gene was expressed as a (His)6-tagged protein to facilitate its purification. The expression system was based on a modified pYEX-4T-1 vector (see Section 2). The constructed plasmid, designated as pYEX-4-AMO, expressed the (His)6-tagged-AMO protein under control of the CUP1 promoter (Figure 1).</text>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="12854" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="13053" length="3"/>
+        <text>His</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13125</offset>
+      <text>3.2. Expression and Purification of Recombinant AMO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13177</offset>
+      <text>Yeast cells carrying the recombinant plasmid were incubated in Cu2+-containing selective medium in order to express the AMO gene. The active enzyme was accumulated in S. cerevisiae cells to a level of 0.7 U mg−1 of protein. The highest expression was obtained 6–8 h after induction. The crude extracts were prepared as described in Section 2, and (His)6-tagged AMO was purified by Ni-affinity chromatography. The SDS-PAGE results, that illustrate the purification, are presented in Figure 3.</text>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="13240" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="13525" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="13558" length="2"/>
+        <text>Ni</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="13590" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13679</offset>
+      <text>Fractions 8–13 contained high AMO activity and were pooled and used as the final AMO preparation. The enzyme fraction with the highest AMO specific activity of 13.7 U mg−1  was used for kinetic studies.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13894</offset>
+      <text>The specific activity of AMO increased from 4.6 to 20-fold during the course of the purification procedure, and the final yield of AMO protein was 1.6 mg L−1 culture. Previous works of others reported a specific activity of 1.1 U mg−1 protein, which was determined in the process of MA oxidation by AMO, isolated from the wild type H. polymorpha [] and 5.6 U mg−1 protein for the recombinant AMO expressed in S. cerevisiae []. These data show that the (His)6-tagged enzyme which we constructed was at least as active as the recombinant AMO described by Cai and Klinman, without any change in protein structure [].</text>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="14177" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="14347" length="3"/>
+        <text>His</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14526</offset>
+      <text>The kinetic parameters of the purified (His)6-tagged AMO with a specific activity of 13.7 U mg−1 protein were studied. The K m and V max⁡ (at an enzyme concentration of 40 ng mL−1) for MA oxidation at 30°C, pH 7.0, were 0.22 ± 0.011 mM and 0.624 ± 0.050 nmol mL−1 min⁡−1, respectively, and the k cat was 40.0 ± 3.1 s−1. For comparison, AMO isolated from the wild type H. polymorpha had K m and k cat values of 0.0344 mM and 6.2 s−1, respectively, at 25°C and pH 8.0 []. The k cat/K m ratio for the (His)6-tagged enzyme was found to be approximately the same as for the wild type enzyme (182 and 180 mM−1 s−1, resp.).</text>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="14566" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="14711" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="15025" length="3"/>
+        <text>His</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15194</offset>
+      <text>It must be emphasized that the recombinant form of the AMO which we constructed differs considerably from the native AMO (without His-tag) previously described in the literature []. This AMO contains the (His)6-tag attached to the N-terminus which was introduced in order to facilitate its purification by affinity chromatography on Ni-NTA-Sepharose. The correct nucleotide sequence of the AMO-reading frame was confirmed by DNA sequencing, so we assume that changes in kinetic parameters can be explained by the presence of an additional “tail” in the protein structure.</text>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="15324" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="15399" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="15527" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="15534" length="9"/>
+        <text>Sepharose</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="15557" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15770</offset>
+      <text>3.3. Continuous Bioconversion of Airborne MA</text>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="15812" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15815</offset>
+      <text>The fundamental possibility for bioconversion of airborne MA was studied using a continuous reactor of the CFBR type that contained CA-gel beads with immobilized AMO, compared to a control system with blank CA-gel beads. An air stream obtained by bubbling various flow rates through aqueous MA solutions with concentrations calculated according to Henry's law was used in order to obtain airborne MA at the desired concentrations []. The MA concentration was monitored in the aqueous phase within the reactor and in the gaseous phase at the outlet from the reactor.</text>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="15873" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="16022" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16106" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16212" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16253" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16381</offset>
+      <text>In the first stage, effective loading of AMO to the CA-gel was chosen. Bioconversion of MA was tested with three AMO loadings, while the remaining conditions—the 10 ppm inlet MA concentration in the air and airflow of 7 mL min⁡−1—were kept constant (Figure 4). This MA concentration was chosen because it lies between the TLV-TWA (5 ppm) and the TLV-STEL (15 ppm) values, where the former corresponds to the level permitted for average chronic exposure based on an 8 h/day and 40 h/week work schedule and the latter to acute exposure to MA for a duration of 15 min that cannot be repeated more than 4 times per day with at least 60 min between exposure periods []. The MA concentration in the aqueous phase of the bioreactor increased up to ca. 0.8 mM within the two first hours in all series. In the control experiment (CA without AMO), this MA concentration remained almost unchanged during the 10-day period, with only 10% reduction (Figure 4). The MA concentration in the bioreactors decreased after 2–5 days, depending on the AMO loading, and reached low equilibrium values: 0.035 mM at an AMO loading of 26.6 U g−1 CA, 0.06 mM at a loading of 13.3 U g−1 CA, and 0.08 mM at a loading of 8.8 U g−1 CA (Figure 4). The MA concentration in the gaseous phase at the outlet of the bioreactors did not exceed 0.3–0.5 ppm in all cases, whereas in the control experiment it was 1.3 ppm. The results of this experiment showed that although the best results were obtained with the highest AMO loading, as expected, 13.3 U g−1 CA loading of AMO on the gel may be enough for practical purposes, since 96% elimination of airborne MA was achieved. The further experiments were therefore carried out with this loading.</text>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="16433" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16469" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16556" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16647" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="16918" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="17050" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="17202" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="17224" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="17333" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="17502" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="17541" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="17583" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="17602" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="17901" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18002" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18155</offset>
+      <text>In the next experiment, the system's ability to bioconvert MA was studied using the 100 ppm MA inlet concentration. When bubbling the airborne MA at this concentration, the concentration of MA in the aqueous phase quickly increased to ca. 8 mM in both the CFBR and the control column, and in the latter case it remained high during the entire experiment. In contradistinction, the MA concentration in the CFBR with immobilized AMO dropped to 0.46 mM after 3 days and decreased further until the end of the experimental period (Figure 5(a)). The MA concentration in the gaseous phase at the outlet of the control column remained at 10–12 ppm, and at the outlet of the bioreactor it did not exceed the safety level of 0.5 ppm during the entire experimental period (Figure 5(b)).</text>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18214" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18247" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18298" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18345" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18536" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="18700" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18944</offset>
+      <text>The CFBR was further examined at a high airflow rate of 132 mL min⁡−1 when the AMO loading was 13.3 U g−1 CA and the inlet concentration of the airborne MA was 10 ppm (Figure 6). It can be seen that the system functioned at high efficiency in this case as well, and the whole picture was very similar to that obtained with the flow of 7 mL min⁡−1 shown in Figure 4 (the AMO-13.3 curve). MA was oxidized to a concentration of less than 0.1 mM in the aqueous phase and to no more than 0.4 ppm at the outlet of the gaseous phase (Figures 6(a) and 6(b), resp.).</text>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="19050" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="19097" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="19331" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19530</offset>
+      <text>3.4. Two-Step Continuous Bioconversion of Airborne MA and Produced FA</text>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="19581" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="19597" length="2"/>
+        <text>FA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19600</offset>
+      <text>Bioconversion of MA is known to produce FA, and, therefore, a system of two continuous CFBR, connected in series, was built for bioconversion of both the airborne MA and the produced FA (Figure 2). The first CFBR (R1) contained CA beads with immobilized AMO (13.3 U g−1 CA) and the second (R2) contained beads with immobilized AOX (6.6 U g−1 CA). Airborne MA was fed in a continuous regime at the inlet of R1 and the airflow containing the produced FA flowed from the R1 outlet into the R2 inlet. A parallel experiment was performed using the control R3 and R4 reactors which contained blank CA-gel beads. MA and FA were sampled from the aqueous phases of R1–R4 and from the gaseous phase at the outlets from all four columns. The results of the experiment are presented in Figure 7.</text>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="19617" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="19640" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="19763" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="19783" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="19828" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="19870" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="19942" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="19956" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20049" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="20192" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="20206" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20213" length="2"/>
+        <text>FA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20398</offset>
+      <text>The two-step CFBR system demonstrated very high efficiency in eliminating the fed MA and the produced FA (Figure 7). As in the previous experiments, the MA concentration in the aqueous phase first increased to 0.8 mM and then decreased to ca. 0.03 mM in the equilibrium state, while the FA concentration concomitantly increased to 0.8 mM (Figure 7(a), R1(MA) and R1(FA), resp.). This fact indicates that MA was really converted into FA by the enzymatic reaction. In the control experiment, the MA concentration remained at the 0.7–0.8 mM level throughout the experiment and FA was not produced at all (Figure 7(a), R3(MA) and R3(FA), resp.). The MA and FA concentrations in the gaseous phase at the outlet from R1 were 0.4 ppm and 0.14 ppm, respectively (Figure 7(b), R1(MA) and R1(FA)), whereas, in the control experiment, the MA concentration was 6–6.5 ppm and FA was absent (Figure 7(b), R3(MA) and R3(FA)). The MA concentration in the aqueous phase of the R2 reactor was zero, and the FA concentration decreased from 0.6 mM at the beginning of the experiment to 0.09 mM in the equilibrium state (Figure 7(c), R2(MA) and R2(FA)). MA in the control R4 reactor accumulated in the aqueous phase and reached more than 0.4 mM in the equilibrium state (Figure 7(c), R4(MA)). The FA concentration was zero, as expected (Figure 7(c), R4(FA)). The outlet MA concentrations in the gaseous phase were zero and 1.6 ppm for the R2 and R4 reactors, respectively (Figure 7(d), R2(MA) and R4(MA)). The outlet FA concentration was zero in both cases (data not shown). The data presented in Figure 7 clearly show that airborne MA was bioconverted into FA in the R1 reactor and that the produced FA was degraded in the R2 reactor, whereas in the control system MA was not oxidized and, accordingly, FA was not produced at all. Simple trapping of airborne MA by two columns did not lead to its elimination and caused accumulation of MA in the aqueous phase of the R3 and R4 as well as MA exhaust in the gaseous phase.</text>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="20480" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20500" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="20551" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20685" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="20753" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20764" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="20802" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20831" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="20892" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="20972" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21016" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21027" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21044" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21051" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21169" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21180" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21226" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21261" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21292" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21303" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21313" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21387" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21514" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21525" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21531" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21664" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21674" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21730" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21747" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21866" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="21877" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="21894" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22010" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="22035" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="22078" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22143" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="22181" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22237" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22314" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22366" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22425</offset>
+      <text>Several methods have been previously proposed for removal of MA from indoor air. Chou and Shiu[] reported bioconversion of MA on biofilters arranged in three stages, which contained microorganisms from activated sludge that was obtained from a food-processing wastewater plant. The authors showed that the influent airborne MA, with an input concentration of 100 ppm, was hydrolyzed to ammonia, about a third of the ammonia nitrogen was nitrified to nitrate, and a third was converted into organic or cell nitrogen. Ho's group [] developed a biofilter based on granular activated carbon coated with immobilized Paracoccus sp. CP2 for elimination of 10–250 ppm trimethylamine (TMA), dimethylamine (DMA), and MA. The system effectively treated MA (&gt;93%), DMA (&gt;90%), and TMA (&gt;85%). The coimmobilized Paracoccus sp. CP2 and Arthrobacter sp. CP1 system was used to achieve complete degradation of TMA and to reduce NH3 emission.</text>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22486" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22548" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="22749" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000641</infon>
+        <location offset="22811" length="7"/>
+        <text>ammonia</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000641</infon>
+        <location offset="22841" length="7"/>
+        <text>ammonia</text>
+      </annotation>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="22849" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009566</infon>
+        <location offset="22875" length="7"/>
+        <text>nitrate</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="22931" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="23005" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023336</infon>
+        <location offset="23085" length="14"/>
+        <text>trimethylamine</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023336</infon>
+        <location offset="23101" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C034516</infon>
+        <location offset="23107" length="13"/>
+        <text>dimethylamine</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C034516</infon>
+        <location offset="23122" length="3"/>
+        <text>DMA</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23132" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23167" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C034516</infon>
+        <location offset="23178" length="3"/>
+        <text>DMA</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023336</infon>
+        <location offset="23194" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C023336</infon>
+        <location offset="23319" length="3"/>
+        <text>TMA</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000641</infon>
+        <location offset="23337" length="3"/>
+        <text>NH3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23357</offset>
+      <text>Methods for the bioconversion of MA traditionally compete with chemical methods of degradation. Kachina et al. [] investigated continuous photocatalytic MA oxidation. The authors used titanium dioxide illuminated with UV light at 365 nm as a catalyst. The oxidation process was efficient and the TiO2 catalyst showed no deactivation. However, the authors found nitrogen and nitrous oxides among the products of the MA oxidation, in addition to ammonia, which overshadowed the advantages of the method.</text>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23390" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23510" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009495</infon>
+        <location offset="23541" length="16"/>
+        <text>titanium dioxide</text>
+      </annotation>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009495</infon>
+        <location offset="23653" length="4"/>
+        <text>TiO2</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="23718" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009609</infon>
+        <location offset="23731" length="14"/>
+        <text>nitrous oxides</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23772" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000641</infon>
+        <location offset="23801" length="7"/>
+        <text>ammonia</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23861</offset>
+      <text>Besides destructive methods for the elimination of airborne MA, methods of physical adsorption of airborne MA on several carbon materials were also studied []. Despite a high adsorption efficiency, physical adsorption does not lead to degradation of MA and is therefore less preferable than chemical or biological conversion methods.</text>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23921" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="23968" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="23982" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="24111" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24195</offset>
+      <text>The two-step AMO/AOX enzyme system presented in this study enabled the achievement of complete bioconversion of MA and of FA. It also enabled the neutralization of the ammonia by-product of the first process by the formic acid by-product of the second process, since, according to the stoichiometry of the bioconversion processes, these by-products are produced in equal concentrations.</text>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="24307" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="24317" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000641</infon>
+        <location offset="24363" length="7"/>
+        <text>ammonia</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="24410" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24582</offset>
+      <text>4. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24597</offset>
+      <text>A recombinant S. cerevisiae yeast overproducing AMO from the thermotolerant yeast H. polymorpha was constructed. The novel (His)6-tagged enzyme was purified from the cell-free extract of the recombinant strain by metal-affinity chromatography and characterized electrophoretically and kinetically. The enzyme that was immobilized in CA beads demonstrated a high capability for eliminating airborne MA in a continuous regime, when employed in a two-step CFBR designed for bioconversion of airborne MA and the produced FA.</text>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="24721" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="24930" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="24995" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="25094" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="25114" length="2"/>
+        <text>FA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>25118</offset>
+      <text>Conflict of Interests</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25140</offset>
+      <text>The authors declare that there is no conflict of interests regarding the publication of this paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27498</offset>
+      <text>Cloning of the AMO gene into the expression vector pYEX-4T-1.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27560</offset>
+      <text>Scheme of a two-step CFBR system for bioconversion of airborne MA by AMO immobilized in CA (R1) and for oxidation of the produced FA by immobilized AOX (R2). The control columns (R3 and R4) contained blank CA-gel beads. (1) an airflow bubbled through aqueous MA solution; (2) a flow of airborne MA; (3) a system of two CFBR in series; (4) a control system and P-a peristaltic pump.</text>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="27623" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="27648" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="27690" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="27819" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="27855" length="2"/>
+        <text>MA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27942</offset>
+      <text>SDS-PAGE in 12% gel of the purified AMO using chromatography on Ni-NTA-agarose. (1) crude extract, 100 μg; (2) flow through the column, 100 μg; (3) washing with 8 mM imidazole, 20 μL; (4) protein molecular weight markers (MW, kDa, 20, 26, 34, 47, 86, and 120; 1.2 μg of each protein); (5)–(14) elution fractions obtained in 10–500 mM imidazole gradient, 20 μL.</text>
+      <annotation id="252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="27942" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="28006" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="28013" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="28108" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="28276" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28326</offset>
+      <text>MA concentration in the aqueous phase of the CFBR upon oxidation of MA in the 7 mL min⁡−1 air flow with 10 ppm MA inlet concentration by immobilized AMO at various loadings on CA gel: 26.6 U g−1 CA, AMO-26.6; 13.3 U g−1 CA, AMO-13.3; and 8.8 U g−1 CA, AMO-8.8. C (control)—blank beads of CA-gel tested at the same inlet conditions.</text>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28326" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28394" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28437" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28502" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28521" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28546" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28574" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28614" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28688</offset>
+      <text>MA concentration in the aqueous (a) and in the gaseous (b) phase of the CFBR upon oxidation of MA in the 7 mL min⁡−1 air flow at 100 ppm MA inlet concentration by immobilized AMO at the 13.3 U g−1 CA loading. C (control) blank beads of CA-gel, tested at the same inlet conditions.</text>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28688" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28783" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28825" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28885" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="28924" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>28985</offset>
+      <text>MA concentration in the aqueous (a) and in the gaseous (b) phase of the CFBR upon oxidation of MA in the 132 mL min⁡−1 air flow with 10 ppm MA inlet concentration by immobilized AMO at the 13.3 U g−1 CA loading. C (control) blank beads of the CA-gel tested at the same inlet conditions.</text>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="28985" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="29080" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="29125" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="29185" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="29228" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>29288</offset>
+      <text>MA and FA concentration in the aqueous ((a) and (c)) and in the gaseous ((b) and (d)) phase of the two-step CFBR system for bioconversion of MA in the 7 mL min⁡−1 air flow with 10 ppm MA inlet concentration by immobilized AMO at the 13.3 U g−1 CA loading (R1) and for oxidation of the produced FA by immobilized AOX at 6.6 U g−1 CA loading (R2). R3 and R4-control reactors connected in series and containing blank beads of CA-gel tested at the same inlet conditions.</text>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="29288" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="29295" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="29429" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027451</infon>
+        <location offset="29472" length="2"/>
+        <text>MA</text>
+      </annotation>
+      <annotation id="322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="29532" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="29582" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="29617" length="2"/>
+        <text>CA</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000464</infon>
+        <location offset="29711" length="2"/>
+        <text>CA</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,3195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4865917</id>
+    <passage>
+      <infon key="name_3">surname:Stutsman;given-names:Cynthia</infon>
+      <infon key="name_2">surname:Wainscott;given-names:David B.</infon>
+      <infon key="name_1">surname:Showalter;given-names:Aaron D.</infon>
+      <infon key="name_0">surname:Bueno;given-names:Ana B.</infon>
+      <infon key="article-id_pmid">26975372</infon>
+      <infon key="fpage">10700</infon>
+      <infon key="issue">20</infon>
+      <infon key="year">2016</infon>
+      <infon key="article-id_publisher-id">M115.696039</infon>
+      <infon key="article-id_pmc">4865917</infon>
+      <infon key="alt-title">Electrophilic Chemotypes Modulate GLP-1R</infon>
+      <infon key="article-id_doi">10.1074/jbc.M115.696039</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">291</infon>
+      <infon key="license">Author's Choice—Final version free via Creative Commons CC-BY license.</infon>
+      <infon key="kwd">allosteric regulation diabetes G protein-coupled receptor (GPCR) insulin secretion pancreatic islet glucagon-like peptide-1</infon>
+      <infon key="name_8">surname:Sloop;given-names:Kyle W.</infon>
+      <infon key="name_7">surname:Willard;given-names:Francis S.</infon>
+      <infon key="name_6">surname:Cabrera;given-names:Over</infon>
+      <infon key="lpage">10715</infon>
+      <infon key="name_5">surname:Ficorilli;given-names:James</infon>
+      <infon key="name_4">surname:Marín;given-names:Aranzazu</infon>
+      <offset>0</offset>
+      <text>Positive Allosteric Modulation of the Glucagon-like Peptide-1 Receptor by Diverse Electrophiles*</text>
+      <annotation id="O0">
+        <infon key="type">OTHER</infon>
+        <location offset="38" length="32"/>
+        <text>Glucagon-like Peptide-1 Receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>97</offset>
+      <text>Therapeutic intervention to activate the glucagon-like peptide-1 receptor (GLP-1R) enhances glucose-dependent insulin secretion and improves energy balance in patients with type 2 diabetes mellitus. Studies investigating mechanisms whereby peptide ligands activate GLP-1R have utilized mutagenesis, receptor chimeras, photo-affinity labeling, hydrogen-deuterium exchange, and crystallography of the ligand-binding ectodomain to establish receptor homology models. However, this has not enabled the design or discovery of drug-like non-peptide GLP-1R activators. Recently, studies investigating 4-(3-benzyloxyphenyl)-2-ethylsulfinyl-6-(trifluoromethyl)pyrimidine (BETP), a GLP-1R-positive allosteric modulator, determined that Cys-347 in the GLP-1R is required for positive allosteric modulator activity via covalent modification. To advance small molecule activation of the GLP-1R, we characterized the insulinotropic mechanism of BETP. In guanosine 5′-3-O-(thio)triphosphate binding and INS1 832-3 insulinoma cell cAMP assays, BETP enhanced GLP-1(9–36)-NH2-stimulated cAMP signaling. Using isolated pancreatic islets, BETP potentiated insulin secretion in a glucose-dependent manner that requires both the peptide ligand and GLP-1R. In studies of the covalent mechanism, PAGE fluorography showed labeling of GLP-1R in immunoprecipitation experiments from GLP-1R-expressing cells incubated with [3H]BETP. Furthermore, we investigated whether other reported GLP-1R activators and compounds identified from screening campaigns modulate GLP-1R by covalent modification. Similar to BETP, several molecules were found to enhance GLP-1R signaling in a Cys-347-dependent manner. These chemotypes are electrophiles that react with GSH, and LC/MS determined the cysteine adducts formed upon conjugation. Together, our results suggest covalent modification may be used to stabilize the GLP-1R in an active conformation. Moreover, the findings provide pharmacological guidance for the discovery and characterization of small molecule GLP-1R ligands as possible therapeutics.</text>
+      <annotation id="O1">
+        <infon key="type">OTHER</infon>
+        <location offset="138" length="32"/>
+        <text>glucagon-like peptide-1 receptor</text>
+      </annotation>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="189" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="440" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="449" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="691" length="67"/>
+        <text>4-(3-benzyloxyphenyl)-2-ethylsulfinyl-6-(trifluoromethyl)pyrimidine</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="760" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="823" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="1028" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="1037" length="35"/>
+        <text>guanosine 5′-3-O-(thio)triphosphate</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="1112" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="1125" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="1166" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="1216" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="1256" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="1493" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="1496" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="1675" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="1743" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="1820" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="1850" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2165</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2178</offset>
+      <text>The secretin family of peptide hormone-binding class B G protein-coupled receptors (GPCRs)2 is composed of 15 members that help regulate various physiological systems, including growth, the stress response, and glucose metabolism. These receptors possess a long amino-terminal ectodomain (ECD) that is structurally stabilized by three evolutionarily conserved disulfide bonds (1–3). This characteristic ECD is a globular structure hypothesized to be critical for the initial ligand recognition event. Subsequent interactions between the docked peptide ligand and the helical bundle of the receptor core occur to induce signaling (4). Several reports provide data supporting the initial receptor-ligand recognition mechanism, and among the most informative are the crystallography studies using the purified ECD regions in complex with their cognate ligands (5, 6) and a recent report utilizing electron microscopy and hydrogen-deuterium exchange study of peptide-ligated glucagon receptor (7). These studies clearly define many intermolecular processes utilized by various ECDs to bind with great specificity to the orthosteric peptide. However, crystal structures of ligands bound to full-length class B receptors are needed to fully determine critical interactions with the helical bundle that induce an active receptor conformation.</text>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="2389" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004220</infon>
+        <location offset="2538" length="9"/>
+        <text>disulfide</text>
+      </annotation>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="3096" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003903</infon>
+        <location offset="3105" length="9"/>
+        <text>deuterium</text>
+      </annotation>
+      <annotation id="O2">
+        <infon key="type">OTHER</infon>
+        <location offset="3133" length="33"/>
+        <text>peptide-ligated glucagon receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3516</offset>
+      <text>Although more than 20 class A GPCR crystal structures have been resolved to date, the resolution of class B GPCRs has been elusive. Recently, high resolution structures of the transmembrane domains of two class B family members, the glucagon receptor (8) and corticotropin-releasing factor receptor-1 (9), have been solved. Although the structures were determined using receptor constructs that did not include the ECD sequences, data from both predict very deep and open V-shaped binding crevices for the orthosteric ligands (10). Although several peptide-based agonist therapeutics have been developed for class B GPCRs (11), small molecule agonists have not been developed. One hypothesis for this intractability of class B GPCRs is that the intricate nature of receptor activation renders it challenging to identify low molecular weight non-peptide orthosteric ligands that make sufficient high affinity receptor contacts over large interaction surfaces to mimic the activation mechanism used by the peptide agonists. This may prove especially difficult if crystal structures of other receptor core domains are solved and show this deep crevice-like binding is general to class B GPCRs. Therefore, an alternative approach to enhance receptor activation is to identify small molecule positive allosteric modulators (PAMs) that bind topographically distinct sites and relieve some hindrance of transitioning the receptor to an active state. Several reports have described the identification and development of PAMs for class A, class B, and class C GPCRs (12).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5079</offset>
+      <text>The glucagon-like peptide-1 receptor (GLP-1R) is a class B GPCR that has proved to be an effective therapeutic target as several peptide-based agonists have been developed and registered for treating type 2 diabetes mellitus (13, 14). Reports from preclinical studies have described the discovery of small molecule GLP-1R PAMs (15, 16). Two of the most characterized are compound 2 (17, 18) and compound B/BETP (19); both molecules have been shown to potentiate GLP-1R-stimulated cAMP accumulation by oxyntomodulin (20, 21) and GLP-1(9–36)-NH2 (22, 23). Each compound also enhances the actions of non-natural agonists on the GLP-1R, peptidic and non-peptidic, such as BMS-21, Boc-5, and TT-15 (24). In total, these results support the existence of an allosteric site in the GLP-1R distinct from the orthosteric peptide-binding pocket. Although structurally distinct, unfortunately both compounds are unstable and display poor pharmacokinetic properties that preclude potential clinical development (16). Not surprisingly, because of its electrophilic nature, BETP has been reported to conjugate with GSH in vitro (25).</text>
+      <annotation id="O3">
+        <infon key="type">OTHER</infon>
+        <location offset="5083" length="32"/>
+        <text>glucagon-like peptide-1 receptor</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="5450" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="5474" length="10"/>
+        <text>compound B</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="5485" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="5559" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D053772</infon>
+        <location offset="5580" length="13"/>
+        <text>oxyntomodulin</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C533559</infon>
+        <location offset="5755" length="5"/>
+        <text>Boc-5</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011422,MESH:D007546</infon>
+        <location offset="5766" length="5"/>
+        <text>TT-15</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="6138" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="6179" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6200</offset>
+      <text>The finding that nucleophilic GSH displaces the ethyl sulfoxide moiety of BETP led to studies that elegantly demonstrated the allosteric mechanism utilized by BETP to potentiate GLP-1R signaling occurs via irreversible covalent modification of a free cysteine located in the third intracellular loop of the GLP-1R (26). Importantly, substitution of this cysteine (position 347) with alanine does not alter peptide agonism at the mutant receptor but does result in loss of PAM action for both BETP and compound 2 (26). Interestingly, although BETP and compound 2 represent distinct chemical pharmacophores, the compounds share the electrophilicity; this suggests that compound 2 also activates the GLP-1R by covalent modification of Cys-347 (26). Although both molecules act by the same mechanism, modification of the receptor by the compounds results in a differential enhancement of GLP-1R signaling (cAMP accumulation versus intracellular calcium mobilization, β-arrestin recruitment, and ERK phosphorylation) (24). Although BETP and compound 2 are the best characterized GLP-1R PAMs reported to date, other modulators have been described (16), but it is not known whether these molecules interact with the receptor by the same covalent mechanism. Furthermore, it is unclear whether other electrophiles that can access Cys-347 will modulate GLP-1R activity.</text>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="6230" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013454</infon>
+        <location offset="6248" length="15"/>
+        <text>ethyl sulfoxide</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="6274" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="6359" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6451" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6554" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="6583" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="6692" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="6701" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="6742" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="6751" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="6867" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="6932" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="7102" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="7141" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="7227" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="7236" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="7521" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7563</offset>
+      <text>For class B GPCRs, the presence of a free cysteine in the GLP-1R at position 347 is unique. Thus, studies evaluating the effect of modifying this site on GLP-1R-mediated cellular function may enable the development of receptor-specific agents. In line with this, the work presented herein shows that BETP potentiates insulin secretion in a glucose- and GLP-1R-dependent manner, therefore bolstering the potential therapeutic utility of allosterically modulating receptor activity. To further interrogate the mechanism whereby covalent modification enhances GLP-1R function, we describe the discovery and characterization of several electrophilic chemotypes that potentiate GLP-1R activity in a Cys-347-dependent manner. Importantly, the results indicate that structurally diverse compounds that have the ability to access the third inner membrane loop of the GLP-1R can enhance receptor signaling of this important therapeutic target. Because the positive allosteric mechanism likely occurs through structural modification that results in the formation of an intracellular adduct, strategies aimed at targeting this site may facilitate efforts to stabilize the GLP-1R in an active confirmation and possibly enable new ligand identification approaches.</text>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="7605" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="7863" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="7903" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="8257" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8815</offset>
+      <text>Experimental Procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8839</offset>
+      <text>Ligands</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8847</offset>
+      <text>The following compounds were prepared as described previously: BETP and th-BETP (24); 1 and 2 (17, 18); 3 (27); 4 and 5 (28); 6 (29); 7 and 8 (30); 9 (27); 15 (31); 17 (32). Other described compounds were purchased from commercial sources. [3H]BETP was purchased from ViTrax (specific activity, 33.3 Ci/mmol). GLP-1(7–36)-NH2 was synthesized at Lilly Research Laboratories, and GLP-1(9–36)-NH2 was purchased from Bachem (Torrance, CA).</text>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="8910" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="8919" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="9088" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="9091" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9287</offset>
+      <text>GLP-1R [35S]GTPγS Binding Assays</text>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013462</infon>
+        <location offset="9295" length="3"/>
+        <text>35S</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="9299" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9324</offset>
+      <text>Preparation of GLP-1R HEK293 cell membranes and measurement of GLP-1R activation via [35S]GTPγS binding to Gαs using an antibody capture scintillation proximity assay were performed as described previously (20). Briefly, reactions contained 5 μg of membrane in 20 mm HEPES, pH 7.4, 50 mm NaCl, 5 mm MgCl2, 40 μg/ml saponin, 0.1% bovine serum albumin, and 500 pm 35S-labeled GTPγS (PerkinElmer Life Sciences). Peptides and compounds were diluted and treated at a final concentration of 1% DMSO. Binding was induced for 30 min at room temperature before solubilization with 0.2% Nonidet P-40 detergent, rabbit anti-Gαs polyclonal antibody, and 0.5 mg of anti-rabbit polyvinyl toluene beads (PerkinElmer Life Sciences). The detection mixtures were developed for 30 min, centrifuged at 80 × g for 10 min, and counted for 1 min/well using a MicroBeta TriLux instrument (PerkinElmer Life Sciences).</text>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013462</infon>
+        <location offset="9410" length="3"/>
+        <text>35S</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="9414" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="9591" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="9612" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="9623" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="9639" length="7"/>
+        <text>saponin</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013462</infon>
+        <location offset="9686" length="3"/>
+        <text>35S</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="9698" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="9812" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014050,MESH:D011145</infon>
+        <location offset="9988" length="17"/>
+        <text>polyvinyl toluene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10235</offset>
+      <text>INS1 832-3 Cell cAMP Accumulation Assays</text>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="10251" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10276</offset>
+      <text>The INS1-derived 832-3 insulinoma cell line (33, 34) was used to study stimulation of intracellular cAMP by BETP + GLP-1(9–36)-NH2. Cells were maintained by growing adherently in RPMI 1640 medium (HyClone, Pittsburgh, PA) containing 11.2 mm glucose supplemented with 10% fetal bovine serum, 10 mm HEPES, 1 mm sodium pyruvate, 2 mm l-glutamine, 100 units/ml penicillin, 100 μg/ml streptomycin, and 50 μm 2-mercaptoethanol at 37 °C in 5% CO2. On the day of the assay, cells were lifted, counted, and resuspended in Earle's balanced salt solution buffer (EBSS) containing 0.1% bovine serum albumin and 11.2 mm glucose. Cells were seeded at a density of 40,000 cells per well into sterile 96-well half-area solid black microplates and incubated in the presence of various treatments supplemented with isobutylmethylxanthine at 37 °C for 30 min. Cells were then assayed for cAMP accumulation using homogeneous time-resolved fluorescence technology (Cisbio Bioassays, Bedford, MA).</text>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="10376" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="10384" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="10517" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011773</infon>
+        <location offset="10585" length="15"/>
+        <text>sodium pyruvate</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="10609" length="9"/>
+        <text>glutamine</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="10633" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="10655" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="10679" length="17"/>
+        <text>2-mercaptoethanol</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="10712" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10789" length="30"/>
+        <text>Earle's balanced salt solution</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10828" length="4"/>
+        <text>EBSS</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="10883" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015056</infon>
+        <location offset="11073" length="22"/>
+        <text>isobutylmethylxanthine</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="11145" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11258</offset>
+      <text>Ex Vivo Pancreatic Islet Insulin Secretion Assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11308</offset>
+      <text>Male wild-type and Glp-1r null mice (35) (both of C57BL/6 background) were maintained in accordance with the Institutional Animal Care and Use Committee of Eli Lilly and Co. and the Guide for the Use and Care of Laboratory Animals by the National Institutes of Health. Mice were housed in microisolator cages on wood chip bedding with food (2014 Teklad Global Diet, Harlan, Indianapolis, IN) and deionized water available ad libitum. Lights were on a 12:12-h light/dark cycle, and temperature and relative humidity were maintained between 21 and 23 °C and 45 and 65%, respectively. For pancreatic islet isolation, mice were euthanized by cervical dislocation. The common bile duct was cannulated with a 27-gauge needle, and the pancreas was distended by infusion of 10 ml of Hanks' balanced salt solution buffer (Sigma) containing 2% bovine serum albumin (Akron Biotech, Boca Raton, FL) and 1 mg/ml collagenase (Vitacyte, Indianapolis, IN). Pancreatic tissue was then removed and digested in Hanks' balanced salt solution buffer at 37 °C. Islets were purified on a Histopaque (Histopaque-1077/Histopaque-11991 mixture) gradient (Sigma) for 18 min at 750 × g. Islets were then cultured overnight in RPMI 1640 medium containing 10% fetal bovine serum, 100 units/ml penicillin, and 100 μg/ml streptomycin (Invitrogen). The next morning, islets were incubated in EBSS containing 2.8 mmol/liter glucose at 37 °C for 30 min. Groups of three size-matched islets were then hand-picked and incubated in 0.3 ml of EBSS containing the indicated concentrations of glucose and ligands at 37 °C for 90 min. Following the static incubation experiments, supernatants were collected and stored at −20 °C until assayed for insulin using an electrochemiluminescence assay (Meso Scale Diagnostics, Rockville, MD). Data were calibrated to external standards and expressed as nanograms/ml insulin in the culture medium.</text>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12083" length="29"/>
+        <text>Hanks' balanced salt solution</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12300" length="29"/>
+        <text>Hanks' balanced salt solution</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="12571" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="12597" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12667" length="4"/>
+        <text>EBSS</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="12698" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12812" length="4"/>
+        <text>EBSS</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="12860" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13215</offset>
+      <text>Immunoprecipitation, Liquid Scintillation, and Denaturing PAGE Fluorography</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13291</offset>
+      <text>HEK293 cells were adherently passaged to poly-d-lysine polymer-coated dishes. Transfection was performed using a mixture of FuGENE 6 reagent (Promega, Madison, WI) and pcDNA3.1 expression vector encoding the human GLP-1R-3×FLAG fusion protein. Following 48 h, cells were washed with 1× PBS and allowed to recover in supplemented Gibco 31053 media containing 0.5% fetal bovine serum prior to a 2-h treatment of 500 nm [3H]BETP at 37 °C. Cells were scraped from the dish to pellet material and to wash away unbound radioligand prior to immunoprecipitation. Cells were disrupted with sonication and removed from insoluble debris via centrifugation in lysis buffer (50 mm Tris-HCl pH 7.5, 150 mm NaCl, 1 mm EDTA pH 8.0, 1% Triton X-100, 1× Complete protease inhibitor (Roche Applied Science)), and 2 mm reduced l-GSH. All lysates were pre-cleared of immunoglobulin (IgG)-binding content for 2 h at 4 °C with mouse IgG-agarose gel (Sigma) prior to affinity purification using anti-FLAG M2-agarose gel (Sigma) and overnight rotation at 4 °C. The bead resins were washed three times following immunoprecipitation with lysis buffer and gravity filtration using empty Bio-Spin chromatography columns (Bio-Rad). Captured proteins were eluted from the M2 affinity gel or IgG control gel using SDS sample buffer at low speed centrifugation.</text>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011107</infon>
+        <location offset="13332" length="13"/>
+        <text>poly-d-lysine</text>
+      </annotation>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="13620" length="17"/>
+        <text>Gibco 31053 media</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="13709" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="13712" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="13959" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="13964" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="13983" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="13994" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="14098" length="5"/>
+        <text>l-GSH</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="14205" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="14275" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="14573" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14626</offset>
+      <text>For liquid scintillation, immunopurified protein was added directly to Ultima Gold scintillator mixture (PerkinElmer Life Sciences), and radioactive decay was quantified with a Beckman LS3801 scintillation counter. Standard samples containing known amounts of radioactivity were also quantified to calculate the instrument counting efficiency for conversion to disintegrations/min. For fluorography, immunopurified protein was reduced with 2-mercaptoethanol at room temperature for electrophoretic separation. The 10% polyacrylamide gel containing radiolabeled samples was fixed with acetic acid in 2-propanol, agitated in Amersham Biosciences Amplify fluorographic agent (GE Healthcare), dried under heated vacuum, and exposed to x-ray MP Hyperfilm (PerkinElmer Life Sciences) at −80 °C. The film was developed using an automatic processor following 5–20 days of exposure.</text>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="15066" length="17"/>
+        <text>2-mercaptoethanol</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016679</infon>
+        <location offset="15144" length="14"/>
+        <text>polyacrylamide</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019342</infon>
+        <location offset="15210" length="11"/>
+        <text>acetic acid</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019840</infon>
+        <location offset="15225" length="10"/>
+        <text>2-propanol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15505</offset>
+      <text>GLP-1R HEK293 Cell cAMP Assays</text>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="15524" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15536</offset>
+      <text>HEK293 cells expressing either wild-type human GLP-1R (NCBI accession number NP_002053) (20) or mutant C347A human GLP-1R-1×FLAG were used for measurement of cAMP accumulation. Cells were seeded into 96-well half-area black microplates in Gibco 31053 Dulbecco's modified Eagle's medium (Life Technologies, Inc.) containing 0.1% bovine serum albumin fraction. Peptide and compound treatments were diluted into medium containing isobutylmethylxanthine and added to cells for 30 min at 37 °C or 1 h at room temperature with 5% CO2. Cells were then assayed for cAMP accumulation using homogeneous time-resolved fluorescence technology (Cisbio Bioassays, Bedford, MA). Data were analyzed by the ratio method, calibrated to external standards, and reported as concentration of cAMP or expressed as percent cAMP compared with GLP-1(7–36)-NH2. To enable testing of small molecule compounds in higher throughput format, for some experiments, minor modifications to this protocol were made. Specifically, compound and GLP-1(9–36)-NH2 were dispensed acoustically (Echo, Labcyte, Sunnyvale, CA) into a total volume of 20 μl in Corning 384-well plates. GLP-1(9–36)-NH2 shift assays were performed with a concentration-response curve of GLP-1(9–36)-NH2 and a fixed dose of small molecules. Data were fit to the four-parameter logistic model (36), and ratios of potencies were used to quantify the fold-shift of GLP-1(9–36)-NH2 potency induced by allosteric modulators. Similarly, a concentration-response curve was generated for compounds in the presence of an EC20 of GLP-1(9–36)-NH2, and relative EC50 values were generated using the four-parameter model. Data were normalized using MIN and MAX controls, as described (36). Data analysis was performed using Screener (Genedata, San Francisco).</text>
+      <annotation id="O4">
+        <infon key="type">OTHER</infon>
+        <location offset="15632" length="12"/>
+        <text>mutant C347A</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="15694" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015056</infon>
+        <location offset="15963" length="22"/>
+        <text>isobutylmethylxanthine</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="16060" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="16093" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="16307" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="16336" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17333</offset>
+      <text>Fluorescein-Maleimide Competition Assay</text>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C037041</infon>
+        <location offset="17333" length="21"/>
+        <text>Fluorescein-Maleimide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17373</offset>
+      <text>A competitive fluorescence-based assay for assessing the reactivity of compounds was developed and performed as described previously (37) with minor modifications. Briefly, a test compound was added to PBS (calcium/magnesium-free; Hyclone), followed by rapid addition of 100 nm GSH (ThermoFisher, Grand Island, NY), and then 50 nm fluorescein-5-maleimide (AnaSpec, San Jose, CA). The final DMSO concentration in the assay was 3.3% (v/v). Fluorescein emission was measured at 25 °C using a SpectraMax (Molecular Devices, Sunnyvale, CA). Test compounds were run in a concentration-response format, and equilibrium fluorescence was quantified. To obtain compound inhibitor constants for the reaction with GSH (KGSH), data were fit using PRISM (GraphPad, La Jolla, CA) to Equation 1,  where [I] is concentration of test compound; KS is the second order rate constant for reaction of fluorescein maleimide with GSH; B is basal fluorescence, and F is maximum fluorescence observed. KS was determined experimentally (16,000 m−1 s−1) and is concordant with published literature (37). Data were calculated as the harmonic means and standard deviations from three or more experiments.</text>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965,MESH:D010710</infon>
+        <location offset="17575" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="17580" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="17588" length="9"/>
+        <text>magnesium</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="17651" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C037041</infon>
+        <location offset="17704" length="23"/>
+        <text>fluorescein-5-maleimide</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="17763" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019793</infon>
+        <location offset="17811" length="11"/>
+        <text>Fluorescein</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="18075" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C037041</infon>
+        <location offset="18252" length="21"/>
+        <text>fluorescein maleimide</text>
+      </annotation>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="18279" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>18553</offset>
+      <text>GSH Conjugation Followed by LC/MS</text>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="18553" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>18587</offset>
+      <text>Reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18596</offset>
+      <text>Water and acetonitrile (ACN) were HPLC grade from Lab Scand (Dublin, Ireland). Formic acid (FA), ammonium hydrogen carbonate, phosphoric acid, sodium hydroxide, and l-GSH were from Sigma (Steinheim, Germany). For the sample preparation, a 100 mm sodium phosphate buffer, pH 7.4 (stored at 4 °C), 5 mm GSH in water, and stocks of the different target compounds at 5 mm in ACN were prepared.</text>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="18606" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="18620" length="3"/>
+        <text>ACN</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="18675" length="11"/>
+        <text>Formic acid</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="18688" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="18693" length="27"/>
+        <text>ammonium hydrogen carbonate</text>
+      </annotation>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030242</infon>
+        <location offset="18722" length="15"/>
+        <text>phosphoric acid</text>
+      </annotation>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="18739" length="16"/>
+        <text>sodium hydroxide</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="18761" length="5"/>
+        <text>l-GSH</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="18842" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="18897" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="18967" length="3"/>
+        <text>ACN</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>18987</offset>
+      <text>Sample Preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19006</offset>
+      <text>Test and control samples were prepared and analyzed in parallel. Test samples contained 0.4 mm target compound and 1.4 mm GSH in phosphate buffer/ACN 70:30 in a total volume of 1.4 ml. Control samples contained 0.4 mm target compound in phosphate buffer/ACN 70:/30. Both solutions were incubated at 37 °C for 120 min in the HPLC autosampler and were analyzed at different times (standard times: 0, 30, 60, and 120 min).</text>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="19128" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="19135" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="19152" length="3"/>
+        <text>ACN</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="19243" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="19260" length="3"/>
+        <text>ACN</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19427</offset>
+      <text>LC/MS Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19441</offset>
+      <text>An Agilent 1200 series rapid resolution LC/MSD SL system equipped with a solvent degasser, binary pump, auto sampler, column compartment, and a diode array detector (Agilent Technologies, Waldbronn, Germany) with XTerra MS column (50 × 2.1 mm, 3.5 μm; Waters Corp.) was used at 60 °C. The method involved gradient elution with water, 0.1% FA (solvent A) and ACN, 0.1% FA (solvent B) at a flow rate of 1.6 ml/min prior to the mass spectrometer, which was split at a ratio of 4:1. The A/B ratio was set at 80:20 as the initial elution condition, changing linearly to 0:100 in 0.8 min, and maintained at 0:100 from 0.8 to 1.0 min. Peaks were detected by absorbance at 214 nm and bandwidth at 16 nm, using the MS detector for identification. Electrospray mass spectrometry measurements were performed on a mass spectrometry detector quadrupole mass spectrometer (Agilent Technologies, Palo Alto, CA) interfaced to the HP1200 system, acquired simultaneously in positive and negative ionization modes (fragmentor 120 V, threshold spectral abundance 150, MS peak width 0.09 min) over the mass range of 100–800. Data acquisition and integration for LC-UV and MS detection were collected using ChemStation software (Agilent Technologies).</text>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="19780" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="19799" length="3"/>
+        <text>ACN</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="19809" length="2"/>
+        <text>FA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20676</offset>
+      <text>Injections were made at predetermined time points, which were then used to plot the consumption of target compound as a function of time. The MS method allowed for the simultaneous monitoring of conjugate formation.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20892</offset>
+      <text>Cathepsin L Assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20910</offset>
+      <text>Enzyme activity of the cysteine-protease cathepsin L (CatL) was quantified using human CatL (Calbiochem) and the fluorogenic substrate Z-Phe-Arg-7-amido-4-methylcoumarin (Z-Phe-Arg-AMC, Calbiochem). The assay buffer was 50 mm sodium phosphate buffer, pH 6.5, 2.5 mm EDTA, and 0.002 (w/v) Tween 20. Enzyme activity was measured at 25 °C in 384-well plates (Corning) using a Synergy (BioTek) plate reader with 360 nm excitation and 485 nm emission wavelengths. 20 μl of compound dilution series were incubated with 20 μl of CatL enzyme for 30 min. The assay was initiated by the addition of 20 μl of Z-Phe-Arg-AMC. Data were quantified after 10 min of reaction, and IC50 values were calculated (36). Final assay conditions were 2.6 nm CatL with 200 nm Z-Phe-Arg-AMC in 0.33% (v/v) DMSO. The assay was pharmacologically validated using the covalent CatL inhibitor (2S,3S)-N2-[(1S)-1-benzyl-2-(benzylamino)-2-oxo-ethyl]-N3-[2-(4-hydroxyphenyl)ethyl]oxirane-2,3-dicarboxamide (CAA0225; EMD Millipore) (38).</text>
+      <annotation id="O5">
+        <infon key="type">OTHER</infon>
+        <location offset="20933" length="17"/>
+        <text>cysteine-protease</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="21045" length="34"/>
+        <text>Z-Phe-Arg-7-amido-4-methylcoumarin</text>
+      </annotation>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="21081" length="13"/>
+        <text>Z-Phe-Arg-AMC</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="21136" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="21176" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="21198" length="8"/>
+        <text>Tween 20</text>
+      </annotation>
+      <annotation id="C161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="21508" length="13"/>
+        <text>Z-Phe-Arg-AMC</text>
+      </annotation>
+      <annotation id="C162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="21660" length="13"/>
+        <text>Z-Phe-Arg-AMC</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="21689" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C540134</infon>
+        <location offset="21771" length="109"/>
+        <text>(2S,3S)-N2-[(1S)-1-benzyl-2-(benzylamino)-2-oxo-ethyl]-N3-[2-(4-hydroxyphenyl)ethyl]oxirane-2,3-dicarboxamide</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C540134</infon>
+        <location offset="21882" length="7"/>
+        <text>CAA0225</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21916</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>21924</offset>
+      <text>BETP Potentiates cAMP Signaling and Stimulates Insulin Secretion in a Glucose- and GLP-1R-dependent Manner</text>
+      <annotation id="C164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="21924" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="21941" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="21994" length="7"/>
+        <text>Glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22031</offset>
+      <text>Studies were undertaken to determine the mechanism whereby BETP (19, 22) allosterically modulates the GLP-1R to enhance insulin secretion. To develop a proximal measure of receptor activation, a GLP-1R-containing cell membrane GTPγS binding assay was utilized. Here, upon receptor activation, the non-hydrolyzable guanine nucleotide analogue, [35S]GTPγS, binds Gαs. Accumulated radiolabeled Gαs was then captured using anti-Gαs antisera and measured. Consistent with the established ability of GLP-1R agonists to enhance insulin secretion by stimulating Gαs/adenylyl cyclase/cAMP signaling, BETP induced GTP-Gαs binding in a cooperative manner with the inactive metabolite, GLP-1(9–36)-NH2 (Fig. 1A). Similarly, in INS1 832-3 insulinoma cells, BETP enhanced GLP-1(9–36)-NH2-induced cAMP accumulation in a concentration-dependent manner (Fig. 1B). The results showing BETP enhances GTP binding in the GLP-1R membrane assay and potentiates cAMP signaling in the pancreatic beta cell line extend the original findings from studies using GLP-1R-expressing HEK293 cells that showed BETP potentiates GLP-1(9–36)-NH2 but not GLP-1(7–36)-NH2 activity (22).</text>
+      <annotation id="C167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="22090" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="22258" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+      <annotation id="C168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006150</infon>
+        <location offset="22345" length="18"/>
+        <text>guanine nucleotide</text>
+      </annotation>
+      <annotation id="C178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013462</infon>
+        <location offset="22375" length="3"/>
+        <text>35S</text>
+      </annotation>
+      <annotation id="C179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="22379" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+      <annotation id="C169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="22606" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="22622" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="22635" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="C172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="22775" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="22813" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="22898" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="22912" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="22969" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23108" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>23208</offset>
+      <text>BETP potentiates GLP-1(9–36)NH2-mediated cAMP signaling and stimulates insulin secretion in a glucose- and GLP-1R-dependent manner. A, in the presence of GLP-1(9–36)-NH2, BETP enhances activation of Gαs in GLP-1R-expressing membranes. Data show responses of varying concentrations of GLP-1(9–36)-NH2 alone (■) or in combination with 10 μm (▿), 1 μm (▵), or 0.1 μm (♢) of BETP. ● = GLP-1(7–36)-NH2. B, BETP potentiates GLP-1(9–36)-NH2-mediated cAMP accumulation in INS1 832-3 insulinoma cells. Intracellular concentrations of cAMP in response to varying concentrations of GLP-1(9–36)-NH2 alone (■) or in combination with 3 μm (▿), 1 μm (▵), or 0.3 μm (♢) of BETP are depicted. ● = GLP-1(7–36)-NH2. C, in cultures of isolated islets from wild-type (black bar) or Glp-1r KO (white bar) mice, BETP stimulates insulin secretion via a mechanism that requires high glucose (11.2 mm), GLP-1(9–36)-NH2, and the presence of the GLP-1R. Insulin levels in the media were measured following incubation of islets with the indicated concentrations of GLP-1(7–36)-NH2, BETP, GLP-1(9–36)-NH2, BETP plus GLP-1(9–36)-NH2, or glucose-dependent insulinotropic polypeptide (GIP)(1–42). D, insulin secretion is not enhanced by BETP in low glucose concentrations (2.8 mm). For each treatment, mean insulin concentrations were determined by measuring insulin in media from six independent wells containing three islets per well. ***, p &lt; 0.001 using one-way ANOVA followed by Dunnett's comparison versus the respective 11.2 mm glucose group in C. For 11.2 mm glucose, #, p &lt; 0.001 compared with the respective 2.8 mm glucose treatment in C and D. Data presented are representative of three to six independent experiments.</text>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23208" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="23249" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="23302" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23379" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23579" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23609" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="23651" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="23733" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23865" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="23997" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="24066" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="24261" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="24284" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="24314" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="24412" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="24424" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="24710" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="24742" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="24800" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24956</offset>
+      <text>To investigate the insulin secretory mechanism of BETP, ex vivo cultures of isolated mouse islets were used. As BETP is a reactive molecule that has been shown to covalently modify several proteins (26), studies were undertaken to assess the specificity and glucose dependence of BETP in potentiating insulin secretion. Similar to previous results from rat islets incubated in high glucose concentrations showing BETP potentiated GLP-1(9–36)-NH2-stimulated insulin secretion (22), the combination of BETP and GLP-1(9–36)-NH2 increased insulin levels in static cultures of islets from wild-type mice (Fig. 1C). Importantly, the insulinotropic response did not occur in the presence of low glucose (Fig. 1D), results that are consistent with the established glucose dependence of GLP-1R activation to enhance insulin secretion. Furthermore, the co-treatment of BETP and GLP-1(9–36)-NH2 did not enhance insulin secretion in either low or high glucose concentrations in islets isolated from Glp-1r null mice (Fig. 1, C and D). As a control, the insulin secretory capacity of GLP-1R-deficient islets was confirmed by demonstrating that glucose-dependent insulinotropic polypeptide enhanced insulin secretion in these cultures (Fig. 1C). Together, the islet studies performed here indicate that the mechanism whereby BETP potentiates insulin secretion requires the presence of high glucose, the GLP-1R, and a peptide ligand.</text>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="25006" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="25068" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25214" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="25236" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25338" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="25369" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="25456" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25644" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25712" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="25815" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="25896" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="26087" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26267" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="26332" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>26381</offset>
+      <text>Electrophilic Mechanism of Action of BETP</text>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26418" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26423</offset>
+      <text>Because of the inherent reactivity of BETP (16), studies were performed to assess whether BETP irreversibly modifies the GLP-1R. For these experiments, a radiolabeled analogue of BETP was synthesized ([3H]BETP) and incubated with HEK293 cells expressing human GLP-1R that contains a carboxyl-terminal FLAG epitope (35). Anti-FLAG affinity purification of lysates from cells treated with [3H]BETP showed high disintegrations/min from GLP-1R-FLAG-expressing cells versus purifications using mouse immunoglobulin control beads (Fig. 2A). Furthermore, PAGE fluorography of lysates under denaturing conditions demonstrated bands consistent with the expected migration pattern of glycosylated GLP-1R (Fig. 2A) (35). The finding that [3H]BETP irreversibly labels the GLP-1R is in concordance with studies showing BETP covalently binds Cys-347 (26).</text>
+      <annotation id="C215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26461" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26513" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26602" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="26625" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26628" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="26811" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="26814" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="27151" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="27154" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="27229" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="27251" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>27265</offset>
+      <text>GLP-1R binding and activation by BETP requires its electrophilic nature. A, affinity purification of GLP-1R-3XFLAG from HEK293 cells treated with [3H]BETP shows labeling of the receptor. Liquid scintillation disintegrations/min from immunoprecipitation assays using IgG control (white bar) or anti-FLAG antibody (black bar)-conjugated beads are shown. Under reducing conditions, 10% PAGE fluorography of anti-FLAG immunopurified proteins shows a banding pattern consistent with migration of the GLP-1R. B, in HEK293 cells expressing the GLP-1R, the non-reactive analogue of BETP, th-BETP, does not potentiate GLP-1(9–36)-NH2-stimulated cAMP accumulation. Data show results from assays testing varying concentrations of GLP-1(9–36)-NH2 alone (■) or in combination with 1 μm (▵) or 0.1 μm (♢) BETP or with 10 μm (○) or 1 μm (▿) th-BETP. ● = GLP-1(7–36)-NH2. C, BETP does not potentiate GLP-1(9–36)-NH2 activity in HEK293 cells expressing the mutant C347A GLP-1R-1XFLAG. Accumulation of intracellular cAMP was stimulated by varying concentrations of GLP-1(9–36)-NH2 alone (■) or in combination with 1 μm (▵) or 0.1 μm (♢) BETP or with 10 μm (○) or 1 μm (▿) th-BETP. ● = GLP-1(7–36)-NH2. D, in an antagonist assay format, GLP-1R activation in HEK293 cells by BETP is not blocked by co-incubation of the non-reactive analogue th-BETP. Varying concentrations of the non-reactive th-BETP analogue (□) do not blunt intracellular cAMP accumulation induced by the combination of BETP (1 μm) and GLP-1(9–36)-NH2 (0.1 μm). ● = GLP-1(7–36)-NH2, and ■ = GLP-1(9–36)-NH2. All data are fit to the four-parameter logistic equation, and the EC50 value for BETP in cAMP accumulation assays using GLP-1R-expressing HEK293 cells is presented in Table 1.</text>
+      <annotation id="C229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="27298" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="27412" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="27415" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="27839" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="27845" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="27901" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="28056" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="28091" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="28124" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="28263" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="28384" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="28419" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="28520" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="28586" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="28638" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="28686" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="28734" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="28903" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="28911" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29056</offset>
+      <text>To evaluate whether covalent interaction of BETP with the GLP-1R is required for allosteric modulation of receptor activity, a non-reactive structurally similar analogue of BETP that contains thioether in place of the sulfoxide moiety was synthesized (th-BETP, Fig. 3A). For these experiments, HEK293 cells overexpressing the human GLP-1R were used, and as opposed to studies of isolated islets or insulinoma cell lines, GLP-1(9–36)-NH2 shows partial stimulation of cAMP accumulation (21–23). Co-treatment of th-BETP and GLP-1(9–36)-NH2 to these cells showed no additional increase in cAMP accumulation compared with peptide alone (Fig. 2B and Table 1). Furthermore, these assays confirmed the previously reported discovery that Cys-347 of the GLP-1R is required for BETP function, as cells expressing the C347A mutant were not potentiated by BETP (Fig. 2C and Table 1). The concentration-response curves shown for the mutant assay were calculated as a percentage of maximum stimulation by GLP-1(7–36)-NH2; the apparent increase in Emax of GLP-1(9–36)-NH2 may therefore reflect subtle differences in the efficacy of the cognate ligand in wild-type versus C347A GLP-1R cells, a phenomenon that was also previously observed (26).</text>
+      <annotation id="C253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="29100" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="29229" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013440</infon>
+        <location offset="29248" length="9"/>
+        <text>thioether</text>
+      </annotation>
+      <annotation id="C263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013454</infon>
+        <location offset="29274" length="9"/>
+        <text>sulfoxide</text>
+      </annotation>
+      <annotation id="C260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="29308" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="29522" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="29565" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="29641" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="29785" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="29823" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="29899" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>30294</offset>
+      <text>A, chemical structures of known GLP-1R-activating chemotypes are depicted. The leaving groups from nucleophilic attack are shaded. EC50 values for each molecule in cAMP accumulation assays using GLP-1R-expressing HEK293 cells are presented in Table 1. B, chemical structures of the electrophilic compounds evaluated for the ability to modulate GLP-1R activity are presented. The leaving groups from nucleophilic attack are shaded and nucleophilic attack to double bonds is represented with an arrow. EC50 values for each molecule are presented in Table 2.</text>
+      <annotation id="C265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="30458" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>30850</offset>
+      <text>Reactivity and pharmacological characterization of known small molecule GLP-1R activators</text>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>30940</offset>
+      <text>SR1 = 5-methyl-1,3,4-thiadiazole-2-thiol; SR2 = 1-[1-(1-methyl-4-piperidyl)ethyl]tetrazole-5-thiol. Compound EC50 values are compound potencies determined from cAMP accumulation assays using wild-type (WT) or C347A GLP-1R-1×FLAG expressing HEK293 cells in the presence of 220 nm GLP-1(9–36)-NH2. 10-Point compound concentration-response curves were run from a maximum of 30 μm, with 3-fold dilutions. Data were normalized using min (220 nm GLP-1(9–36)-NH2 + DMSO = 0%) and max (220 nm GLP-1(9–36)-NH2 + 1 μm reference compound = 100%) controls (36). Potency values are represented as geometric means, standard deviations (S.D.), and number of independent replicates (n). Compound efficacy values (Emax) are represented as arithmetic means, standard deviations (S.D.), and number of independent replicates (n). Representative curves are presented in Fig. 5, A and C. NA = not applicable. GLP-1(9–36)-NH2 fold shift values are calculated as the ratio of GLP-1(9–36)-NH2 potencies in the presence of 10 μm test compound versus DMSO vehicle. 10-Point GLP-1(9–36)NH2 compound concentration-response curves were run from a maximum of 75 μm, with 3-fold dilutions. Data were normalized using min (DMSO = 0%) and max (75 μm GLP-1(9–36)-NH2 + 1 μm reference compound = 100%) controls (36). Potency values are represented as geometric means, standard deviations (S.D.), and number of independent replicates (n). GLP-1(9–36)-NH2 efficacy values (Emax) are represented as arithmetic means, standard deviations (S.D.), and number of independent replicates (n).</text>
+      <annotation id="C272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C049131</infon>
+        <location offset="30940" length="3"/>
+        <text>SR1</text>
+      </annotation>
+      <annotation id="C270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C049131</infon>
+        <location offset="30946" length="34"/>
+        <text>5-methyl-1,3,4-thiadiazole-2-thiol</text>
+      </annotation>
+      <annotation id="C273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013777</infon>
+        <location offset="30982" length="3"/>
+        <text>SR2</text>
+      </annotation>
+      <annotation id="C271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013777</infon>
+        <location offset="30988" length="50"/>
+        <text>1-[1-(1-methyl-4-piperidyl)ethyl]tetrazole-5-thiol</text>
+      </annotation>
+      <annotation id="C266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="31100" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="31398" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="31964" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="32130" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>33976</offset>
+      <text>a Parent compound was still detected after 60 min.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>34027</offset>
+      <text>b Data could not be calculated as curves were not obtained in the shift assay.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34106</offset>
+      <text>Studies designed to assess the ability of the non-reactive th-BETP analogue to antagonize BETP showed no inhibition of BETP. Here, near maximal stimulation of cAMP production in wild-type GLP-1R HEK293 cells via combination of BETP and GLP-1(9–36)-NH2 was not blunted by co-addition of increasing concentrations of th-BETP (Fig. 2D). The lack of activity of the non-reactive th-BETP analogue in potentiator assays and the inability of this molecule to blunt BETP action support the assertion that there is not a conventional small molecule binding pocket in the local proximity of Cys-347 of the GLP-1R.</text>
+      <annotation id="C281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="34165" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="34196" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="34225" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="34265" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="34333" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="34421" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="34481" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="34564" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="34687" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>34712</offset>
+      <text>Known Small Molecule GLP-1R Activators Are Electrophilic</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34769</offset>
+      <text>To determine whether other modulators of the GLP-1R activate the receptor by a covalent mechanism, several previously reported compounds that contain potentially electrophilic positions (compounds 1-8, Fig. 3A) were selected. Compound 9 and th-BETP were used as negative controls because these molecules are not predicted to be reactive. Because the reactivity of BETP to nucleophilic cysteine of GSH has been shown previously (25), a GSH-based conjugation assay is likely an appropriate surrogate for evaluating the potential reactivity of compounds toward free cysteines of the GLP-1R. Thus, BETP, th-BETP, and compounds 1–9 were incubated with GSH (39), and the progression of reactions over time (disappearance of parent compound and appearance of the corresponding adduct formed with GSH) was measured by LC/MS. Under the conditions used, BETP disappeared within 60 min (Table 1). It must be noted that the t½ of BETP conjugation to GSH was previously determined as &lt;0.5 min (25), corresponding to a second order rate constant of &gt;0.5 m−1 s−1. Results for the other molecules show compounds 1–6 are also reactive to cysteine of GSH; interestingly, each parent compound disappeared within 10 min (data not shown) except for compound 3. Compounds 7 and 8 remained unaltered after 2 h and thus are deemed non-reactive. As expected, compound 9 and th-BETP were also chemically stable. The results showing compound 4 was as unstable in these experiments as quinoxalines 1-3 is of interest because compound 4 has been reported to be orally efficacious (27, 40), although its apparent electrophilicity suggests poor in vivo pharmacokinetic properties, as has been shown for BETP (25). It should be pointed out that the GSH conjugation assay was performed as described previously (39), using buffer containing organic solvent, conditions that are not representative of in vivo physiology. However, it is indicative of the intrinsic reactivity of the compounds to any cysteine within proximity and therefore predictive of short plasma half-lives when conjugation is observed in this assay; results from the in vitro assays performed here confirm the GSH conjugation mechanism for BETP and also indicate that several known modulators of the GLP-1R are as electrophilic as BETP.</text>
+      <annotation id="C307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="35010" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="35133" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="35154" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="35166" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="35204" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="35332" length="9"/>
+        <text>cysteines</text>
+      </annotation>
+      <annotation id="C291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="35363" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="35369" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="35416" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="35558" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="35613" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="35687" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="35707" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="35890" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="35902" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="36118" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+      <annotation id="C299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011810</infon>
+        <location offset="36226" length="12"/>
+        <text>quinoxalines</text>
+      </annotation>
+      <annotation id="C300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="36441" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="36486" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="36733" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="36915" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="36945" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="37036" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37051</offset>
+      <text>An advantage of the GSH conjugation assay is that it utilizes LC/MS, which enabled us to determine the position of the nucleophilic attack, the structure of the leaving group (see shaded atoms in Fig. 3A), and the structure of the new species formed for each reactive compound from the mass of the new adduct (Table 1). Similar to BETP, the adduct formed by incubation of compound 2 with GSH results from addition of GSH to the quinoxaline ring and elimination of the sulfonyl group. This structure is consistent with the mass obtained by LC/MS. A similar mechanism of addition-elimination to electron-poor aromatic rings is presumed for compounds 1 and 3–6, with elimination of a thiol when GSH reacts with compounds 1 and 4, elimination of a sulfone when it reacts with compounds 5 and 6, and elimination of chloride for compound 3.</text>
+      <annotation id="C312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="37071" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="37382" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C321">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="37423" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="37439" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="37468" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011810</infon>
+        <location offset="37479" length="11"/>
+        <text>quinoxaline</text>
+      </annotation>
+      <annotation id="C320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013438</infon>
+        <location offset="37732" length="5"/>
+        <text>thiol</text>
+      </annotation>
+      <annotation id="C317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="37743" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013450</infon>
+        <location offset="37795" length="7"/>
+        <text>sulfone</text>
+      </annotation>
+      <annotation id="C319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="37861" length="8"/>
+        <text>chloride</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37888</offset>
+      <text>To determine whether these electrophilic GLP-1R modulators activate the receptor via a mechanism similar to BETP, the compounds were tested in cAMP accumulation assays using cells expressing either wild-type or the C347A GLP-1R. Results of these studies are presented in Fig. 5, A and C, and Table 1. We determined the capacity of these molecules to potentiate GLP-1(9–36)-NH2-mediated cAMP accumulation in GLP-1R-expressing cells using two distinct assays. The first assay (Fig. 5 and referred to as compound EC50 in Tables 1 and 2) measures compound potency in the presence of an EC20 amount of GLP-1(9–36)-NH2. Any observed potency and efficacy enhancements in this assay reflect α and β factor modulation of orthosteric and allosteric ligands (41). The second assay (referred to as GLP-1(9–36)-NH2 shift in Tables 1 and 2) measures the EC50 and maximal efficacy of GLP-1(9–36)-NH2 in combination with a fixed 10 μm concentration of compound. This assay provides an estimate of the maximal β-induced increases in efficacy and α-induced enhancements in affinity of the allosteric modulators for GLP-1(9–36)-NH2 (41). Analogous to BETP, compounds 1–6 potentiated GLP-1(9–36)-NH2 activity on the wild-type receptor but not in cells expressing the mutant GLP-1R that lacks Cys-347. Together with findings from the GSH conjugation studies, the functional data support the required role of this cysteine in the allosteric mechanism used by the various chemotypes. It is important to note that the mutant receptor was functional as compound 9, a non-electrophilic molecule reported to activate the GLP-1R (42), potentiated GLP-1(9–36)-NH2 in both wild-type and C347A assays (Fig. 5, A and C, and Table 1). To our knowledge, this is the first study showing potentiation of GLP-1(9–36)-NH2 by a compound from this series. Furthermore, these results are significant because the data indicate potentiation of the GLP-1R can be achieved without covalent modification.</text>
+      <annotation id="C322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="37996" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="38031" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="38274" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="39020" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="39160" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="39201" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="39280" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>39870</offset>
+      <text>Reactivity and pharmacological characterization of electrophilic compounds that activate GLP-1R in a cysteine 347-dependent manner</text>
+      <annotation id="C329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="39971" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>40001</offset>
+      <text>Compound EC50 values are compound potencies determined from cAMP accumulation assays using wild-type (WT) or C347A GLP-1R-1×FLAG expressing HEK293 cells in the presence of 220 nm GLP-1(9–36)-NH2. 10-Point compound concentration-response curves were run from a maximum of 30 μm, with 3-fold dilutions. Data were normalized using min (220 nm GLP-1(9–36)-NH2 + DMSO = 0%) and max (220 nm GLP-1(9–36)-NH2 + 1 μm reference compound = 100%) controls (36). Potency values are represented as geometric means, standard deviations (S.D.), and number of independent replicates (n). Compound efficacy values (Emax) are represented as arithmetic means, standard deviations (S.D.), and number of independent replicates (n). Representative curves are presented in Fig. 5, B and D. NA = not applicable. GLP-1(9–36)-NH2 fold shift values are calculated as the ratio of GLP-1(9–36)-NH2 potencies in the presence of 10 μm test compound versus DMSO vehicle. 10-Point GLP-1(9–36)-NH2 compound concentration-response curves were run from a maximum of 75 μm, with 3-fold dilutions. Data were normalized using min (DMSO = 0%) and max (75 μm of GLP-1(9–36)-NH2 + 1 μm of reference compound = 100%) controls (36). Potency values are represented as geometric means, standard deviations (S.D.), and number of independent replicates (n). GLP-1(9–36)-NH2 efficacy values (Emax) are represented as arithmetic means, standard deviations (S.D.), and number of independent replicates (n).</text>
+      <annotation id="C330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="40061" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="40359" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="40925" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="41092" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>42705</offset>
+      <text>a Parent compound was still detected after 60 min.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>42756</offset>
+      <text>b Addition of GSH to the double bond is shown.</text>
+      <annotation id="C334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="42770" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>42803</offset>
+      <text>c Compounds gave quantifiable activity in GLP-1(9–36)-NH2 shift assay but not in compound dose-response assay. Compounds demonstrated activity in WT (but not C347A) cells, but this was weakly potent and refractory to curve fitting.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>43037</offset>
+      <text>Innate Reactivity Influences Compound-induced Potentiation of the GLP-1R</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>43110</offset>
+      <text>Compounds 1 and 3 require Cys-347 of the GLP-1R for activity and are predicted to generate the same adduct upon reacting with a cysteine and therefore to have similar potentiation activity (Table 1 and Fig. 4A). However, these molecules showed different modulator activities in the wild-type GLP-1R assay (Fig. 5A and Table 1). The different electrophilic character of these compounds appears to account for the difference. In the GSH conjugation assay, adduct 10 was obtained from both compounds; however, the parent species was still detected after 60 min of incubation of GSH with compound 3 but not for compound 1 (parent had disappeared after 30 min, first time point of this experiment) (Fig. 4B), suggesting the rate of adduct formation is slower for compound 3. To confirm these results using conditions more similar to those of the GLP-1R cellular assay, the molecules were tested in an aqueous assay (phosphate buffered saline, pH 7.4) where compounds compete with fluorescein-5-maleimide for reaction with GSH (37). Consistent with the LC/MS findings, calculation of the rate constant for the reaction of compounds 1 and 3 with GSH (KGSH) demonstrated that compound 1 is more reactive (1 = 13 m−1 s−1 (S.D. = 10, n = 11) than compound 3 = &lt;1 m−1 s−1 (n = 4) (p = 0.0015 Mann-Whitney U test)). BETP (19 m−1 s−1 (S.D. = 10, n = 6)) was used as a positive control in these experiments. Taken together, these data indicate compound 3 may need a longer incubation time in the functional assays to allow more adduct formation. Thus, time course studies using the GLP-1R [35S]GTPγS binding assay were performed and demonstrate that prolonged incubation of compound 3 induced a similar response to compound 1 (Fig. 4C).</text>
+      <annotation id="C342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="43136" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="43238" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="43541" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="43685" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965,MESH:D010710</infon>
+        <location offset="44021" length="25"/>
+        <text>phosphate buffered saline</text>
+      </annotation>
+      <annotation id="C338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C037041</infon>
+        <location offset="44085" length="23"/>
+        <text>fluorescein-5-maleimide</text>
+      </annotation>
+      <annotation id="C339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="44127" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="44249" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="44414" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013462</infon>
+        <location offset="44686" length="3"/>
+        <text>35S</text>
+      </annotation>
+      <annotation id="C345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="44690" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>44846</offset>
+      <text>Intrinsic chemical reactivity of electrophilic modulators of the GLP-1R influences receptor activation. A, nucleophilic attack of GSH to quinoxalines 1 and 3 shows formation of the same adduct 10. B, compounds 1 and 3 display different rates of reactivity in a GSH conjugation assay. Data show disappearance of 1 over time (□), formation of adduct 10 over time when 1 is incubated with GSH (■), disappearance of 3 over time (○), and formation of adduct 10 when 3 is incubated with GSH (●). C, time course studies show Gαs activation of the GLP-1R by the quinoxalines. In combination with GLP-1(9–36)-NH2 (3 μm), compounds 1 (3 μm; black bar) and 3 (3 μm; white bar) enhance activation of Gαs in GLP-1R-expressing membranes. Data show mean responses over time of the compounds tested in duplicate in combination with GLP-1(9–36)-NH2. ***, p &lt; 0.0001 using one-way ANOVA followed by pairwise Student's t tests to respective durations of treatment. **, p &lt; 0.01; *, p &lt; 0.05. Data presented are representative of three independent experiments.</text>
+      <annotation id="C349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="44976" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011810</infon>
+        <location offset="44983" length="12"/>
+        <text>quinoxalines</text>
+      </annotation>
+      <annotation id="C351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="45107" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="45232" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="45327" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011810</infon>
+        <location offset="45400" length="12"/>
+        <text>quinoxalines</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>45904</offset>
+      <text>Discovery of New GLP-1R Allosteric Modulators</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>45950</offset>
+      <text>Because the covalent binders shown above represent three different chemotypes, and because the common feature shared by these molecules is the presence of an electrophile within each compound, several structurally distinct reactive compounds that had been previously identified in GLP-1R screening campaigns were tested for their ability to modulate GLP-1R activity in a Cys-347-dependent manner. These molecules were discovered as putative GLP-1R potentiators from screens of the Lilly chemical library using GLP-1R-expressing HEK293 cells where compounds were tested in the presence of a submaximal concentration of GLP-1(9–36)-NH2. The chemical structures of these compounds are depicted in Fig. 3B, and the potentiator results are presented in Fig. 5, B and D, and Table 2. A variety of compounds showed potentiation of GLP-1(9–36)-NH2 at the wild-type receptor. However, in all cases, compound activity was lost in assays testing the mutant GLP-1R. Consistent with the covalent mechanism, most compounds were confirmed to be reactive in the GSH conjugation assay (Table 2). As negative controls, compounds 18 and 19 were unstable in the presence of GSH and did not potentiate the activity of GLP-1(9–36)-NH2 in the wild-type GLP-1R assay. These are the most reactive compounds in our studies (18 = 22,000 m−1 s−1 (S.D. = 9000, n = 5); 19 = 1200 m−1 s−1 (S.D. = 500, n = 6)), and it is not known whether the lack of PAM activity is due to failure of the molecules to covalently bind the GLP-1R or because the adduct formed is insufficient to facilitate structural changes in the receptor that allow its activation by GLP-1(9–36)-NH2. It is also possible that these compounds cannot access the intracellular location of Cys-347. Interestingly, as expected for a covalent binder, compound 16 showed activity in the Cys-347-containing wild-type receptor but not in the mutant; however, this molecule did not react with GSH in the conjugation assay or in the fluorescein-5-maleimide competition assay (16 = &lt;1 m−1 s−1 (n = 3)). Precipitation of the compound was observed in the conjugation assay followed by LC/MS. Although low solubility could explain the lack of reactivity of this compound with GSH, other hypotheses for this discrepancy can be envisioned as follows: 1) compound 16 activates the receptor by covalent modification, but Cys-347 in the local cellular environment is slightly more nucleophilic than GSH in the conjugation assays; 2) compound 16 is a pro-drug and requires cellular metabolism to produce the active species.</text>
+      <annotation id="C361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="46321" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="46996" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="47104" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="47673" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="47767" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="47870" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C037041</infon>
+        <location offset="47909" length="23"/>
+        <text>fluorescein-5-maleimide</text>
+      </annotation>
+      <annotation id="C359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="48148" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="48289" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="48366" length="3"/>
+        <text>GSH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>48510</offset>
+      <text>Requirement of Cys-347 of the GLP-1R for positive allosteric modulation by small molecules. GLP-1(9–36)-NH2-induced cAMP accumulation was measured in wild-type (A and B) and C347A (C and D) GLP-1R-expressing HEK293 cells in the presence of small molecule GLP-1R ligands. Cells were treated with serial dilutions of the compounds in the presence of an EC20 concentration of GLP-1(9–36)-NH2. Resultant cAMP was quantified and data were normalized and fit to the four-parameter logistic equation as described under “Experimental Procedures.” Data graphed exemplify single representative experiments. Summarized data and statistics from multiple experiments are presented in Tables 1 and 2.</text>
+      <annotation id="C367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="48525" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="48626" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="48910" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>49205</offset>
+      <text>In addition to Cys-347 of the GLP-1R, Cys-438 was also shown to be covalently modified by BETP, but neither BETP nor compound 2 showed reduced abilities to potentiate GLP-1(9–36)-NH2 activity in C438A GLP-1R assays (26). Although it is clear that the newly identified reactive GLP-1R potentiators in our report require Cys-347 for activity, it is possible these electrophiles also bind Cys-438. Although the previous studies showed mutation of Cys-438 does not alter PAM activity, even for the ability of BETP and compound 2 to potentiate oxyntomodulin (26), it cannot be absolutely excluded that formation of an adduct at this position could positively or negatively influence Cys-347-required activity.</text>
+      <annotation id="C371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49220" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49243" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="49295" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="49313" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C377">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="49322" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49524" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49591" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49649" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="49710" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C378">
+        <infon key="type">NonStandardRef</infon>
+        <infon key="identifier">MESH:D011743</infon>
+        <location offset="49719" length="10"/>
+        <text>compound 2</text>
+      </annotation>
+      <annotation id="C376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49883" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>49912</offset>
+      <text>To assess the promiscuity of the new PAMs toward proteins containing nucleophilic cysteine residues, we investigated the inhibitory action of BETP and compounds 11–17 on the activity of several enzymes. These studies utilized several kinases known to be irreversibly inhibited by reactive compounds (EGFR (43), CDK7 (44), BTK (45), and ITK (45)) and the cysteine protease CatL. The results are summarized in Table 3. Weak inhibitory activity was observed for compounds 13 and 15–17, although none of the compounds inhibited all of the enzymes. The kinases tested contain non-catalytic cysteine residues in their active sites. Thus, non-inhibitory covalent modification of cysteines by inactive compounds cannot be ruled out from these experiments. For CatL, the cysteine-thiol is fundamental for catalysis, and therefore, covalent modification of active site CatL will parallel enzyme inhibition. The lack of activity of BETP and compounds 11–14 against CatL shows that these electrophiles do not react with the catalytic cysteine of this enzyme, whereas the covalent inhibitor CAA0225 exhibited potent activity (IC50 = 6 nm (S.D. = 1, n = 4)).</text>
+      <annotation id="C379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="49994" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="50054" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="O6">
+        <infon key="type">OTHER</infon>
+        <location offset="50266" length="17"/>
+        <text>cysteine protease</text>
+      </annotation>
+      <annotation id="C381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="50497" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="50584" length="9"/>
+        <text>cysteines</text>
+      </annotation>
+      <annotation id="C386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013438,MESH:D003545</infon>
+        <location offset="50674" length="14"/>
+        <text>cysteine-thiol</text>
+      </annotation>
+      <annotation id="C383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="50833" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="50934" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="C385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C540134</infon>
+        <location offset="50990" length="7"/>
+        <text>CAA0225</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>51063</offset>
+      <text>Inhibition of several enzymes by electrophiles</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>51423</offset>
+      <text>a Active site occupancy was quantified using TR-FRET (LanthaScreen, ThermoFisher) with compound preincubation of 180 min and a maximal compound concentration of 100 μm, essentially as described (64).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>51624</offset>
+      <text>b Enzymatic activity was quantified using radiometric filter binding with a compound preincubation of 180 min and a maximal compound concentration of 20 μm, as described previously (65).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>51812</offset>
+      <text>c Cathepsin L activity was quantified as described under “Experimental Procedures.” Data are the mean of three experiments.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>51940</offset>
+      <text>Based on potency in the GLP-1R-expressing cellular assays, compounds 13 and 15 were selected for further characterization. Compared with the potentiator activity of BETP and compound 9, two chemotypes that have been structurally optimized using GLP-1R activity assays, compounds 13 and 15 showed lower efficacy in assays where a fixed concentration of compound (10 μm) was tested in the presence of various concentrations of GLP-1(9–36)-NH2 (Fig. 6A). Consistent with lower Emax values, these molecules also do not potentiate insulin secretion in cultures of isolated pancreatic islets from normal mice (Fig. 6, B–D). Although larger data sets are needed to define the level and kinetics of cAMP induction in GLP-1R HEK293 cells that correlate with the insulinotropic actions of GLP-1R PAMs, it is likely that a minimum threshold of cAMP accumulation is needed.</text>
+      <annotation id="C388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="52105" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="52631" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="52773" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>52807</offset>
+      <text>Comparison of compound-stimulated cAMP generation in HEK293 cells expressing GLP-1R versus insulin secretion from isolated pancreatic islets. A, GLP-1(9–36)-NH2-induced cAMP accumulation was measured in GLP-1R-expressing cells in the presence of small molecule GLP-1R ligands. Cells were treated with varying concentrations of GLP-1(9–36)-NH2 in the presence of 10 μm BETP (□), compound 9 (●), compound 13 (■), or compound 15 (▴), and cAMP was quantified. Data were normalized and fit to the four-parameter logistic equation as described under “Experimental Procedures.” Data were graphed as the mean (±S.D.) of three independent experiments. B–D, insulin levels in media from cultures of wild-type (C57/Bl6 mice) islets treated with GLP-1(7–36)-NH2, GLP-1(9–36)-NH2, compound 9, 13, or 15 alone, or GLP-1(9–36)-NH2 plus each compound. Glucose-stimulated insulin secretion is shown for each islet preparation (2.8 versus 11.2 mm concentrations of glucose), and all compounds were tested in the presence of high glucose. Data are from three islet experiments where mean insulin concentrations for each treatment group were determined by measuring insulin in media from six independent wells containing three islets per well. ***, p &lt; 0.001, and *, p &lt; 0.05 using one-way ANOVA followed by Dunnett's comparison compared with the respective 11.2 mm glucose treatment, and # = p &lt; 0.001 compared with the respective 2.8 mm glucose treatment.</text>
+      <annotation id="C391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="52841" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="52976" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="53175" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="53242" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="53643" length="7"/>
+        <text>Glucose</text>
+      </annotation>
+      <annotation id="C396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="53754" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="53818" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="54153" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="54226" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>54271</offset>
+      <text>Following the discovery and characterization of the new reactive GLP-1R PAMs, we examined the general prevalence of Cys-347-preferring electrophiles among GLP-1R ligands by testing a large selection of compounds (identified from our screens) in the GLP-1R C347A assay. 560 molecules, identified as putative hits from the GLP-1(9–36)-NH2 potentiation screen, were tested at 30 μm in the presence of an EC20 concentration of GLP-1(9–36)-NH2 in both wild-type and C347A GLP-1R-expressing HEK293 cells. 416 compounds showed &gt;10% stimulation in wild-type GLP-1R cells, and this was used as a threshold for subsequent analyses. Correlation of these 416 screening hits in wild-type and C347A GLP-1R cells indicates two clear populations of compounds: a population with equivalent activity in wild-type and C347A cells (∼55% of compounds) and those with activity in wild-type GLP-1R cells but minimal activity in C347A cells (Fig. 7A). Further assessment of these data was performed by correlating the ratio of activities (wild-type/C347A) with “medchem demerits”. Medchem demerits derive from a rules-based computational tool for identifying potentially reactive and promiscuous molecules based on substructure searching (46). Compounds with &gt;100 demerits are considered undesirable. Our analysis indicates compounds whose action is Cys-347-dependent are not robustly predicted by these first-pass computational filters as most of the molecules suspected of covalent interaction with the GLP-1R have &lt;100 demerits (non-covalent GLP-1R PAMs are indicated in the box in Fig. 7B with activity ratios of wild-type/C347A ≈1). Moreover, analysis of the pharmacological selectivity of Cys-347-dependent compounds indicated these compounds were generally selective and did not exhibit a pan-assay active profile as has been described for some known problematic chemotypes (Fig. 7C) (47, 48).</text>
+      <annotation id="C400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="54387" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="55597" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="55942" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>56161</offset>
+      <text>Comparative analysis of GLP-1R Cys-347-dependent and Cys-347-independent non-peptide ligands. A, 560 putative GLP-1R ligands were tested at 30 μm in the presence of an EC20 (220 nm) of GLP-1(9–36)-NH2 for the mobilization of intracellular cAMP in C347A and wild-type (WT) GLP-1R-expressing HEK293 cells. The 416 compounds with &gt;10% stimulation in WT cells are graphed. Two clear populations of compounds are annotated on the scatter plot as follows: compounds with approximately equivalent WT and C347A GLP-1R PAM activity (compounds for further characterization), and compounds with high activity in WT GLP-1R and close to no activity in C347A GLP-1R assays (suspected covalent modifiers). B, activity ratios were calculated from A as % stimulation in WT cells divided by % stimulation in C347A cells. This activity ratio was plotted versus the calculated medchem demerits as described by Bruns and Watson (46). Non-covalent GLP-1R PAMs box annotates compounds with approximately equivalent activity in WT and C347A assays. C, WT/C347A activity ratios were plotted versus compound promiscuity. For a given compound, promiscuity was defined as the percentage of assay activities from total number of tested assays. Active was defined as either a concentration response value &lt;10 μm and/or a single point test of &gt;90% stimulation or inhibition. Compounds were not included in this analysis unless they had been tested in &gt;20 assays. Non-covalent GLP-1R PAMs box annotates compounds with approximately equivalent activity in WT and C347A assays.</text>
+      <annotation id="C404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="56192" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="56214" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="56400" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>57709</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>57720</offset>
+      <text>Several therapeutic peptides that mimic the binding and receptor activation mechanism of GLP-1 have been approved and registered for the treatment of type 2 diabetes mellitus. Fundamental insights into the complex ligand binding process at the orthosteric site to induce GLP-1R signaling have been gained by use of various experimental approaches. X-ray crystallography studies of the GLP-1R ECD in complex with peptide ligand have revealed how the carboxyl-terminal α-helical region of GLP-1 positions within the binding cleft of the ECD (49). Furthermore, photo-affinity labeling has enabled determining residues that position in close proximity between the ligand and the full-length receptor (50, 51). Complementary GLP-1R chimera and mutagenesis studies have proposed additional key residues that may further define the core peptide-binding pocket (52, 53). Together, these data have informed and refined molecular modeling of the peptide-bound GLP-1R.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>58682</offset>
+      <text>As an alternative approach, the studies presented here were undertaken to investigate an allosteric mechanism for activation of GLP-1R. Identifying and understanding mechanisms that modulate the GLP-1R may enable strategies to discover and develop new therapeutic agents, especially at receptor sites distinct from the orthosteric pocket that binds non-peptide low molecular weight compounds. BETP is an electrophilic small molecule that enhances GLP-1R signaling (19, 22) by binding covalently to Cys-347 within the third intracellular loop of the receptor (26). In general, proteins containing free nucleophilic amino acids undergo modification upon being in close proximity to reactive compounds, which often results in widespread irreversibly bound small molecules in cells and tissues. A significant finding from the studies performed herein is that the insulinotropic activity of BETP was demonstrated to be specific for the GLP-1R in ex vivo pancreatic islet assays; here, BETP required the presence of the GLP-1R, high glucose, and the peptide ligand to induce insulin secretion. The findings from these islet culture experiments are important because the results provide physiologically relevant evidence that modulating intracellular regions of the GLP-1R, especially within the vicinity of the third intracellular loop, may be a mechanism to regulate receptor signaling.</text>
+      <annotation id="C406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="59075" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="59180" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="59296" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="C408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="59568" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="59662" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="59709" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>60064</offset>
+      <text>Interestingly, dynamic simulations of a variant GLP-1R using a homology model (54) also supports the potential importance of the third intracellular loop of the GLP-1R. In efforts aimed at identifying coding variants that underlie susceptibility for developing type 2 diabetes mellitus, an A316T substitution in the GLP-1R was found to associate with lower fasting blood glucose concentrations but higher glucose levels 2 h following a glucose challenge (55). Position 316 is located in transmembrane domain (TMD) 5, and the modeling shows the threonine variant disrupts hydrogen bonding between residues in TMD5 and TMD6 (55). These changes predict a shift of TMD5 toward the cytoplasm and movement of TMD6 outward, altering the position of the third intracellular loop (55). The possibility that a subtle shift in loop three by a variant may alter GLP-1R function is consistent with the ability of BETP to form a small adduct with Cys-347 in this region to alter receptor signaling.</text>
+      <annotation id="C412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="60435" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="60469" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="60500" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="60608" length="9"/>
+        <text>threonine</text>
+      </annotation>
+      <annotation id="C415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="60635" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="60964" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="60997" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>61049</offset>
+      <text>The capacity of BETP to modulate GLP-1R signaling by covalently modifying the GLP-1R suggests this mechanism could be exploited therapeutically. In addition to BETP, this report shows that several structurally diverse compounds can also covalently modify the GLP-1R to enhance activation by GLP-1(9–36)-NH2. The newly discovered compounds that potentiate GLP-1R signaling require Cys-347 for activity, and unfortunately, these molecules are also electrophilic to GSH, which may indicate the critical pharmacological feature for recognizing the GLP-1R is the intrinsic electrophilic nature of the compounds. Although covalent molecules have been developed as therapeutic agents (56), if there is not a canonical binding pocket present around Cys-347 (and only reactive compounds interact with this amino acid), it is unlikely that drug-like molecules can be developed due to pharmacokinetic and safety liabilities (57). Classical approaches for the evaluation of covalent enzyme inhibitors classify compounds as affinity labels (reactivity-driven) or quiescent affinity labels (reversible binding-driven) (58, 59). Only the latter have drug-like potential. By examining the calculated rate constants for GSH modification of electrophiles from this study, they appear to be in the range of &lt;100 m−1 s−1 values typical of affinity labels. Subsequent studies could be directed toward a quantitative understanding of structure-activity relationships of GLP-1 PAMs and inherent electrophilicity toward GLP-1R. This would require either a sensitive kinetic assay to measure time dependence of compound action or a direct binding assay. At this point, we do not have robust assay systems capable of resolving GLP-1R-specific binding from the midst of high nonspecific binding for [3H]BETP. Generation of an effective allosteric GLP-1R probe with less electrophilicity would be useful to enable these studies. It remains uncertain whether allosteric modulators of the GLP-1R that function via the covalent mechanism can be identified that are stable in the presence of other nucleophiles.</text>
+      <annotation id="C419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="61065" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="61209" length="4"/>
+        <text>BETP</text>
+      </annotation>
+      <annotation id="C424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="61429" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="61512" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="61790" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="61846" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="C423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="62252" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014316</infon>
+        <location offset="62822" length="2"/>
+        <text>3H</text>
+      </annotation>
+      <annotation id="C427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="62825" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>63135</offset>
+      <text>The overall results from these studies highlight the nucleophilic nature of the GLP-1R, which may influence the direction of future work in this area. For example, this characteristic should be considered when pursuing new screening campaigns for identifying GLP-1R activators. An early understanding of the mechanism of action can avoid the prosecution of promiscuous compounds (60). Many electrophiles can be recognized by features of their chemical structure; however, assays to assess the degree of electrophilicity are useful for conclusively determining the reactivity of some chemotypes. Our results suggest though that although various assays can be used to filter out reactive molecules, C347A GLP-1R is a critical assay for identifying compounds that covalently modify the GLP-1R to enhance its activity. For instance, it is possible that active compounds could contain independent electrophilic and GLP-1R-binding pharmacophores. Such compounds would be excluded from follow-up if triage was exclusively based on chemical reactivity. In our view, it will be important to determine whether several recently reported GLP-1R PAMs require Cys-347 for activity (61–63). Moreover, our data clearly show that the types of electrophiles that modulate the GLP-1R can be somewhat cryptic and are not generally well predicted by computational approaches, prior learning, and general compound promiscuity information. Our data also indicate that a substantial fraction of GLP-1R allosteric modulators identified by screening may act via covalent modification of Cys-347.</text>
+      <annotation id="C429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="64281" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="64696" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>64707</offset>
+      <text>The nucleophilic capacity of the GLP-1R may be exploited experimentally to stabilize the GLP-1R in biophysical studies. It is clear that adding steric bulk around the vicinity of Cys-347 produces changes in the protein conformation that promote receptor signaling. Importantly, some of the newly identified scaffolds that modulate the GLP-1R in a Cys-347-dependent manner may possess physicochemical properties suitable for various crystallography conditions.</text>
+      <annotation id="C431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="64886" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="C432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="65054" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>65167</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>65188</offset>
+      <text>J. F. and O. C. designed, performed, and analyzed the islet insulin secretion studies. A. D. S. and C. S. performed and analyzed the GTPγS studies. A. D. S. and D. B. W. designed, performed, and analyzed the cAMP accumulation studies. A. M. developed and performed the GSH conjugation assays using LC/MS detection. F. S. W. developed, performed, and analyzed the fluorescein-maleimide competition assays. A. B. B., F. S. W., and K. W. S. conceived, coordinated the study, designed the experiments, analyzed the data, and wrote the paper. All authors reviewed the results and approved the final version of the manuscript.</text>
+      <annotation id="C436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="65321" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+      <annotation id="C433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="65396" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="C434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="65457" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C037041</infon>
+        <location offset="65551" length="21"/>
+        <text>fluorescein-maleimide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65813</offset>
+      <text>The authors declare that they have no conflicts of interest with the contents of this article.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65908</offset>
+      <text>GPCR</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65913</offset>
+      <text>G protein-coupled receptor</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65940</offset>
+      <text>GLP-1R</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65947</offset>
+      <text>glucagon-like peptide-1 receptor</text>
+      <annotation id="O7">
+        <infon key="type">OTHER</infon>
+        <location offset="65947" length="32"/>
+        <text>glucagon-like peptide-1 receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65980</offset>
+      <text>TMD</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>65984</offset>
+      <text>transmembrane domain</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66005</offset>
+      <text>PAM</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66009</offset>
+      <text>positive allosteric modulator</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66039</offset>
+      <text>GTPγS</text>
+      <annotation id="C437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="66039" length="5"/>
+        <text>GTPγS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66049</offset>
+      <text>guanosine 5′-3-O-(thio)triphosphate</text>
+      <annotation id="C438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016244</infon>
+        <location offset="66049" length="35"/>
+        <text>guanosine 5′-3-O-(thio)triphosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66087</offset>
+      <text>ECD</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66091</offset>
+      <text>ectodomain</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66102</offset>
+      <text>th-BETP</text>
+      <annotation id="C439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000612088</infon>
+        <location offset="66102" length="7"/>
+        <text>th-BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66110</offset>
+      <text>4-(3-benzyloxyphenyl)-2-ethylsulfanyl-6-(trifluoromethyl)pyrimidine</text>
+      <annotation id="C441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C096834</infon>
+        <location offset="66110" length="67"/>
+        <text>4-(3-benzyloxyphenyl)-2-ethylsulfanyl-6-(trifluoromethyl)pyrimidine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66178</offset>
+      <text>ANOVA</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66184</offset>
+      <text>analysis of variance</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66205</offset>
+      <text>ACN</text>
+      <annotation id="C442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="66205" length="3"/>
+        <text>ACN</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66209</offset>
+      <text>acetonitrile</text>
+      <annotation id="C443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="66209" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66222</offset>
+      <text>FA</text>
+      <annotation id="C444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="66222" length="2"/>
+        <text>FA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66225</offset>
+      <text>Formic acid</text>
+      <annotation id="C445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="66225" length="11"/>
+        <text>Formic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66237</offset>
+      <text>Z</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66239</offset>
+      <text>benzyloxycarbonyl</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66257</offset>
+      <text>AMC</text>
+      <annotation id="C446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="66257" length="3"/>
+        <text>AMC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66261</offset>
+      <text>amido-4-methylcoumarin</text>
+      <annotation id="C447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003374</infon>
+        <location offset="66261" length="22"/>
+        <text>amido-4-methylcoumarin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66284</offset>
+      <text>CatL</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66289</offset>
+      <text>cathepsin L</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66301</offset>
+      <text>BETP</text>
+      <annotation id="C448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="66301" length="4"/>
+        <text>BETP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66306</offset>
+      <text>4-(3-benzyloxyphenyl)-2-ethylsulfinyl-6-(trifluoromethyl)pyrimidine</text>
+      <annotation id="C449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570819</infon>
+        <location offset="66306" length="67"/>
+        <text>4-(3-benzyloxyphenyl)-2-ethylsulfinyl-6-(trifluoromethyl)pyrimidine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66374</offset>
+      <text>EBSS</text>
+      <annotation id="C450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="66374" length="4"/>
+        <text>EBSS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66379</offset>
+      <text>Earle's balanced salt solution buffer.</text>
+      <annotation id="C451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="66379" length="37"/>
+        <text>Earle's balanced salt solution buffer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>66418</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>66447</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

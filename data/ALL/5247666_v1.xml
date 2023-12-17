@@ -1,0 +1,2633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5247666</id>
+    <passage>
+      <infon key="name_3">surname:Lawson;given-names:David M.</infon>
+      <infon key="name_2">surname:Stevenson;given-names:Clare E. M.</infon>
+      <infon key="name_1">surname:Miah;given-names:Farzana</infon>
+      <infon key="name_0">surname:Asención Diez;given-names:Matías D.</infon>
+      <infon key="article-id_pmid">27903647</infon>
+      <infon key="fpage">945</infon>
+      <infon key="issue">3</infon>
+      <infon key="year">2016</infon>
+      <infon key="article-id_publisher-id">M116.758664</infon>
+      <infon key="article-id_pmc">5247666</infon>
+      <infon key="alt-title">Trehalose 6-Phosphate Metabolism in S. venezuelae</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1074/jbc.M116.758664</infon>
+      <infon key="volume">292</infon>
+      <infon key="license">Author's Choice—Final version free via Creative Commons CC-BY license.</infon>
+      <infon key="kwd">carbohydrate metabolism crystal structure glycosyltransferase microbiology substrate specificity trehalose</infon>
+      <infon key="lpage">954</infon>
+      <infon key="name_5">surname:Bornemann;given-names:Stephen</infon>
+      <infon key="name_4">surname:Iglesias;given-names:Alberto A.</infon>
+      <offset>0</offset>
+      <text>The Production and Utilization of GDP-glucose in the Biosynthesis of Trehalose 6-Phosphate by Streptomyces venezuelae*</text>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="34" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C082722</infon>
+        <location offset="69" length="21"/>
+        <text>Trehalose 6-Phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>119</offset>
+      <text>Trehalose-6-phosphate synthase OtsA from streptomycetes is unusual in that it uses GDP-glucose as the donor substrate rather than the more commonly used UDP-glucose. We now confirm that OtsA from Streptomyces venezuelae has such a preference for GDP-glucose and can utilize ADP-glucose to some extent too. A crystal structure of the enzyme shows that it shares twin Rossmann-like domains with the UDP-glucose-specific OtsA from Escherichia coli. However, it is structurally more similar to Streptomyces hygroscopicus VldE, a GDP-valienol-dependent pseudoglycosyltransferase enzyme. Comparison of the donor binding sites reveals that the amino acids associated with the binding of diphosphoribose are almost all identical in these three enzymes. By contrast, the amino acids associated with binding guanine in VldE (Asn, Thr, and Val) are similar in S. venezuelae OtsA (Asp, Ser, and Phe, respectively) but not conserved in E. coli OtsA (His, Leu, and Asp, respectively), providing a rationale for the purine base specificity of S. venezuelae OtsA. To establish which donor is used in vivo, we generated an otsA null mutant in S. venezuelae. The mutant had a cell density-dependent growth phenotype and accumulated galactose 1-phosphate, glucose 1-phosphate, and GDP-glucose when grown on galactose. To determine how the GDP-glucose is generated, we characterized three candidate GDP-glucose pyrophosphorylases. SVEN_3027 is a UDP-glucose pyrophosphorylase, SVEN_3972 is an unusual ITP-mannose pyrophosphorylase, and SVEN_2781 is a pyrophosphorylase that is capable of generating GDP-glucose as well as GDP-mannose. We have therefore established how S. venezuelae can make and utilize GDP-glucose in the biosynthesis of trehalose 6-phosphate.</text>
+      <annotation id="G30">
+        <infon key="type">OTHER</infon>
+        <location offset="119" length="30"/>
+        <text>Trehalose-6-phosphate synthase</text>
+      </annotation>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="202" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="272" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="365" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="393" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="516" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="2X33">
+        <infon key="type">OTHER</infon>
+        <location offset="644" length="48"/>
+        <text>GDP-valienol-dependent pseudoglycosyltransferase</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="756" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000246</infon>
+        <location offset="799" length="15"/>
+        <text>diphosphoribose</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="881" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006147</infon>
+        <location offset="917" length="7"/>
+        <text>guanine</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="934" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="939" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="948" length="3"/>
+        <text>Val</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="988" length="3"/>
+        <text>Asp</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="993" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="1002" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="1056" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="1061" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="1070" length="3"/>
+        <text>Asp</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="1120" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="1333" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="1356" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="1381" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="1407" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="1439" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">OTHER</infon>
+        <location offset="1498" length="30"/>
+        <text>GDP-glucose pyrophosphorylases</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">OTHER</infon>
+        <location offset="1545" length="29"/>
+        <text>UDP-glucose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">OTHER</infon>
+        <location offset="1600" length="29"/>
+        <text>ITP-mannose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="1698" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006155</infon>
+        <location offset="1721" length="11"/>
+        <text>GDP-mannose</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="1803" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C082722</infon>
+        <location offset="1838" length="21"/>
+        <text>trehalose 6-phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1861</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1874</offset>
+      <text>Streptomyces venezuelae is a soil-dwelling bacterium with a developmental life cycle that initiates with the germination of spores (1). Vegetative hyphae then form to generate a substrate mycelium. Finally, aerial hyphae form that differentiate into the next generation of spores. The spores contain trehalose as a carbon and energy source for germination (2). This non-reducing disaccharide (α-d-glucopyranosyl-(1→1)-α-d-glucopyranoside) is also known to provide tolerance to stresses such as desiccation, dehydration, heat, cold, and oxidation (3). In addition, trehalose is utilized by the GlgE pathway (4–7) in this organism (8) for the transient biosynthesis of a glycogen-like α-glucan (Fig. 1) (9). This polymer is disassembled in streptomycetes by TreY (EC 5.4.99.15, (1→4)-α-d-glucan 1-α-d-glucosylmutase) and TreZ (EC 3.2.1.141, 4-α-d-(1,4-α-d-glucano)trehalose glucanohydrolase (trehalose-producing)) to regenerate trehalose during the onset of sporulation (10–14).</text>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="2174" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="2189" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004187</infon>
+        <location offset="2253" length="12"/>
+        <text>disaccharide</text>
+      </annotation>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004187</infon>
+        <location offset="2267" length="44"/>
+        <text>α-d-glucopyranosyl-(1→1)-α-d-glucopyranoside</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="2438" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006003</infon>
+        <location offset="2543" length="8"/>
+        <text>glycogen</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005936</infon>
+        <location offset="2557" length="8"/>
+        <text>α-glucan</text>
+      </annotation>
+      <annotation id="372">
+        <infon key="type">OTHER</infon>
+        <location offset="2650" length="37"/>
+        <text>(1→4)-α-d-glucan 1-α-d-glucosylmutase</text>
+      </annotation>
+      <annotation id="410">
+        <infon key="type">OTHER</infon>
+        <location offset="2713" length="71"/>
+        <text>4-α-d-(1,4-α-d-glucano)trehalose glucanohydrolase (trehalose-producing)</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="2800" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2879</offset>
+      <text>The only route for the de novo biosynthesis of trehalose in S. venezuelae is via trehalose 6-phosphate (8) (Fig. 1). OtsA (α,α-trehalose-phosphate synthase) is responsible for the formation of this metabolic intermediate from an NDP-glucose donor and glucose 6-phosphate as the acceptor. The enzyme from Streptomyces hygroscopicus and some other actinomycetes has been reported to exhibit a preference for GDP-glucose as the donor (EC 2.4.1.36, GDP-glucose:d-glucose-6-phosphate 1-α-d-glucosyltransferase, of the GT20 CAZy family) (15–19). This contrasts with OtsA enzymes from other bacteria, insects, yeasts, and fungi that most commonly utilize UDP-glucose as the donor substrate (EC 2.4.1.15, UDP-glucose:d-glucose-6-phosphate 1-α-d-glucosyltransferase). For example, the enzyme from Escherichia coli is UDP-glucose-specific, with crystal structures providing a clear understanding of the structural basis for its donor preference (20, 21). In all cases, trehalose 6-phosphate is dephosphorylated by OtsB (EC 3.1.3.12, trehalose-6-phosphate phosphohydrolase) to give trehalose.</text>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="2926" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C082722</infon>
+        <location offset="2960" length="21"/>
+        <text>trehalose 6-phosphate</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">OTHER</infon>
+        <location offset="3002" length="32"/>
+        <text>α,α-trehalose-phosphate synthase</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009702</infon>
+        <location offset="3108" length="11"/>
+        <text>NDP-glucose</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019298</infon>
+        <location offset="3130" length="19"/>
+        <text>glucose 6-phosphate</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="3285" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="375">
+        <infon key="type">OTHER</infon>
+        <location offset="3324" length="59"/>
+        <text>GDP-glucose:d-glucose-6-phosphate 1-α-d-glucosyltransferase</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="3527" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">OTHER</infon>
+        <location offset="3576" length="59"/>
+        <text>UDP-glucose:d-glucose-6-phosphate 1-α-d-glucosyltransferase</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="3687" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C082722</infon>
+        <location offset="3838" length="21"/>
+        <text>trehalose 6-phosphate</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">OTHER</infon>
+        <location offset="3902" length="38"/>
+        <text>trehalose-6-phosphate phosphohydrolase</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="3950" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>3977</offset>
+      <text>Proposed metabolic pathways connecting galactose with GDP-glucose. The ability of SVEN_2781 to produce GDP-glucose was established in this study. The conversion of galactose 1-phosphate to glucose 1-phosphate probably occurs via the epimerization of an NDP-galactose in a Leloir-type pathway (31). Glc6P, glucose 6-phosphate; Glc1P, glucose 1-phosphate; Gal, galactose; Gal1P, galactose 1-phosphate; GDPGlc, GDP-glucose; T6P, trehalose 6-phosphate; M1P, maltose 1-phosphate.</text>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="4016" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="4031" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="4080" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="4141" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="4166" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="4230" length="13"/>
+        <text>NDP-galactose</text>
+      </annotation>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019298</infon>
+        <location offset="4275" length="5"/>
+        <text>Glc6P</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019298</infon>
+        <location offset="4282" length="19"/>
+        <text>glucose 6-phosphate</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="4303" length="5"/>
+        <text>Glc1P</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="4310" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="4331" length="3"/>
+        <text>Gal</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="4336" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="4347" length="5"/>
+        <text>Gal1P</text>
+      </annotation>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="4354" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="4377" length="6"/>
+        <text>GDPGlc</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="4385" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C082722</infon>
+        <location offset="4398" length="3"/>
+        <text>T6P</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C082722</infon>
+        <location offset="4403" length="21"/>
+        <text>trehalose 6-phosphate</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C080751</infon>
+        <location offset="4426" length="3"/>
+        <text>M1P</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C080751</infon>
+        <location offset="4431" length="19"/>
+        <text>maltose 1-phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4452</offset>
+      <text>Because OtsA enzymes in streptomycetes use GDP-glucose as the donor, it would be expected that these organisms possess a GDP-glucose pyrophosphorylase (EC 2.7.7.34, GTP:α-d-glucose-1-phosphate guanylyltransferase) capable of forming GDP-glucose from GTP and glucose 1-phosphate. Such enzyme activity has been reported in mammalian cells, plant tissues, and streptomycetes (22–26), but no sequence information is available, and no bacterial enzyme has been characterized to date. We therefore determined the donor preference of OtsA from S. venezuelae both in vitro and in vivo, identified its structural basis, and characterized three candidate enzymes for the production of the preferred donor.</text>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="4495" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">OTHER</infon>
+        <location offset="4573" length="29"/>
+        <text>GDP-glucose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">OTHER</infon>
+        <location offset="4617" length="47"/>
+        <text>GTP:α-d-glucose-1-phosphate guanylyltransferase</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="4685" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="4702" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="4710" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5152</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>5160</offset>
+      <text>GDP-glucose Is the Preferred Donor Substrate of Recombinant S. venezuelae OtsA</text>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="5160" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5239</offset>
+      <text>The enzyme OtsA from S. hygroscopicus and other streptomycetes has been reported to have a preference for the donor GDP-glucose (15–17). To establish whether the enzyme from S. venezuelae shares this donor preference, the recombinant enzyme was produced in E. coli. The theoretical size of the protein with its tag is 51 kDa, but the recombinant protein had an estimated molecular mass of 109 kDa according to size exclusion chromatography, consistent with it forming a homodimer in solution.</text>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="5355" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5734</offset>
+      <text>By monitoring the generation of nucleotide sugar diphosphate in a coupled assay, it was clear that the affinity of the enzyme for glucose 6-phosphate was independent of the GDP-glucose or ADP-glucose donor substrate used (Table 1). However, the associated value of kcat was nearly 5-fold greater with GDP-glucose. Furthermore, the kcat and Km for GDP-glucose were more favorable than with ADP-glucose, giving a catalytic efficiency an order of magnitude greater (Table 1). No activity with UDP-glucose, UDP-galactose, or GDP-mannose was detected. In addition, none of these three compounds inhibited enzyme activity when used at the same concentration as either GDP-glucose or ADP-glucose, implying that they do not bind to the enzyme active site. The preference for the donor substrates was confirmed using 1H NMR spectroscopy to monitor the reactions. Potential allosteric regulators of OtsA were tested (fructose 6-phosphate, glucose 1-phosphate, mannose 1-phosphate, GTP, ATP, pyrophosphate, and orthophosphate), but none showed any effect on enzyme activity with GDP-glucose. This contrasts with the activation of the Mycobacterium tuberculosis enzyme by fructose 6-phosphate (27). Therefore, although able to use another purine diphosphoglucose donor, the enzyme had a preference for GDP-glucose and was not subject to allosteric regulation.</text>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009702</infon>
+        <location offset="5766" length="28"/>
+        <text>nucleotide sugar diphosphate</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019298</infon>
+        <location offset="5864" length="19"/>
+        <text>glucose 6-phosphate</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="5907" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="5922" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="6035" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="6081" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="6123" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="6224" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014531</infon>
+        <location offset="6237" length="13"/>
+        <text>UDP-galactose</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006155</infon>
+        <location offset="6255" length="11"/>
+        <text>GDP-mannose</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="6396" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="6411" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="6542" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027618</infon>
+        <location offset="6641" length="20"/>
+        <text>fructose 6-phosphate</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="6663" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C047217</infon>
+        <location offset="6684" length="19"/>
+        <text>mannose 1-phosphate</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="6705" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="6710" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C107241</infon>
+        <location offset="6715" length="13"/>
+        <text>pyrophosphate</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="6734" length="14"/>
+        <text>orthophosphate</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="6802" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027618</infon>
+        <location offset="6894" length="20"/>
+        <text>fructose 6-phosphate</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="6961" length="23"/>
+        <text>purine diphosphoglucose</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="7024" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>7082</offset>
+      <text>Kinetic analysis of recombinant S. venezuelae OtsA</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>7507</offset>
+      <text>The Structural Basis for Donor Specificity</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7550</offset>
+      <text>To establish the structural basis for the donor specificity of S. venezuelae OtsA, the recombinant enzyme was crystallized. Crystals diffracted to 1.95 Å (Table 2), allowing the protein structure to be solved using molecular replacement. This was done using a Phyre2-generated homology model (28) for OtsA based on the structure of S. hygroscopicus VldE (PDB3 code 3T5T (29)), a protein of known structure with which it shares one of the highest sequence identities (30%). VldE catalyzes the formation of validoxylamine A 7′-phosphate with a non-glycosidic C–N bond from GDP-valienol and validamine 7-phosphate.</text>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C052534</infon>
+        <location offset="8055" length="29"/>
+        <text>validoxylamine A 7′-phosphate</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030791</infon>
+        <location offset="8121" length="12"/>
+        <text>GDP-valienol</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042908</infon>
+        <location offset="8138" length="22"/>
+        <text>validamine 7-phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>8168</offset>
+      <text>Summary of X-ray data and model parameters for S. venezuelae OtsA</text>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>8234</offset>
+      <text>Values in parentheses are for the outer resolution shell.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>9831</offset>
+      <text>a Rmerge = Σhkl Σi|Ii(hkl) − 〈I(hkl)〉|/Σhkl ΣiIi(hkl).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>9902</offset>
+      <text>b Rmeas = Σhkl(N/(N − 1))½ × Σi|Ii(hkl) − 〈I(hkl)〉|/Σhkl ΣiIi(hkl), where Ii(hkl) is the ith observation of reflection hkl, 〈I(hkl)〉 is the weighted average intensity for all observations i of reflection hkl, and N is the number of observations of reflection hkl.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>10184</offset>
+      <text>c CC½ is the correlation coefficient between symmetry equivalent intensities from random halves of the data set.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>10299</offset>
+      <text>d The data set was split into “working” and “free” sets consisting of 95 and 5% of the data, respectively. The free set was not used for refinement.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>10456</offset>
+      <text>e The R-factors Rwork and Rfree are calculated as follows: R = Σ(|Fobs − Fcalc|)/Σ|Fobs|, where Fobs and Fcalc are the observed and calculated structure factor amplitudes, respectively.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>10650</offset>
+      <text>f As calculated using MolProbity (58).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10689</offset>
+      <text>Four copies of the S. venezuelae OtsA protein were present in the asymmetric unit. Consistent with the size observed in solution, the biological unit appeared to be a dimer (Fig. 2). The two copies of the dimer within the asymmetric unit are essentially identical and had subunit interfaces of 1319 Å2 (30). The subunit interface in VldE (PDB code 4F9F) is topologically equivalent but more extensive at 2080 Å2. Interestingly, E. coli OtsA is also known to form a dimer in solution, but it is topologically different (PDB code 1UQT), giving a subunit interface of 1038 Å2 (21). However, it can also form a tetramer in solution (20) involving a second subunit interface of 1033 Å2 (PDB code 1GZ5) that is topologically equivalent to that of the S. venezuelae enzyme. Despite differences in quaternary structures, superposition of the A chain of S. venezuelae OtsA with S. hygroscopicus VldE (PDB code 4F9F over 368 residues) and E. coli OtsA (PDB code 1UQT over 393 residues) showed that they each had a common fold with a root mean square deviation value of 2.00 Å. The fold comprised twin Rossman-like β/α/β domains in a GT-B configuration. A molecule of MES buffer is bound in a cleft between the two domains of S. venezuelae OtsA in what is likely to be the active site, by analogy with the E. coli enzyme (20, 21).</text>
+      <annotation id="2X212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004550</infon>
+        <location offset="11846" length="10"/>
+        <text>MES buffer</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12022</offset>
+      <text>The conservation of the S. venezuelae OtsA dimer interface. The biological dimers of S. venezuelae OtsA, E. coli OtsA (PDB code 1UQT), and S. hygroscopicus VldE (PDB code 4F9F) (29) are shown with equivalent orientations with regard to the subunit depicted in red. The orientation of the second subunit within each dimer is depicted in blue, clearly showing a different orientation in the E. coli OtsA enzyme (21). However, the existence of a tetrameric form of the E. coli enzyme (PDB code 1GZ5; where the additional two subunits are shown in gray) shows that one subunit can be in the same orientation (20).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12632</offset>
+      <text>Attempts to obtain a structure of the S. venezuelae enzyme with either GDP or GDP-glucose bound were unsuccessful. Therefore, comparisons were made between the non-liganded structure and those of the closest structural homologues with nucleotides bound; E. coli OtsA with UDP-glucose bound (PDB code 1UQU) (21) and S. hygroscopicus VldE with GDP (and trehalose) bound (PDB code 4F96) (29). First, the active sites were superposed on the basis of the α-carbons of Arg-263, Leu-365, and Glu-369 (S. venezuelae numbering), which were conserved in all three proteins. Then, the observed and potential hydrogen-bonding interactions between the ligands and proteins were assessed (Fig. 3). It was immediately apparent that amino acid side chains associated with binding the ribose diphosphate were almost completely conserved. The only exceptions were an additional Arg-341 side chain interaction to the ribose in E. coli OtsA and an additional Ser-388 side chain interaction with phosphate in VldE.</text>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006153</infon>
+        <location offset="12703" length="3"/>
+        <text>GDP</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="12710" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="12867" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="12904" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006153</infon>
+        <location offset="12974" length="3"/>
+        <text>GDP</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="12983" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="13084" length="7"/>
+        <text>carbons</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="13095" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="13104" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="13117" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="13229" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="13349" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C050562</infon>
+        <location offset="13400" length="18"/>
+        <text>ribose diphosphate</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="13492" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012266</infon>
+        <location offset="13530" length="6"/>
+        <text>ribose</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="13571" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="13607" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>13630</offset>
+      <text>The donor binding site is configured to bind GDP-glucose. Two-dimensional maps show the binding interactions between UDP-glucose and E. coli OtsA (PDB code 1UQU) (21) and between GDP-glucose and S. hygroscopicus VldE (PDB code 4F96) (29). The interactions between GDP and S. venezuelae OtsA were predicted based on structural alignments with the known ligand-bound structures. Key differences between the three structures are highlighted in red, hydrogen bonds in dashed blue lines, and hydrophobic interactions in solid blue curves.</text>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="13675" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="13747" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="13809" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006153</infon>
+        <location offset="13894" length="3"/>
+        <text>GDP</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14076" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14164</offset>
+      <text>With the exception of a hydrogen bond between a protein backbone NH and an oxygen of the base, the interactions with the base were quite different (Fig. 3). In the case of E. coli OtsA, there was an additional backbone CO interaction (from Phe-399) with an NH of the uridine base. By contrast, VldE formed hydrogen bonds between the side chains of Asn-361 and Thr-366 and the guanidine base together with a hydrophobic interaction involving a Val-363 side chain. All three of these interactions appear to be possible in S. venezuelae OtsA with its Asp-339, Ser-344, and Phe-341 side chains in equivalent positions to Asn-361, Thr-366, and Val-363 in VldE. Thus, the preference of S. venezuelae OtsA for GDP-glucose is evident from its structural similarity to VldE.</text>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14188" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="14239" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="14404" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014529</infon>
+        <location offset="14431" length="7"/>
+        <text>uridine</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14470" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="14512" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="14524" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019791</infon>
+        <location offset="14540" length="9"/>
+        <text>guanidine</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="14607" length="3"/>
+        <text>Val</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="14712" length="3"/>
+        <text>Asp</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="14721" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="14734" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="14781" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="14790" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="14803" length="3"/>
+        <text>Val</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="14867" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>14930</offset>
+      <text>An S. venezuelae otsA Null Mutant Grows Like Wild Type on Maltose</text>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="14988" length="7"/>
+        <text>Maltose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14996</offset>
+      <text>Given the ability of S. venezuelae OtsA to utilize ADP-glucose to some extent as well as GDP-glucose, it was uncertain what the physiological donor would be, so we took a reverse genetic approach to address this. We had already established that blocking the GlgE pathway with a treS null mutation did not affect growth of S. venezuelae on complex or minimal media supplemented with maltose (8). This was because the product of TreS, maltose, bypassed the blockage (Fig. 1). Similarly, when the otsA gene was replaced by an apramycin resistance (apr) cassette, the resulting otsA null mutant was also able to grow on media supplemented with maltose, just like the wild-type strain. Metabolite analysis using NMR spectroscopy showed that trehalose levels were similar to the wild type (8) throughout growth on maltose. Although the maltose level reached 4% dry cell weight during growth, a little higher than the 2.5% observed in wild-type cells (8), it fell to zero during sporulation as normal. α-Glucan accumulated in pre-spore cells as normal, and spore morphology was like that of the wild-type strain, according to electron microscopy. No other changes in metabolite levels were apparent. Therefore, there the mutant strain did not show any significant phenotype on media supplemented with maltose.</text>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="15047" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="15085" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="15378" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="15429" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011666</infon>
+        <location offset="15519" length="9"/>
+        <text>apramycin</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="15636" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="15732" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="15804" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="15826" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005936</infon>
+        <location offset="15991" length="8"/>
+        <text>α-Glucan</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="16290" length="7"/>
+        <text>maltose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>16303</offset>
+      <text>The Mutant Strain Develops Slowly in a Cell Density-dependent Manner When Grown on Galactose</text>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="16386" length="9"/>
+        <text>Galactose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16396</offset>
+      <text>We then tested whether a phenotype could be observed when the mutant was grown on a minimal medium supplemented with a carbon source other than glucose, maltose, or any other intermediate of the GlgE pathway. Although no growth phenotype of the mutant was observed when using fructose, there was a developmental delay with galactose (Fig. 4), such that sporulation did not appear to occur. Interestingly, the growth phenotype of the mutant was dependent on cell density, allowing isolated colonies to grow more like the wild-type strain.</text>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="16515" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="16540" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="16549" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005632</infon>
+        <location offset="16672" length="8"/>
+        <text>fructose</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="16719" length="9"/>
+        <text>galactose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16934</offset>
+      <text>Development of a S. venezuelae otsA null mutant is delayed in a density-dependent manner when grown on galactose. The constructed ΔotsA::apr null mutant was grown on either minimal medium supplemented with galactose for 7 days or complex medium containing malt extract and supplemented with galactose for 2–4 days, as indicated. Growth and development were delayed in the mutant at high cell densities on both media. The complemented strain (ΔotsA::apr attBΦBT1::otsA) grew like the WT strain.</text>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="17037" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="17140" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="17225" length="9"/>
+        <text>galactose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17438</offset>
+      <text>To be able to isolate larger quantities of cells, the mutant was grown on a complex medium that contained both galactose and malt extract, the latter providing some maltose. A delayed growth phenotype was still observed, but sporulation did eventually occur (Fig. 4). With this growth medium, the mutant strain was able to generate some trehalose, most probably via TreY/TreZ or possibly via TreS (Fig. 1). However, the spores of the mutant strain contained less trehalose (5.4 ± 0.1% dry cell weight ± S.E., n = 3) than the wild-type strain (17.9 ± 0.4% dry cell weight ± S.E., n = 3). This suggested that the limited amount of maltose present in the medium was not sufficient to fully compensate for the lack of OtsA. Despite the lower level of trehalose, spore morphology was not affected, according to electron microscopy. Taken together, the mutant showed a delayed growth phenotype that was both galactose- and cell density-dependent.</text>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="17549" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="17603" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="17775" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="17901" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="18067" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="18185" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="18340" length="9"/>
+        <text>galactose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>18383</offset>
+      <text>The Mutant Strain Accumulates GDP-glucose When Grown on Galactose</text>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="18413" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="18439" length="9"/>
+        <text>Galactose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18449</offset>
+      <text>1H NMR spectroscopy of cell-free extracts of the otsA mutant strain grown in the presence of galactose revealed the presence of a number of metabolites (Fig. 5A) that were also observed with the wild-type strain during growth (8). These included trehalose and maltose (and possibly glucose, given the overlap between the maltose and glucose resonances). There were, however, a number of other species that do not accumulate in the wild-type. For example, there were two sets of double doublets at 5.46 and 5.50 ppm (Fig. 5, A and B) that would be expected to arise from phosphosugars. Galactose is likely to be assimilated by S. venezuelae using a Leloir-type pathway in which galactose 1-phosphate is converted to glucose 1-phosphate via epimerization of an NDP-galactose (31). Indeed, adding the cell-free extract to authentic galactose 1-phosphate and glucose 1-phosphate enhanced these specific resonances, consistent with these two metabolites accumulating in the mutant.</text>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18449" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="18542" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="18695" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="18709" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="18731" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="18770" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="18782" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2X370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013403</infon>
+        <location offset="19019" length="13"/>
+        <text>phosphosugars</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="19034" length="9"/>
+        <text>Galactose</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="19126" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="19164" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="19208" length="13"/>
+        <text>NDP-galactose</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="19278" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="19304" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>19426</offset>
+      <text>The S. venezuelae otsA null mutant accumulates galactose 1-phosphate, glucose 1-phosphate, and GDP-glucose when grown in the presence of galactose. The mutant (ΔotsA::apr) and WT strains were grown for 1.5 days on a complex medium supplemented with galactose, and cell-free extracts were analyzed using 1H NMR spectroscopy. A, the mutant accumulated trehalose, maltose, and possibly glucose. The regions of the spectrum overlapping with those shown in the subsequent panels are indicated. B, when the mutant extract was added to galactose 1-phosphate (Gal1P) and glucose 1-phosphate (Glc1P), the enhanced resonances lined up with those already observed in the extract (with different y axis scaling for clarity). C, additional resonances in the mutant extract compared with WT extract were consistent with the accumulation of GDP-glucose. A spectrum of authentic GDP-glucose is also shown.</text>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="19473" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="19496" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="19521" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="19563" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="19675" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="19729" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="19776" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="19787" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="19809" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="19955" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="19978" length="5"/>
+        <text>Gal1P</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="19989" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="20010" length="5"/>
+        <text>Glc1P</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="20252" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="20289" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20320</offset>
+      <text>In addition, another double doublet at 5.60 ppm (Fig. 5, A and C), together with additional resonances at low field, was suggestive of the presence of a nucleotide sugar diphosphate. Indeed, the resonances associated with authentic GDP-glucose were clearly present in the cell-free extract, consistent with the accumulation of this metabolite. The resonances of neither UDP-glucose, UDP-galactose, nor ADP-glucose were detected in the extract. Some additional broad resonances were also observed with the mutant extract, but the dominant ones are associated with glucose 1-phosphate, galactose 1-phosphate, and GDP-glucose. Therefore, GDP-glucose appears to be the donor of S. venezuelae OtsA in vivo.</text>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009702</infon>
+        <location offset="20473" length="28"/>
+        <text>nucleotide sugar diphosphate</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="20552" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="20690" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014531</infon>
+        <location offset="20703" length="13"/>
+        <text>UDP-galactose</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="20722" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="20883" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="20904" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="20931" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="20955" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>21022</offset>
+      <text>S. venezuelae SVEN_2781 Can Generate GDP-glucose Efficiently</text>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="21059" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21083</offset>
+      <text>The bacterium S. venezuelae possesses several genes predicted to be NDP-sugar pyrophosphorylases, but it was not known which one(s) might produce GDP-glucose. With the absence of any known sequences of GDP-glucose pyrophosphorylases, we first identified three homologues of the GTP-dependent enzyme GDP-mannose pyrophosphorylase from M. tuberculosis (ManB Rv3264c) (32) in the genome of S. venezuelae. Then we produced these three enzymes as recombinant proteins in E. coli. First, SVEN_3027 is also a homologue of GalU from other organisms (also known as GtaB), which is normally associated with the formation of UDP-glucose. Enzyme assays that monitor the production of pyrophosphate showed that SVEN_3027 did possess NDP-glucose pyrophosphorylase activity such that the donor substrate preference was UTP &gt; dTTP ≫ CTP &gt; GTP &gt; ATP &gt; ITP. Therefore, this enzyme does indeed possess primarily GalU/GtaB-type UDP-glucose pyrophosphorylase activity and is not an efficient source of GDP-glucose.</text>
+      <annotation id="G234">
+        <infon key="type">OTHER</infon>
+        <location offset="21151" length="28"/>
+        <text>NDP-sugar pyrophosphorylases</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="21229" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">OTHER</infon>
+        <location offset="21285" length="30"/>
+        <text>GDP-glucose pyrophosphorylases</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="21361" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G236">
+        <infon key="type">OTHER</infon>
+        <location offset="21382" length="29"/>
+        <text>GDP-mannose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="21697" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C107241</infon>
+        <location offset="21755" length="13"/>
+        <text>pyrophosphate</text>
+      </annotation>
+      <annotation id="G237">
+        <infon key="type">OTHER</infon>
+        <location offset="21803" length="29"/>
+        <text>NDP-glucose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014544</infon>
+        <location offset="21887" length="3"/>
+        <text>UTP</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024157</infon>
+        <location offset="21893" length="4"/>
+        <text>dTTP</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003570</infon>
+        <location offset="21900" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="21906" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21912" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007293</infon>
+        <location offset="21918" length="3"/>
+        <text>ITP</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">OTHER</infon>
+        <location offset="21991" length="29"/>
+        <text>UDP-glucose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="22064" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22079</offset>
+      <text>Second, SVEN_3972 was isolated as a dimeric enzyme, according to size exclusion chromatography, that was able to produce GDP-glucose from glucose 1-phosphate (2 mm) plus GTP (1 mm). It seemed at first to be quite specific because it was inactive with glucose 1-phosphate plus any other donor tested (ATP, UTP, ITP, or CTP). However, it turned out to be most active with mannose 1-phosphate plus either GTP or ITP. The highest catalytic efficiency was with ITP and mannose 1-phosphate (Table 3). By contrast, the efficiency with which it generated GDP-glucose was over 100-fold lower, so its primary role seems to be the formation of IDP-mannose. Enzyme activity was not affected by the potential allosteric effectors glucose 6-phosphate, fructose 6-phosphate, GDP, GMP, or phosphoenolpyruvate up to 5 mm.</text>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="22200" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="22217" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="22249" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="22330" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="22379" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014544</infon>
+        <location offset="22384" length="3"/>
+        <text>UTP</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007293</infon>
+        <location offset="22389" length="3"/>
+        <text>ITP</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003570</infon>
+        <location offset="22397" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C047217</infon>
+        <location offset="22449" length="19"/>
+        <text>mannose 1-phosphate</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="22481" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007293</infon>
+        <location offset="22488" length="3"/>
+        <text>ITP</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007293</infon>
+        <location offset="22535" length="3"/>
+        <text>ITP</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C047217</infon>
+        <location offset="22543" length="19"/>
+        <text>mannose 1-phosphate</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="22626" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007290,MESH:D008358</infon>
+        <location offset="22712" length="11"/>
+        <text>IDP-mannose</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019298</infon>
+        <location offset="22796" length="19"/>
+        <text>glucose 6-phosphate</text>
+      </annotation>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027618</infon>
+        <location offset="22817" length="20"/>
+        <text>fructose 6-phosphate</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006153</infon>
+        <location offset="22839" length="3"/>
+        <text>GDP</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006157</infon>
+        <location offset="22844" length="3"/>
+        <text>GMP</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010728</infon>
+        <location offset="22852" length="19"/>
+        <text>phosphoenolpyruvate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>22884</offset>
+      <text>Kinetic analysis of S. venezuelae SVEN_3972</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23471</offset>
+      <text>Third, SVEN_2781 did show relatively high activity with glucose 1-phosphate (1 mm) and GTP (0.25–1 mm) and was inactive with any other donor tested (ITP, ATP, CTP, or UTP). The production of GDP-glucose was confirmed using NMR spectroscopy. However, SVEN_2781 also exhibited a slightly higher activity with mannose 1-phosphate plus GTP (Table 4). This was perhaps to be expected because it shared 59% sequence identity with M. tuberculosis GDP-mannose pyrophosphorylase (32). NMR spectroscopy showed that with equimolar concentrations of donor and acceptor, the reaction went to completion. This showed that the chemical equilibrium was strongly in favor of the formation of GDP-mannose. The enzyme was present primarily in an active dimeric form, but inactive octameric and higher oligomeric forms were also detected using size exclusion chromatography. Enzyme activity was not affected by any of the potential allosteric effectors described above, in contrast to enzymes such as ADP-glucose pyrophosphorylase from other actinomycetes (27, 33).</text>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="23527" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="23558" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007293</infon>
+        <location offset="23620" length="3"/>
+        <text>ITP</text>
+      </annotation>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="23625" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003570</infon>
+        <location offset="23630" length="3"/>
+        <text>CTP</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014544</infon>
+        <location offset="23638" length="3"/>
+        <text>UTP</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="23662" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C047217</infon>
+        <location offset="23778" length="19"/>
+        <text>mannose 1-phosphate</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006160</infon>
+        <location offset="23803" length="3"/>
+        <text>GTP</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">OTHER</infon>
+        <location offset="23911" length="29"/>
+        <text>GDP-mannose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006155</infon>
+        <location offset="24146" length="11"/>
+        <text>GDP-mannose</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">OTHER</infon>
+        <location offset="24452" length="29"/>
+        <text>ADP-glucose pyrophosphorylase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>24519</offset>
+      <text>Kinetic analysis of S. venezuelae SVEN_2781</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24940</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24951</offset>
+      <text>We have now shown that S. venezuelae OtsA has a preference for GDP-glucose as the donor (Table 1), as has been reported for OtsA enzymes from other Streptomyces species (15–17) and other actinomycetes, such as Rubrobacter xylanophilus (18). Interestingly, not all examples of OtsA from actinomycetes share this donor specificity because the enzymes from mycobacteria show a preference for ADP-glucose (27, 34, 35). The best characterized OtsA enzyme to date has been that from E. coli, which has a preference for UDP-glucose. Several ligand-bound structures have allowed the residues that define its base specificity to be identified (Fig. 3) (20, 21, 36). Our structure of the enzyme from S. venezuelae shows that these defining residues are not conserved. By contrast, the equivalent residues that define the donor base specificity of VldE (29), which uses GDP-valienol, are similar in S. venezuelae OtsA. This helps explain why the S. venezuelae enzyme shows specificity for purine bases, with guanine being preferred. Interestingly, both open and closed conformations of E. coli OtsA and VldE have been described, where ligands tend to promote the open form (20, 21, 29, 36). Our structure of S. venezuelae OtsA most closely resembles the open conformations despite not having any ligands bound. In addition, there is a lack of electron density associated with a loop comprising amino acids 18–22 (peptide sequence GEDGE) of the S. venezuelae enzyme, implying disorder in this region. This loop is topologically in a similar position to a loop known to interact with the acceptor substrate in the E. coli enzyme that can be disordered in crystals lacking an acceptor bound to the active site (21). It is therefore conceivable that when ligands are bound, the S. venezuelae enzyme adopts a different conformation, and the GEDGE loop forms ordered contacts with the acceptor substrate.</text>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="25014" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="25340" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="25464" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030791</infon>
+        <location offset="25810" length="12"/>
+        <text>GDP-valienol</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011687</infon>
+        <location offset="25929" length="6"/>
+        <text>purine</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006147</infon>
+        <location offset="25948" length="7"/>
+        <text>guanine</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="26334" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26843</offset>
+      <text>An otsA null mutant of S. venezuelae exhibits no phenotype when grown on maltose because this GlgE pathway intermediate bypasses the need for OtsA to generate trehalose (Fig. 1). However, when grown on galactose, the mutant accumulates GDP-glucose (Fig. 5), showing that OtsA would normally utilize this donor substrate, although it is also capable of using ADP-glucose to some extent (Table 1). Then again, S. venezuelae does not possess an obvious glgC homologue that would code for an ADP-glucose pyrophosphorylase (5, 8), implying that this organism cannot produce ADP-glucose. The accumulation of both glucose 1-phosphate and galactose 1-phosphate is consistent with this organism assimilating galactose via a Leloir-type pathway (31). What was more unexpected was the cell density-dependent growth phenotype of the mutant when grown on galactose (Fig. 4). The accumulation of maltose 1-phosphate is known to lead to a delayed growth phenotype in S. venezuelae, but a lack of α-glucan has no effect (8). More dramatically, the accumulation of maltose 1-phosphate causes bacterial cell death in M. tuberculosis (4). It is therefore possible that the accumulation of glucose 1-phosphate and galactose 1-phosphate slows growth in S. venezuelae. Interestingly, the accumulation of ADP-glucose appears to be lethal in M. tuberculosis (37), so perhaps it is the accumulation of GDP-glucose that actually slows the growth of S. venezuelae. Either way, it is intriguing that the phenotype is cell density-dependent. Perhaps these or some other toxic metabolites are exported out of cells. Alternatively, perhaps some nutrients in the solid medium become locally limiting or metabolic fluxes are influenced by quorum sensing. Further studies will be required to establish the basis for the growth phenotype.</text>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="26916" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014199</infon>
+        <location offset="27002" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="27045" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="27079" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="27201" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G296">
+        <infon key="type">OTHER</infon>
+        <location offset="27331" length="29"/>
+        <text>ADP-glucose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="27412" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="27450" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="27474" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="27542" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005690</infon>
+        <location offset="27685" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C080751</infon>
+        <location offset="27725" length="19"/>
+        <text>maltose 1-phosphate</text>
+      </annotation>
+      <annotation id="G297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005936</infon>
+        <location offset="27824" length="8"/>
+        <text>α-glucan</text>
+      </annotation>
+      <annotation id="G291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C080751</infon>
+        <location offset="27891" length="19"/>
+        <text>maltose 1-phosphate</text>
+      </annotation>
+      <annotation id="G292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="28013" length="19"/>
+        <text>glucose 1-phosphate</text>
+      </annotation>
+      <annotation id="G293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029973</infon>
+        <location offset="28037" length="21"/>
+        <text>galactose 1-phosphate</text>
+      </annotation>
+      <annotation id="G294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000245</infon>
+        <location offset="28125" length="11"/>
+        <text>ADP-glucose</text>
+      </annotation>
+      <annotation id="G295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="28220" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28651</offset>
+      <text>It is now clear that S. venezuelae OtsA utilizes GDP-glucose both in vitro and in vivo. We therefore sought an enzyme that is capable of generating this donor substrate. With the absence of a known sequence being associated with such an enzyme, we tested three candidate enzymes based on homology with the potentially similar GDP-mannose pyrophosphorylases. SVEN_3027 generated UDP-glucose as expected, given that it was also a homologue of GalU/GtaB from other organisms (33, 38). SVEN_3972, on the other hand, was somewhat unusual because its main activity appeared to be associated with the production of IDP-mannose (Table 3). Such an activity has rarely been reported (39). The values of kcat/Km with this enzyme were quite low (40). This implies that either the enzyme is inherently not very efficient or its primary role is to generate another nucleotide sugar diphosphate that has not yet been tested.</text>
+      <annotation id="G298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="28700" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G302">
+        <infon key="type">OTHER</infon>
+        <location offset="28977" length="30"/>
+        <text>GDP-mannose pyrophosphorylases</text>
+      </annotation>
+      <annotation id="G299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014532</infon>
+        <location offset="29029" length="11"/>
+        <text>UDP-glucose</text>
+      </annotation>
+      <annotation id="G300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007290,MESH:D008358</infon>
+        <location offset="29259" length="11"/>
+        <text>IDP-mannose</text>
+      </annotation>
+      <annotation id="G301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009702</infon>
+        <location offset="29502" length="28"/>
+        <text>nucleotide sugar diphosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29561</offset>
+      <text>SVEN_2781 was able to generate GDP-glucose, even if it was also capable of forming GDP-mannose with slightly higher efficiency (Table 4). In contrast to SVEN_2781, GDP-mannose pyrophosphorylases from other organisms are specific for mannose-1-phosphate and do not utilize glucose-1-phosphate in all cases investigated (41, 42). The values of kcat/Km for SVEN_2781 were modest but well within the normal physiological range (40). Therefore, it seems reasonable to deduce that SVEN_2781 is capable of generating the donor substrate for OtsA in vivo. This enzyme therefore constitutes the first example of a GDP-glucose pyrophosphorylase (EC 2.7.7.34) of known sequence, although such enzyme activity has been documented several times (23–26). There remains the possibility that there are other pyrophosphorylases capable of generating GDP-glucose in S. venezuelae, and this can be explored in the future with reverse genetics and the characterization of the other pyrophosphorylases predicted to exist in this organism.</text>
+      <annotation id="G303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="29592" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+      <annotation id="G304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006155</infon>
+        <location offset="29644" length="11"/>
+        <text>GDP-mannose</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">OTHER</infon>
+        <location offset="29725" length="30"/>
+        <text>GDP-mannose pyrophosphorylases</text>
+      </annotation>
+      <annotation id="G305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C047217</infon>
+        <location offset="29794" length="19"/>
+        <text>mannose-1-phosphate</text>
+      </annotation>
+      <annotation id="G306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031590</infon>
+        <location offset="29833" length="19"/>
+        <text>glucose-1-phosphate</text>
+      </annotation>
+      <annotation id="G309">
+        <infon key="type">OTHER</infon>
+        <location offset="30166" length="29"/>
+        <text>GDP-glucose pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100085</infon>
+        <location offset="30394" length="11"/>
+        <text>GDP-glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30581</offset>
+      <text>Experimental Procedures</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>30605</offset>
+      <text>Recombinant Proteins</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30626</offset>
+      <text>Recombinant proteins were produced as described previously (4, 6). Genes were synthesized with optimum codon usage for expression in E. coli (Genscript Corp., Piscataway, NJ) to give proteins with tobacco etch virus protease-cleavable N-terminal His6 tags. S. venezuelae OtsA (gene locus synonyms SVEN15_3951 and SVEN_4043) was produced in E. coli SoluBL21. Cells were grown in lysogeny broth at 37 °C to an optical density of 0.6 at 600 nm before induction with 0.5 mm isopropyl β-d-thiogalactopyranoside (IPTG). After a further 20 h of incubation at 37 °C, cells were harvested by centrifugation for 10 min at 5000 × g at room temperature and disrupted by sonication (5 s on and 3 s off over 20 min on ice). The protein was purified using nickel affinity chromatography and stored in 5 mm HEPES, pH 7.0, containing 60 mm MgCl2. The size of OtsA was determined using size exclusion chromatography. A Superdex 200 10/300 GL column (GE Healthcare) was calibrated using blue dextran (2 MDa), β-amylase (200 kDa), alcohol dehydrogenase (150 kDa), bovine serum albumin (66 kDa), carbonic anhydrase (29 kDa), and cytochrome c (12 kDa), using 20 mm HEPES buffer, pH 7.0, containing 10 mm MgCl2 and 100 mm NaCl.</text>
+      <annotation id="2X606">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="30861" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="G311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="30872" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013862</infon>
+        <location offset="31096" length="35"/>
+        <text>isopropyl β-d-thiogalactopyranoside</text>
+      </annotation>
+      <annotation id="G313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013862</infon>
+        <location offset="31133" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="31367" length="6"/>
+        <text>nickel</text>
+      </annotation>
+      <annotation id="G320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="31417" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="31449" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017080</infon>
+        <location offset="31594" length="12"/>
+        <text>blue dextran</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">OTHER</infon>
+        <location offset="31637" length="21"/>
+        <text>alcohol dehydrogenase</text>
+      </annotation>
+      <annotation id="G321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="31769" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="31808" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="G317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="31825" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31837</offset>
+      <text>The pyrophosphorylases were produced in a similar way with modifications. SVEN_3027 (gene locus synonyms GalU, SVEN15_2964) was produced in E. coli BL21(DE3)pLysS, which was incubated at 28 °C after induction. The protein was stored at −80 °C in 20 mm Tris-HCl, pH 8.0, containing 100 mm NaCl and 10% (v/v) glycerol. SVEN_3972 (gene locus synonym SVEN15_3882) was produced in E. coli SoluBL21, which was incubated for 5 h after induction with 0.5 mm IPTG. After nickel affinity chromatography, the enzyme was applied to a Superdex 200 16/600 column equilibrated with 50 mm MOPS, pH 8.0, containing 0.025 mm EDTA and 5% (w/v) sucrose. Active fractions were concentrated, and 0.5 mm dithiothreitol was added for storage at −80 °C. SVEN_2781 (gene locus synonym SVEN15_2722) was produced in E. coli BL21(DE3), which was grown for 5 h at 18 °C after induction with 0.5 mm IPTG. The enzyme was stored at −80 °C in 50 mm Tris-HCl, pH 8.0, containing 0.5 mm dithiothreitol, 0.05 mm EDTA, and 5% (w/v) sucrose.</text>
+      <annotation id="G335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="32089" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="G322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="32094" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="G323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="32125" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="32144" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013862</infon>
+        <location offset="32287" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="32299" length="6"/>
+        <text>nickel</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008550</infon>
+        <location offset="32410" length="4"/>
+        <text>MOPS</text>
+      </annotation>
+      <annotation id="G327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="32444" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="32462" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="G329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="32518" length="14"/>
+        <text>dithiothreitol</text>
+      </annotation>
+      <annotation id="G330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013862</infon>
+        <location offset="32705" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="32752" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="G331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="32757" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="G332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="32788" length="14"/>
+        <text>dithiothreitol</text>
+      </annotation>
+      <annotation id="G333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="32812" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="32831" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>32851</offset>
+      <text>Enzyme Assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32865</offset>
+      <text>Enzyme activity was quantified as described previously. Briefly, OtsA activity was determined by monitoring the production of NDP using a continuous coupled assay with phosphoenolpyruvate, pyruvate kinase, and lactate dehydrogenase, allowing the oxidation of NADH to be followed spectrophotometrically (27). NDP-sugar pyrophosphorylase activity was determined by monitoring the production of pyrophosphate using a stopped coupled assay with inorganic pyrophosphatase, allowing the production of inorganic phosphate to be detected spectrophotometrically with malachite green (43). Kinetic constants were calculated for each enzyme and condition using all replicate data using SigmaPlot version 13.0 with the Michaelis-Menten equation embedded in the Simple Ligand Binding macro. Compounds that could potentially allosterically regulate pyrophosphorylases were assessed at a concentration of 5 mm, and in each case, no impact on enzyme activity was detected. Enzyme-catalyzed reactions were also followed using 1H NMR spectroscopy. The consumption of the sugar 1-phosphate acceptors was monitored using their anomeric double doublet resonances at ∼5.5 ppm, relative to the signal from sodium 3-(trimethylsilyl)propionate-2,2,3,3-d4. The formation of the NDP-sugar products was monitored using their anomeric double doublet resonances, at ∼5.6 ppm, which were distinct from those of the donors.</text>
+      <annotation id="400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="32991" length="3"/>
+        <text>NDP</text>
+      </annotation>
+      <annotation id="G337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010728</infon>
+        <location offset="33033" length="19"/>
+        <text>phosphoenolpyruvate</text>
+      </annotation>
+      <annotation id="G346">
+        <infon key="type">OTHER</infon>
+        <location offset="33054" length="15"/>
+        <text>pyruvate kinase</text>
+      </annotation>
+      <annotation id="G347">
+        <infon key="type">OTHER</infon>
+        <location offset="33075" length="21"/>
+        <text>lactate dehydrogenase</text>
+      </annotation>
+      <annotation id="G338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="33124" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="G348">
+        <infon key="type">OTHER</infon>
+        <location offset="33173" length="27"/>
+        <text>NDP-sugar pyrophosphorylase</text>
+      </annotation>
+      <annotation id="G339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C107241</infon>
+        <location offset="33257" length="13"/>
+        <text>pyrophosphate</text>
+      </annotation>
+      <annotation id="G340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="33370" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="G341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005095</infon>
+        <location offset="33423" length="15"/>
+        <text>malachite green</text>
+      </annotation>
+      <annotation id="G342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="33874" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013403</infon>
+        <location offset="33918" length="17"/>
+        <text>sugar 1-phosphate</text>
+      </annotation>
+      <annotation id="G344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C514135</infon>
+        <location offset="34048" length="46"/>
+        <text>sodium 3-(trimethylsilyl)propionate-2,2,3,3-d4</text>
+      </annotation>
+      <annotation id="G345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009702</infon>
+        <location offset="34117" length="9"/>
+        <text>NDP-sugar</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>34261</offset>
+      <text>Construction and Complementation of an S. venezuelae otsA Null Mutant</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34331</offset>
+      <text>The bacterium S. venezuelae ATCC10712 was cultured at 28 °C in malt extract/yeast extract/maltose medium with 50% tap water (MYM-TAP) supplemented with 0.4 ml of trace element solution per liter (44). The maltose was substituted with other carbohydrates where indicated. The minimal medium (8, 44) was supplemented with 4–8 g/liter carbohydrate as a carbon source. The S. venezuelae null mutant in otsA (gene locus synonyms SVEN15_3951 and SVEN_4043) was generated using Redirect PCR targeting (45) to replace the coding region with an apramycin resistance (apr) cassette (8). The otsA gene was first replaced in the cosmid 1-H1,4 using the primers 5′-CGTTTGAGCGTTTACGGGACGGGCTAGGTTCGCCACATGATTCCGGGGATCCGTCGACC and 5′-CTGGAGCGGCCCCCACCTCGACAAGGTTCCAGGCGCTCATGTAGGCTGGAGCTGCTTC. The disruption of the cosmid was confirmed using restriction digestion with NruI. The cosmid was introduced into S. venezuelae by conjugation, and a double cross-over null mutant was selected on the basis of apramycin resistance and kanamycin sensitivity to give S. venezuelae ΔotsA::apr strain FM003. The deletion of chromosomal otsA was confirmed using Southern blotting with either XhoI or ApaLI. To complement the mutation, the otsA gene was amplified using 5′-GACCGGCCCAAGCCCACCC and 5′-TCAGGCGTCGCTCAGCCCC to give the open reading frame plus ∼300 base pairs upstream covering the native promotor. This fragment was cloned into pMS82 (46) to give pFM4, which was introduced into the mutant by conjugation to give S. venezuelae ΔotsA::apr attBΦBT1::otsA strain FM003-pFM4 (FM013) where the plasmid is integrated at the ΦBT1 attachment site. This complemented strain had a wild-type phenotype. An empty vector control ΔotsA::apr attBΦBT1::pMS82 strain (FM012) was also generated, which exhibited the phenotype of the mutant strain. The morphology of cells and spores was assessed using scanning electron microscopy, and the production of α-glucan was determined using transmission electron microscopy with periodic acid/thiocarbohydrazide/silver proteinate staining, as described previously (8). Spore stocks were standardized, allowing identical numbers of spores to be used to inoculate plates or cultures when assessing phenotypic differences.</text>
+      <annotation id="G349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="34421" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="34449" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008320</infon>
+        <location offset="34536" length="7"/>
+        <text>maltose</text>
+      </annotation>
+      <annotation id="G351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002241</infon>
+        <location offset="34571" length="13"/>
+        <text>carbohydrates</text>
+      </annotation>
+      <annotation id="G352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002241</infon>
+        <location offset="34663" length="12"/>
+        <text>carbohydrate</text>
+      </annotation>
+      <annotation id="G353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="34681" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="G354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011666</infon>
+        <location offset="34867" length="9"/>
+        <text>apramycin</text>
+      </annotation>
+      <annotation id="G355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011666</infon>
+        <location offset="35318" length="9"/>
+        <text>apramycin</text>
+      </annotation>
+      <annotation id="G356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007612</infon>
+        <location offset="35343" length="9"/>
+        <text>kanamycin</text>
+      </annotation>
+      <annotation id="G359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005936</infon>
+        <location offset="36251" length="8"/>
+        <text>α-glucan</text>
+      </annotation>
+      <annotation id="G357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010504</infon>
+        <location offset="36319" length="13"/>
+        <text>periodic acid</text>
+      </annotation>
+      <annotation id="G358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011368</infon>
+        <location offset="36333" length="18"/>
+        <text>thiocarbohydrazide</text>
+      </annotation>
+      <annotation id="G360">
+        <infon key="type">OTHER</infon>
+        <location offset="36352" length="17"/>
+        <text>silver proteinate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>36582</offset>
+      <text>Metabolite Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36602</offset>
+      <text>Cells were grown on solid media overlaid with sterile cellophane discs and harvested by scraping (8). The cells were freeze-dried and powdered using a micropestle before being boiled, to denature enzymes, and disrupted by sonication. Cell debris was removed by centrifugation and cell-free extracts were analyzed by 1H NMR spectroscopy using sodium 3-(trimethylsilyl)propionate-2,2,3,3-d4 as an internal standard using assignments as previously described (6, 8).</text>
+      <annotation id="426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002476</infon>
+        <location offset="36656" length="10"/>
+        <text>cellophane</text>
+      </annotation>
+      <annotation id="G361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="36918" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="G362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C514135</infon>
+        <location offset="36944" length="46"/>
+        <text>sodium 3-(trimethylsilyl)propionate-2,2,3,3-d4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>37065</offset>
+      <text>Protein Crystallography</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>37089</offset>
+      <text>Protein crystallization trials were set up in 96-well MRC plates (Molecular Dimensions) using the following screens: JCSG-plus (Molecular Dimensions), PACT premier (Molecular Dimensions), Structure (Molecular Dimensions), Morpheus (Molecular Dimensions), ammonium sulfate (Qiagen), and PEG suite (Qiagen). Each reservoir was filled with 50 μl of the screen precipitant solution using the Freedom EVO liquid-handling robot (Tecan). A 0.3-μl sample of precipitant was mixed with 0.3 μl of protein (10–15 mg ml−1 in 5 mm HEPES, pH 7.0, containing 60 mm MgCl2) in a sitting drop format using an OryxNano robot (Douglas Instruments Ltd.). The plates were sealed and stored at 20 °C. Drops were monitored using a SMZ800 microscope (Nikon). After 3 days, rectangular plate crystals were present in the Morpheus condition 2-2 (0.12 m ethylene glycols (di-, tri-, tetra-, and penta-ethylene glycols), 0.1 m imidazole and MES, pH 6.5, 20% (v/v) ethylene glycol, and 10% (w/v) PEG 8000). Crystals were mounted directly from the screen in LithoLoops (Molecular Dimensions). They were then flash-cooled by plunging into liquid N2 and stored in Uni-Puck cassettes (MiTeGen) for transport to the Diamond Light Source (Oxfordshire, UK). Crystals were subsequently transferred robotically to the goniostat on the beamline and maintained at −173 °C with a Cryojet cryocooler (Oxford Instruments). Native diffraction data were recorded on beamline i04-1 (wavelength = 0.920 Å, 1800 images with 0.2° oscillation) using a Pilatus 2M detector (Dectris), processed using xia2 (47), and scaled using SCALA (48). A 5% subset of the total number of reflections was set aside to determine the free R factor (49) during model building and refinement. All subsequent processing was conducted using the CCP4 suite (50). The resultant data collection statistics are summarized in Table 2. The crystals belonged to space group P21 with approximate cell parameters of a = 41.43, b = 168.40, c = 133.90 Å, β = 97.19°.</text>
+      <annotation id="G363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000645</infon>
+        <location offset="37344" length="16"/>
+        <text>ammonium sulfate</text>
+      </annotation>
+      <annotation id="355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011092</infon>
+        <location offset="37375" length="3"/>
+        <text>PEG</text>
+      </annotation>
+      <annotation id="G369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="37607" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="37639" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="G365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005026</infon>
+        <location offset="37915" length="16"/>
+        <text>ethylene glycols</text>
+      </annotation>
+      <annotation id="2X712">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011092,MESH:D011092,MESH:D011092,MESH:D011092</infon>
+        <location offset="37933" length="45"/>
+        <text>di-, tri-, tetra-, and penta-ethylene glycols</text>
+      </annotation>
+      <annotation id="G366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="37987" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="G371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004550</infon>
+        <location offset="38001" length="3"/>
+        <text>MES</text>
+      </annotation>
+      <annotation id="360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019855</infon>
+        <location offset="38024" length="15"/>
+        <text>ethylene glycol</text>
+      </annotation>
+      <annotation id="G372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000595216</infon>
+        <location offset="38055" length="8"/>
+        <text>PEG 8000</text>
+      </annotation>
+      <annotation id="G368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="38203" length="2"/>
+        <text>N2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>39091</offset>
+      <text>The structure of OtsA was solved by molecular replacement using programs from the CCP4 suite (50). The search model for molecular replacement was obtained by submitting the sequence to the Phyre2 server (28), which generated a template from the structure of S. hygroscopicus VldE (PDB code 3T5T), with which it shares 30% sequence identity. PHASER (51) was used to locate four copies of the protomer in the asymmetric unit giving an estimated solvent content of 46%. Density modification was carried out using PARROT (52), which benefitted from the use of 4-fold averaging and enabled the starting model to be entirely rebuilt with Buccaneer (53). Model building was then completed using COOT (54), alternating with refinement with REFMAC5 (55). The final model consisted of 1770 residues in four polypeptide chains, 652 water molecules, and four MES and four ethylene glycol molecules. The final Rwork and Rfree values were 0.197 and 0.238 to 1.95 Å resolution (refinement statistics are summarized in Table 2). MolProbity (56) was used to validate the model before deposition in the PDB. All structural figures were prepared using CCP4MG (57).</text>
+      <annotation id="428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="39912" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="G374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004550</infon>
+        <location offset="39938" length="3"/>
+        <text>MES</text>
+      </annotation>
+      <annotation id="G373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019855</infon>
+        <location offset="39951" length="15"/>
+        <text>ethylene glycol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>40239</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>40260</offset>
+      <text>S. B. coordinated the study and wrote the paper. F. M., C. E. M. S., and D. M. L. carried out the crystallography. M. D. A. D. and A. A. I. designed the kinetic experiments and M. D. A. D. carried them out. F. M. carried out the microbiology. All authors analyzed the data, edited the manuscript, and approved the final version of the manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>40607</offset>
+      <text>This work was supported by United Kingdom Biotechnology and Biological Sciences Research Council Doctoral Training Grant BB/F017294/1 and Institute Strategic Programme Grant BB/J004561/1, the John Innes Foundation, and the European Molecular Biology Organization (short term fellowship grant ASTF537-2014). The work in Argentina was supported by CONICET, UNL, and ANPCyT (PICT'15 1767). The authors declare that they have no conflicts of interest with the contents of this article.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41089</offset>
+      <text>The atomic coordinates and structure factors (code 5LQD) have been deposited in the Protein Data Bank (http://wwpdb.org/).</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41212</offset>
+      <text>M. J. Bibb and M. J. Buttner, unpublished data.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41260</offset>
+      <text>PDB</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41264</offset>
+      <text>Protein Data Bank</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41282</offset>
+      <text>IPTG</text>
+      <annotation id="G375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013862</infon>
+        <location offset="41282" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41287</offset>
+      <text>isopropyl β-d-thiogalactopyranoside.</text>
+      <annotation id="G376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013862</infon>
+        <location offset="41287" length="35"/>
+        <text>isopropyl β-d-thiogalactopyranoside</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>41327</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>41356</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

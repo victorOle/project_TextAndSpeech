@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180402</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3774712</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Hur;given-names:Hor-Gil</infon>
+      <infon key="name_2">surname:Chong;given-names:Youhoon</infon>
+      <infon key="name_1">surname:Sadowsky;given-names:Michael J.</infon>
+      <infon key="name_0">surname:Han;given-names:Dongfei</infon>
+      <infon key="article-id_pmid">24066043</infon>
+      <infon key="issue">9</infon>
+      <infon key="year">2013</infon>
+      <infon key="article-id_publisher-id">PONE-D-13-20174</infon>
+      <infon key="article-id_pmc">3774712</infon>
+      <infon key="alt-title">Novel Self-Sufficient Trans-Anethole Oxygenase</infon>
+      <infon key="article-id_doi">10.1371/journal.pone.0073350</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">e73350</infon>
+      <infon key="volume">8</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</infon>
+      <infon key="name_4">surname:Saad;given-names:Jamil</infon>
+      <offset>0</offset>
+      <text>Characterization of a Self-sufficient Trans-Anethole Oxygenase from Pseudomonas putida JYR-1</text>
+      <annotation id="366">
+        <infon key="type">OTHER</infon>
+        <location offset="38" length="24"/>
+        <text>Trans-Anethole Oxygenase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>93</offset>
+      <text>A novel flavoprotein monooxygenase, trans-anethole oxygenase (TAO), from Pseudomonas putida JYR-1, which is capable of catalyzing the oxidation of trans-anethole to p-anisaldehyde, was heterologously expressed in E. coli and purified. Enzymatic kinetics of diverse substrates and cofactors revealed that TAO is likely to be a novel self-sufficient flavoprotein monooxygenase. Enzyme assays of GST-TAO demonstrated that TAO catalyzed a trans-anethole oxidation reaction without auxiliary component enzyme-like electron-transfer flavin reductases. The single component TAO had the ability to reduce flavin cofactors and simultaneously oxidize trans-anthole to p-anisaldehyde. In the processes of reduction of flavin and oxidation of trans-anethole, TAO accepted various flavin and NAD(P)H cofactors. TAO also catalyzed oxidation of isoeugenol, O-methyl isoeugenol, and isosafrole, all of which contain the 2-propenyl functional group on the aromatic ring structure with different catalytic efficiency. TAO had the greatest catalytic efficiency (k cat/K m) with the original substrate, trans-anethole. Investigation about partially deleted mutants of TAO indicated that reductase active sites appeared to be located near the N terminal. Site directed mutagenesis studies also proved that the proposed flavin binding sites, Trp-38, Thr-43, Tyr-55, were critical for flavin reduction. However, disruption of any portion of TAO eliminated the oxygenase activity.</text>
+      <annotation id="350">
+        <infon key="type">OTHER</infon>
+        <location offset="129" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+      <annotation id="2XXx13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="240" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="258" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="528" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx12">
+        <infon key="type">OTHER</infon>
+        <location offset="620" length="17"/>
+        <text>flavin reductases</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="690" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="734" length="13"/>
+        <text>trans-anthole</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="751" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="800" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="824" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="861" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="872" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="923" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031050</infon>
+        <location offset="935" length="19"/>
+        <text>O-methyl isoeugenol</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015959</infon>
+        <location offset="960" length="10"/>
+        <text>isosafrole</text>
+      </annotation>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="1176" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="1391" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="1413" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="1421" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="1429" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="1455" length="6"/>
+        <text>flavin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1550</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1563</offset>
+      <text>Bacterial oxygenases are important biological catalysts incorporating one or two oxygen atoms into organic compounds, which is often very difficult to perform via chemical reactions . The oxygenases activate and functionalize molecular oxygen by using a reduced metal or organic cofactor through electron-transfer partners, such as iron-sulfur proteins and flavin reductases. Generally, reducing equivalents are supplied by NADH or NADPH as electron donors . For example, flavoprotein monooxygenases uses a purely organic cofactor, flavin, for oxygenation reactions and utilize a general mechanisms whereby NAD(P)H reduces the flavin, and the reduced flavin reacts with O2 to form a C4a-(hydro) peroxyflavin intermediate, which is the oxygenation agent . The oxygenation reactions catalyzed by the flavoprotein monooxygenases include hydroxylations, epoxidations, halogenations, Baeyer-Villiger oxidations, sulfoxidations, and oxidations of amines, selenide, phosphate esters and organoboron .</text>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="1644" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="1799" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="363">
+        <infon key="type">OTHER</infon>
+        <location offset="1895" length="20"/>
+        <text>iron-sulfur proteins</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">OTHER</infon>
+        <location offset="1920" length="17"/>
+        <text>flavin reductases</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="1987" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="1995" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="2095" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="2170" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="2XXx31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="2190" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="2214" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="2233" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">OTHER</infon>
+        <location offset="2258" length="12"/>
+        <text>peroxyflavin</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="2504" length="6"/>
+        <text>amines</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016566</infon>
+        <location offset="2512" length="8"/>
+        <text>selenide</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D004952</infon>
+        <location offset="2522" length="16"/>
+        <text>phosphate esters</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001896</infon>
+        <location offset="2543" length="11"/>
+        <text>organoboron</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2557</offset>
+      <text>While the flavoprotein monooxygenases are classified into six groups based on sequence and structural data , they can also be divideded into two major classes: single-component (or self-sufficient flavoprotein monooxygenase) and a two-component enzymes composed of a reductase and an oxygenase. Hydroxylation and Baeyer-Villiger type oxidation reactions have been known to be catalyzed by either single-component or two-component flavoprotein monooxygenases –. However, an epoxidation reaction, which is a well known process in styrene metabolism, is catalyzed by mostly two-component flavoprotein monooxygenases –. It should be noted that the self-sufficient enzymes appear to have enhanced catalytic efficiency compared to the separated multi-component enzymes, which physically separate the oxygenase and reductase components. It has been postulated that the closer location between the oxygenase and reductase components in the self-sufficient enzymes results in a reduction in auto-oxidation caused by reactive oxygen species, such as hydrogen peroxide, between the two components , . This subsequently results in an increased diffusion of the reduced FAD in the interprotein transfer process. Moreover, as expected, the self-sufficient oxygenases are better than the multi-component enzyme systems in terms of practical applications for purifying and immobilizing the enzymes in cell-free systems. For this reason, efforts have been devoted to find novel self-sufficient enzymes  or create artificial self-sufficient chimeric proteins  that have versatile activities with diverse substrates.</text>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020058</infon>
+        <location offset="3085" length="7"/>
+        <text>styrene</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="3564" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="3597" length="17"/>
+        <text>hydrogen peroxide</text>
+      </annotation>
+      <annotation id="2XXx35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="3714" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4159</offset>
+      <text>We previously reported ,  the isolation of the tao gene from Pseudomonas putida JYR-1 encoding trans-anethole oxygenase (TAO) activity. The enzyme catalyzed the oxidation of trans-anethole, a type of phenylpropanoid compound formed via terpene biosynthesis in plants , to p-anisaldehyde. Interestingly, whole cell assays done with TAO heterologously expressed in E. coli showed that the enzyme also acted on isoeugenol, O-methyl isoeugenol, and isosafrole as substrates, all of which contain the propenyl functional group on the aromatic ring structure . Compared to the extremely narrow substrate range of isoeugenol monooxygenases, Iem, from Pseudomonas nitroreducens Jin1 , and Iso from Pseudomonas putida IE27 , that only use isoeugenol as a substrate, TAO exhibited a relatively broad substrate range. TAO is likely to be NAD(P)H-dependent, even though there was no conserved NAD(P)H binding domain found from the deduced amino acid sequence . Since the TAO from Pseudomonas putida JYR-1 displayed very low similarity to the deduced amino acid sequences of other enzymes in currently available databases, it was thought to be a novel enzyme, worthy of further characterization. In the present study, TAO tagged with glutathione S-transferase was heterologously expressed in E. coli and purified. Enzymatic kinetics of GST-TAO was investigated using diverse substrates and cofactors. Results of these studies indicated that TAO is likely a novel self-sufficient flavoprotein monooxygenase.</text>
+      <annotation id="365">
+        <infon key="type">OTHER</infon>
+        <location offset="4254" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+      <annotation id="322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="4333" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010666</infon>
+        <location offset="4359" length="15"/>
+        <text>phenylpropanoid</text>
+      </annotation>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013729</infon>
+        <location offset="4395" length="7"/>
+        <text>terpene</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="4431" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="4567" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031050</infon>
+        <location offset="4579" length="19"/>
+        <text>O-methyl isoeugenol</text>
+      </annotation>
+      <annotation id="2XXx40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015959</infon>
+        <location offset="4604" length="10"/>
+        <text>isosafrole</text>
+      </annotation>
+      <annotation id="372">
+        <infon key="type">OTHER</infon>
+        <location offset="4766" length="25"/>
+        <text>isoeugenol monooxygenases</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="4889" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="4986" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="5040" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="2XXx42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="5086" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="2XXx43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="5197" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="384">
+        <infon key="type">OTHER</infon>
+        <location offset="5380" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5653</offset>
+      <text>Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5675</offset>
+      <text>Plasmids, bacterial strains, and growth conditions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5726</offset>
+      <text>All plasmids and bacterial strains used in this study are listed in Table 1. P. putida JYR-1 was grown in tryptic soy broth (TSB) or Stanier's minimal salt broth (MSB)  containing 10 mM trans-anethole and incubated by rotary shaking at 200 rpm and 25°C. E. coli strains EPI100, EC100, DH5α , and BL21(DE3) were routinely grown in LB medium  and incubated at 37°C by rotary shaking at 200 rpm. When required, ampicillin (Amp) at 50 µg/ml, kanamycin (Kan) at 50 µg/ml, and chloramphenicol (Chl) at 12.5 µg/ml were used for selection of recombinant E. coli.</text>
+      <annotation id="386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026375</infon>
+        <location offset="5832" length="17"/>
+        <text>tryptic soy broth</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026375</infon>
+        <location offset="5851" length="3"/>
+        <text>TSB</text>
+      </annotation>
+      <annotation id="2XXx59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5859" length="28"/>
+        <text>Stanier's minimal salt broth</text>
+      </annotation>
+      <annotation id="2XXx60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5889" length="3"/>
+        <text>MSB</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="5912" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">OTHER</infon>
+        <location offset="6056" length="9"/>
+        <text>LB medium</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000667</infon>
+        <location offset="6134" length="10"/>
+        <text>ampicillin</text>
+      </annotation>
+      <annotation id="2XXx53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000667</infon>
+        <location offset="6146" length="3"/>
+        <text>Amp</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007612</infon>
+        <location offset="6164" length="9"/>
+        <text>kanamycin</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007612</infon>
+        <location offset="6175" length="3"/>
+        <text>Kan</text>
+      </annotation>
+      <annotation id="2XXx56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002701</infon>
+        <location offset="6197" length="15"/>
+        <text>chloramphenicol</text>
+      </annotation>
+      <annotation id="2XXx57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002701</infon>
+        <location offset="6214" length="3"/>
+        <text>Chl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0073350-t001.xml</infon>
+      <infon key="id">pone-0073350-t001</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>6297</offset>
+      <text>Bacterial strains and plasmids used in this study.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6348</offset>
+      <text>Chemicals</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6358</offset>
+      <text> trans-Anethole, para-anisaldehyde, isoeugenol, O-methyl isoeugenol, isosafrole, vanillin, veratraldehyde, piperonal, and 3-chloro-4-methoxybenzaldehyde were purchased from Sigma-Aldrich (Milwaukee, WI). Stock solutions (100 mM) were prepared in methanol. All organic solvents were HPLC grade and purchased from Fisher Scientific (Fair Lawn, NJ).</text>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="6359" length="14"/>
+        <text>trans-Anethole</text>
+      </annotation>
+      <annotation id="2XXx71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="6375" length="17"/>
+        <text>para-anisaldehyde</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="6394" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031050</infon>
+        <location offset="6406" length="19"/>
+        <text>O-methyl isoeugenol</text>
+      </annotation>
+      <annotation id="2XXx65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015959</infon>
+        <location offset="6427" length="10"/>
+        <text>isosafrole</text>
+      </annotation>
+      <annotation id="2XXx66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100058</infon>
+        <location offset="6439" length="8"/>
+        <text>vanillin</text>
+      </annotation>
+      <annotation id="2XXx67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C427725</infon>
+        <location offset="6449" length="14"/>
+        <text>veratraldehyde</text>
+      </annotation>
+      <annotation id="390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005454</infon>
+        <location offset="6465" length="9"/>
+        <text>piperonal</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C526660</infon>
+        <location offset="6480" length="30"/>
+        <text>3-chloro-4-methoxybenzaldehyde</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="6604" length="8"/>
+        <text>methanol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6705</offset>
+      <text>Expression and purification of trans-anethole oxygenase</text>
+      <annotation id="367">
+        <infon key="type">OTHER</infon>
+        <location offset="6736" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6761</offset>
+      <text>The full length TAO from P. putida JYR-1 was subcloned into the BamHI and SalI sites of vector pGEX-5X-1 (GE Healthcare, Uppsala, Sweden), and contained glutathione S-transferase for the N-terminal tagging, resulting in pGEX-TAO. Expression of GST-TAO in E. coli BL21(DE3) (pGEX-TAO) was induced by adding 0.1 mM isopropyl-β-D-thiogalactoside (IPTG) when the culture optical density at 600 nm reached 0.5. Cells were grown for an additional 16 hr at 20°C and harvested by centrifugation at 10,000× g for 10 min. The cell pellet was resuspended in the PBS buffer (140 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, 1.8 mM KH2PO4, pH 7.3) and crude cell extracts were prepared by using an ultrasonic disruptor (Cole-Parmer, Chicago, IL, USA) with 70% amplitude for 10 min (3.0 S on and 9.0 S off). The crude lysate was centrifuged, twice, at 18,000× g for 30 min at 4°C using PBS buffer (pH 7.3) and ammonium sulfate was added to the chilled cell extract, with stirring, to 25–35% saturation. The precipitate was collected by centrifugation at 12,000× g for 20 min, resuspended in PBS buffer (pH 7.3), and filtered through polyvinylidene fluoride (PVDF) syringe filters (Whatman, Maidstone, England). The filtrate was passed through a Hitrap FF desalting column connected a FPLC system (GE Healthcare, Uppsala, Sweden). The desalted elute was loaded into a GSTrap FF column (GE Healthcare, Uppsala, Sweden), which was equilibrated with 5 column volumes (CV) of PBS binding buffer, and washed with 10 CV of PBS binding buffer until no material appeared in the effluent. The GST-tagged trans-anethole oxygenase was eluted with elution buffer (50 mM Tris-HCl, 20 mM reduced glutathione, 10% glycerol, pH 8.8) and protein eluting at each step was applied to SDS-PAGE and visualized with Coomassie Blue staining  (Figure 1). The expression and purification of mutated and partially deleted TAO enzymes (Figure S1 in File S1) were processed by using the same methods.</text>
+      <annotation id="385">
+        <infon key="type">OTHER</infon>
+        <location offset="6914" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="7074" length="29"/>
+        <text>isopropyl-β-D-thiogalactoside</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="7105" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="7312" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="7331" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="7344" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="7355" length="7"/>
+        <text>Na2HPO4</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="7371" length="6"/>
+        <text>KH2PO4</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="7624" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000645</infon>
+        <location offset="7648" length="16"/>
+        <text>ammonium sulfate</text>
+      </annotation>
+      <annotation id="81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="7829" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="7871" length="23"/>
+        <text>polyvinylidene fluoride</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="7896" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="8209" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="8254" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">OTHER</infon>
+        <location offset="8332" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="8395" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="8419" length="11"/>
+        <text>glutathione</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="8436" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="8502" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="8531" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0073350.g001.jpg</infon>
+      <infon key="id">pone-0073350-g001</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>8722</offset>
+      <text>Purification of the GST-TAO.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0073350.g001.jpg</infon>
+      <infon key="id">pone-0073350-g001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>8751</offset>
+      <text>Protein samples were analyzed by SDS-PAGE at different steps of purification. Legend: M, marker protein; lane 1, cell extract; lane 2, ammonium sulfate precipitate; lane 3, elute from GSTrap column. The arrow indicates purified GST-TAO.</text>
+      <annotation id="2XXx95">
+        <infon key="identifier">MESH:D012967</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="8784" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000645</infon>
+        <location offset="8886" length="16"/>
+        <text>ammonium sulfate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8988</offset>
+      <text>Determination of oxygenase activity of GST-TAO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9035</offset>
+      <text>The oxygenase activity of GST-TAO toward trans-anethole, isoeugenol, O-methyl isoeugenol, and isosafrole was measured by quantifying the corresponding aldehyde products by using high performance liquid chromatography (HPLC). The standard assay was carried out at 30°C for 1 hr, The 1 ml reaction mixture contained 200 nM GST-TAO, 10 mM NADH, 15 µM FAD, 150 mM sodium formate, 0.5 U formate dehydrogenase from Candida boidinii (Sigma-Aldrich, Milwaukee, WI), 20 mM Tris-HCl (pH 8.0), 1 mM trans-anethole, and 1 mM 3-chloro-4-methoxybenzaldehyde as internal standard. The reaction was initiated by substrate addition into reaction mixtures. Five volumes of ethyl acetate were used to extract the reaction solution. The ethyl acetate extract was evaporated in a Speed vacuum centrifugal concentrator (Vision Scientific Co., Suwon, South Korea), the residue was dissolved in 1 ml methanol, and filtered through PVDF syringe filters (Whatman, Maidstone, England). The amounts of remaining parent compounds, aldehyde product, and internal standard 3-chloro-4-methoxybenzaldehyde in the reaction solutions were determined by HPLC. Each metabolite was identified by comparison to its retention time on the HPLC column, and by UV spectrum, compared to corresponding authentic compound. Kinetic parameters of GST-TAO were obtained by using the nonlinear regression method, assuming Michaelis-Menten kinetics. The effect of pH on the activity of GST-TAO was investigated at 30°C in 100 mM of sodium acetate buffer (pH 4.0–5.8), potassium phosphate (pH 6.2–8.0), Tris-Cl buffer (pH 8.0–9.0), and glycine-NaOH buffer (pH 9.0–10.6). The effect of temperature on the activity of GST-TAO was determined by using the standard assay conditions at temperatures between 15 and 50°C. Thermal stability of GST-TAO was investigated in 20 mM Tris-HCl buffer or 20 mM phosphate buffer containing 10% glycerol and 1 mM DTT. The reaction was incubated at 25°C for 0, 12, 24, 48, 72, and 96 hr and enzyme assays were performed as described above.</text>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="9076" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="9092" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031050</infon>
+        <location offset="9104" length="19"/>
+        <text>O-methyl isoeugenol</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015959</infon>
+        <location offset="9129" length="10"/>
+        <text>isosafrole</text>
+      </annotation>
+      <annotation id="102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000447</infon>
+        <location offset="9186" length="8"/>
+        <text>aldehyde</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="9371" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="9383" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="9395" length="14"/>
+        <text>sodium formate</text>
+      </annotation>
+      <annotation id="2XXx103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="9499" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="9523" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C526660</infon>
+        <location offset="9548" length="30"/>
+        <text>3-chloro-4-methoxybenzaldehyde</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="9690" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="9752" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="9911" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="9942" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000447</infon>
+        <location offset="10037" length="8"/>
+        <text>aldehyde</text>
+      </annotation>
+      <annotation id="2XXx110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C526660</infon>
+        <location offset="10077" length="30"/>
+        <text>3-chloro-4-methoxybenzaldehyde</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019346</infon>
+        <location offset="10516" length="14"/>
+        <text>sodium acetate</text>
+      </annotation>
+      <annotation id="2XXx112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="10552" length="19"/>
+        <text>potassium phosphate</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="10586" length="14"/>
+        <text>Tris-Cl buffer</text>
+      </annotation>
+      <annotation id="2XXx114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998,MESH:D012972</infon>
+        <location offset="10619" length="19"/>
+        <text>glycine-NaOH buffer</text>
+      </annotation>
+      <annotation id="2XXx115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="10853" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="10878" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="10910" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="2XXx118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="10928" length="3"/>
+        <text>DTT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11067</offset>
+      <text>Determination of reductase activity of GST-TAO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11114</offset>
+      <text>Reductase activity of GST-TAO was determined by measuring the consumption of NADH. The standard assay contained 20 mM Tris-HCl (pH 8.0), 200 nM GST-TAO, 200 µM NADH, and 20 µM FAD in final volume of 1 ml. The reaction was initiated by the addition of NADH into the solution. Progress of the reaction was monitored, continuously, by following the decrease in absorbance of NADH at 340 nm on a UV-1601PC spectrophotometer (Shimazu Corp., Kyoto, Japan).</text>
+      <annotation id="128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="11191" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="11232" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="11274" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="11290" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="11365" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="11486" length="4"/>
+        <text>NADH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11573</offset>
+      <text>Determination of FAD binding to GST-TAO and its mutants</text>
+      <annotation id="394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="11590" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11629</offset>
+      <text>The binding of FAD to GST-TAO and its mutants was determined by measuring the quantity of unbound FAD, which filtered out from the solution containing FAD and enzymes. Reaction solutions contained 3 µM FAD and 3 µM enzyme in 0.5 mL Tris-HCl buffer (20 mM, pH 8.0). The solution was incubated at 25°C for 60 min, loaded onto a Nanosep device centrifugal filter (Molecular Weight Cutoff (MWCO), 10K, PALL Corporation, Washington, NY) and centrifuged at 14,000× g for 20 min. The unbound FAD was collected and adjusted to 0.5 mL with Tris-HCl buffer (20 mM, pH 8.0). The concentration of FAD was determined by measuring fluorescence at 520 nm upon excitation at 450 nm using a Spectro-fluorometer (Spectramax Gemini XS, Gemini Scientific Corporation, Sunnyvale, CA).</text>
+      <annotation id="395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="11644" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="11727" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="11780" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="11831" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="11861" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="2XXx135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="12114" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="12160" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="2XXx136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="12214" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12401</offset>
+      <text>Site-directed mutagenesis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12427</offset>
+      <text>Mutations of the tao gene in plasmid pGEX-5X-1were introduced by using the QuikChange II Site-Directed Mutagenesis Kit (Agilent Technologies Inc., Santa Clara, CA) following the manufacturer's protocol. PCR products were digested with DpnI and transformed into E. coli BL21(DE3) by electroporation. Transformants were selected on LB agar plates containing Amp (50 µg/ml). Plasmids from transformants were isolated using the Bionner Plasmid Mini Kit (Bionner, Daejeon, South Korea) and the desired mutations were confirmed by DNA sequencing (SolGent, Daejeon, South Korea).</text>
+      <annotation id="2XXx139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12757" length="2"/>
+        <text>LB</text>
+      </annotation>
+      <annotation id="2XXx137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000362</infon>
+        <location offset="12760" length="4"/>
+        <text>agar</text>
+      </annotation>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000667</infon>
+        <location offset="12783" length="3"/>
+        <text>Amp</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13004</offset>
+      <text>Analytical methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13023</offset>
+      <text>Analytical HPLC was performed by using a Varian ProStar HPLC equipped with a photodiode array (PDA) detector (Varian, Walnut Creek, CA) and a reverse phase C18 column (5 µm particle size, 4.6 mm×25 cm, Waters, Milford, MA). The mobile phase, which was composed of acetonitrile containing 0.1% formic acid and water, was programmed as follows: 10% acetonitrile at 0 min, 60% acetonitrile at 10 min, 90% acetonitrile at 20 min, and 90% acetonitrile at 30 min. The injection volume was 10 µL, the flow rate was 1 mL/min, and UV detection was performed at 270 nm. LC/MS was performed by coupling an Alliance 2695 LC system (Waters Corporation, Milford, MA) to a Quattro LC triple quadrupole tandem mass spectrometer (Waters, Milford, MA) in positive electrospray ionization (ESI+) mode. For LC analysis, a SunFire C18 column (3.5 µm, 2.1×150 mm, Waters) was used and the mobile phase, elution program, and detection were identical to analytical HPLC described above; except the flow rate was 0.2 ml/min. For MS analysis, the source temperature, desolvation temperature, and capillary voltage were kept at 150°C, 350°C and 3.2 kV, respectively. The cone voltage was 20 V. The cone and desolvation gas were ultra-pure nitrogen at 30 and 500 L/hr, respectively. Protein concentration was determined by using the Bradford assay  with the Bio-Rad protein assay kit (Bio-Rad, Richmond, CA) and bovine serum albumin as a standard. All analyses were done in triplicate.</text>
+      <annotation id="141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13287" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="13316" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="13332" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13370" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="2XXx144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13397" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="2XXx145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13425" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13457" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="2XXx147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="14235" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14493</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14501</offset>
+      <text>Expression and purification of recombinant GST-TAO in E. coli </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14564</offset>
+      <text>Due to the insolubility of recombinant TAO and His6-TAO in E. coli BL21(DE3), a GST- tagged fusion protein was selected for purifying the TAO enzyme. Recombinant GST-TAO in plasmid pGEX-TAO was found to be mainly in the soluble fraction after induction by using 0.1 mM IPTG at 20°C for 16 hours. About 23 mg of purified GST-TAO was obtained from a 2 L culture of recombinant E. coli cells (approximately OD600 = 5.0) using a series of purification steps (Table 2). The purification yield was ∼2.8% of total protein. A single, GST-TAO band of 68 kDa (calculated, 26,440 Da for GST, and 39,328 Da for TAO) was successfully observed in SDS-PAGE (Figure 1).</text>
+      <annotation id="429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="14611" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="14833" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="15197" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0073350-t002.xml</infon>
+      <infon key="id">pone-0073350-t002</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>15227</offset>
+      <text>Purification of GST-TAO from E. coli BL21(DE3)(pGex-TAO).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15285</offset>
+      <text>Kinetics and substrate specificity of GST-TAO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15331</offset>
+      <text>The catalytic kinetics of GST-TAO were determined by measuring the amount of p-anisaldehyde produced from the substrate trans-anethole . The conversion of trans-anethole to p-anisaldehyde followed Mechaelis-Menton kinetics, with an affinity K m of 64.70±2.40 µM and a turnover number k cat of 0.49 s−1 (Table 3). Under the same conditions, the reaction kinetics of purified GST-TAO using isoeugenol, O-methyl isoeugenol, or isosafrole as substrate were determined by measuring the amount of the corresponding aldehyde product as previously reported . Comparisons of the activity of GST-TAO to the four substrates indicated that TAO has the best catalytic efficiency (k cat/K m, 7.69 mM−1s−1) with trans-anethole as substrate. Although GST-TAO has the lowest affinity (K m, 2255.00±346.48 µM) to isoeugenol, the highest turnover number (k cat, 1.13 s−1) was observed with this substrate.</text>
+      <annotation id="354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="15408" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="15451" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="15486" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="15504" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="15719" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031050</infon>
+        <location offset="15731" length="19"/>
+        <text>O-methyl isoeugenol</text>
+      </annotation>
+      <annotation id="2XXx152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015959</infon>
+        <location offset="15755" length="10"/>
+        <text>isosafrole</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000447</infon>
+        <location offset="15840" length="8"/>
+        <text>aldehyde</text>
+      </annotation>
+      <annotation id="331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="16028" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="16126" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>16230</offset>
+      <text>The range of substrate concentrations used in the kinetic assays is from 0.01 mM to 6 mM.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone-0073350-t003.xml</infon>
+      <infon key="id">pone-0073350-t003</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>16320</offset>
+      <text>Kinetics of GST-TAO with different substrates in the presence of NADH and FAD.</text>
+      <annotation id="2XXx160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="16385" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="16394" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16399</offset>
+      <text>Influence of flavin and NAD(P)H cofactors on GST-TAO activity</text>
+      <annotation id="444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="16412" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="16423" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16461</offset>
+      <text>The activity of GST-TAO with trans-anethole as substrate and different flavin and NAD(P)H cofactors is shown in Table 4. Flavin and NAD(P)H cofactors were necessary for the activity of GST-TAO. When NADH was a hydride donor, the catalytic efficiency of GST-TAO with FAD (k cat/K m, 7.69 mM−1s−1) as a flavin cofactor was around two-fold greater than that of FMN (k cat/K m, 3.64 mM−1s−1) and riboflavin (k cat/K m, 3.64 mM−1s−1). The catalytic efficiency of TAO with NADH (k cat/K m, 7.69 mM−1s−1) was almost two-fold greater than that of NADPH (k cat/K m, 4.22 mM−1s−1). These results indicated that FAD and NADH were the best combined cofactors in the oxygenation of trans-anethole by GST-TAO (Table 4). In addition, the K m values of GST-TAO with FAD in the presence of NADH and NADPH and trans-anethole as substrate were 63.7 µM and 109.5 µM, respectively. Since the k cat values of GST-TAO to trans-anethole ranged from 0.41 to 0.52 regardless of the cofactor combination used for the reaction, the cofactors appear not to affect turnover numbers of GST-TAO. However, the variable K m values with different flavin cofactors indicated that FAD is the best flavin cofactor for substrate binding. NADH was a better hydride donor for FAD reduction and the further oxygenation reaction than was NADPH.</text>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="16490" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="16532" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="16543" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="16582" length="6"/>
+        <text>Flavin</text>
+      </annotation>
+      <annotation id="378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="16593" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="2XXx163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="16660" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="16727" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="16762" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005486</infon>
+        <location offset="16819" length="3"/>
+        <text>FMN</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012256</infon>
+        <location offset="16853" length="10"/>
+        <text>riboflavin</text>
+      </annotation>
+      <annotation id="2XXx165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="16928" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="17000" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="17062" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="17070" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="17130" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="17211" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="17234" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="17243" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="2XXx181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="17253" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="17359" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="17573" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="17605" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="17621" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="17660" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="17696" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="17756" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>17785</offset>
+      <text>Flavins and NAD(P)H were 15 µM and 10 mM, respectively, for saturation.</text>
+      <annotation id="453">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="17785" length="7"/>
+        <text>Flavins</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="17797" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0073350-t004.xml</infon>
+      <infon key="id">pone-0073350-t004</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>17861</offset>
+      <text>Effect of flavin and NAD(P)H cofactors on GST-TAO biotransformation activity using trans-anethole as substrate .</text>
+      <annotation id="2XXx187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="17871" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="17882" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="2XXx186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="17944" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17974</offset>
+      <text>Oxygenase and reductase activities of wildtype and partially deleted GST-TAO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18051</offset>
+      <text>In order to profile the location of oxygenase and reductase active sites in TAO, a series of partially deleted GST-TAO mutant enzymes were expressed in E. coli BL21(DE3) and purified using the same method as for wild-type TAO. These mutated enzymes, which partially deleted for either their N- or C-termini, showed significantly reduced bioconversion activity (Table 5). The N-terminal GST-TAO mutants, (N1-104), (N1–174), (N1–261), and (N1–304), which partially delete the C-terminal of TAO, had relative enzyme activities of 7.3%, 6.1%, 7.6%, and 26.2% respectively (Table 5). In addition, bioconversion activity of the C-terminal GST-TAO mutant (N175–348), which partially deletes the N-terminal of TAO, was 4.7% (Table 5). A mixture of the N- and C-terminal GST-TAO mutants (N1–174), and (N175–348) did not recover the oxygenase activity. Moreover, the addition of commercial FMN-NADH reductase to the N-terminal GST-TAO mutants (N1–174), (N1–261), and (N1–304), or the C-terminal GST-TAO mutant (N175–348) also did not recover oxygenase activities (Table 5). These results indicated that the entire TAO enzyme contributed to the integrity of oxygenase activity. Figure 2 shows NADH consumptions tied to reduction of FAD by a series of the mutants and wild type GST-TAO. The N-terminal GST-TAO mutant (N1–261) consumed 123.5 µM NADH after 60 min of incubation, which is the roughly comparable amount of NADH consumed by the wild-type GST-TAO, 158.6 µM. However, the N-terminal GST-TAO mutant (N1–104), which lost more part from the C-terminal than the GST-TAO (N1–261), consumed only 50.8 µM NADH. In contrast, the C-terminal GST-TAO mutant (N175–348) lost most of its reductase activity and only consumed 12.0 µM NADH (Figure 2).</text>
+      <annotation id="434">
+        <infon key="type">OTHER</infon>
+        <location offset="18931" length="18"/>
+        <text>FMN-NADH reductase</text>
+      </annotation>
+      <annotation id="2XXx188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="19233" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="19272" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="19383" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="19458" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="19647" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="19769" length="4"/>
+        <text>NADH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0073350.g002.jpg</infon>
+      <infon key="id">pone-0073350-g002</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>19818</offset>
+      <text>NADH consumption for reducing FAD by wild-type GST-TAO (A), its mutants GST-TAO (N1–174) (B), GST-TAO (N1–104) (C), GST-TAO (N175–348) (D), point mutated GST-TAO (W38A/T43A/Y55A) (E), and negative control (F) at 0 min (▪), 30 min (•), and 60 min (▴).</text>
+      <annotation id="2XXx195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="19818" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="19848" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>20081</offset>
+      <text>Values are means ± standard deviation obtained from triplicate experiments after subtraction of the heat-killed GST-TAO activity (0.005±0.001 mM of p-anisaldehyde product).</text>
+      <annotation id="2XXx197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="20229" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>20256</offset>
+      <text>Amount of p-anisaldehyde produced after 60 min incubation.</text>
+      <annotation id="2XXx198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="20266" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>20315</offset>
+      <text>Commercial FMN-NADH oxidoreductase from Photobacterium fischeri was purchased from Sigma-Aldrich (Milwaukee, WI).</text>
+      <annotation id="435">
+        <infon key="type">OTHER</infon>
+        <location offset="20326" length="23"/>
+        <text>FMN-NADH oxidoreductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0073350-t005.xml</infon>
+      <infon key="id">pone-0073350-t005</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>20429</offset>
+      <text>Relative biotransformation activity of purified GST-TAO and its mutants in the presence of NADH and FAD.</text>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="20520" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="20529" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20534</offset>
+      <text>FAD binding to GST-TAO and its partially deleted mutants</text>
+      <annotation id="2XXx202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="20534" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20591</offset>
+      <text>The binding of FAD to GST-TAO and its mutants is shown in Table 6. The N-terminal GST-TAO mutant (N1–104) still kept 67% of the FAD binding activity compared to wild-type. However, the C-terminal GST-TAO mutant (N175–348), partial deletion of the N-terminus, almost lost FAD binding activity (0.02 µmol FAD/µmol enzyme). This is about 6% of the binding activity compared to wild-type GST-TAO.</text>
+      <annotation id="411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="20606" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="20719" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="20862" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="20894" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone-0073350-t006.xml</infon>
+      <infon key="id">pone-0073350-t006</infon>
+      <infon key="type">table_caption_title</infon>
+      <offset>20992</offset>
+      <text>Binding of FAD to purified GST-TAO and its mutants.</text>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="21003" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21044</offset>
+      <text>Oxygenase activitiy, reductase activitiy and FAD binding of purified targeted mutant (W38A/T43A/Y55A) of GST-TAO</text>
+      <annotation id="2XXx208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="21089" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21157</offset>
+      <text>Presumably due to the absence of the conserved FAD and NAD(P)H binding domains from the deduced amino acid sequence of TAO, neither the fully integrated protein structure prediction program (Prime, Schrödinger®) nor the protein structure homology modeling server (SWISS-MODEL) was able to locate the homologous protein of TAO in the protein data bank. Thus, our previous assumption , which the amino acid residues, Trp-38, Thr-43, and Tyr-55, in TAO are likely to be involved in FAD binding, was tested to verify the function with purified protein of the targeted mutant. Purified point-mutated GST-TAO (W38A/T43A/Y55A) lost almost all oxygenase activity (Table 5) with no consumption of NADH (Figure 2). The mutated enzyme also showed substantially decreased FAD binding activity at 0.06 µmol FAD/µmol enzyme as compared to wild-type GST-TAO at 0.30 µmol FAD/µmol enzyme (Table 6).</text>
+      <annotation id="417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="21204" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="21212" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="21253" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="21551" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="21572" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="21580" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="2XXx213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="21592" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="2XXx217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="21636" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="21845" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="21917" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="21951" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="22013" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22056</offset>
+      <text>Optimal reaction temperature, pH, and thermostability of TAO</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22117</offset>
+      <text>The reaction temperature optimum of TAO for trans-anethole was determined by using the standard assay at temperatures from 15 to 50°C. The maximum activity of TAO was detected at 25°C, and an increase in temperature from 25 to 37°C resulted in loss of 90% of the activity (Figure S2A in File S1). The highest activity of TAO was observed in potassium phosphate buffer at pH 8.0 at 25°C. TAO lost about 50% of its relative bioconversion activity at pH 7.0 and 9.0 (Figure S2B in File S1).</text>
+      <annotation id="2XXx222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="22161" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="22458" length="19"/>
+        <text>potassium phosphate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22609</offset>
+      <text>The stability of TAO was investigated by measuring TAO activity after incubation of the enzyme at 25°C for 4 days. TAO had 76% and 30% of relative initial activity after 24 and 96 hr, respectively, suggesting that TAO is a relatively stable enzyme (Figure S3 in File S1).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>22882</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22893</offset>
+      <text>The trans-anethole oxygenase (TAO) is a novel flavoprotein monooxygenase capable of catalyzing the oxidation of trans-anethole to p-anisaldehyde. The oxidation reaction was catalyzed without the aid of auxiliary oxidoreductase enzyme components. Although we observed that TAO had both monooxygenase and reductase activities, no monooxygenase or flavin reductase catalytic subunits were found in TAO. Thus, TAO is characterized as a novel self-sufficient flavoprotein monooxygenase.</text>
+      <annotation id="369">
+        <infon key="type">OTHER</infon>
+        <location offset="22897" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+      <annotation id="2XXx224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="23005" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="23023" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="2XXx226">
+        <infon key="type">OTHER</infon>
+        <location offset="23238" length="16"/>
+        <text>flavin reductase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23375</offset>
+      <text>The oxidation reaction of trans-anethole to p-anisaldehyde most likely proceeded via epoxidation, hydrolysis of epoxide group, and C-C bond cleavage by TAO itself , . TAO, which is likely a single component enzyme, not only has the ability to reduce flavin cofactors, but also oxidizes trans-anethole to p-anisaldehyde (Figure 3). Natural flavoprotein monooxygenases, which catalyze epoxidation reactions, have been previously reported as two-components monooxygenases . An oxidoreductase is indispensable for the supply of reduced flavin for two-components monooxygenases. The reduced flavin diffuses to oxygenase, which reacts with molecular oxygen, and yields a reactive C4a-hydroperoxyflavin species , and the substrate is bound and subjected to an epoxidation reaction . However, diffusion limitations likely reduce catalytic efficiency of these enzymes , . For this reason, efforts have been made to find or construct a single-component, self-sufficient monooxygenase , . Examples of self-sufficient monooxygenases are the Bacillus cytochrome P450 BM3 and P450 PFOR which integrate the entire P450 system in a single polypeptide , . In contrast, most cytochrome P450 monooxygenases (P450s) contain multiple-components , . Previous difficulties in finding self-sufficient monooxygenases from natural resources has led others to construct an artificial fusion between oxygenase and reductase components  and the catalytic activity of chimeric protein with the fusion of P450RhF and redox partner in engineered E. coli have been reported , . A purified chimeric enzyme PikC cytochrome P450 fused to RhFRED showed a ∼4-fold enhanced catalytic activity (k cat/K m) in hydroxylation reaction in a macrolide biosynthetic pathway .</text>
+      <annotation id="2XXx232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="23401" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="23419" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004852</infon>
+        <location offset="23487" length="7"/>
+        <text>epoxide</text>
+      </annotation>
+      <annotation id="449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="23625" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="23661" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="23679" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="2XXx234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="23907" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="23961" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="24019" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="gy398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C531259</infon>
+        <location offset="24040" length="38"/>
+        <text>reactive C4a-hydroperoxyflavin species</text>
+      </annotation>
+      <annotation id="2XXx229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018942</infon>
+        <location offset="25072" length="9"/>
+        <text>macrolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0073350.g003.jpg</infon>
+      <infon key="id">pone-0073350-g003</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>25107</offset>
+      <text>Proposed biochemical mechanism for catalyzing transformation of trans-anethole to p-anisaldehyde by TAO in the presence of NADH and FAD.</text>
+      <annotation id="342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="25171" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="25189" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="2XXx237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="25230" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="25239" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25244</offset>
+      <text>In the process of reduction of flavin and oxidation of trans-anethole, TAO accepted various flavins (FAD, FMN and riboflavin) and NAD(P)H cofactors serving as electron transfer intermediates. Stoichiometry indicates that flavin accepted one hydride from NAD(P)H and reduced flavin transferred one oxygen to the organic substrate, trans-anethole. In addition, the current study indicated that FAD is the best flavin cofactor, and NADH is better than NADPH for donating electrons to the catalytic reaction. In accordance with our initial studies done with resting cell assays of heterologously expressed TAO in E. coli , the purified GST-TAO catalyzed transformation of isoeugenol, O-methyl isoeugenol, and isosafrole, all of which contain a 2-propenyl functional group on the aromatic ring structure. As expected, TAO had the highest catalytic efficiency (k cat/K m) with its physiological substrate, trans-anethole. Isoeugenol, however, had the greatest turnover number (k cat), although the affinity for this substrate was approximately 35-fold lower than trans-anethole, likely due to the presence of the relatively hydrophilic 4-hydroxyl group in its chemical structure.</text>
+      <annotation id="450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="25275" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="25299" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="25336" length="7"/>
+        <text>flavins</text>
+      </annotation>
+      <annotation id="423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="25345" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005486</infon>
+        <location offset="25350" length="3"/>
+        <text>FMN</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012256</infon>
+        <location offset="25358" length="10"/>
+        <text>riboflavin</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="25374" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="25465" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243,MESH:D009249</infon>
+        <location offset="25498" length="7"/>
+        <text>NAD(P)H</text>
+      </annotation>
+      <annotation id="2XXx259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="25518" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="25541" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="25574" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="25636" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="25652" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="25673" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="2XXx244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="25693" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="25912" length="10"/>
+        <text>isoeugenol</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031050</infon>
+        <location offset="25924" length="19"/>
+        <text>O-methyl isoeugenol</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015959</infon>
+        <location offset="25949" length="10"/>
+        <text>isosafrole</text>
+      </annotation>
+      <annotation id="2XXx255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="26144" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036643</infon>
+        <location offset="26160" length="10"/>
+        <text>Isoeugenol</text>
+      </annotation>
+      <annotation id="346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="26301" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26418</offset>
+      <text>For profiling the distribution of the oxygenase and reductase components in TAO, partial TAO deletion mutants were constructed. Distinct difference in reductase activity between the N terminal portion of TAO, from amino acids 1–174 and the C terminal part from residues 175–348, indicated that reductase active sites appeared to be located in the N terminal half of TAO. The combined results of reductase activity (Figure 2) and FAD binding ability (Table 6) between GST-TAO (N1–174) and GST-TAO (N1–104) further indicated that the amino acids in positions 104 to 174 were critical to the FAD reduction reaction. These residues also may contribute to the binding of NADH to the enzyme. However, it should be noted that deletion of any portion of TAO resulted in loss of oxygenase activity, which is different from the reductase activity. Furthermore, the three residues Trp-38, Thr-43, and Tyr-55, which appear to be involved in FAD binding reported in our previous study , were confirmed to be flavin binding sites by using a FAD binding assay.</text>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="26632" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="2XXx267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="26847" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="2XXx262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="26950" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="2XXx268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="27007" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="27084" length="4"/>
+        <text>NADH</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="27288" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="27296" length="3"/>
+        <text>Thr</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="27308" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="2XXx269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="27347" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="27413" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="27445" length="3"/>
+        <text>FAD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27472</offset>
+      <text>In summary, in this study we describe the identification and characterization of a novel self-sufficient trans-anethole oxygenase which was able to catalyze the epoxidation and cleavage of the carbon-carbon double on the 1-propenyl side chain of trans-anethole to produce p-anisaldehyde. In addition, the enzyme also coupled flavin reduction by another portion, flavin reductase. Based on the use of partial deletion mutants and point-mutations, the role of each segment in TAO for reductase and oxygenase activities could be deduced. Despite these results, however, it is necessary to further study for the catalytic mechanism of TAO by using structural analysis. We expect this single component self-sufficient trans-anethole oxygenase will provide another novel model system for uncovering the enzymatic function of oxygenases. Moreover, this novel enzyme has great potential as an efficient catalyst for use in the flavor and fragrance industries.</text>
+      <annotation id="370">
+        <infon key="type">OTHER</infon>
+        <location offset="27577" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+      <annotation id="436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="27665" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="27672" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="2XXx272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006578</infon>
+        <location offset="27718" length="14"/>
+        <text>trans-anethole</text>
+      </annotation>
+      <annotation id="2XXx271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024896</infon>
+        <location offset="27744" length="14"/>
+        <text>p-anisaldehyde</text>
+      </annotation>
+      <annotation id="2XXx276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="27797" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="2XXx277">
+        <infon key="type">OTHER</infon>
+        <location offset="27834" length="16"/>
+        <text>flavin reductase</text>
+      </annotation>
+      <annotation id="371">
+        <infon key="type">OTHER</infon>
+        <location offset="28185" length="24"/>
+        <text>trans-anethole oxygenase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28424</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>28447</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

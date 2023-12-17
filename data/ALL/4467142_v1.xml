@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4467142</id>
+    <passage>
+      <infon key="name_3">surname:Wang;given-names:Qianli</infon>
+      <infon key="name_2">surname:Yu;given-names:Shichong</infon>
+      <infon key="name_1">surname:Li;given-names:Jie</infon>
+      <infon key="name_0">surname:Qiu;given-names:Lei</infon>
+      <infon key="article-id_pmid">25760071</infon>
+      <infon key="fpage">5195</infon>
+      <infon key="issue">7</infon>
+      <infon key="year">2015</infon>
+      <infon key="article-id_pmc">4467142</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">6</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</infon>
+      <infon key="kwd">Cancer immunotherapy Tumor-associated carbohydrate antigen GM3 antigen Cell metabolic glycoengineering</infon>
+      <infon key="name_8">surname:Zhang;given-names:Junping</infon>
+      <infon key="name_7">surname:Guo;given-names:Zhongwu</infon>
+      <infon key="name_6">surname:Wu;given-names:Qiuye</infon>
+      <infon key="lpage">5203</infon>
+      <infon key="name_5">surname:Hu;given-names:Zhenlin</infon>
+      <infon key="name_4">surname:Li;given-names:Yinghua</infon>
+      <offset>0</offset>
+      <text>A novel cancer immunotherapy based on the combination of a synthetic carbohydrate-pulsed dendritic cell vaccine and glycoengineered cancer cells</text>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002241</infon>
+        <location offset="69" length="12"/>
+        <text>carbohydrate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>145</offset>
+      <text>Immune tolerance to tumor-associated carbohydrate antigens (TACAs) has severely restricted the usefulness of most TACAs. To overcome this problem, we selected a sialylated trisaccharide TACA, GM3, as a target antigen, and tested a new immunotherapeutic strategy by combining metabolic bioengineering with dendritic cell (DC) vaccination. We engineered cancer cells to express an artificial structure, N-phenylacetyl-D-neuraminic acid, in place of the natural N-acetyl-D-neuraminic acid of GM3 by using N-phenylacetyl-D-mannosamine (ManNPhAc) as a biosynthetic precursor. Next, we selectively targeted the bioengineered cancer cells by vaccination with DCs pulsed with the GM3 N-phenylacetyl derivative. Vaccination with GM3NPhAc-KLH-loaded DCs elicited robust GM3NPhAc-specific T cell-dependent immunity. The results showed that this strategy could significantly inhibit FBL3 tumor growth and prolong the survival of tumor-bearing mice; B16F10 lung metastases could also be reduced. These findings lay out a new strategy for overcoming immune tolerance to TACAs, such as GM3, for the development of effective tumor immunotherapies.</text>
+      <annotation id="2X15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="165" length="38"/>
+        <text>tumor-associated carbohydrate antigens</text>
+      </annotation>
+      <annotation id="2X16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="205" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="259" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014312</infon>
+        <location offset="317" length="13"/>
+        <text>trisaccharide</text>
+      </annotation>
+      <annotation id="2X17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="331" length="4"/>
+        <text>TACA</text>
+      </annotation>
+      <annotation id="2X13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="337" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="G1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009438</infon>
+        <location offset="546" length="32"/>
+        <text>N-phenylacetyl-D-neuraminic acid</text>
+      </annotation>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019158</infon>
+        <location offset="604" length="26"/>
+        <text>N-acetyl-D-neuraminic acid</text>
+      </annotation>
+      <annotation id="2X14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="634" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="647" length="28"/>
+        <text>N-phenylacetyl-D-mannosamine</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="677" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="817" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="865" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="905" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="1201" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="1216" length="3"/>
+        <text>GM3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1277</offset>
+      <text>INTRODUCTION</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1290</offset>
+      <text>Immunotherapy is an attractive approach for the treatment of cancer, especially for patients with tumor metastases [1]. One of the most promising approaches to cancer immunotherapy is the use of antigen presenting cells (APC), such as dendritic cells (DC), loaded with tumor-associated antigens (TAAs) because of the potentially superior efficacy and specificity of this approach [2, 3]. However, a major obstacle in the field is the development of immune tolerance to TAAs, which results in the failure of natural TAAs or vaccines formulations with natural TAAs to induce sufficiently effective immune responses. Traditional approaches to improve the immunogenicity of natural TAAs, such as the conjugation of TAAs with large carrier molecules or the coadministration of potent immunological adjuvants, have achieved limited success. Even when vaccines made of TAAs provoke immune responses, they usually only elicit B cell-mediated immunity, rather than the more desirable antitumor T cell immune responses [4–6]. Consequently, the development of a method to overcome the problem of immune tolerance to TAAs will be critical for the success of new cancer vaccines or immunotherapies.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2478</offset>
+      <text>GM3, a sialylated trisaccharide tumor-associated carbohydrate antigen (TACA), is overexpressed by many types of tumors, such as melanoma, leukemia, and pulmonary cancer [7–12]. Recently, we synthesized several GM3 derivatives and demonstrated that unnatural GM3 derivatives, in particular N-phenylacetyl GM3 (GM3NPhAc), were more immunogenic than native GM3 and could evoke robust antigen-specific T cell-dependent immunity [13, 14]. For cancer immunotherapy, we exploited a new strategy for selectively targeting the immune response towards cancer cells based on bioengineering. Specifically, we engineered cancer cells to express GM3NPhAc in place of the natural GM3 on the cancer cell surface by using N-phenylacetyl-D-mannosamine (ManNPhAc) as a biosynthetic precursor for GM3NPhAc. We have shown that several murine and human tumor cell lines can be metabolically glycoengineered to express GM3NPhAc in vitro [15, 16]. Furthermore, in vivo ManNPhAc treatment results in abundant GM3NPhAc expression on tumor tissues, but not on normal tissues in tumor-bearing mice [17]. More importantly, bioengineered cancer cells can be selectively targeted by specific immune reactions evoked by conjugate vaccines containing GM3NPhAc [15–17].</text>
+      <annotation id="2X22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="2478" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014312</infon>
+        <location offset="2496" length="13"/>
+        <text>trisaccharide</text>
+      </annotation>
+      <annotation id="2X31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="2510" length="37"/>
+        <text>tumor-associated carbohydrate antigen</text>
+      </annotation>
+      <annotation id="2X30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="2549" length="4"/>
+        <text>TACA</text>
+      </annotation>
+      <annotation id="2X23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="2688" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="2736" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="2767" length="18"/>
+        <text>N-phenylacetyl GM3</text>
+      </annotation>
+      <annotation id="2X33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="2787" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="2832" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="3110" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="3143" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="3183" length="28"/>
+        <text>N-phenylacetyl-D-mannosamine</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="3213" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="3255" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="3374" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="3423" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="3462" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="3696" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3718</offset>
+      <text>In this study, DCs from murine bone marrow loaded with a conjugate of GM3NPhAc and keyhole limpet hemocyanin (GM3NPhAc-KLH) were tested for therapeutic efficacy against cancer in combination with ManNPhAc administration. DCs loaded with GM3NPhAc-KLH could induce robust antigen-specific T cell-dependent immunity. The GM3NPhAc-specific antisera could mediate high cytotoxicity to ManNPhAc-treated B16F10 and FBL3 cells. Lymphocytes isolated from the spleen also showed specific cytotoxicity to the glycoengineered tumor cells. More importantly, the immunity induced by GM3NPhAc-KLH-loaded DCs in combination with ManNPhAc treatment could significantly inhibit tumor growth and metastasis, and also prolong the survival of tumor-bearing mice.</text>
+      <annotation id="2X43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="3788" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="3801" length="25"/>
+        <text>keyhole limpet hemocyanin</text>
+      </annotation>
+      <annotation id="2X45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="3828" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="3914" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="3955" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="4036" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="4098" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="4287" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="4331" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4460</offset>
+      <text>RESULTS</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4468</offset>
+      <text>Costimulatory molecule expression and IL-12 production by GM3NPhAc-KLH-pulsed DCs</text>
+      <annotation id="2X47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="4526" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4550</offset>
+      <text>Day 5 mouse bone marrow-derived DCs displayed typical morphological characteristics. The DCs pulsed for 24 h with GM3NPhAc-KLH or KLH expressed higher levels of the costimulatory molecules CD80 and CD86, and secreted higher amounts of IL-12p70 compared with unpulsed DCs. LPS activated-DCs were used as a positive control (Figure 1A and 1B).</text>
+      <annotation id="2X49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="4664" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="4680" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C433788</infon>
+        <location offset="4822" length="3"/>
+        <text>LPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>4892</offset>
+      <text>Costimulatory molecule expression and IL-12 production by murine bone marrow-derived DCs</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>4981</offset>
+      <text>DCs were cultured for 24 h with 20 μg/mL KLH, 20 μg/mL GM3NPhAc-KLH, 500 ng/mL LPS, or remained untreated (medium alone). (A) Cells were analyzed by flow cytometry. (B) IL-12p70 secreted in supernatants was measured by standard ELISA; n = 3; *P &lt; 0.05 vs untreated controls (medium alone).</text>
+      <annotation id="2X52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="5036" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C433788</infon>
+        <location offset="5060" length="3"/>
+        <text>LPS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5273</offset>
+      <text>The induction of anti-GM3NPhAc antibodies by GM3NPhAc-KLH-pulsed DCs</text>
+      <annotation id="2X54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="5295" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="5318" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5342</offset>
+      <text>To evaluate the ability of GM3NPhAc-KLH-pulsed DCs to induce GM3NPhAc-specific antibodies, ELISA was used to measure antibody levels in the sera of vaccinated mice. Levels of GM3NPhAc-specific total antibodies (Igκ) and IgG in sera of mice immunized with GM3NPhAc-KLH-DCs increased significantly (P &lt; 0.05) compared with those in KLH-DC-vaccinated mice (Figure 2A). Similar results were also observed in B16F10-bearing mice. Interestingly, ManNPhAc treatment, which was used to metabolically glycoengineer cancer cells to express GM3NPhAc, could further increase levels of GM3NPhAc-specific total antibodies and IgG (Figure 2B).</text>
+      <annotation id="2X56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="5369" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="5403" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="5517" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="5597" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="5782" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="5872" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="5915" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>5975</offset>
+      <text>GM3NPhAc-specific total antibody (Igκ) and IgG levels in the sera of immunized mice</text>
+      <annotation id="2X62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="5975" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>6063</offset>
+      <text>(A) C57BL/6 mice were immunized three times at weekly intervals by s.c. injection of 1 × 106 GM3NPhAc-KLH-DCs or KLH-DCs. Sera were prepared on the day following the final boost. (B) Mice were immunized as in (A) One week after the third immunization, each mouse was injected i.v. with 5 × 105 B16F10 cells, followed by daily i.p. injections of ManNPhAc (50 mg/kg/day) for 7 days. Sera were prepared at the end of experiments, i.e. on day 42. Antibodies were assayed by ELISA as described in the Materials and Methods section. For each data set, the mean ± SD for 10 mice per group is shown.</text>
+      <annotation id="2X64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="6156" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="6408" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6658</offset>
+      <text>ADCC and CDC by immune sera towards metabolically glycoengineered cancer cells</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6737</offset>
+      <text>To assess whether the GM3NPhAc-KLH-DC-vaccinated sera could mediate the killing of glycoengineered cancer cells, B16F10 and FBL3 cells were incubated with various concentrations of ManNPhAc for 72 h. ADCC and antibody-mediated CDC were then measured in vitro. Our findings clearly demonstrated that the anti-GM3NPhAc antisera mediated significant cytotoxicity towards ManNPhAc-treated FBL3 cells using either mouse peritoneal macrophages (Figure 3A) or rabbit complement (Figure 3B) as effectors. Similar results were obtained using ManNPhAc-treated B16F10 cells (data not shown). However, anti-GM3NPhAc antisera could not mediate the killing of B16F10 or FBL3 cells (Figure 3C).</text>
+      <annotation id="2X65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="6759" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="6918" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="7045" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="7105" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="7270" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="7332" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>7417</offset>
+      <text>Sera from GM3NPhAc-KLH-DC-vaccinated mice mediated the killing of glycoengineered cancer cells by ADCC or CDC</text>
+      <annotation id="2X71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="7427" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7527</offset>
+      <text>(A, B) FBL3 cells were incubated for 72 h with 0, 0.01, 0.02, 0.04, 0.08, 0.16, or 0.32 mM of ManNPhAc. ADCC assays (A) were performed using peritoneal macrophages from healthy mice as effectors with an effector-to-target cell ratio of 100:1. For antibody-mediated CDC assays (B), rabbit complement was used as an effector. (C) Anti-GM3NPhAc antisera did not mediate the killing of B16F10 or FBL3 cells by CDC. Cell lysis was evaluated by LDH assays. Each data set indicates the mean ± SD of experiments performed in triplicate.</text>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="7621" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="7860" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8057</offset>
+      <text>Induction of GM3NPhAc-specific CTL responses by GM3NPhAc-KLH-pulsed DCs</text>
+      <annotation id="2X75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="8070" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8105" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8129</offset>
+      <text>To evaluate whether DCs pulsed with GM3NPhAc-KLH were capable of inducing CTL responses, GM3NPhAc-KLH-DCs were injected into naive mice. Then, splenocytes from immunized mice were harvested and restimulated for 24 h with GM3NPhAc-KLH for CTL assays. Splenocytes from GM3NPhAc-KLH-DC-immunized mice displayed significant in vitro cytotoxicity towards metabolically glycoengineered B16F10 and FBL3 cells (Figure 4A).</text>
+      <annotation id="2X76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8165" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8218" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8350" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8396" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>8544</offset>
+      <text>GM3NPhAc-KLH-DCs induce CTL responses</text>
+      <annotation id="2X80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8544" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>8582</offset>
+      <text>(A) Mice were immunized as in Figure 2A. Splenocytes from GM3NPhAc-KLH-DC- or KLH-DC-immunized mice were restimulated for 24 h with the corresponding antigens. CTL activity of splenocytes towards glycoengineered B16F10 or FBL3 cells was analyzed by LDH assays at an effector-to-target cell ratio of 100:1; n = 10; *P &lt; 0.05 vs the KLH-DC group. (B) Splenocytes from mice treated as in Figure 2B were tested for CTL activity; n = 10; *P &lt; 0.05 vs the KLH-DC group. (C) ELISPOT assays to determine the number of IFN-γ-secreting lymphocytes from mice treated as in Figure 2B; n = 10; *P &lt; 0.05 vs the KLH-DC group; # P &lt; 0.05 vs the GM3NPhAc-KLH-DC and ManNPhAc group. The figure shows results that are representative of four mice.</text>
+      <annotation id="2X82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="8640" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="8660" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="8913" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="9032" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="9180" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="9212" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="9232" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9315</offset>
+      <text>To analyze GM3NPhAc-KLH-DC-induced CTL activity in tumor-bearing mice, splenocytes were harvested from B16F10 tumor-bearing mice treated with GM3NPhAc-KLH-DCs and ManNPhAc and were directly used in CTL assays. ManNPhAc-treated B16F10 cells were selectively targeted and killed by these splenocytes (Figure 4B). IFN-γ ELISPOT assays showed that GM3NPhAc-KLH-DC immunizations could markedly increase the number of IFN-γ-producing splenocytes. ManNPhAc treatment could further increase the number of IFN-γ-producing splenocytes (Figure 4C).</text>
+      <annotation id="2X91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="9326" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="9457" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="9478" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="9525" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="9659" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="9756" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9865</offset>
+      <text>Induction of immune-mediated protection in mice vaccinated with combined GM3NPhAc-KLH-DCs and ManNPhAc treatment</text>
+      <annotation id="2X95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="9938" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="9959" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9978</offset>
+      <text>To test the immune-mediated protection generated by GM3NPhAc-KLH-DC vaccination in vivo, we injected mice three times with GM3NPhAc-KLH-DCs at weekly intervals. Mice were inoculated with FBL3 cells by s.c. injection, followed by daily i.p. injections of ManNPhAc (50 mg/kg/day) for 7 days. Mice received GM3NPhAc-KLH-DCs in PBS, or control mice received KLH-DCs. Tumor size was measured using a caliper ruler. Tumors in both groups of control mice grew progressively and developed into palpable tumors (about 1 mm in diameter) 10 days earlier than those in the group treated with GM3NPhAc-KLH-DCs and ManNPhAc (Figure 5A). The tumor size in the treatment group was significantly smaller than that in both control groups (P &lt; 0.05). Moreover, GM3NPhAc-KLH-DCs and ManNPhAc treatments could significantly prolong the survival time (P &lt; 0.05) of tumor-bearing mice (Figure 5B). All of the mice in the control groups died by day 54. However, 75% of the mice in the treatment group were alive at that time point. The average survival time was 42.6 days for the GM3NPhAc-KLH-DCs and PBS group, and &gt;61.0 days for the GM3NPhAc-KLH-DCs and ManNPhAc group when the experiment was ended on day 66.</text>
+      <annotation id="2X103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="10030" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="10101" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="10232" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="10282" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="10302" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="10332" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="10558" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="10579" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="10720" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="10741" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11034" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="11055" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11089" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="11110" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>11166</offset>
+      <text>Evaluation of a novel immunotherapy to treat FBL3 cancer</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11223</offset>
+      <text>(A) Tumor sizes and growth rates in mice treated with KLH-DCs, GM3NPhAc-KLH-DCs and PBS, or GM3NPhAc-KLH-DCs and ManNPhAc; *P &lt; 0.05, as compared with the other two treatment groups. (B) The survival of tumor-bearing mice treated with KLH-DCs, GM3NPhAc-KLH-DCs and PBS, or GM3NPhAc-KLH-DCs and ManNPhAc.</text>
+      <annotation id="2X119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="11277" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11286" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="11307" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11315" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="11336" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="11458" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11467" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="11488" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11496" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="11517" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11527</offset>
+      <text>We further used the B16F10 lung metastasis model to evaluate the efficacy of the new immunotherapy regimen. In this experiment, mice were treated as described above except that they were also challenged with intravenously (i.v.) injected B16F10 cells. The number of lung nodules was counted 42 days after the initial immunization. Vaccination with GM3NPhAc-KLH-DCs combined with cells metabolically glycoengineered with ManNPhAc led to a dramatic reduction in the number of lung metastases (19.38 ± 7.33 per mouse), which was less than that in both control groups (39.38 ± 13.70 per mouse in the GM3NPhAc-KLH-DCs and PBS group, and 41.89 ± 11.47 per mouse in the KLH-DCs group; Figure 6A and 6B).</text>
+      <annotation id="2X122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="11875" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="11947" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="12123" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="12144" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="12190" length="3"/>
+        <text>KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>12227</offset>
+      <text>Evaluation of the novel immunotherapy in the B16F10 lung metastasis model</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12301</offset>
+      <text>(A) Representative images of lungs 42 days after the initial immunization. (B) B16F10 nodules on the lungs were counted; n = 10; *P &lt; 0.05 vs the GM3NPhAc-KLH-DCs and PBS group.</text>
+      <annotation id="2X126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="12447" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="12468" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12479</offset>
+      <text>DISCUSSION</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12490</offset>
+      <text>TACAs are both the most exposed and often the most abundant TAAs on the surface of cancer cells. Expression of TACAs is closely correlated with tumor progression and metastasis [18, 19]. Therefore, they are ideal molecular targets for immune recognition in cancer immunotherapy [7, 20]. However, a major obstacle in the therapeutic application of TACAs is immune tolerance. This problem has severely restricted the usefulness of most TACAs. We previously demonstrated that some unnatural TACA derivatives could evoke robust T cell-mediated immune responses [13–17, 21–24]. Additionally, cell glycoengineering has been established as a useful technique for the modification of carbohydrate antigens on tumor cell surfaces in vitro and in vivo [15–17]. These findings render unnatural TACAs derivatives potentially useful for cancer immunotherapy based on the combined application of synthetic vaccines made of unnatural TACA derivatives and cancer cell metabolic glycoengineering. In this study, we exploited a new method to use ex vivo conditioned DCs as cellular adjuvants for cancer immunotherapy in combination with cell glycoengineering to enhance immunological recognition and generate targeted immune responses.</text>
+      <annotation id="2X130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="12490" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="12601" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="12837" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="12924" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="12978" length="4"/>
+        <text>TACA</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002241</infon>
+        <location offset="13166" length="12"/>
+        <text>carbohydrate</text>
+      </annotation>
+      <annotation id="2X134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="13273" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="13409" length="4"/>
+        <text>TACA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13714</offset>
+      <text>DCs are uniquely potent in their ability to capture and process antigens, and they express high levels of MHC-peptide complexes and costimulatory molecules that allow for efficient activation of T cells that can play critical roles in cancer immunotherapy [3, 25, 26]. Our previous studies have shown that DCs generated from peripheral blood mononuclear cells of multiple myeloma patients and loaded with glycoengineered multiple myeloma antigens evoked strong allogeneic stimulatory activity in mixed lymphocyte reactions and efficiently activated CD4+ and CD8+ T cells. Importantly, these DC-activated T cells were specifically cytotoxic towards the glycoengineered myeloma cells [27]. In our study presented here, we demonstrated that murine bone marrow-DC pulsed with GM3NPhAc-KLH induced a protective immune response against tumor cells expressing GM3NPhAc antigen. Mice vaccinated with GM3NPhAc-KLH-DCs produced high levels of GM3NPhAc-specific total and IgG antibodies. These results are in accordance with previous studies that showed that GM3NPhAc-KLH immunization induced IgG1, IgG2a, and IgG3 antibodies [17], indicating that a helper T cell response had been primed. The development of GM3NPhAc-specific antibodies in mice that were immunized with GM3NPhAc-KLH-DCs correlated with the levels of ADCC and CDC activities. Thus, antibody-mediated cytotoxicity against tumors may be an important mechanism for tumor protection. CTLs are critical effectors in antitumor immunity. To investigate the in vivo generation of a GM3NPhAc-specific T cell responses elicited by this DC vaccine, antigen-specific CTL responses were observed in vitro. Effector cells obtained from mice immunized with GM3NPhAc-KLH-pulsed DCs could efficiently lyse GM3NPhAc-expressing murine B16F10 and FBL3 cells. Furthermore, GM3NPhAc-KLH-DC vaccination effectively generated IFN-γ-secreting splenocytes, as indicated by ELISPOT assays. Ultimately, we have demonstrated that GM3NPhAc-KLH-DC immunization in combination with ManNPhAc treatment showed robust effectiveness in vivo and resulted in the elimination of B16F10 and FBL3 tumors. This novel immunotherapeutic strategy could significantly inhibit FBL3 tumor growth and prolong the survival of tumor-bearing mice. Furthermore, it could prevent B16F10 lung metastases. The results indicate that the use of DC as direct APCs could improve the potency of GM3NPhAc-KLH as a vaccine, which can include both strong T cell-mediated humoral and cellular anti-GM3NPhAc immunity for effective cancer immunotherapy.</text>
+      <annotation id="2X140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="14486" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="14567" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="14606" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="14647" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="14762" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="14912" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="14974" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="15244" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="15412" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="15459" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="15522" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="15671" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="15720" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="16104" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="16203" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16261</offset>
+      <text>Biochemical engineering of TACAs on cancer cell surfaces is the basis for selectively targeted immunotherapy using vaccines made of unnatural TACA derivatives. The biosynthesis of carbohydrates uses no rigid template and is controlled by a series of specific carbohydrate biosynthetic enzymes, including sialyltransferase, which is highly expressed in cancer cells [18, 28]. The flexible substrate permissibility of the enzymes makes it convenient to engineer cancer cells that express GM3NPhAc on the cell surface by using ManNPhAc instead of the naturally occurring N-acetyl-D-mannosamine (ManNAc) molecule as a biosynthetic precursor. Therefore, this bioengineering strategy for immunotherapy could be generally applicable to different TACAs and tumors that express sialo-TACAs. This concept is supported by our previous finding that ManNPhAc, the physiological precursor of N-acetyl sialic acid, could be successfully used in vitro and in vivo to glycoengineer numerous tumor cells, but not normal cells, to express GM3NPhAc in place of native GM3. It is theoretically possible that the artificial neoantigen could be expressed on normal cells and cause autoimmune reactions. However, we did not observe GM3NPhAc expression on normal tissues, as shown by immunostaining in tumor-bearing mice [17]. Moreover, no remarkable ManNPhAc treatment-related toxicities that affected the weight or general behavior of the immunized mice were observed in these experiments, perhaps because the concentrations of the modified glycans on normal cells are too low to provoke strong immune responses. The limited negative consequences of ManNPhAc usage in mice are thus important for potential human trials in the future.</text>
+      <annotation id="2X166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="16288" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="16403" length="4"/>
+        <text>TACA</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002241</infon>
+        <location offset="16441" length="13"/>
+        <text>carbohydrates</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002241</infon>
+        <location offset="16520" length="12"/>
+        <text>carbohydrate</text>
+      </annotation>
+      <annotation id="2X169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="16747" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="16785" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002022</infon>
+        <location offset="16829" length="22"/>
+        <text>N-acetyl-D-mannosamine</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002022</infon>
+        <location offset="16853" length="6"/>
+        <text>ManNAc</text>
+      </annotation>
+      <annotation id="2X167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="17000" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="2X168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="17036" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="17098" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009438</infon>
+        <location offset="17139" length="20"/>
+        <text>N-acetyl sialic acid</text>
+      </annotation>
+      <annotation id="2X170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="17281" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="17309" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="17469" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="17587" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="17888" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17972</offset>
+      <text>In summary, we have demonstrated that GM3NPhAc-KLH-DCs can stimulate robust T cell-mediated immunity. This vaccine could significantly inhibit tumor growth and metastasis, and also prolong the survival of cancer-bearing animals when used in combination with ManNPhAc treatment. This work lays out a new strategy to overcome the problem of immune tolerance for the development of effective TACA vaccines. This study also supports the potential benefits of developing new cancer immunotherapies that combine DC vaccination against GM3NPhAc with ManNPhAc treatment for application in humans. We propose that this type of immunotherapy may be applicable to melanoma, leukemia, breast carcinoma, pulmonary cancer, prostatic carcinoma, and other types of tumors that express GM3. Finally, we chose GM3 as a target antigen to confirm the feasibility of this novel immunotherapeutic strategy. It is worth mentioning that this strategy is theoretically applicable to additional sialo-TACAs expressed by other tumor cells.</text>
+      <annotation id="2X171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="18010" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="18230" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="18361" length="4"/>
+        <text>TACA</text>
+      </annotation>
+      <annotation id="2X178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="18501" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="18515" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="18741" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005679</infon>
+        <location offset="18764" length="3"/>
+        <text>GM3</text>
+      </annotation>
+      <annotation id="2X177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="18947" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18985</offset>
+      <text>MATERIALS AND METHODS</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19007</offset>
+      <text>Reagents</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19016</offset>
+      <text>GM3NPhAc-KLH and GM3NPhAc-HSA conjugates, as well as ManNPhAc were prepared according to previously reported methods [13, 15]. The homogeneity and purity of gangliosides was &gt;95%, as determined by TLC and densitometry [22]. Lipopolysaccharide (LPS; Escherichia coli, O26:B6) and KLH were obtained from Sigma (St Louis, MO, USA). Recombinant mouse GM-CSF and IL-4 were purchased from R&amp;D Systems (Minneapolis, MN, USA). FITC- or PE-labeled antibodies (Abs) against murine CD80 and CD86, and isotype control Abs were from BD Pharmingen (San Diego, CA, USA). The alkaline phosphatase-linked goat anti-mouse IgG antibody and Igκ antibody were purchased from Southern Biotechnology (Birmingham, AL, USA). The LDH Assay Kit was purchased from Takara Bio Inc. (Otsu, Japan).</text>
+      <annotation id="2X179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="19016" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:D000075462</infon>
+        <location offset="19033" length="12"/>
+        <text>GM3NPhAc-HSA</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="19069" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="19173" length="12"/>
+        <text>gangliosides</text>
+      </annotation>
+      <annotation id="2X185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C433788</infon>
+        <location offset="19240" length="18"/>
+        <text>Lipopolysaccharide</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C433788</infon>
+        <location offset="19260" length="3"/>
+        <text>LPS</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016650</infon>
+        <location offset="19435" length="4"/>
+        <text>FITC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19788</offset>
+      <text>Animals and cell culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19813</offset>
+      <text>Six- to eight-week-old female C57BL/6 mice were purchased from Shanghai SLAC Laboratory Animal Co. Ltd. (Shanghai, China). All procedures involving animal treatment and care in this study were approved by the animal care committee of the Second Military Medical University in accordance with institutional and Chinese government guidelines for animal experiments.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20177</offset>
+      <text>A murine melanoma cell line, B16F10, and a murine leukemia cell line, FBL3, were obtained from ATCC (Manassas, VA, USA). Cells were cultured in RPMI-1640 supplemented with 10% heat-inactivated FBS, 100 U/mL penicillin, and 100 μg/mL streptomycin at 37°C in a 5% CO2 atmosphere.</text>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="20321" length="9"/>
+        <text>RPMI-1640</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="20384" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="20410" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="20439" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20457</offset>
+      <text>Generation and culture of bone marrow-derived DCs</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20507</offset>
+      <text>Murine DCs were prepared and analyzed as previously described [29] with some modifications. Briefly, bone marrow was flushed from the femur and tibia of mice and red blood cells were lysed with 0.84% ammonium chloride. Cells were cultured in RPMI-1640 complete medium for 2 h to allow for adherence. Non-adherent cells were collected and incubated with culture medium supplemented with recombinant murine GM-CSF (10 ng/mL) and recombinant murine IL-4 (10 ng/mL). On day 5, non-adherent cells were harvested as DCs and used for the subsequent experiments.</text>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000643</infon>
+        <location offset="20707" length="17"/>
+        <text>ammonium chloride</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="20749" length="9"/>
+        <text>RPMI-1640</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21062</offset>
+      <text>DC pulsed with antigen and phenotypic analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21109</offset>
+      <text>We incubated 2 × 106 DCs for 24 h with 20 μg/mL GM3NPhAc-KLH, 20 μg/mL KLH, or medium alone. The resulting DCs were referred to as GM3NPhAc-KLH-DCs, KLH-DCs, or medium-DCs (unpulsed). DCs were stimulated with 500 ng/mL LPS as a positive control. Expression of the costimulatory markers CD80 and CD86 was quantitated by flow cytometry using FITC- or PE-labeled Abs against murine CD80 and CD86, respectively. IL-12p70 production was measured in supernatants using a murine IL-12p70 ELISA kit (R&amp;D Systems).</text>
+      <annotation id="2X201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="21157" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="21240" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="21258" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C433788</infon>
+        <location offset="21328" length="3"/>
+        <text>LPS</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016650</infon>
+        <location offset="21449" length="4"/>
+        <text>FITC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21618</offset>
+      <text>Preparation of ManNPhAc-glycoengineered tumor cells</text>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="21633" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21670</offset>
+      <text>FBL3 or B16F10 cells (5 × 105) were cultured in RPMI-1640 complete medium containing different concentrations of ManNPhAc in 6-well plates according to an established protocol [17]. After 72 h incubation, cells were washed twice with PBS and used in subsequent experiments. Unless otherwise indicated, the glycoengineering experiments described in this study were performed using ManNPhAc (1 mmol/L).</text>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="21718" length="9"/>
+        <text>RPMI-1640</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="21783" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="21904" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="22050" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22072</offset>
+      <text>Immunizations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22086</offset>
+      <text>C57BL/6 mice were vaccinated by three subcutaneous (s.c.) injections of 1 × 106 GM3NPhAc-KLH-DCs or KLH-DCs in 0.1 mL of PBS in the lower right flank at weekly intervals. All mice were bled and spleens were harvested on the day following the final boost. Sera were prepared for antibody assays. Splenocytes were restimulated with 10 μg/mL GM3NPhAc-KLH or KLH for 24 h and these splenocytes were used as effector cells for cytotoxic T lymphocyte (CTL) assays.</text>
+      <annotation id="2X209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="22166" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="22186" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="22207" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="22425" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="22441" length="3"/>
+        <text>KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22547</offset>
+      <text>Antibody assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22563</offset>
+      <text>Specific anti-GM3NPhAc antibody was measured by ELISA as previously described [15, 17, 24]. Briefly, GM3NPhAc-HSA was coated on ELISA plates. Serial dilutions of sera from immunized mice were then added and incubated at 37°C for 2 h. After washing, plates were incubated with 1:1000 dilutions of alkaline phosphatase-linked goat anti-mouse κ, or IgG antibody for 1 h at room temperature. Finally, plates were developed with PNPP substrate. The absorption (A) value was measured using a plate reader at a 405 nm wavelength. To measure titers, OD values were plotted against dilution numbers, and a best-fit line was obtained. The slope of this line was used to calculate the dilution number at which an OD value of 0.5 was achieved, and this dilution number indicated the antibody titer.</text>
+      <annotation id="2X214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732</infon>
+        <location offset="22577" length="8"/>
+        <text>GM3NPhAc</text>
+      </annotation>
+      <annotation id="2X215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:D000075462</infon>
+        <location offset="22664" length="12"/>
+        <text>GM3NPhAc-HSA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23354</offset>
+      <text>Antibody-dependent cell-mediated cytotoxicity (ADCC) and antibody-mediated complement-dependent cytotoxicity (CDC) assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23476</offset>
+      <text>ADCC and antibody-mediated complement-dependent cytotoxicity (CDC) activities were determined as previously described [15, 17] using a LDH cytotoxicity detection kit. Briefly, ManNPhAc-glycoengineered FBL3 or B16F10 tumor cells (1.5 × 104 cells/well) were used as target cells and incubated with antisera derived from GM3NPhAc-KLH-DCs immunized mice (1:20 dilution in DMEM) at 37°C for 2 h. Thereafter, peritoneal macrophages isolated from healthy mice or rabbit complement serum (diluted 1:10 in DMEM) were added to each well as effectors. Plates were incubated at 37°C for another 18 h for ADCC or 1 h for CDC assays, and then cell supernatants were harvested to detect cell lysis in a LDH assay using a LDH cytotoxicity detection kit according to the manufacturer's instructions. Results are expressed as the percentage of cell lysis.</text>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="23652" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="2X217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="23794" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24317</offset>
+      <text>CTL assays</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24328</offset>
+      <text>CTL assays were performed as previously described. [17] Briefly, splenocytes from immunized mice were cultured for 24 h with or without 2 μg/mL of the corresponding antigen, KLH or GM3NPhAc-KLH. These splenocytes were used as effector cells and were co-cultured with FBL3 cells or ManNPhAc-glycoengineered FBL3 cells (target cells) at an effector-to-target cell ratio of 100:1 in RPMI-1640 with 10% FBS for 24 h. Cell-free supernatants were collected and analyzed using the LDH assay.</text>
+      <annotation id="2X220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="24502" length="3"/>
+        <text>KLH</text>
+      </annotation>
+      <annotation id="2X221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="24509" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="24609" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="24708" length="9"/>
+        <text>RPMI-1640</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24814</offset>
+      <text>IFN-γ enzyme-linked immunosorbent spot (ELISPOT) assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24873</offset>
+      <text>IFN-γ-producing splenocytes were quantified by ELISPOT assay as previously described [17]. In brief, 1 × 106 splenocytes were added to IFN-γ ImmunoSpot plates (Dakewe, Shenzhen, China) and incubated at 37°C for 18 h. After washing, plates were incubated with biotin-conjugated anti-IFN-γ mAb, followed by the addition of streptavidin-alkaline phosphatase. Finally, the activator solution (supplied with the ImmunoSpot kit, Dakewe) was added to each well for spot development. The spots were counted using a microplate reader.</text>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001710</infon>
+        <location offset="25132" length="6"/>
+        <text>biotin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25411</offset>
+      <text>Immune-mediated protection generated by the GM3NPhAc-KLH-DCs vaccine combined with ManNPhAc treatment</text>
+      <annotation id="2X225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="25455" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="25494" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25513</offset>
+      <text>To evaluate the efficacy of the GM3NPhAc-KLH-DCs vaccine to inhibit tumor growth or prolong the survival of tumor-bearing animals, C57BL/6 mice were vaccinated by three s.c. injections of 1 × 106 GM3NPhAc-KLH-DCs in 0.1 mL of PBS administered at weekly intervals. One week after the third immunization, each mouse was inoculated with 5 × 105 FBL3 cells s.c. into the left flank, followed by daily i.p. injections of ManNPhAc (50 mg/kg/day in 0.1 mL of PBS) for 7 days. Mice received immunizations with GM3NPhAc-KLH-DCs plus PBS; mice immunized with KLH-DCs alone were used as a control group. Tumors that developed in immunized mice were monitored and measured using a caliper ruler. Tumor size was calculated using the formula 0.4 × (A2 × B), (where B represents the largest diameter and A indicates the diameter perpendicular to B). To assess the impact of the immunotherapy on the survival of animals, mice were treated as described above and kept under close observation. Animals were maintained until they died of cancer or, if a tumor reached the size of 700 mm3, the animals were euthanized and similarly scored as ‘died of cancer.’</text>
+      <annotation id="2X230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="25545" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="25709" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="25739" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="25929" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="25965" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2X232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="26015" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="26037" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26661</offset>
+      <text>To evaluate the efficacy of the GM3NPhAc-KLH-DCs vaccine to inhibit tumor metastasis, 5 × 105 B16F10 cells were injected into the tail vein of each mouse. GM3NPhAc-KLH-DC immunization and ManNPhAc treatment were carried out using the same protocols as described above. On day 42, all mice were sacrificed. The nodules in the lungs were counted and splenocytes were isolated for both the CTL assay and the enzyme-linked immunosorbent spot (ELISPOT) assay for IFN-γ-secreting lymphocytes.</text>
+      <annotation id="2X234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="26693" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="2X235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005732,MESH:C032808</infon>
+        <location offset="26816" length="12"/>
+        <text>GM3NPhAc-KLH</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C510175</infon>
+        <location offset="26849" length="8"/>
+        <text>ManNPhAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27152</offset>
+      <text>Statistical analyses</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27173</offset>
+      <text>All experiments were carried out in triplicate, and all data are presented as the mean ± SD. Statistical analyses were performed using the Student's t-test or two-way ANOVA. Differences were considered to be statistically significant when P &lt; 0.05. All statistical analyses were performed using GraphPad Prism 5.0 software (La Jolla, CA, USA).</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>27518</offset>
+      <text>DISCLOSURE/CONFLICT OF INTEREST</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>27550</offset>
+      <text>The authors declare no conflcts of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>27595</offset>
+      <text>FINANCIAL SUPPORT</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>27613</offset>
+      <text>This work was supported by the National Natural Science Foundation of China (No.30728032, 21202200).</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>27714</offset>
+      <text>Authors' contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>27737</offset>
+      <text>JZ, ZG and LQ designed research; LQ, JL, SC, QW and YL performed research; ZG and QW contributed new reagents; LQ, JL, YL, ZH and JZ analyzed data; LQ and JZ wrote paper. All authors read and approved the final manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>27960</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27974</offset>
+      <text>TACAs</text>
+      <annotation id="2X236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015295</infon>
+        <location offset="27974" length="5"/>
+        <text>TACAs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27980</offset>
+      <text>Tumor-associated carbohydrate antigens</text>
+      <annotation id="225">
+        <infon key="type">OTHER</infon>
+        <location offset="27980" length="38"/>
+        <text>Tumor-associated carbohydrate antigens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28019</offset>
+      <text>KLH</text>
+      <annotation id="2X238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="28019" length="3"/>
+        <text>KLH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28023</offset>
+      <text>Keyhole limpet hemoeyanin</text>
+      <annotation id="2X239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032808</infon>
+        <location offset="28023" length="25"/>
+        <text>Keyhole limpet hemoeyanin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28049</offset>
+      <text>HSA</text>
+      <annotation id="2X240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000075462</infon>
+        <location offset="28049" length="3"/>
+        <text>HSA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28053</offset>
+      <text>Human serum albumin</text>
+      <annotation id="2X241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000075462</infon>
+        <location offset="28053" length="19"/>
+        <text>Human serum albumin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28073</offset>
+      <text>CTL</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28077</offset>
+      <text>Cytotoxic T lymphocyte</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>28100</offset>
+      <text>REFERENCES</text>
+    </passage>
+  </document>
+</collection>

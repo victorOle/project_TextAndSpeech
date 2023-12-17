@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5618545</id>
+    <passage>
+      <infon key="name_3">surname:Naren;given-names:Anjaparavanda P.</infon>
+      <infon key="name_2">surname:Zhang;given-names:Yanhui</infon>
+      <infon key="name_1">surname:Zhang;given-names:Zhihong</infon>
+      <infon key="name_0">surname:Zhang;given-names:Weiqiang</infon>
+      <infon key="article-id_pmid">28869532</infon>
+      <infon key="issue">9</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">ijms-18-01896</infon>
+      <infon key="article-id_pmc">5618545</infon>
+      <infon key="article-id_doi">10.3390/ijms18091896</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">1896</infon>
+      <infon key="volume">18</infon>
+      <infon key="license">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).</infon>
+      <infon key="kwd">ABC transporters CFTR NHERF2 LPA2 macromolecular protein complex cystic fibrosis secretory diarrhea</infon>
+      <offset>0</offset>
+      <text>CFTR-NHERF2-LPA2 Complex in the Airway and Gut Epithelia</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>57</offset>
+      <text>The cystic fibrosis transmembrane conductance regulator (CFTR) is a cAMP- and cGMP-regulated chloride (Cl−) and bicarbonate (HCO3−) channel localized primarily at the apical plasma membrane of epithelial cells lining the airway, gut and exocrine glands, where it is responsible for transepithelial salt and water transport. Several human diseases are associated with altered CFTR channel function. Cystic fibrosis (CF) is caused by the absence or dysfunction of CFTR channel activity, resulting from mutations in the gene. Secretory diarrhea is caused by the hyperactivation of CFTR channel activity in the gastrointestinal tract. CFTR is a validated target for drug development to treat CF, and extensive research has been conducted to develop CFTR inhibitors for therapeutic interventions of secretory diarrhea. The intracellular processing, trafficking, apical membrane localization, and channel function of CFTR are regulated by dynamic protein–protein interactions in a complex network. In this paper, we review the current knowledge of a macromolecular complex of CFTR, Na+/H+ exchanger regulatory factor 2 (NHERF2), and lysophosphatidic acids (LPA) receptor 2 (LPA2) at the apical plasma membrane of airway and gut epithelial cells, and discuss its relevance in human physiology and diseases. We also explore the possibilities of targeting this complex to fine tune CFTR channel activity, with a hope to open up new avenues to develop novel therapies for CF and secretory diarrhea. </text>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="125" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006152</infon>
+        <location offset="135" length="4"/>
+        <text>cGMP</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="150" length="8"/>
+        <text>chloride</text>
+      </annotation>
+      <annotation id="2XXx3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="160" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="169" length="11"/>
+        <text>bicarbonate</text>
+      </annotation>
+      <annotation id="2XXx5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="182" length="5"/>
+        <text>HCO3−</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012492</infon>
+        <location offset="355" length="4"/>
+        <text>salt</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="364" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">OTHER</infon>
+        <location offset="1133" length="36"/>
+        <text>Na+/H+ exchanger regulatory factor 2</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">OTHER</infon>
+        <location offset="1184" length="39"/>
+        <text>lysophosphatidic acids (LPA) receptor 2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1553</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1569</offset>
+      <text>Protein–protein interactions regulate virtually all cellular processes by promoting the proper cellular localization of regulatory partners and by facilitating the signaling through pathways to achieve exquisite spatiotemporal control. The formation of multiple protein complexes at discrete subcellular microdomains increases the specificity and efficiency of cell signaling [,,].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1953</offset>
+      <text>CFTR is a cAMP- and cGMP-regulated chloride (Cl−) and bicarbonate (HCO3−) channel localized primarily at the apical surfaces of epithelial cells lining the airways, gut, and exocrine glands, where it is responsible for the transepithelial salt and water transport [,,]. CFTR is a member of the ATP-binding cassette (ABC) transporter superfamily and consists of 1480 amino acids. CFTR is composed of two repeated motifs; each consisting of a six-helix membrane-spanning domain (MSD) and a cytosolic nucleotide binding domain (NBD). These two motifs are linked by a cytoplasmic regulatory (R) domain, which contains multiple consensus phosphorylation sites (Figure 1) [,,].</text>
+      <annotation id="2XXx10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="1963" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006152</infon>
+        <location offset="1973" length="4"/>
+        <text>cGMP</text>
+      </annotation>
+      <annotation id="2XXx12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="1988" length="8"/>
+        <text>chloride</text>
+      </annotation>
+      <annotation id="2XXx13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="1998" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="2007" length="11"/>
+        <text>bicarbonate</text>
+      </annotation>
+      <annotation id="2XXx15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="2020" length="5"/>
+        <text>HCO3−</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012492</infon>
+        <location offset="2192" length="4"/>
+        <text>salt</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="2201" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx20">
+        <infon key="type">OTHER</infon>
+        <location offset="2247" length="38"/>
+        <text>ATP-binding cassette (ABC) transporter</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="2319" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="2451" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2629</offset>
+      <text>The R domain is a unique feature of CFTR within the ABC superfamily. Both the amino and carboxyl termini of CFTR mediate its interactions with a wide variety of binding partners []. CFTR channel is activated by phosphorylation of its R domain and binding and hydrolysis of ATP at NBDs. CFTR channel activity is determined by the quantity of channels at the plasma membrane, the open probability of these channels, and their single channel conductance. Mutations in the CFTR gene alter one or more of these parameters, causing the impairment or loss of the channel activity. More than 2000 mutations have been identified in the CFTR gene [], which are traditionally grouped into six classes based on the nature of the defect(s) [,]. Class I mutations have defects in biosynthesis, resulting in low levels of truncated and/or dysfunctional CFTR proteins. Class II mutations have defects in folding or maturation, causing no to very little CFTR protein to reach the cell surface. Class III mutations encode CFTR proteins that have defects in channel gating, and Class IV mutations encode proteins that have reduced capacity to transport Cl−. Class V mutations have reduced mRNA stability. Class VI mutations encode CFTR proteins with decreased stability and increased turnover at the cell surface [,]. Because some mutations have multiple defects, an expanded classification method was also proposed []. One such mutation is Phe508del (deletion of a phenylalanine residue at position 508 on CFTR protein), which is the most prevalent CFTR mutation with approximately 90% of CF patients carrying it on at least one allele. Phe508del is a class II mutation. However, upon reaching the cell surface following rescue procedures, it displays characteristics of class III and VI mutations [].</text>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="2902" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="2XXx22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="3763" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4051" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4076" length="13"/>
+        <text>phenylalanine</text>
+      </annotation>
+      <annotation id="2XXx25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4248" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4415</offset>
+      <text>The intracellular processing, trafficking, apical plasma membrane localization and channel function of CFTR are regulated by dynamic protein–protein interactions in a complex network (CFTR interactome). A wide variety of CFTR-interacting partners have been identified, including receptors, scaffolding proteins, channels, transporters, etc. [,]. Several CFTR-containing macromolecular complexes at the apical plasma membrane of epithelial cells have been characterized; examples include (i) the complex of β2-adrenergic receptor (β2-AR), Na+/H+ exchanger regulatory factor 1, and CFTR at the apical surfaces of airway epithelial cells, which couples β2-AR signaling to CFTR channel function [], (ii) the complex of multidrug resistance protein 4 (MRP4), PDZ-containing kidney protein 1, and CFTR at the apical surfaces of intestinal epithelial cells, which couples the cAMP transporter activity of MRP4 to CFTR channel function [], and (iii) the complex of LPA2, NHERF2, and CFTR at the apical surfaces of airway and intestinal epithelial cells, which couples the LPA2-mediated signaling to CFTR channel function []. In this article, we review the current knowledge of CFTR-NHERF2-LPA2 complex at the apical plasma membrane of airway and gut epithelial cells and its relevance in human physiology and diseases. We also explore the possibilities, and provide our perspectives, on how to target this complex to fine tune CFTR channel activity, with a hope to open up new avenues to develop novel therapeutics for CFTR-associated diseases.</text>
+      <annotation id="2XXx27">
+        <infon key="type">OTHER</infon>
+        <location offset="4953" length="36"/>
+        <text>Na+/H+ exchanger regulatory factor 1</text>
+      </annotation>
+      <annotation id="2XXx26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="5284" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5961</offset>
+      <text>2. CFTR-NHERF2-LPA2 Complex in Airway and Gut Epithelial Cells</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6024</offset>
+      <text>2.1. Characterization of CFTR-NHERF2-LPA2 Complex</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6074</offset>
+      <text>NHERF2 is a postsynaptic density-95, discs large, zona occludens-1 (PDZ) domain-containing protein and primarily localizes at the apical plasma membrane of epithelial cells. NHERF2 has 337 amino acids and contains two PDZ domains and an ezrin/radixin/moesin (ERM) domain at the C-terminus. The ERM domain mediates the interaction of NHERF2 with merlin/ERM proteins and links NHERF2 to the actin cytoskeleton []. NHERF2 has been shown to cluster signaling molecules into macromolecular complexes [,,,,].</text>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="6263" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6577</offset>
+      <text>LPA are growth-factor-like phospholipids present in every tissue and most biological fluids at nanomolar to micromolar concentrations. LPA mediate diverse cellular responses, such as proliferation, migration, survival, angiogenesis, inflammation and much more []. At least six G-protein-coupled LPA receptors have been identified, which couple to Gs, Gi, Gq and/or G12/13 to activate various signaling pathways [,]. The LPA receptor LPA2 contains 351 amino acids and belongs to the endothelial differentiation gene family. LPA2 is structurally unique at the C-terminus, in which it contains a dileucine motif and several putative palmitoylated cysteine residues in the proximal region that are responsible for binding to several zinc-finger proteins [,]. The last four amino acids of LPA2, Asp-Ser-Thr-Leu (DSTL), form a class I PDZ domain-binding motif and mediate the interaction of LPA2 with several PDZ proteins, including NHERF2 []. Through the interaction with LPA2, NHERF2 regulates the LPA-mediated phospholipase C-β3 (PLC-β3) signaling pathway and the activation of extracellular signal-regulated kinases and Akt [,]. LPA has been reported to induce the formation of a ternary complex containing LPA2, thyroid-hormone-receptor-interacting protein 6, and NHERF2 at microdomains on the plasma membrane, which regulates the anti-apoptotic signaling of LPA2 [].</text>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="6604" length="13"/>
+        <text>phospholipids</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="7028" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="identifier">MESH:D007930,MESH:D007930</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="7170" length="9"/>
+        <text>dileucine</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="7221" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="7346" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="257">
+        <infon key="identifier">MESH:D001224,MESH:D012694,MESH:D013912,MESH:D007930</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="7367" length="15"/>
+        <text>Asp-Ser-Thr-Leu</text>
+      </annotation>
+      <annotation id="256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224,MESH:D012694,MESH:D013912,MESH:D007930</infon>
+        <location offset="7384" length="4"/>
+        <text>DSTL</text>
+      </annotation>
+      <annotation id="gy59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="7571" length="3"/>
+        <text>LPA</text>
+      </annotation>
+      <annotation id="gy58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="7704" length="3"/>
+        <text>LPA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7950</offset>
+      <text>Li et al. [] demonstrated for the first time that (i) wild-type (WT)-CFTR forms a macromolecular complex with NHERF2 and LPA2 at the apical plasma membrane of intestinal epithelial cells (HT29-CL19A) and airway epithelial cells (Calu-3); (ii) LPA inhibits the CFTR Cl− channel function (using a CFTR-mediated iodide efflux assay) through an LPA2-mediated Gi pathway; (iii) LPA inhibits the CFTR-dependent short-circuit currents (Isc) in polarized epithelial cells in a compartmentalized manner; (iv) LPA inhibits the CFTR-dependent Isc in mouse intestinal epithelia tissues; (v) Administration of LPA substantially reduced the cholera toxin (CTX)-induced and CFTR-mediated intestinal fluid secretion in mice; and (vi) disruption of this complex using an LPA2-specific peptide, which contains the last 11 amino acids at the C-terminus of LPA2 and serves as a disruptor of LPA2-NHERF2 interaction in cells, reversed the LPA2-mediated inhibition of CFTR channel function in cells []. This study not only discovered the molecular mechanism underlying the coupling of LPA2-mediated inhibitory signaling to CFTR Cl− channel function at the apical plasma membrane of airway and intestinal epithelial cells (Figure 2), but demonstrated that LPA substantially reduced the CTX-induced intestinal fluid secretion in vivo, which had clinical implications for treating human diseases associated with the hyperactivation of CFTR channel function (e.g., secretory diarrhea).</text>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="8215" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+      <annotation id="62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007454</infon>
+        <location offset="8259" length="6"/>
+        <text>iodide</text>
+      </annotation>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="8754" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="9056" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9414</offset>
+      <text>In a study to investigate the roles of NHERF1/2/3 in regulating the CFTR-dependent duodenal HCO3− secretion in mice, Singh et al. found that the forskolin (FSK)-stimulated HCO3− secretion was significantly increased in Nherf2−/− mice and that NHERF2 is required for the LPA2-mediated inhibition of HCO3− secretion []. The data supported the findings of Li and colleagues’ [] and together suggested that by attenuating this LPA2-mediated inhibitory signaling, CFTR channel function could be potentially augmented.</text>
+      <annotation id="2XXx39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="9506" length="5"/>
+        <text>HCO3−</text>
+      </annotation>
+      <annotation id="2XXx40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="9559" length="9"/>
+        <text>forskolin</text>
+      </annotation>
+      <annotation id="2XXx41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="9570" length="3"/>
+        <text>FSK</text>
+      </annotation>
+      <annotation id="2XXx42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="9586" length="5"/>
+        <text>HCO3−</text>
+      </annotation>
+      <annotation id="83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001639</infon>
+        <location offset="9712" length="5"/>
+        <text>HCO3−</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9939</offset>
+      <text>Phe508del-CFTR protein has multiple defects, including a folding defect which results in the protein to get trapped in the endoplasmic reticulum and targeted for degradation, with little to no protein trafficked to the cell surface. Although the mutant protein can be partially rescued by exposure to low temperature and/or using CFTR correctors, it is unstable at the cell surface and exhibits impaired channel activity [,,]. Recently, we found that when rescued to the plasma membrane, Phe508del-CFTR also complexes with NHERF2 and LPA2 in CF bronchial epithelial cells (CFBEo−-Phe508del-CFTR cells) and in intestinal enterospheres developed from Phe508del−/− mice []. By formation of such a complex, the LPA2-mediated signaling could exert its inhibitory effect on the rescued Phe508del-CFTR at the cell surface (Figure 2). </text>
+      <annotation id="2XXx44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="9939" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="10427" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="10519" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="10588" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="10719" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10773</offset>
+      <text>2.2. The Involvment of CFTR in Two Major Human Diseases: Cystic Fibrosis (CF) and Secretory Diarrhea</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10874</offset>
+      <text>Several human diseases are associated with altered channel function of CFTR, including CF and secretory diarrhea [,]. </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10993</offset>
+      <text>CF is a life-shortening autosomal recessive inherited disease caused by the absence or dysfunction of CFTR channel activity, resulting from mutations in the CFTR gene [,]. There are approximately 70,000 CF patients worldwide []. Clinically, CF affects multiple organs, including the lungs (chronic lung disease causes most of the CF-associated morbidity and mortality), upper airway (e.g., sinusitis), pancreas (e.g., pancreatic insufficiency, CF-related diabetes mellitus), sweat glands (elevated sweat chloride level), intestines (e.g., meconium ileus, constipation, distal intestinal obstruction syndrome), liver (e.g., cholestasis, cirrhosis), and vas deferens (male infertility) []. In the CF lungs, the loss of CFTR function causes a cascade of pathological events: the depletion of airway surface liquid (ASL), mucus plugging the airways, failure of mucociliary clearance, chronic bacterial infections, and excessive and ineffective inflammation (which fails to eradicate pulmonary pathogens). This may cause bronchiectasis and progressive airway destruction, eventually leading to the loss of pulmonary function [,]. Other genetic and environmental factors (e.g., modifier genes, socioeconomic status) also strongly influence the severity of the disease []. LPA levels have been found elevated in the bronchoalveolar lavage (BAL) fluid of subjects with CF [], suggesting that LPA and its receptors may play a role in the pathogenesis of CF. </text>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="11497" length="8"/>
+        <text>chloride</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12443</offset>
+      <text>Secretory diarrhea involves the hyperactivation of CFTR channel in the gastrointestinal tract []. When the gut lumen is exposed to certain types of stimuli (e.g., toxins secreted by the colonizing pathogenic microorganisms Escherichia coli, Vibrio cholera []), the intracellular second messengers cAMP and/or cGMP are excessively produced, causing the hyperactivation of CFTR channel. This hyperactivation increases the electrical and osmotic driving forces for the parallel flows of Na+ and water and inhibits the fluid absorption processes mediated by Na+/H+ exchangers (e.g., NHE3) and epithelial sodium channel. The net result is the excessive fluid secretion into the intestine lumen, which overwhelms the reabsorbing capacity of the colon and leads to fluid loss and dehydration [,]. Because CFTR is the primary chloride channel at the apical membrane of intestinal epithelial cells and plays a critical role in intestinal fluid secretion and homeostasis, extensive research has been conducted to develop CFTR inhibitors (channel blockers) as potential anti-diarrheal agents, including those derived from natural products (e.g., crofelemer, tannic acids, steviodides, etc.) and small molecules identified by using high throughput screening (e.g., CFTRinh-172, GlyH-101, PPQ-102, BPO-27, iOWH032 etc.) [,,]. </text>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="12740" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006152</infon>
+        <location offset="12752" length="4"/>
+        <text>cGMP</text>
+      </annotation>
+      <annotation id="gy115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="12927" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="2XXx53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12935" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="gy111">
+        <infon key="type">OTHER</infon>
+        <location offset="12997" length="17"/>
+        <text>Na+/H+ exchangers</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">OTHER</infon>
+        <location offset="13032" length="25"/>
+        <text>epithelial sodium channel</text>
+      </annotation>
+      <annotation id="2XXx58">
+        <infon key="type">OTHER</infon>
+        <location offset="13261" length="16"/>
+        <text>chloride channel</text>
+      </annotation>
+      <annotation id="227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C546704</infon>
+        <location offset="13578" length="10"/>
+        <text>crofelemer</text>
+      </annotation>
+      <annotation id="2XXx54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013634</infon>
+        <location offset="13590" length="12"/>
+        <text>tannic acids</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="identifier">MESH:C012043</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="13604" length="11"/>
+        <text>steviodides</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="identifier">-</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="13696" length="11"/>
+        <text>CFTRinh-172</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C548779</infon>
+        <location offset="13709" length="8"/>
+        <text>GlyH-101</text>
+      </annotation>
+      <annotation id="106">
+        <infon key="identifier">MESH:D011743,MESH:D011810</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="13719" length="7"/>
+        <text>PPQ-102</text>
+      </annotation>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000622182</infon>
+        <location offset="13728" length="6"/>
+        <text>BPO-27</text>
+      </annotation>
+      <annotation id="gy116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017605,MESH:D010069</infon>
+        <location offset="13736" length="7"/>
+        <text>iOWH032</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13757</offset>
+      <text>3. Strategies to Target CFTR-NHERF2-LPA2 Complex for Possible Therapeutic Interventions of CF and Secretory Diarrhea</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13874</offset>
+      <text>3.1. Strategies to Target CFTR-NHERF2-LPA2 Complex for Possible Therapeutic Interventions of CF</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13970</offset>
+      <text>Traditional CF therapies target the downstream disease consequences/symptoms, including improving the mucociliary clearance (e.g., restoration of ASL, mucus alteration), anti-inflammatory, anti-infective, improving nutrition, and lung transplantation []. Recently, the development of CFTR modulators to restore CFTR function has fundamentally changed CF disease management. Two types of these modulators are potentiators and correctors. CFTR potentiators are molecules that increase the channel gating of CFTR, while CFTR correctors are molecules that rescue the folding and/or trafficking of CFTR to increase the cell surface density. Kalydeco® (ivacaftor, a CFTR potentiator) was approved by U.S. Food and Drug Administration to treat CF patients with G551D and other nine class III and IV mutations (G178R, S549N, S549R, G551S, G1244E, S1251N, S1255P, G1349D and R117H) []. Orkambi® (a combination of ivacaftor and lumacaftor; a CFTR corrector) was approved to treat CF patients age 6 years and older with two copies of Phe508del [].</text>
+      <annotation id="250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C545203</infon>
+        <location offset="14617" length="9"/>
+        <text>ivacaftor</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000599212</infon>
+        <location offset="14847" length="7"/>
+        <text>Orkambi</text>
+      </annotation>
+      <annotation id="229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C545203</infon>
+        <location offset="14874" length="9"/>
+        <text>ivacaftor</text>
+      </annotation>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C569105</infon>
+        <location offset="14888" length="10"/>
+        <text>lumacaftor</text>
+      </annotation>
+      <annotation id="2XXx65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="14993" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15009</offset>
+      <text>Based on the findings that (i) LPA levels are elevated in BAL fluid of subjects with CF [], (ii) CFTR-NHERF2-LPA2 complex at the apical plasma membrane of airway epithelial cells functionally couples LPA2-mediated signaling to CFTR channel function, and (iii) airway epithelial cells play a central role in regulating mucociliary clearance and modulating the innate and adaptive immune responses after infection [], we explored the possibility of targeting CFTR-NHERF2-LPA2 complex to tackle two major pathologies associated with CF: loss or dysfunction of CFTR channel function, and excessive inflammation.</text>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="15040" length="3"/>
+        <text>LPA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>15617</offset>
+      <text>3.1.1. Disruption of NHERF2-LPA2 Interaction to Potentiate CFTR Channel Function</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15698</offset>
+      <text>Because disruption of NHERF2-LPA2 interaction using an LPA2-specific peptide reversed the LPA2-mediated inhibition of CFTR channel function [], one straightforward approach was to develop small-molecule mimics of this LPA2 peptide, with more favorable drug-like properties such as improved potency and specificity, bioavailability, and being metabolically stable. As a proof-of-concept study, we developed an amplified luminescent proximity homogeneous assay to screen for compounds that specifically disrupt the LPA2–NHERF2 interaction []. From a library of 80 available inhibitors (disruptors) of PDZ domain-mediated protein–protein interactions, one hit compound (named CO-068) was found to have the highest potency (IC50 = 63 μM) and specificity []. Used at 50 μM concentration, CO-068 was found to (i) specifically disrupt the LPA2–NHERF2 interaction in cells, without affecting CFTR-NHERF2 or NHERF2-PLC-β3 interactions; (ii) augment the basal CFTR-mediated Isc in polarized Calu-3 cells; (iii) augment the FSK-induced and CFTR-mediated Isc in polarized Calu-3 cells; (iv) increase both the basal and FSK-stimulated CFTR-dependent submucosal glands fluid secretion in an ex vivo pig model, and (v) elevate the compartmentalized cAMP levels in cells []. The study was the first to demonstrate that specific disruption of NHERF2-LPA2 interaction potentiates the WT-CFTR channel function under the basal and stimulated conditions (Figure 3a).</text>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561063</infon>
+        <location offset="16371" length="6"/>
+        <text>CO-068</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561063</infon>
+        <location offset="16481" length="6"/>
+        <text>CO-068</text>
+      </annotation>
+      <annotation id="232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="16711" length="3"/>
+        <text>FSK</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="16805" length="3"/>
+        <text>FSK</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="16932" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17153</offset>
+      <text>To explore the possibility of using this approach for CF therapy, we tested the effect of CO-068 on the channel function of the rescued Phe508del-CFTR in two assays. We found that CO-068 potentiated the Isc of the rescued Phe508del-CFTR in polarized CFBEo−-Phe508del-CFTR cells and induced the swelling of intestinal enterospheres developed from WT mice and from Phe508del−/− mice []. The data suggests that, when in combination with a CFTR corrector (e.g., lumacaftor), specific disruption of NHERF2-LPA2 interaction can potentiate the channel function of Phe508del-CFTR.</text>
+      <annotation id="129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561063</infon>
+        <location offset="17243" length="6"/>
+        <text>CO-068</text>
+      </annotation>
+      <annotation id="2XXx72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="17289" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561063</infon>
+        <location offset="17333" length="6"/>
+        <text>CO-068</text>
+      </annotation>
+      <annotation id="2XXx74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="17375" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="17410" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="17516" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="gy137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C569105</infon>
+        <location offset="17611" length="10"/>
+        <text>lumacaftor</text>
+      </annotation>
+      <annotation id="2XXx77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="17710" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17732</offset>
+      <text>Regarding this disruptor approach (Figure 3a), it should be noted that (i) CO-068 has a IC50 value of 63 μM, which could account for the moderate potentiating effect on CFTR channel function we observed, and also highlight the need for chemical optimization to discover more potent and specific lead compounds; (ii) because this approach abolishes an LPA2-mediated inhibitory signaling on CFTR, in addition to WT- and Ph508del-CFTR, it could augment the channel activities of other CFTR mutants that complex with LPA2, therefore representing a mutation non-specific approach; and (iii) more work is needed to investigate the relevance of this approach in CF therapy, e.g., testing its efficacy in primary human CF airway epithelial cells and tissues, toxicological studies, etc.</text>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561063</infon>
+        <location offset="17807" length="6"/>
+        <text>CO-068</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="identifier">MESH:D010649</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="18150" length="2"/>
+        <text>Ph</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18512</offset>
+      <text>Another disruptor approach has also been explored to increase the channel activity of Phe508del-CFTR. This approach was designed to disrupt the interaction between CFTR and the CFTR-associated ligand (CAL). CAL is a PDZ domain-containing protein and a negative regulator of Phe508del-CFTR surface abundance []. Cushing and colleagues [] developed a decametric peptide iCAL36 that selectively binds the PDZ domain of CAL. The authors showed that iCAL36 enhanced the functional stability of Phe508del-CFTR and had complementary rescue effect with CFTR corrector corr-4a []. This group and their collaborators then used computational approach to study the binding of iCAL36 and derivatives to CAL to develop more specific and efficient inhibitors [,]. More recently, they developed a cell-permeable peptidyl inhibitor and demonstrated that this inhibitor disrupted the CFTR/CAL-PDZ interaction and increased the channel activity of Phe508del-CFTR in combination with CFTR correctors []. </text>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="18598" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="18786" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="19001" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="19441" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19497</offset>
+      <text>Taken together, these disruptor studies provide proof-of-principle data for targeting PDZ domain-mediated protein-protein interactions within the CFTR-containing macromolecular complexes for the possible therapeutic intervention of CF.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>19733</offset>
+      <text>3.1.2. Targeting CFTR-NHERF2-LPA2 Complex to Suppress the Release of Interleukin 8 (IL-8)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19823</offset>
+      <text>Given the critical role of IL-8 and the IL-8 receptor signaling pathway in the pathogenesis of CF lung inflammation [], we performed a proof-of-concept study to test whether CFTR-NHERF2-LPA2 complex regulates the IL-8 secretion from airway epithelial cells (CFBEo−-Phe508del-CFTR cells), thereby playing a role in the pathological cascade of excessive inflammation which fails to eradicate pulmonary pathogens in CF.</text>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="20088" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20242</offset>
+      <text>We found that (i) LPA2 expression level was elevated in CFBEo−-Phe508del-CFTR cells compared with that in CFBEo−-WT-CFTR cells; (ii) CFBEo−-Phe508del-CFTR cells secreted IL-8 under basal (un-stimulated) conditions and responded to IL-1β stimulation to secret large amount of IL-8; (iii) Rescue of Phe508del-CFTR by using lumacaftor slightly decreased the basal level of secreted IL-8 and significantly decreased the IL-1β-stimulated IL-8 secretion (11%); (iv) Low temperature (28 °C) rescue of Phe508del-CFTR dramatically decreased IL-8 secretion from CFBEo−-Phe508del-CFTR cells; and (v) Antagonism of LPA2 using a specific inhibitor decreased the basal level (44%) and IL-1β-stimulated IL-8 (~39%) secretion [].</text>
+      <annotation id="239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="20305" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="20382" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="20539" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C569105</infon>
+        <location offset="20563" length="10"/>
+        <text>lumacaftor</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="20736" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="20801" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20968</offset>
+      <text>The data suggests that in addition to its role in regulating airway fluid homeostasis, CFTR-NHERF2-LPA2 complex may also play a role in modulating IL-8 secretion from airway epithelial cells (Figure 3b). Rescue of Phe508del-CFTR and antagonism of LPA2 attenuate the IL-8 release from CFBEo−-Phe508del-CFTR cells, which could suppress the initiation of inflammatory response in CF and therefore inhibit the excessive infiltration of neutrophils and the subsequent inflammation. Of course, this hypothesis needs to be tested in other CF cell lines, especially in primary human CF airway epithelial cells, and thereafter in animal studies. In addition, studies are needed to test whether rescue of Phe508del-CFTR and antagonism of LPA2 affect the release of other chemokines/cytokines from airway epithelial cells.</text>
+      <annotation id="155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="21182" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="21259" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="2XXx90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="21663" length="3"/>
+        <text>Phe</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21782</offset>
+      <text>Theoretically, antagonism of LPA2 will suppress the LPA2-mediated Gi signaling on AC and increase the compartmentalized cAMP level in proximity to CFTR, and therefore potentiate CFTR channel function. Currently, we are testing if these antagonists potentiate CFTR channel activity in a variety of airway epithelial cell lines.</text>
+      <annotation id="162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="21902" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22109</offset>
+      <text>3.2. Targeting CFTR–NHERF2–LPA2 Complexes in the Gut Epithelia for Possible Therapeutic Interventions of Secretory Diarrhea</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22237</offset>
+      <text>In addition to directly blocking CFTR channel, CFTR-NHERF2-LPA2 complex could also be targeted to tackle the abnormal fluid homeostasis in secretory diarrhea. One potential approach is to use LPA, because LPA not only inhibits the CFTR-dependent intestinal fluid secretion through LPA2-mediated Gi pathway [], but stimulates the intestinal Na+ and fluid absorption by activating NHE3 through an LPA5-mediated signaling cascade []. These two effects are beneficial to secretory diarrhea therapy. In this regard, LPA-rich food (e.g., hen egg yolk and white, and LPA-enriched soy lipid extract) could be an inexpensive alternative to mitigate secretory diarrhea.</text>
+      <annotation id="gy182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="22429" length="3"/>
+        <text>LPA</text>
+      </annotation>
+      <annotation id="gy180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="22442" length="3"/>
+        <text>LPA</text>
+      </annotation>
+      <annotation id="gy185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="22577" length="3"/>
+        <text>Na+</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="22797" length="3"/>
+        <text>LPA</text>
+      </annotation>
+      <annotation id="172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="22814" length="5"/>
+        <text>lipid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22897</offset>
+      <text>Similarly, it can be envisioned that specific and potent LPA2 agonists would inhibit the CFTR channel function and have the potential to inhibit intestinal fluid secretion (Figure 4). As a proof-of-concept study, we tested the efficacy of a specific LPA2 agonist, GRI977143 [], on the CFTR Cl− channel function. We found that (i) GRI977143 significantly inhibited the FSK-induced and CFTR-mediated Isc in polarized human gut epithelial cells (HT29-CL19A cells); (ii) GRI977143 significantly inhibited the CTX-induced and CFTR-dependent intestinal fluid secretion in a closed-loop fluid secretion mouse model; and (iii) GRI977143 inhibited both the basal and FSK-induced cAMP levels at the plasma membrane of HT29-CL19A cells []. Currently, we are testing whether GRI977143 affects the IL-8 and other chemokines/cytokines release from intestinal epithelial cells and whether GRI977143 affects the integrity of tight junction in these cell lines.</text>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="23161" length="9"/>
+        <text>GRI977143</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="23187" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+      <annotation id="177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="23227" length="9"/>
+        <text>GRI977143</text>
+      </annotation>
+      <annotation id="178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="23265" length="3"/>
+        <text>FSK</text>
+      </annotation>
+      <annotation id="179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="23364" length="9"/>
+        <text>GRI977143</text>
+      </annotation>
+      <annotation id="181">
+        <infon key="identifier">-</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="23516" length="9"/>
+        <text>GRI977143</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="23555" length="3"/>
+        <text>FSK</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="23567" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="identifier">-</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="23660" length="9"/>
+        <text>GRI977143</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="23771" length="9"/>
+        <text>GRI977143</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23844</offset>
+      <text>4. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23859</offset>
+      <text>CF and secretory diarrhea are two major human diseases associated with dysregulated CFTR channel activities. Since the discovery of the CFTR gene in 1989, significant progress has been made in understanding the CF pathogenesis and in development of effective CF therapies. The approval of Kalydeco® and Orkambi® has proven that CFTR is a validated drug target.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24222</offset>
+      <text>Because the channel function of CFTR is regulated by dynamic protein–protein interactions in a complex network, identification of these CFTR-containing macromolecular complexes can further our understanding of CFTR biology in health and in disease, and open up potential avenues for drug development to treat CFTR-associated diseases. Accumulating evidence suggests that CFTR complexes with NHERF2 and LPA2 at the apical plasma membrane of airway and gut epithelial cells, which couples the LPA2-mediated signaling to CFTR channel function. Several approaches could be explored to target this complex to fine tune CFTR channel activity, including using specific disruptors of LPA2–NHERF2 interaction and specific LPA2 modulators. With the technological advancements in drug discovery, we believe that more potent and specific small molecules will be identified and tested, which will provide us more tools to gain insights into the pathophysiology of CFTR and to combat CFTR-associated diseases.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>25222</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25243</offset>
+      <text>Weiqiang Zhang, Anjaparavanda P. Naren, Zhihong Zhang, and Yanhui H. Zhang wrote the paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>25335</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25357</offset>
+      <text>The authors declare no conflict of interest. </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>25403</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25417</offset>
+      <text>   ABC ATP-binding cassette  AC Adenylyl cyclase  β2-AR β2-Adrenergic receptor  ASL Airway surface liquid  BAL Bronchoalveolar lavage  CAL CFTR-associated ligand  CF Cystic fibrosis  CFBEo−- CF bronchial epithelial cells  CFTR CF transmembrane conductance regulator  CTX Cholera toxin  ERM Ezrin/radixin/moesin  FSK Forskolin  IL-8 Interleukin 8  Isc Short-circuit currents  LPA Lysophosphatidic acids  LPA2 LPA receptor 2  MRP4 Multidrug resistance protein 4  MSD Membrane-spanning domain  NBD Nucleotide binding domain  NHE Na+/H+ exchanger  NHERF2 Na+/H+ exchanger regulatory factor 2  PDZ Postsynaptic density-95, discs large, zona occludens-1  PLC-β3 Phospholipase C-β3  R domain Regulatory domain  WT Wild type</text>
+      <annotation id="2XXx106">
+        <infon key="type">OTHER</infon>
+        <location offset="25424" length="20"/>
+        <text>ATP-binding cassette</text>
+      </annotation>
+      <annotation id="193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="25729" length="3"/>
+        <text>FSK</text>
+      </annotation>
+      <annotation id="gy208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005576</infon>
+        <location offset="25733" length="9"/>
+        <text>Forskolin</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032881</infon>
+        <location offset="25792" length="3"/>
+        <text>LPA</text>
+      </annotation>
+      <annotation id="gy206">
+        <infon key="identifier">MESH:C032881</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="25796" length="22"/>
+        <text>Lysophosphatidic acids</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="25912" length="10"/>
+        <text>Nucleotide</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">OTHER</infon>
+        <location offset="25943" length="16"/>
+        <text>Na+/H+ exchanger</text>
+      </annotation>
+      <annotation id="gy203">
+        <infon key="type">OTHER</infon>
+        <location offset="25968" length="36"/>
+        <text>Na+/H+ exchanger regulatory factor 2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>26146</offset>
+      <text>References</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31132</offset>
+      <text>The putative domain structure of the cystic fibrosis transmembrane conductance regulator (CFTR) protein. CFTR is composed of two membrane-spanning domains (MSD1 and MSD2), two nucleotide binding domains (NBD1 and NBD2), and a regulatory domain (R). NH2: amino terminal tail; COOH: carboxyl terminal tail.</text>
+      <annotation id="202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="31308" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>31437</offset>
+      <text>Once residing at the plasma membrane, the cystic fibrosis transmembrane conductance regulator (CFTR) forms a complex with Na+/H+ exchanger regulatory factor 2 (NHERF2) and lysophosphatidic acid receptor 2 (LPA2), which couples the LPA2-mediated signaling with CFTR channel activity in a compartmentalized manner. Upon activation of LPA2, adenylyl cyclase (AC) is inhibited through Gi pathway, leading to a decreased cAMP level in proximity to CFTR and consequently inhibiting CFTR channel function. For clarity, only the major signaling molecules involved in this macromolecular complex are depicted here.</text>
+      <annotation id="2XXx112">
+        <infon key="type">OTHER</infon>
+        <location offset="31559" length="36"/>
+        <text>Na+/H+ exchanger regulatory factor 2</text>
+      </annotation>
+      <annotation id="2XXx111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000242</infon>
+        <location offset="31853" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>32043</offset>
+      <text>The CFTR-NHERF2-LPA2 complex could be targeted to attenuate the LPA2-mediated inhibitory signaling on CFTR channel function and/or suppress the LPA2-mediated IL-8 release from airway epithelial cells. These two effects are beneficial to CF therapy. (a) The approach to disruption of NHERF2-LPA2 interaction; (b) The approach to antagonism of LPA2.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>32391</offset>
+      <text>In the gut, the CFTR-NHERF2-LPA2 complex could be targeted by using LPA or LPA2 agonists to inhibit CFTR channel activity. This inhibition would be beneficial for the therapeutic intervention of secretory diarrhea.</text>
+    </passage>
+  </document>
+</collection>

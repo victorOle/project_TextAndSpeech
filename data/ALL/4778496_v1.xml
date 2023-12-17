@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4778496</id>
+    <passage>
+      <infon key="name_3">surname:Luo;given-names:Yuan</infon>
+      <infon key="article-meta">10.3762/bjoc.12.31</infon>
+      <infon key="name_2">surname:Wang;given-names:Zhen-Hua</infon>
+      <infon key="name_1">surname:Yue;given-names:Deng-Feng</infon>
+      <infon key="name_0">surname:Zhang;given-names:Ming-Liang</infon>
+      <infon key="notes">This article is part of the Thematic Series "Bifunctional catalysis".</infon>
+      <infon key="article-id_pmid">26977188</infon>
+      <infon key="fpage">295</infon>
+      <infon key="year">2016</infon>
+      <infon key="article-id_pmc">4778496</infon>
+      <infon key="article-id_doi">10.3762/bjoc.12.31</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">12</infon>
+      <infon key="license">This is an Open Access article under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.The license is subject to the Beilstein Journal of Organic Chemistry terms and conditions: (http://www.beilstein-journals.org/bjoc)</infon>
+      <infon key="kwd">asymmetric catalysis bifunctional catalysts Henry reaction organocatalysis 1H-pyrrole-2,3-diones</infon>
+      <infon key="name_7">surname:Dixon;given-names:Darren J</infon>
+      <infon key="lpage">300</infon>
+      <infon key="name_6">surname:Yuan;given-names:Wei-Cheng</infon>
+      <infon key="name_5">surname:Zhang;given-names:Xiao-Mei</infon>
+      <infon key="name_4">surname:Xu;given-names:Xiao-Ying</infon>
+      <offset>0</offset>
+      <text>Organocatalytic asymmetric Henry reaction of 1H-pyrrole-2,3-diones with bifunctional amine-thiourea catalysts bearing multiple hydrogen-bond donors</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="45" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="85" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="91" length="8"/>
+        <text>thiourea</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="127" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>148</offset>
+      <text>Summary</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>156</offset>
+      <text>For the first time, a catalytic asymmetric Henry reaction of 1H-pyrrole-2,3-diones was achieved with a chiral bifunctional amine-thiourea as a catalyst possessing multiple hydrogen-bond donors. With this developed method, a range of 3-hydroxy-3-nitromethyl-1H-pyrrol-2(3H)-ones bearing quaternary stereocenters were obtained in acceptable yield (up to 75%) and enantioselectivity (up to 73% ee).</text>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="217" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="279" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="285" length="8"/>
+        <text>thiourea</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="328" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="389" length="44"/>
+        <text>3-hydroxy-3-nitromethyl-1H-pyrrol-2(3H)-ones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>552</offset>
+      <text>  </text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>555</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>568</offset>
+      <text>Asymmetric organocatalysis has been demonstrated to be an effective and versatile strategy in facilitating a variety of organic transformations over the past decade, and numerous catalytic asymmetric reactions have been developed with various activation modes [1–6]. In this realm, chiral bifunctional catalysts, possessing two active sites, have captured tremendous attention in particular due to their unique ability of the simultaneous activation of the nucleophile and the electrophile in the same transition state [7–11]. Among them, chiral bifunctional thioureas bearing multiple hydrogen-bond donors have been successfully used as chiral organocatalysts for the asymmetric Michael addition and Mannich reactions [12–14]. Meanwhile, the Henry reaction is one of the most important carbon–carbon bond-forming reactions that provides straightforward access to β-nitroalcohols, which can be further transformed into amino-alcohols, amino acids and carbonyl compounds [15]. Much attention has been devoted to the development of an efficient catalytic asymmetric version of this reaction from readily accessible nitroalkanes and carbonyl compounds [16], such as aldehydes [17–19], α-ketoesters [20], α-ketophosphonates [21–22], fluoromethyl ketones [23–24] and isatins [25–26]. Despite these significant advances described above, the use of more challenging ketones with heterocyclic structures as Henry acceptors has remained relatively less explored. In this context, developing a new Henry reaction for the construction of the useful and versatile β-nitroalcohol scaffolds is still desirable.</text>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="1127" length="9"/>
+        <text>thioureas</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="1154" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="1355" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="1362" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574,MESH:D000438</infon>
+        <location offset="1432" length="15"/>
+        <text>β-nitroalcohols</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000605</infon>
+        <location offset="1487" length="14"/>
+        <text>amino-alcohols</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="1503" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574,MESH:D000473</infon>
+        <location offset="1681" length="12"/>
+        <text>nitroalkanes</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000447</infon>
+        <location offset="1731" length="9"/>
+        <text>aldehydes</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004952</infon>
+        <location offset="1750" length="12"/>
+        <text>α-ketoesters</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D063065</infon>
+        <location offset="1769" length="18"/>
+        <text>α-ketophosphonates</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="1797" length="20"/>
+        <text>fluoromethyl ketones</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007510</infon>
+        <location offset="1830" length="7"/>
+        <text>isatins</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="1927" length="7"/>
+        <text>ketones</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574,MESH:D000438</infon>
+        <location offset="2120" length="14"/>
+        <text>β-nitroalcohol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2185</offset>
+      <text>Pyrrole skeletons represent an important class of heterocycles and are frequently found in many biologically active molecules and natural products [27–28]. Particularly, 3-substituted-3-hydroxy-1H-pyrrol-2(3H)-one derivatives exhibit a wide spectrum of biological activities [29]. The reaction of 1H-pyrrole-2,3-diones with various nucleophiles should be a straightforward way to access diverse and interesting 3-substituted-3-hydroxy-1H-pyrrol-2(3H)-ones. A survey of the literature reveals that the study of 1H-pyrrole-2,3-diones is mainly focused on three-component spiro-heterocyclization reactions [30–32]. However, for the catalytic asymmetric transformation, only one example of an aldol reaction of 1H-pyrrole-2,3-diones with ketones has been reported so far (Scheme 1) [33]. Recently, our group developed a chiral bifunctional multiple hydrogen-bond amine-thiourea-catalyzed Michael reaction of acetyl phosphonates with nitroolefins, giving a series of β-substituted nitro compounds with excellent stereoselectivity [34]. Therefore, as part of our research program aimed at establishing new methods for the construction of quaternary stereocenters [35–37], we envisioned that the Henry reaction of nitroalkanes with 1H-pyrrole-2,3-diones should take place with a chiral bifunctional amine-thiourea catalyst, leading to 3-hydroxy-3-nitromethyl-1H-pyrrol-2(3H)-ones bearing quaternary stereocenters (Scheme 1) [14]. Notably, this work represents the first example of 1H-pyrrole-2,3-diones used as Henry acceptors for the asymmetric reaction. Herein, we report our preliminary results on this subject.</text>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="2185" length="7"/>
+        <text>Pyrrole</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="2355" length="43"/>
+        <text>3-substituted-3-hydroxy-1H-pyrrol-2(3H)-one</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="2482" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="2596" length="44"/>
+        <text>3-substituted-3-hydroxy-1H-pyrrol-2(3H)-ones</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="2695" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C116609</infon>
+        <location offset="2874" length="5"/>
+        <text>aldol</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="2892" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="2919" length="7"/>
+        <text>ketones</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="3030" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="3044" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="3050" length="8"/>
+        <text>thiourea</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D063065</infon>
+        <location offset="3089" length="19"/>
+        <text>acetyl phosphonates</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574,MESH:D000475</infon>
+        <location offset="3114" length="12"/>
+        <text>nitroolefins</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574</infon>
+        <location offset="3161" length="15"/>
+        <text>nitro compounds</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574,MESH:D000473</infon>
+        <location offset="3392" length="12"/>
+        <text>nitroalkanes</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="3410" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="3477" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="3483" length="8"/>
+        <text>thiourea</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="3513" length="44"/>
+        <text>3-hydroxy-3-nitromethyl-1H-pyrrol-2(3H)-ones</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="3659" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>3800</offset>
+      <text>The strategy to construct chiral 3-substituted-3-hydroxy-1H-pyrrol-2(3H)-ones.</text>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="3833" length="44"/>
+        <text>3-substituted-3-hydroxy-1H-pyrrol-2(3H)-ones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3879</offset>
+      <text>Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3902</offset>
+      <text>We started our studies with the reaction of ethyl 1-benzyl-4,5-dioxo-2-phenyl-4,5-dihydro-1H-pyrrole-3-carboxylate (1a) and nitromethane (2a) in the presence of various chiral bifunctional organocatalysts 3a–e in dichloromethane (Table 1). As expected, the reaction proceeded and gave the desired product 4a in 18% yield and 28% ee with cinchonidine and L-valine-based catalyst 3a (Table 1, entry 1). The bifunctional, thiourea-tertiary amine catalyst 3b, derived from quinine and L-valine, furnished a similar result to catalyst 3a (Table 1, entry 2). Next, the reaction was attempted with catalyst 3c derived from L-phenylalanine and catalyst 3d derived from L-phenylglycine, and improvements in enantioselectivity were observed (Table 1, entries 3 and 4). Changing L-phenylalanine to D-phenylalanine furnished catalyst 3e, and the enantioselectivity was improved to 61% ee (Table 1, entry 5). Having identified 3e as the best catalyst, we undertook a solvent screening for this transformation with 20 mol % 3e at 30 °C (Table 1, entries 6–12). Arenes such as toluene and mesitylene gave relatively lower ee values (Table 1, entries 6 and 7). In contrast, the reactions in ethers gave improved yield with slightly increased enantioselectivity (Table 1, entries 8–10). However, strong polar solvents such as acetonitrile and ethyl acetate proved inferior to this Henry reaction (Table 1, entries 11 and 12). The solvent survey revealed that THF was the suitable solvent in terms of the yield and enantioselectivity (Table 1, entry 8).</text>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="3946" length="70"/>
+        <text>ethyl 1-benzyl-4,5-dioxo-2-phenyl-4,5-dihydro-1H-pyrrole-3-carboxylate</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008640</infon>
+        <location offset="4026" length="12"/>
+        <text>nitromethane</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008752</infon>
+        <location offset="4115" length="15"/>
+        <text>dichloromethane</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C041622</infon>
+        <location offset="4239" length="12"/>
+        <text>cinchonidine</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="4256" length="8"/>
+        <text>L-valine</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="4321" length="8"/>
+        <text>thiourea</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="4339" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011803</infon>
+        <location offset="4371" length="7"/>
+        <text>quinine</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="4383" length="8"/>
+        <text>L-valine</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4518" length="15"/>
+        <text>L-phenylalanine</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008852</infon>
+        <location offset="4563" length="15"/>
+        <text>L-phenylglycine</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4670" length="15"/>
+        <text>L-phenylalanine</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4689" length="15"/>
+        <text>D-phenylalanine</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006841</infon>
+        <location offset="4949" length="6"/>
+        <text>Arenes</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014050</infon>
+        <location offset="4964" length="7"/>
+        <text>toluene</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010219</infon>
+        <location offset="4976" length="10"/>
+        <text>mesitylene</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004987</infon>
+        <location offset="5077" length="6"/>
+        <text>ethers</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="5211" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="5228" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018674</infon>
+        <location offset="5344" length="3"/>
+        <text>THF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>5445</offset>
+      <text>Screening of the catalysts and solvents.a </text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <offset>5488</offset>
+      <text>          Entry Catalyst Solvent Yield (%)b  ee (%)c       1  3a  DCM 18 28  2  3b  DCM 25 27  3  3c  DCM 25 38  4  3d  DCM 29 41  5  3e  DCM 23 61  6  3e  toluene 24 46  7  3e  mesitylene 36 58  8  3e  THF 61 61  9  3e  dioxane 59 53  10  3e  Et2O 48 62  11  3e  CH3CN 14 40  12  3e  EtOAc 18 59</text>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014050</infon>
+        <location offset="5644" length="7"/>
+        <text>toluene</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010219</infon>
+        <location offset="5666" length="10"/>
+        <text>mesitylene</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018674</infon>
+        <location offset="5691" length="3"/>
+        <text>THF</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C025223</infon>
+        <location offset="5709" length="7"/>
+        <text>dioxane</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004986</infon>
+        <location offset="5732" length="4"/>
+        <text>Et2O</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="5773" length="5"/>
+        <text>EtOAc</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>5785</offset>
+      <text> aUnless otherwise noted, the reactions were carried out with 1a (0.2 mmol), 2a (2.0 mmol), catalyst 3 (20 mol %) in solvent (2 mL) at 30 °C for 14 h. bIsolated yield. cDetermined by chiral HPLC analysis.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5991</offset>
+      <text>To further optimize the reaction conditions, the substituent at the nitrogen atom in 1H-pyrrole-2,3-diones 1 and the substrate concentration were investigated. The results are summarized in Table 2. It was found that an isopropyl group furnished a better yield and ee value than a benzyl group (Table 2, entry 2 vs entry 1). Changing the isopropyl group to a methyl group decreased the enantioselectivity (Table 2, entry 3). To enhance the reactivity of the substrate, we also tried to introduce some electron-withdrawing substituents on the nitrogen atom. However, we could not obtain the desired substrates. Afterwards, upon the investigation of substrate concentration (Table 2, entries 4 and 5), it was found that increasing the substrate concentration could slightly increase the yield with unchanged enantioselectivity (Table 2, entry 4). Ultimately, the effects of the reaction temperature and the additive were also examined and no improved results were obtained (Table 2, entries 6–8). Based on these observations, the most appropriate conditions for the Henry reaction could be established: 1 equiv of 1a and 10 equiv of 2a with 20 mol % catalyst 3e in 1.0 mL THF at 30 °C (Table 2, entry 4).</text>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="6059" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="6076" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="6533" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018674</infon>
+        <location offset="7161" length="3"/>
+        <text>THF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>7197</offset>
+      <text>Further optimization of conditions.a </text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <offset>7235</offset>
+      <text>          Entry  1  x Time (h)  4  Yield (%)b  ee (%)c       1  1a  2 14  4a  61 61  2  1b  2 14  4b  64 71  3  1c  2 14  4c  19 57  4  1b  1 14  4b  69 71  5  1b  3 14  4b  60 70  6d   1b  1 14  4b  64 46  7e   1b  1 62  4b  trace ND  8f   1b  1 14  4b  75 66</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>7496</offset>
+      <text> aUnless otherwise noted, the reactions were carried out with 1a (0.2 mmol), 2a (2.0 mmol) and catalyst 3e (20 mol %) in THF for the specified reaction time. bIsolated yield. cDetermined by chiral HPLC analysis. dRun at 50 °C; eRun at 0 °C. f4 Å MS was added. ND, not determined.</text>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018674</infon>
+        <location offset="7617" length="3"/>
+        <text>THF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7779</offset>
+      <text>Under the optimal reaction conditions, the substrate scope and the limitation of this organocatalytic Henry reaction were explored. The results are summarized in Table 3. First, we investigated the effects of the alkyl ester of 1H-pyrrole-2,3-diones 1. The replacement of the ethyl group by either a methyl or a butyl group had only a slight effect on the ee value but an obvious effect on the yield (Table 3, entries 1 and 2 vs Table 2, entry 4). After introducing different substituent groups on the phenyl ring of substrate 1, it was observed that the reactions take place, and the corresponding products in 44–73% yield with up to 73% ee were furnished. This was true regardless of the electronic nature and position of the substituents on the phenyl ring (Table 3, entries 3–10). When the substituent was in the ortho-position of the phenyl ring of the R2 group, a diastereoselectivity was observed that may be due to the steric hindrance of ortho substituents led to the atropisomers (Table 3, entry 3). A similar result was observed for the bulky 1-naphthyl group (Table 3, entry 11). The reaction was also performed with a 2-thienyl residue and the desired product was obtained in 51% yield and 71% ee (Table 3, entry 10). In addition, substrate 1o with no substituent on the nitrogen atom gave the desired product in 41% and 48% ee (Table 3, entry 12). The introduction of a phenyl group on the nitrogen atom had a negative effect on the reaction (Table 3, entry 13). Nitroethane was also used to react with 1H-pyrrole-2,3-dione 1b, and a good diastereoselectivity was achieved with an unfavorable yield and ee value (Table 3, entry 14). For the substrates with methoxy groups on the phenyl rings, the reaction gave relatively better results (Table 3, entries 4 and 7). We also tested the substrates 1q and 1r containing a methyl ester, and acceptable results were obtained (Table 3, entries 15 and 16). The absolute configuration of the major isomer 4i was unambiguously determined to be S by single-crystal X-ray analysis (Fig. 1) [38]. The configurations of the other products were assigned by analogy.</text>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004952</infon>
+        <location offset="7992" length="11"/>
+        <text>alkyl ester</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="8007" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="9063" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="9183" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C014705</infon>
+        <location offset="9256" length="11"/>
+        <text>Nitroethane</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="9296" length="20"/>
+        <text>1H-pyrrole-2,3-dione</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004952</infon>
+        <location offset="9611" length="12"/>
+        <text>methyl ester</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>9898</offset>
+      <text>Scope of the reaction.a </text>
+    </passage>
+    <passage>
+      <infon key="type">table</infon>
+      <offset>9923</offset>
+      <text>          Entry R/ R1/R2   2  Time (h)  4  Yield (%)b  ee (%)c       1 iPr/Me/Ph (1d)  2a  14  4d  55 65  2 iPr/n-Bu/Ph (1e)  2a  70  4e  52 70  3 iPr/Et/2-ClC6H4 (1f)  2a  62  4f  53 73d   4 iPr/Et/3-MeOC6H4 (1g)  2a  62  4g  73 71  5 iPr/Et/3-ClC6H4 (1h)  2a  120  4h  47 71  6 iPr/Et/3-BrC6H4 (1i)  2a  120  4i  44 70  7 iPr/Et/4-MeOC6H4 (1j)  2a  62  4j  61 72  8 iPr/Et/4-MeC6H4 (1k)  2a  48  4k  64 69  9 iPr/Et/4-FC6H4 (1l)  2a  62  4l  73 70  10 iPr/Et/2-thienyl (1m)  2a  120  4m  51 71  11 iPr/Et/1-naphthyl (1n)  2a  120  4n  75 51e   12 H/Me/Ph (1o)  2a  120  4o  41 48  13 Ph/Et/Ph (1p)  2a  120  4p  42 29  14 iPr/Et/Ph (1b)  2b  24  4q  23 22f   15 iPr/Me/4-MeOC6H4 (1q)  2a  84  4r  51 69  16 iPr/Me/3-MeOC6H4 (1r)  2a  120  4s  71 58</text>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014230</infon>
+        <location offset="10166" length="8"/>
+        <text>3-ClC6H4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>10674</offset>
+      <text> aUnless otherwise noted, the reactions were carried out with 1 (0.2 mmol), 2 (2.0 mmol). bIsolated yield. cDetermined by chiral HPLC analysis. dee for the major isomer and ee of another isomer is 60%, and 54:46 dr was observed. eee for the major isomer and ee of another isomer is 49%, and 53:47 dr was observed. fee for the major isomer, and 94:6 dr was observed.</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11040</offset>
+      <text>The X-ray structure of compound 4i.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11076</offset>
+      <text>On the basis of our experimental results and the related reports about the bifunctional activation mode of nitromethane with different electrophiles [14,17,39], we propose a possible model to explain the stereochemistry of this transformation. As shown in Fig. 2, nitromethane is activated by the tertiary amine to form the nitro enolate. Simultaneously, the 1H-pyrrole-2,3-diones 1 are orientated by the multiple hydrogen bonds of the catalyst. Thus, the nitro enolate attacks the keto carbonyl group of 1H-pyrrole-2,3-diones (to the si-face) to furnish the corresponding product with S-configuration (Fig. 2).</text>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008640</infon>
+        <location offset="11183" length="12"/>
+        <text>nitromethane</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008640</infon>
+        <location offset="11340" length="12"/>
+        <text>nitromethane</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="11382" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574</infon>
+        <location offset="11400" length="13"/>
+        <text>nitro enolate</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="11435" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11490" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009574</infon>
+        <location offset="11532" length="13"/>
+        <text>nitro enolate</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="11581" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11688</offset>
+      <text>A proposed transition state for the asymmetric Henry reaction.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11751</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11762</offset>
+      <text>In conclusion, we have developed an asymmetric Henry reaction of 1H-pyrrole-2,3-diones with a chiral bifunctional amine-thiourea possessing multiple hydrogen-bond donors as the catalyst. With the developed protocol, a range of 3-hydroxy-3-nitromethyl-1H-pyrrol-2(3H)-ones bearing quaternary stereocenters were obtained in good yield (up to 75%) and with moderate to good enantioselectivity (up to 73% ee). A possible transition-state model, characterized by the bifunctional catalyst acting as a multiple hydrogen-bond donor, is also proposed. The application of 1H-pyrrole-2,3-diones in the catalytic asymmetric reactions for the preparation of biologically relevant compounds is currently underway.</text>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="11827" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000588</infon>
+        <location offset="11876" length="5"/>
+        <text>amine</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013890</infon>
+        <location offset="11882" length="8"/>
+        <text>thiourea</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11911" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="11989" length="44"/>
+        <text>3-hydroxy-3-nitromethyl-1H-pyrrol-2(3H)-ones</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12267" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011758</infon>
+        <location offset="12325" length="21"/>
+        <text>1H-pyrrole-2,3-diones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12463</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="volume">43</infon>
+      <infon key="name_1">surname:Moisan;given-names:L</infon>
+      <infon key="name_0">surname:Dalko;given-names:P I</infon>
+      <infon key="fpage">5138</infon>
+      <infon key="pub-id_doi">10.1002/anie.200400650</infon>
+      <infon key="year">2004</infon>
+      <infon key="source">Angew Chem, Int Ed</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">5175</infon>
+      <offset>12486</offset>
+    </passage>
+    <passage>
+      <infon key="volume">114</infon>
+      <infon key="name_2">surname:Rueping;given-names:M</infon>
+      <infon key="name_1">surname:Atodiresei;given-names:I</infon>
+      <infon key="name_0">surname:Volla;given-names:C M R</infon>
+      <infon key="pub-id_pmid">24304297</infon>
+      <infon key="fpage">2390</infon>
+      <infon key="pub-id_doi">10.1021/cr400215u</infon>
+      <infon key="year">2014</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">2431</infon>
+      <offset>12487</offset>
+    </passage>
+    <passage>
+      <infon key="volume">111</infon>
+      <infon key="name_1">surname:Rios;given-names:R</infon>
+      <infon key="name_0">surname:Moyano;given-names:A</infon>
+      <infon key="pub-id_pmid">21615119</infon>
+      <infon key="fpage">4703</infon>
+      <infon key="pub-id_doi">10.1021/cr100348t</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">4832</infon>
+      <offset>12488</offset>
+    </passage>
+    <passage>
+      <infon key="volume">113</infon>
+      <infon key="name_1">surname:Shi;given-names:M</infon>
+      <infon key="name_0">surname:Wei;given-names:Y</infon>
+      <infon key="pub-id_pmid">23679920</infon>
+      <infon key="fpage">6659</infon>
+      <infon key="pub-id_doi">10.1021/cr300192h</infon>
+      <infon key="year">2013</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">6690</infon>
+      <offset>12489</offset>
+    </passage>
+    <passage>
+      <infon key="volume">114</infon>
+      <infon key="name_2">surname:Enders;given-names:D</infon>
+      <infon key="name_1">surname:Mahajan;given-names:S</infon>
+      <infon key="name_0">surname:Chauhan;given-names:P</infon>
+      <infon key="pub-id_pmid">25144663</infon>
+      <infon key="fpage">8807</infon>
+      <infon key="pub-id_doi">10.1021/cr500235v</infon>
+      <infon key="year">2014</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">8864</infon>
+      <offset>12490</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Shi;given-names:Y</infon>
+      <infon key="name_2">surname:Cornwall;given-names:R G</infon>
+      <infon key="name_1">surname:Wang;given-names:Q</infon>
+      <infon key="name_0">surname:Zhu;given-names:Y</infon>
+      <infon key="pub-id_pmid">24785198</infon>
+      <infon key="fpage">8199</infon>
+      <infon key="pub-id_doi">10.1021/cr500064w</infon>
+      <infon key="year">2014</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">114</infon>
+      <infon key="lpage">8256</infon>
+      <offset>12491</offset>
+    </passage>
+    <passage>
+      <infon key="volume">12</infon>
+      <infon key="name_0">surname:Connon;given-names:S J</infon>
+      <infon key="pub-id_pmid">16514689</infon>
+      <infon key="fpage">5418</infon>
+      <infon key="pub-id_doi">10.1002/chem.200501076</infon>
+      <infon key="year">2006</infon>
+      <infon key="source">Chem – Eur J</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">5427</infon>
+      <offset>12492</offset>
+    </passage>
+    <passage>
+      <infon key="volume">107</infon>
+      <infon key="name_1">surname:Jacobsen;given-names:E N</infon>
+      <infon key="name_0">surname:Doyle;given-names:A G</infon>
+      <infon key="pub-id_pmid">18072808</infon>
+      <infon key="fpage">5713</infon>
+      <infon key="pub-id_doi">10.1021/cr068373r</infon>
+      <infon key="year">2007</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">5743</infon>
+      <offset>12493</offset>
+    </passage>
+    <passage>
+      <infon key="volume">107</infon>
+      <infon key="name_0">surname:Akiyama;given-names:T</infon>
+      <infon key="pub-id_pmid">17983247</infon>
+      <infon key="fpage">5744</infon>
+      <infon key="pub-id_doi">10.1021/cr068374j</infon>
+      <infon key="year">2007</infon>
+      <infon key="source">Chem Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">5758</infon>
+      <offset>12494</offset>
+    </passage>
+    <passage>
+      <infon key="volume">38</infon>
+      <infon key="name_2">surname:López;given-names:R</infon>
+      <infon key="name_1">surname:Oiarbide;given-names:M</infon>
+      <infon key="name_0">surname:Palomo;given-names:C</infon>
+      <infon key="pub-id_pmid">19169469</infon>
+      <infon key="fpage">632</infon>
+      <infon key="pub-id_doi">10.1039/B708453F</infon>
+      <infon key="year">2009</infon>
+      <infon key="source">Chem Soc Rev</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">653</infon>
+      <offset>12495</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Jørgensen;given-names:K A</infon>
+      <infon key="name_2">surname:Jiang;given-names:H</infon>
+      <infon key="name_1">surname:Parra;given-names:A</infon>
+      <infon key="name_0">surname:Alemán;given-names:J</infon>
+      <infon key="pub-id_pmid">21590822</infon>
+      <infon key="fpage">6890</infon>
+      <infon key="pub-id_doi">10.1002/chem.201003694</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Chem – Eur J</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">17</infon>
+      <infon key="lpage">6899</infon>
+      <offset>12496</offset>
+    </passage>
+    <passage>
+      <infon key="volume">51</infon>
+      <infon key="name_1">surname:Wang;given-names:C-J</infon>
+      <infon key="name_0">surname:Fang;given-names:X</infon>
+      <infon key="fpage">1185</infon>
+      <infon key="pub-id_doi">10.1039/C4CC07909D</infon>
+      <infon key="year">2015</infon>
+      <infon key="source">Chem Commun</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">1197</infon>
+      <offset>12497</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Xue;given-names:Z-Y</infon>
+      <infon key="name_2">surname:Zhang;given-names:Z-H</infon>
+      <infon key="name_1">surname:Dong;given-names:X-Q</infon>
+      <infon key="name_0">surname:Wang;given-names:C-J</infon>
+      <infon key="pub-id_pmid">18549213</infon>
+      <infon key="fpage">8606</infon>
+      <infon key="pub-id_doi">10.1021/ja803538x</infon>
+      <infon key="year">2008</infon>
+      <infon key="source">J Am Chem Soc</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">130</infon>
+      <infon key="lpage">8607</infon>
+      <infon key="name_4">surname:Teng;given-names:H-L</infon>
+      <offset>12498</offset>
+    </passage>
+    <passage>
+      <infon key="volume">49</infon>
+      <infon key="name_1">surname:Lu;given-names:Y</infon>
+      <infon key="name_0">surname:Zhu;given-names:Q</infon>
+      <infon key="fpage">7753</infon>
+      <infon key="pub-id_doi">10.1002/anie.201003837</infon>
+      <infon key="year">2010</infon>
+      <infon key="source">Angew Chem, Int Ed</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">7756</infon>
+      <offset>12499</offset>
+    </passage>
+    <passage>
+      <infon key="name_2">surname:Laso;given-names:A</infon>
+      <infon key="name_1">surname:Oiarbide;given-names:M</infon>
+      <infon key="name_0">surname:Palomo;given-names:C</infon>
+      <infon key="fpage">2561</infon>
+      <infon key="pub-id_doi">10.1002/ejoc.200700021</infon>
+      <infon key="year">2007</infon>
+      <infon key="source">Eur J Org Chem</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">2574</infon>
+      <offset>12500</offset>
+    </passage>
+    <passage>
+      <infon key="volume">3</infon>
+      <infon key="name_2">surname:Herrera;given-names:R P</infon>
+      <infon key="name_1">surname:Marques-Lopez;given-names:E</infon>
+      <infon key="name_0">surname:Alvarez-Casao;given-names:Y</infon>
+      <infon key="fpage">220</infon>
+      <infon key="pub-id_doi">10.3390/sym3020220</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Symmetry</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">245</infon>
+      <offset>12501</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Hiemstra;given-names:H</infon>
+      <infon key="volume">45</infon>
+      <infon key="name_2">surname:van Maarseveen;given-names:J H</infon>
+      <infon key="name_1">surname:van der Haas;given-names:R N S</infon>
+      <infon key="name_0">surname:Marcelli;given-names:T</infon>
+      <infon key="fpage">929</infon>
+      <infon key="pub-id_doi">10.1002/anie.200503724</infon>
+      <infon key="year">2006</infon>
+      <infon key="source">Angew Chem, Int Ed</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">931</infon>
+      <offset>12502</offset>
+    </passage>
+    <passage>
+      <infon key="volume">347</infon>
+      <infon key="name_2">surname:Nagasawa;given-names:K</infon>
+      <infon key="name_1">surname:Hashimoto;given-names:Y</infon>
+      <infon key="name_0">surname:Sohtome;given-names:Y</infon>
+      <infon key="fpage">1643</infon>
+      <infon key="pub-id_doi">10.1002/adsc.200505148</infon>
+      <infon key="year">2005</infon>
+      <infon key="source">Adv Synth Catal</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">1648</infon>
+      <offset>12503</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Takagi;given-names:R</infon>
+      <infon key="name_2">surname:Takada;given-names:K</infon>
+      <infon key="name_1">surname:Takemura;given-names:N</infon>
+      <infon key="name_0">surname:Sohtome;given-names:Y</infon>
+      <infon key="pub-id_pmid">17638377</infon>
+      <infon key="fpage">1150</infon>
+      <infon key="pub-id_doi">10.1002/asia.200700145</infon>
+      <infon key="year">2007</infon>
+      <infon key="source">Chem – Asian J</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">2</infon>
+      <infon key="lpage">1160</infon>
+      <infon key="name_5">surname:Nagasawa;given-names:K</infon>
+      <infon key="name_4">surname:Iguchi;given-names:T</infon>
+      <offset>12504</offset>
+    </passage>
+    <passage>
+      <infon key="volume">128</infon>
+      <infon key="name_2">surname:Deng;given-names:L</infon>
+      <infon key="name_1">surname:Wang;given-names:B</infon>
+      <infon key="name_0">surname:Li;given-names:H</infon>
+      <infon key="pub-id_pmid">16417358</infon>
+      <infon key="fpage">732</infon>
+      <infon key="pub-id_doi">10.1021/ja057237l</infon>
+      <infon key="year">2006</infon>
+      <infon key="source">J Am Chem Soc</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">733</infon>
+      <offset>12505</offset>
+    </passage>
+    <passage>
+      <infon key="volume">9</infon>
+      <infon key="name_2">surname:Zhao;given-names:C-G</infon>
+      <infon key="name_1">surname:Samanta;given-names:S</infon>
+      <infon key="name_0">surname:Mandal;given-names:T</infon>
+      <infon key="pub-id_pmid">17284048</infon>
+      <infon key="fpage">943</infon>
+      <infon key="pub-id_doi">10.1021/ol070209i</infon>
+      <infon key="year">2007</infon>
+      <infon key="source">Org Lett</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">945</infon>
+      <offset>12506</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Shang;given-names:D</infon>
+      <infon key="name_2">surname:Zhu;given-names:Y</infon>
+      <infon key="name_1">surname:Wang;given-names:J</infon>
+      <infon key="name_0">surname:Chen;given-names:X</infon>
+      <infon key="pub-id_pmid">18989853</infon>
+      <infon key="fpage">10896</infon>
+      <infon key="pub-id_doi">10.1002/chem.200801958</infon>
+      <infon key="year">2008</infon>
+      <infon key="source">Chem – Eur J</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">14</infon>
+      <infon key="name_8">surname:Hu;given-names:C</infon>
+      <infon key="name_7">surname:Su;given-names:Z</infon>
+      <infon key="name_6">surname:Feng;given-names:X</infon>
+      <infon key="lpage">10899</infon>
+      <infon key="name_5">surname:Liu;given-names:X</infon>
+      <infon key="name_4">surname:Gao;given-names:B</infon>
+      <offset>12507</offset>
+    </passage>
+    <passage>
+      <infon key="name_2">surname:Umani-Ronchi;given-names:A</infon>
+      <infon key="name_1">surname:Sinisi;given-names:R</infon>
+      <infon key="name_0">surname:Bandini;given-names:M</infon>
+      <infon key="fpage">4360</infon>
+      <infon key="pub-id_doi">10.1039/b807640e</infon>
+      <infon key="year">2008</infon>
+      <infon key="source">Chem Commun</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">4362</infon>
+      <offset>12508</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Feringa;given-names:B L</infon>
+      <infon key="volume">50</infon>
+      <infon key="name_2">surname:Otten;given-names:E</infon>
+      <infon key="name_1">surname:Bernardi;given-names:L</infon>
+      <infon key="name_0">surname:Vlatković;given-names:M</infon>
+      <infon key="fpage">7773</infon>
+      <infon key="pub-id_doi">10.1039/c4cc00794h</infon>
+      <infon key="year">2014</infon>
+      <infon key="source">Chem Commun</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">7775</infon>
+      <offset>12509</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Lou;given-names:G</infon>
+      <infon key="name_2">surname:Xue;given-names:F</infon>
+      <infon key="name_1">surname:Zhang;given-names:S</infon>
+      <infon key="name_0">surname:Liu;given-names:L</infon>
+      <infon key="pub-id_pmid">21626595</infon>
+      <infon key="fpage">7791</infon>
+      <infon key="pub-id_doi">10.1002/chem.201101025</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Chem – Eur J</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">17</infon>
+      <infon key="name_7">surname:Wang;given-names:W</infon>
+      <infon key="name_6">surname:Duan;given-names:W</infon>
+      <infon key="lpage">7795</infon>
+      <infon key="name_5">surname:Ma;given-names:S</infon>
+      <infon key="name_4">surname:Zhang;given-names:H</infon>
+      <offset>12510</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Zhang;given-names:Y</infon>
+      <infon key="name_2">surname:Xu;given-names:H S</infon>
+      <infon key="name_1">surname:Li;given-names:Z J</infon>
+      <infon key="name_0">surname:Zhang;given-names:Y</infon>
+      <infon key="fpage">389</infon>
+      <infon key="pub-id_doi">10.1039/c1ra00477h</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">RSC Adv</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">1</infon>
+      <infon key="lpage">392</infon>
+      <infon key="name_4">surname:Wang;given-names:W</infon>
+      <offset>12511</offset>
+    </passage>
+    <passage>
+      <infon key="volume">42</infon>
+      <infon key="name_0">surname:Fürstner;given-names:A</infon>
+      <infon key="fpage">3582</infon>
+      <infon key="pub-id_doi">10.1002/anie.200300582</infon>
+      <infon key="year">2003</infon>
+      <infon key="source">Angew Chem, Int Ed</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">3603</infon>
+      <offset>12512</offset>
+    </passage>
+    <passage>
+      <infon key="volume">44</infon>
+      <infon key="name_1">surname:de Meijere;given-names:A</infon>
+      <infon key="name_0">surname:Larionov;given-names:O V</infon>
+      <infon key="fpage">5664</infon>
+      <infon key="pub-id_doi">10.1002/anie.200502140</infon>
+      <infon key="year">2005</infon>
+      <infon key="source">Angew Chem, Int Ed</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">5667</infon>
+      <offset>12513</offset>
+    </passage>
+    <passage>
+      <infon key="volume">34</infon>
+      <infon key="name_2">surname:Siegel;given-names:T W</infon>
+      <infon key="name_1">surname:Beyer;given-names:T A</infon>
+      <infon key="name_0">surname:Mylari;given-names:B L</infon>
+      <infon key="pub-id_pmid">1900532</infon>
+      <infon key="fpage">1011</infon>
+      <infon key="pub-id_doi">10.1021/jm00107a020</infon>
+      <infon key="year">1991</infon>
+      <infon key="source">J Med Chem</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">1018</infon>
+      <offset>12514</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Maslivets;given-names:A N</infon>
+      <infon key="volume">46</infon>
+      <infon key="name_2">surname:Aliev;given-names:Z G</infon>
+      <infon key="name_1">surname:Dmitriev;given-names:M V</infon>
+      <infon key="name_0">surname:Silaichev;given-names:P S</infon>
+      <infon key="fpage">1173</infon>
+      <infon key="pub-id_doi">10.1134/S1070428010080105</infon>
+      <infon key="year">2010</infon>
+      <infon key="source">Russ J Org Chem</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">1176</infon>
+      <offset>12515</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Maslivets;given-names:A N</infon>
+      <infon key="volume">47</infon>
+      <infon key="name_2">surname:Aliev;given-names:Z G</infon>
+      <infon key="name_1">surname:Silaichev;given-names:P S</infon>
+      <infon key="name_0">surname:Dmitriev;given-names:M V</infon>
+      <infon key="fpage">1165</infon>
+      <infon key="pub-id_doi">10.1134/S1070428011080082</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Russ J Org Chem</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">1168</infon>
+      <offset>12516</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Maslivets;given-names:A N</infon>
+      <infon key="volume">47</infon>
+      <infon key="name_2">surname:Aliev;given-names:Z G</infon>
+      <infon key="name_1">surname:Silaichev;given-names:P S</infon>
+      <infon key="name_0">surname:Dmitriev;given-names:M V</infon>
+      <infon key="fpage">304</infon>
+      <infon key="pub-id_doi">10.1134/S1070428011020266</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Russ J Org Chem</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">305</infon>
+      <offset>12517</offset>
+    </passage>
+    <passage>
+      <infon key="volume">53</infon>
+      <infon key="name_1">surname:Zhao;given-names:C-G</infon>
+      <infon key="name_0">surname:Bhanushali;given-names:M</infon>
+      <infon key="pub-id_pmid">22544980</infon>
+      <infon key="fpage">359</infon>
+      <infon key="pub-id_doi">10.1016/j.tetlet.2011.11.056</infon>
+      <infon key="year">2012</infon>
+      <infon key="source">Tetrahedron Lett</infon>
+      <infon key="type">ref</infon>
+      <infon key="lpage">362</infon>
+      <offset>12518</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Wang;given-names:Z-H</infon>
+      <infon key="name_2">surname:You;given-names:Y</infon>
+      <infon key="name_1">surname:Chen;given-names:L</infon>
+      <infon key="name_0">surname:Zhang;given-names:M-L</infon>
+      <infon key="pub-id_doi">10.1016/j.tet.2015.08.046</infon>
+      <infon key="year">2016</infon>
+      <infon key="source">Tetrahedron</infon>
+      <infon key="type">ref</infon>
+      <infon key="name_7">surname:Yuan;given-names:W-C</infon>
+      <infon key="name_6">surname:Xu;given-names:X-Y</infon>
+      <infon key="name_5">surname:Zhang;given-names:X-M</infon>
+      <infon key="name_4">surname:Yue;given-names:D-F</infon>
+      <offset>12519</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Wang;given-names:Z-H</infon>
+      <infon key="name_2">surname:Wu;given-names:Z-J</infon>
+      <infon key="name_1">surname:Zhou;given-names:M-Q</infon>
+      <infon key="name_0">surname:Zhao;given-names:J-Q</infon>
+      <infon key="pub-id_pmid">25875402</infon>
+      <infon key="fpage">2238</infon>
+      <infon key="pub-id_doi">10.1021/acs.orglett.5b00850</infon>
+      <infon key="year">2015</infon>
+      <infon key="source">Org Lett</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">17</infon>
+      <infon key="name_7">surname:Yuan;given-names:W-C</infon>
+      <infon key="name_6">surname:Zhang;given-names:X-M</infon>
+      <infon key="lpage">2241</infon>
+      <infon key="name_5">surname:Xu;given-names:X-Y</infon>
+      <infon key="name_4">surname:Yue;given-names:D-F</infon>
+      <offset>12520</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Yue;given-names:D-F</infon>
+      <infon key="name_2">surname:Huang;given-names:X-Q</infon>
+      <infon key="name_1">surname:Wu;given-names:Z-J</infon>
+      <infon key="name_0">surname:Wang;given-names:Z-H</infon>
+      <infon key="fpage">15835</infon>
+      <infon key="pub-id_doi">10.1039/C5CC06383C</infon>
+      <infon key="year">2015</infon>
+      <infon key="source">Chem Commun</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">51</infon>
+      <infon key="name_7">surname:Yuan;given-names:W-C</infon>
+      <infon key="name_6">surname:Zhang;given-names:X-M</infon>
+      <infon key="lpage">15838</infon>
+      <infon key="name_5">surname:Xu;given-names:X-Y</infon>
+      <infon key="name_4">surname:You;given-names:Y</infon>
+      <offset>12521</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Yuan;given-names:W-C</infon>
+      <infon key="name_2">surname:Zhang;given-names:X-M</infon>
+      <infon key="name_1">surname:Han;given-names:W-Y</infon>
+      <infon key="name_0">surname:Liu;given-names:X-L</infon>
+      <infon key="pub-id_pmid">23452297</infon>
+      <infon key="fpage">1246</infon>
+      <infon key="pub-id_doi">10.1021/ol400183k</infon>
+      <infon key="year">2013</infon>
+      <infon key="source">Org Lett</infon>
+      <infon key="type">ref</infon>
+      <infon key="volume">15</infon>
+      <infon key="lpage">1249</infon>
+      <offset>12522</offset>
+    </passage>
+    <passage>
+      <infon key="type">ref</infon>
+      <offset>12523</offset>
+    </passage>
+    <passage>
+      <infon key="name_3">surname:Wu;given-names:B</infon>
+      <infon key="name_2">surname:Huang;given-names:X-F</infon>
+      <infon key="name_1">surname:Zhang;given-names:J-X</infon>
+      <infon key="name_0">surname:Li;given-names:M-Q</infon>
+      <infon key="fpage">5237</infon>
+      <infon key="pub-id_doi">10.1002/ejoc.201100824</infon>
+      <infon key="year">2011</infon>
+      <infon key="source">Eur J Org Chem</infon>
+      <infon key="type">ref</infon>
+      <infon key="name_7">surname:Wang;given-names:X-W</infon>
+      <infon key="name_6">surname:Li;given-names:X-D</infon>
+      <infon key="lpage">5241</infon>
+      <infon key="name_5">surname:Chen;given-names:J</infon>
+      <infon key="name_4">surname:Liu;given-names:Z-M</infon>
+      <offset>12524</offset>
+    </passage>
+  </document>
+</collection>

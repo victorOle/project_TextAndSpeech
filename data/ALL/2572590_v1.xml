@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>2572590</id>
+    <passage>
+      <infon key="name_2">surname:MacDermott;given-names:Amy B</infon>
+      <infon key="name_1">surname:Kaftan;given-names:Edward J</infon>
+      <infon key="name_0">surname:Tong;given-names:Chi-Kun</infon>
+      <infon key="article-id_pmid">18847474</infon>
+      <infon key="fpage">44</infon>
+      <infon key="year">2008</infon>
+      <infon key="article-id_publisher-id">1744-8069-4-44</infon>
+      <infon key="article-id_pmc">2572590</infon>
+      <infon key="article-id_doi">10.1186/1744-8069-4-44</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">4</infon>
+      <infon key="license">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="journal-title">Molecular Pain</infon>
+      <infon key="lpage">44</infon>
+      <offset>0</offset>
+      <text>Functional identification of NR2 subunits contributing to NMDA receptors on substance P receptor-expressing dorsal horn neurons</text>
+      <annotation id="2XXx0">
+        <infon key="type">OTHER</infon>
+        <location offset="58" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="type">OTHER</infon>
+        <location offset="76" length="20"/>
+        <text>substance P receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>128</offset>
+      <text>NMDA receptors are important elements in pain signaling in the spinal cord dorsal horn. They are heterotetramers typically composed of two NR1 and two of four NR2 subunits: NR2A-2D. Mice lacking specific NR2 subunits show deficits in pain transmission yet subunit location in the spinal cord remains unclear. We have combined electrophysiological and pharmacological approaches to investigate the composition of functional NMDA receptors expressed by lamina I, substance P receptor-expressing (NK1R+) neurons, as well as NK1R- neurons. Under low Mg2+ conditions (100 μM), the conductance of NMDA receptors at -90 mV (g(-90 mV)) with NR2A or NR2B subunits (NR2A/B) is low compared to conductance measured at the membrane potential where the inward current is maximal or maximal inward current (MIC) (ratio of ~0.07 calculated from Kuner and Schoepfer, 1996). For NR2C or NR2D subunits (NR2C/D), the ratio is higher (ratio ~0.4). NK1R+ and NK1R- neurons express NMDA receptors that give ratios ~0.28 and 0.16, respectively, suggesting both types of subunits are present in both populations of neurons, with NK1R+ neurons expressing a higher percentage of NR2C/D type NMDA receptors. This was confirmed using EAB318, an NR2A/B preferring antagonist, and UBP141, a mildly selective NR2C/D antagonist to increase and decrease the g(-90 mV)/g(MIC) ratios in both subpopulations of neurons.</text>
+      <annotation id="2XXx2">
+        <infon key="type">OTHER</infon>
+        <location offset="128" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx3">
+        <infon key="type">OTHER</infon>
+        <location offset="551" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="172">
+        <infon key="type">OTHER</infon>
+        <location offset="589" length="20"/>
+        <text>substance P receptor</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="674" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx4">
+        <infon key="type">OTHER</infon>
+        <location offset="719" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="187">
+        <infon key="type">OTHER</infon>
+        <location offset="1088" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="188">
+        <infon key="type">OTHER</infon>
+        <location offset="1293" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="1334" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="1379" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1513</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1524</offset>
+      <text>NMDA receptors in the spinal cord dorsal horn are key elements in the initiation of changes in synaptic strength [1] and pain hypersensitivity [2,3]. These receptors consist of two obligatory NR1 subunits and two NR2 subunits, of which there are four types encoded by distinct genes: NR2A, NR2B, NR2C and NR2D [4]. The incorporation of different NR2 subunits has a major impact on the functional properties of the NMDA receptor, critically influencing agonist and antagonist affinity, receptor deactivation kinetics, channel conductance and interactions with intracellular proteins [3]. Additionally, NMDA receptors with NR2A or NR2B show higher Mg2+ sensitivity at negative membrane potentials than those with NR2C or NR2D [5,6].</text>
+      <annotation id="189">
+        <infon key="type">OTHER</infon>
+        <location offset="1524" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx11">
+        <infon key="type">OTHER</infon>
+        <location offset="1938" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="191">
+        <infon key="type">OTHER</infon>
+        <location offset="2125" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="2170" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2255</offset>
+      <text>Involvement of NMDA receptors in dorsal horn function has been demonstrated through experiments interfering with expression of different NMDA receptor subunits. Knockdown of the NR1 subunit of NMDA receptors to eliminate functional NMDA receptors in the spinal cord reduces hyperalgesia and allodynia in a number of animal models but does not alter acute pain responses [7-9]. NR2A knockout mice show some reduced forms of hypersensitivities [10-12]. However, these NR2A knockouts display normal acute pain responses [12], formalin-induced hyperalgesia [13] and nerve ligation or injury-induced allodynia [14,15]. NR2B knockout mice do not survive postnatally [16,17], therefore NR2B specific antagonists have been used to study the role of this protein in pain hypersensitivity. Intrathecal administration of NR2B antagonists blocks or decreases PGE2 or NMDA induced allodynia [11] as well as capsaicin-induced hyperalgesia [18]. NR2D knockout mice fail to develop nerve ligation [12], PGE2 [19] or PGF2alpha-induced allodynia [11,20]. Overall, these data suggest that different NR2 subunits are involved in dorsal horn circuits important for the development of hyperalgesia or allodynia but their specific functions remain unresolved.</text>
+      <annotation id="192">
+        <infon key="type">OTHER</infon>
+        <location offset="2270" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx18">
+        <infon key="type">OTHER</infon>
+        <location offset="2392" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx19">
+        <infon key="type">OTHER</infon>
+        <location offset="2448" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="195">
+        <infon key="type">OTHER</infon>
+        <location offset="2487" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005557</infon>
+        <location offset="2778" length="8"/>
+        <text>formalin</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015232</infon>
+        <location offset="3102" length="4"/>
+        <text>PGE2</text>
+      </annotation>
+      <annotation id="218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="3110" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002211</infon>
+        <location offset="3149" length="9"/>
+        <text>capsaicin</text>
+      </annotation>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015232</infon>
+        <location offset="3242" length="4"/>
+        <text>PGE2</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015237</infon>
+        <location offset="3255" length="9"/>
+        <text>PGF2alpha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3492</offset>
+      <text>Lamina I of the spinal cord is a critical site for nociceptive processing, receiving abundant monosynaptic input from nociceptors. The main output neurons of lamina I, the substance P receptor-expressing (NK1R+) projection neurons, are essential in mediating pain hypersensitivity [21,22]. NK1R+ neurons express NMDA receptors [23,24] but little is known about the subtypes of NMDA receptors they express.</text>
+      <annotation id="173">
+        <infon key="type">OTHER</infon>
+        <location offset="3664" length="20"/>
+        <text>substance P receptor</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">OTHER</infon>
+        <location offset="3804" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">OTHER</infon>
+        <location offset="3869" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3898</offset>
+      <text>In this paper, we have taken advantage of the different magnesium sensitivities and pharmacology of NMDA receptors with different NR2 subunit composition to identify functionally expressed NMDA receptors on NK1R+ and NK1R- dorsal horn neurons in lamina I.</text>
+      <annotation id="2XXx25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="3954" length="9"/>
+        <text>magnesium</text>
+      </annotation>
+      <annotation id="2XXx26">
+        <infon key="type">OTHER</infon>
+        <location offset="3998" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="198">
+        <infon key="type">OTHER</infon>
+        <location offset="4087" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4154</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4162</offset>
+      <text>Transverse slice preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4191</offset>
+      <text>Lumbar spinal cords were obtained from rats of postnatal day 14 (P14) to P19. The animals were first anesthetized with isoflurane and then decapitated. All experiments were conducted with the approval of the Columbia University Institutional Animal Care and Use Committee and in accord with the Guide for the Care and Use of Laboratory Animals. The spinal cords were excised and placed in ice-cold oxygenated high Mg2+ Krebs solution (95% O2/5% CO2 saturated Krebs solution, in mM: NaCl 125 or sucrose 250, KCl 2.5, NaHCO3 26, NaH2PO4 1.25, glucose 25, MgCl2 6, CaCl2 1.5, pH 7.4) plus 1 mM kynurenic acid. After removal of the dura mater and arachnoid membranes, all ventral roots were cut close to the cord and the spinal cord embedded in low melting agarose (Invitrogen Life Technologies) for slicing. Transverse slices (350–450 μm) with attached dorsal roots were obtained using a Leica VT1000S vibrating blade microtome. Slices were then incubated in oxygenated high Mg2+Krebs solution (no sucrose included) at 36°C for 1 hour before recording.</text>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007530</infon>
+        <location offset="4310" length="10"/>
+        <text>isoflurane</text>
+      </annotation>
+      <annotation id="2XXx42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,-</infon>
+        <location offset="4605" length="10"/>
+        <text>Mg2+ Krebs</text>
+      </annotation>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="4630" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245,-</infon>
+        <location offset="4636" length="19"/>
+        <text>CO2 saturated Krebs</text>
+      </annotation>
+      <annotation id="2XXx43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="4673" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="4685" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="4698" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017693</infon>
+        <location offset="4707" length="6"/>
+        <text>NaHCO3</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="4718" length="7"/>
+        <text>NaH2PO4</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="4732" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="2XXx41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="4744" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="4753" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007736</infon>
+        <location offset="4782" length="14"/>
+        <text>kynurenic acid</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="4944" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C051865</infon>
+        <location offset="5167" length="14"/>
+        <text>Krebs solution</text>
+      </annotation>
+      <annotation id="162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="5186" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5245</offset>
+      <text>Recording from pre-identified NK1R+ and NK1R- lamina I neurons</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5308</offset>
+      <text>The labeling of NK1R+ dorsal horn neurons with fluorescent dye has been described elsewhere [25,26]. In brief, spinal cord slices were incubated in high Mg2+ Krebs solution containing 20 – 40 nM tetramethylrhodamine-conjugated substance P (TMR-substance P) for 20 – 30 minutes at room temperature following 1 hour of recovery at 36°C. After unbound substance P was washed away for at least 20 minutes in an incubation chamber containing oxygenated high Mg2+ Krebs solution, slices were transferred to a submersion style chamber for recording. NK1R+ neurons were identified as expressing NK1R by clear, intense labeling with TMR-substance P. NK1R- neurons were chosen as lamina I neurons showing no evidence of TMR-substance P staining.</text>
+      <annotation id="2XXx45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,-</infon>
+        <location offset="5461" length="10"/>
+        <text>Mg2+ Krebs</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="5503" length="20"/>
+        <text>tetramethylrhodamine</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="5535" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="5548" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="5552" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="5657" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="2XXx46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274,-</infon>
+        <location offset="5761" length="10"/>
+        <text>Mg2+ Krebs</text>
+      </annotation>
+      <annotation id="322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="5932" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="5936" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="6018" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="6022" length="11"/>
+        <text>substance P</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6049</offset>
+      <text>Recording solutions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6069</offset>
+      <text>Intracellular solution used for most of these experiments had the following composition (in mM): Cs-methylsulfonate 130, Na-methylsulfonate 10, EGTA 10, CaCl2 1, HEPES 10, QX-314·Cl 5, Mg2+-ATP 2, pH adjusted to 7.2 with CsOH, osmolarity adjusted to 290 with sucrose. For some experiments in which intracellular Ca2+ needed to be strongly chelated, BAPTA intracellular solution was used. It was composed of (in mM): Cs-methylsulfonate 50, Na-methylsulfonate 10, BAPTA·Cs 40, CaCl2 4, HEPES 10, QX-314·Cl or QX-222·Cl 5, Mg2+-ATP 2, TEA·Cl 10, pH adjusted to 7.2 with CsOH, osmolarity about 310. Junction potentials were measured empirically and corrected in the bath before GOhm seal formation for each cell.</text>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045880</infon>
+        <location offset="6166" length="18"/>
+        <text>Cs-methylsulfonate</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045880</infon>
+        <location offset="6190" length="18"/>
+        <text>Na-methylsulfonate</text>
+      </annotation>
+      <annotation id="329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004533</infon>
+        <location offset="6213" length="4"/>
+        <text>EGTA</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="6222" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="6231" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012647</infon>
+        <location offset="6241" length="9"/>
+        <text>QX-314·Cl</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255,MESH:D008274</infon>
+        <location offset="6254" length="8"/>
+        <text>Mg2+-ATP</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002586,MESH:D006878</infon>
+        <location offset="6290" length="4"/>
+        <text>CsOH</text>
+      </annotation>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013395</infon>
+        <location offset="6328" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="6381" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C025603</infon>
+        <location offset="6418" length="5"/>
+        <text>BAPTA</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045880</infon>
+        <location offset="6485" length="18"/>
+        <text>Cs-methylsulfonate</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045880</infon>
+        <location offset="6508" length="18"/>
+        <text>Na-methylsulfonate</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C025603</infon>
+        <location offset="6531" length="8"/>
+        <text>BAPTA·Cs</text>
+      </annotation>
+      <annotation id="328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="6544" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="2XXx56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="6553" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012647</infon>
+        <location offset="6563" length="9"/>
+        <text>QX-314·Cl</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006072</infon>
+        <location offset="6576" length="9"/>
+        <text>QX-222·Cl</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255,MESH:D008274</infon>
+        <location offset="6589" length="8"/>
+        <text>Mg2+-ATP</text>
+      </annotation>
+      <annotation id="332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019789</infon>
+        <location offset="6601" length="6"/>
+        <text>TEA·Cl</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002586,MESH:D006878</infon>
+        <location offset="6636" length="4"/>
+        <text>CsOH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6783</offset>
+      <text>Modified Krebs solutions were used for the extracellular bath. To prevent possible neurotoxicity associated with Ca2+ influx through activated NMDA receptors, we replaced 95–98% of the extracellular Ca2+ with 3 mM Ba2+. The barium Krebs comprised: NaCl 125, KCl 2.5, NaH2PO41.25, NaHCO3 26, glucose 25, MgCl2 0.1, CaCl2 0.04–0.1, BaCl2 3 and pH 7.4. TTX (0.5 μM), SR95531 (5–10 μM) and strychnine (1 μM) were included in the extracellular solutions to eliminate action potential generation and involvement of inhibitory circuits.</text>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="6792" length="5"/>
+        <text>Krebs</text>
+      </annotation>
+      <annotation id="2XXx71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="6896" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="200">
+        <infon key="type">OTHER</infon>
+        <location offset="6926" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="6982" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001464</infon>
+        <location offset="6997" length="4"/>
+        <text>Ba2+</text>
+      </annotation>
+      <annotation id="2XXx74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001464,-</infon>
+        <location offset="7007" length="12"/>
+        <text>barium Krebs</text>
+      </annotation>
+      <annotation id="2XXx84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="7031" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="7041" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="7050" length="7"/>
+        <text>NaH2PO4</text>
+      </annotation>
+      <annotation id="2XXx82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017693</infon>
+        <location offset="7063" length="6"/>
+        <text>NaHCO3</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="7074" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="7086" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002122</infon>
+        <location offset="7097" length="5"/>
+        <text>CaCl2</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024986</infon>
+        <location offset="7113" length="5"/>
+        <text>BaCl2</text>
+      </annotation>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013779</infon>
+        <location offset="7133" length="3"/>
+        <text>TTX</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C049853</infon>
+        <location offset="7147" length="7"/>
+        <text>SR95531</text>
+      </annotation>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013331</infon>
+        <location offset="7169" length="10"/>
+        <text>strychnine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7322</offset>
+      <text>Analysis of NMDA induced membrane currents</text>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7334" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7365</offset>
+      <text>To obtain the current-voltage relationships of NMDA receptor-mediated currents, NMDA (15 μM) was superfused onto pre-identified, lamina I neurons for 2–3 minutes following several minutes of baseline, whole-cell recording. Triangle voltage ramp commands (the ramp up and ramp down were 0.9 sec duration each) were applied continuously at low frequency (0.05 Hz). Digital sampling frequency was 10 KHz. NMDA applications were repeated 2–3 times before NMDA co-application with antagonists. The data for the first NMDA application were not included for analysis due to changing baseline conditions. Current responses to triangle voltage ramps before and after recovery from NMDA application were averaged as a control current then subtracted from each triangle ramp made during NMDA induced currents. The resulting NMDA current ramps were plotted as a function of membrane potential and further analyzed. To minimize noise for measuring the following parameters, NMDA current ramps were subjected to a rolling average procedure over a 100 msec time frame.</text>
+      <annotation id="201">
+        <infon key="type">OTHER</infon>
+        <location offset="7412" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7445" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7767" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7816" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="7877" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8037" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8141" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8178" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8326" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8424</offset>
+      <text>For each voltage ramp during NMDA applications, the membrane current at -90 mV (I(-90 mV)), the maximal inward current (MIC), and the membrane potential for the MIC (VMIC) were measured (Figure 1E). The current measured at -90 mV holding potential was determined as I(-90 mV). The MIC was initially determined as the most negative current value in the rolling average. The VMIC was then determined as the voltage corresponding to the MIC. Because each ramp had an up and a down phase, each parameter from a ramp current had a pair of values and they were averaged for following analysis. The conductance at -90 mV and MIC (g(-90 mV) and g(MIC) respectively) as well as conductance ratio were then calculated based on the formulae:</text>
+      <annotation id="2XXx97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="8453" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9155</offset>
+      <text>To compare NMDA receptor g(-90 mV)/g(MIC) ratios under different pharmacological conditions, we averaged three ratio values calculated for each NMDA application near the peak NMDA response at -70 mV. The ratios under different pharmacological conditions or represented by different neuron populations were then compared.</text>
+      <annotation id="202">
+        <infon key="type">OTHER</infon>
+        <location offset="9166" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="9299" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="9330" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9476</offset>
+      <text>Only cells starting with reversible NMDA induced membrane currents, in which the difference between g(-90 mV)/g(MIC) ratios during wash-in and wash-out of NMDA was less than 0.15, were included for analysis. Cells with high membrane holding current (&gt; -100 pA) were discarded.</text>
+      <annotation id="2XXx101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="9512" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="9631" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9753</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9763</offset>
+      <text>SR 95531 hydrobromide and QX-222·Cl were purchased from Tocris Cookson (Bristol, UK). QX-314·Cl was purchased from Sigma-Aldrich or Alomone labs (Jerusalem, Israel). Low melting point agarose and TMR-substance P were purchased from Invitrogen Corp. Some TMR-substance P was synthesized and purchased from AnaSpec, Inc. Strychnine was obtained from Sigma-Aldrich. EAB318 was provided by Wyeth Research. EAB318 has IC50 of 20, 80 and 3500 nM for NMDA receptors with NR2A, NR2B and NR2C respectively [27]. UBP141 was synthesized as described [28]. The Ki of UBP141 for NMDA receptors with NR2A – NR2D are 14, 19, 4 and 2.7 μM respectively [28].</text>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C049853</infon>
+        <location offset="9763" length="21"/>
+        <text>SR 95531 hydrobromide</text>
+      </annotation>
+      <annotation id="2XXx110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C006072</infon>
+        <location offset="9789" length="9"/>
+        <text>QX-222·Cl</text>
+      </annotation>
+      <annotation id="389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012647</infon>
+        <location offset="9849" length="9"/>
+        <text>QX-314·Cl</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012685</infon>
+        <location offset="9947" length="7"/>
+        <text>agarose</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="9959" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="9963" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="10017" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="10021" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013331</infon>
+        <location offset="10082" length="10"/>
+        <text>Strychnine</text>
+      </annotation>
+      <annotation id="335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="10126" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="10165" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="2XXx112">
+        <infon key="type">OTHER</infon>
+        <location offset="10207" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="10266" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="10318" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="204">
+        <infon key="type">OTHER</infon>
+        <location offset="10329" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>10410</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10418</offset>
+      <text>The I-V relationship of NMDA currents induced by superfusion of NMDA onto dorsal horn neurons</text>
+      <annotation id="233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="10442" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="10482" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10512</offset>
+      <text>We investigated the total population of functional NMDA receptors expressed by different classes of lamina I neurons. NMDA was bath-applied onto spinal cord slices to activate all functional NMDA receptors. To identify the type of NMDA receptors expressed by pre-identified lamina I neurons in the spinal cord dorsal horn, we took advantage of the differential sensitivity to Mg2+ inherent in NMDA receptors composed of different NR2 subunits. NMDA receptors containing NR2A or NR2B subunits show more negative slope conductance at negative membrane potentials than those containing NR2C or NR2D [6]. Because the measurable difference in Mg2+ sensitivity is enhanced when extracellular Mg2+ concentration is low, 100 μM extracellular Mg2+ was used throughout these experiments. SR95532 (10 μM), strychnine (1 μM) and TTX (0.5–1 μ;M) were always included to eliminate the inhibitory currents and action potential triggered responses. Most of the Ca2+ in the Krebs was replaced with Ba2+ to diminish evoked neurotransmitter release and Ca2+ dependent currents in the cells.</text>
+      <annotation id="205">
+        <infon key="type">OTHER</infon>
+        <location offset="10563" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="10630" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx129">
+        <infon key="type">OTHER</infon>
+        <location offset="10703" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx130">
+        <infon key="type">OTHER</infon>
+        <location offset="10743" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="10888" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx131">
+        <infon key="type">OTHER</infon>
+        <location offset="10905" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="209">
+        <infon key="type">OTHER</infon>
+        <location offset="10956" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="11150" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="11198" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="11246" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11290" length="7"/>
+        <text>SR95532</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013331</infon>
+        <location offset="11307" length="10"/>
+        <text>strychnine</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013779</infon>
+        <location offset="11329" length="3"/>
+        <text>TTX</text>
+      </annotation>
+      <annotation id="2XXx123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="11457" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11469" length="5"/>
+        <text>Krebs</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001464</infon>
+        <location offset="11493" length="4"/>
+        <text>Ba2+</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="11546" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11590</offset>
+      <text>NK1R+ and NK1R- dorsal horn neurons were visually identified for whole-cell recording following incubation of spinal cord slices in TMR-substance P [25,26] as shown in Figure 1A and 1B, in which fluorescence and IR-DIC images are shown respectively. Bath application of NMDA (15 μM) to these neurons generated inward currents at a holding potential of -70 mV as shown in Figure 1C. To determine the voltage-dependent Mg2+ sensitivity of these receptors, triangle voltage ramp commands from -100 mV to + 50 mV and back to -100 mV were applied before, during and after NMDA application at 0.05 Hz (Figure 1C and 1D). After subtraction of control current, the resulting ramps of NMDA receptor-mediated current were plotted as a function of command voltage as shown in Figure 1E. The voltage sensitivity of the NMDA current generated by the ascending ramp command is similar to that generated by the descending command (Figure 1E). In addition, the current-voltage relationships of these NMDA induced currents had an average reversal potential of -2.0 ± 1.0 mV (n = 15), close to the predicted NMDA receptor reversal potential. The pair of NMDA current responses obtained from each triangle voltage command were used to determine the current at -90 mV (I(-90 mV)), the maximal inward current (MIC) and the membrane potential at which MIC occurs (VMIC) as illustrated in Figure 1E (see Methods). The membrane conductance at -90 mV (g(-90 mV)) and MIC (g(MIC)) were then calculated as shown in Figure 1F.</text>
+      <annotation id="326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="11722" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="11726" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="11860" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="12007" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="12157" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx136">
+        <infon key="type">OTHER</infon>
+        <location offset="12266" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="12397" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="12574" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">OTHER</infon>
+        <location offset="12680" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="12726" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>13091</offset>
+      <text>Parameters representing the voltage sensitivity of current flow through NMDA receptors were determined following NMDA application onto pre-identified dorsal horn neurons. (A) NK1R+ neuron in the superficial dorsal horn was selectively labeled by TMR-substance P in a transverse slice (40 × objective). (B) IR-DIC image showing the NK1R+ neuron patched with a pipette. (C) A representative trace shows an NMDA-evoked inward current with 100 μM Mg2+ in the bath. (D) Current responses to voltage ramps are shown at expanded time base. (E) The voltage dependence of NMDA receptor-mediated currents derived from NMDA evoked currents. (F) The same as in Figure E. The conductance of NMDA receptors at -90 mV (g(-90 mV)) and MIC (g(MIC)) are illustrated.</text>
+      <annotation id="2XXx142">
+        <infon key="type">OTHER</infon>
+        <location offset="13163" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="13204" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005358</infon>
+        <location offset="13337" length="3"/>
+        <text>TMR</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013373</infon>
+        <location offset="13341" length="11"/>
+        <text>substance P</text>
+      </annotation>
+      <annotation id="2XXx144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="13495" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="13534" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx145">
+        <infon key="type">OTHER</infon>
+        <location offset="13654" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="13699" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx147">
+        <infon key="type">OTHER</infon>
+        <location offset="13769" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13842</offset>
+      <text>The voltage sensitivity of NMDA currents depends predominantly on the voltage dependence of Mg2+ block of the receptors [29,30]. The voltage sensitivity of the agonist activated NMDA receptors in our experiments was quantified by dividing g(-90 mV) with g(MIC). The ratio was then compared to the value derived from heterologous expression data using specific NR1 and NR2 subunit combinations. From such data we calculated that NMDA receptors containing NR1/NR2A or NR1/NR2B show g(-90 mV)/g(MIC) ratios of about 0.07 and that their VMIC is between -37 and -40 mV. Conversely, NMDA receptors containing NR1/NR2C or NR1/NR2D have ratios around 0.39 and VMICs around -52 to -57 mV (extracted from Kuner et al. [6]). Thus, for example, lower g(-90 mV)/g(MIC) ratios near 0.07 and less negative VMICs indicate expression of NR2A/B-containing NMDA receptors with high Mg2+ sensitivity.</text>
+      <annotation id="245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="13869" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="13934" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx151">
+        <infon key="type">OTHER</infon>
+        <location offset="14020" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx152">
+        <infon key="type">OTHER</infon>
+        <location offset="14270" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="216">
+        <infon key="type">OTHER</infon>
+        <location offset="14419" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="217">
+        <infon key="type">OTHER</infon>
+        <location offset="14680" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="14705" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14723</offset>
+      <text>In Figure 2A, the control response of an NK1R+ neuron to 15 μM NMDA is shown. The ramp response recorded when the agonist response to NMDA was at its greatest is plotted at the bottom. The value of the g(-90 mV)/g(MIC) ratio is 0.2. This is intermediate between the values for receptors that include NR2A/B and NR2C/D subunits suggesting that NMDA receptors with both types of NR2 subunits are present on this NK1R+ lamina I neuron. The VMIC value (-48 mV in this example) is also intermediate between the VMIC values of NR2A/B and NR2C/D subunits, supporting the interpretation that the NMDA receptors expressed by this NK1R+ neuron are heterogeneous in NR2 subtype expression.</text>
+      <annotation id="2XXx155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="14786" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="14857" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx157">
+        <infon key="type">OTHER</infon>
+        <location offset="15066" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx158">
+        <infon key="type">OTHER</infon>
+        <location offset="15311" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>15403</offset>
+      <text>The voltage-dependence of NMDA receptor-mediated currents is a good indicator of NMDA receptor subtype expression.A-C show current responses to NMDA bath applied to the same NK1R+ neuron as in Figure 1. (A) NMDA-evoked current response is the same as in Figure 1. (B) Co-application of NMDA and UBP141, an NR2C/D preferring antagonist, induced a smaller inward current. The I-V relationship shows a more pronounced negative slope conductance. (C) Co-application of NMDA and EAB318, an NR2A/B preferring antagonist, induced NMDA receptor-mediated current with less negative slope conductance.</text>
+      <annotation id="250">
+        <infon key="type">OTHER</infon>
+        <location offset="15429" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx162">
+        <infon key="type">OTHER</infon>
+        <location offset="15484" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="15547" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="15610" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="15689" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="15698" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="15868" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="15877" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="256">
+        <infon key="type">OTHER</infon>
+        <location offset="15926" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15995</offset>
+      <text>Although most of the extracellular Ca2+ was replaced with Ba2+ in these experiments, it was still possible that the remaining bath Ca2+ or Ca2+ released from endoplasmic reticulum (ER) was sufficient to trigger activation of other currents, altering g(-90 mV)/g(MIC) ratio and VMIC values. In 9 of 15 cells recorded, intracellular solution containing 40 mM BAPTA was used to fully suppress accumulation of intracellular Ca2+ associated with NMDA receptor activation. There was no significant difference between the g(-90 mV)/g(MIC) values when recording with BAPTA or EGTA intracellular solutions. Thus the data from these two groups were pooled.</text>
+      <annotation id="2XXx168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="16030" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001464</infon>
+        <location offset="16053" length="4"/>
+        <text>Ba2+</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="16126" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="16134" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C025603</infon>
+        <location offset="16352" length="5"/>
+        <text>BAPTA</text>
+      </annotation>
+      <annotation id="2XXx173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="16415" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="257">
+        <infon key="type">OTHER</infon>
+        <location offset="16436" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C025603</infon>
+        <location offset="16554" length="5"/>
+        <text>BAPTA</text>
+      </annotation>
+      <annotation id="2XXx175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004533</infon>
+        <location offset="16563" length="4"/>
+        <text>EGTA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16642</offset>
+      <text>Pharmacological test of NR2 subunit confirms the expression of NR2A/B and NR2C/D type NMDA receptors</text>
+      <annotation id="258">
+        <infon key="type">OTHER</infon>
+        <location offset="16728" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16743</offset>
+      <text>Next we used pharmacology to confirm that g(-90 mV)/g(MIC) ratio and VMIC are good indicators of NMDA receptor subtypes expressed by dorsal horn neurons. EAB318 (100 – 200 nM) and UBP141 (20–30 μM) block different NMDA receptor subtypes: UBP141 [28] is a mildly selective NR2C/D preferring antagonist while EAB318 is a NR2A/B selective blocker [27]. If both categories of NR2 subtypes are present, EAB318 should make the NMDA evoked current more NR2C/D like and UBP141 should make the current more NR2A/B like. As predicted, when NMDA was co-applied with UBP141, the current-voltage relationship had a smaller g(-90 mV)/g(MIC) ratio and less negative VMIC (Figure 2A and 2B). This suggests that in the presence of UBP141, a higher proportion of NR2A/B type NMDA receptors dominate the current. When NMDA was co-applied with EAB318, the current voltage relationship shifted to a larger g(-90 mV)/g(MIC) ratio and a more negative VMIC, suggesting that a higher proportion of NR2C/D type NMDA receptors were revealed (Figure 2C).</text>
+      <annotation id="2XXx187">
+        <infon key="type">OTHER</infon>
+        <location offset="16840" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="16897" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="16923" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="260">
+        <infon key="type">OTHER</infon>
+        <location offset="16957" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="16981" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="17050" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="17141" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="17164" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="17205" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="17273" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="17298" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="17457" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx191">
+        <infon key="type">OTHER</infon>
+        <location offset="17500" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="17542" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="17567" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="2XXx193">
+        <infon key="type">OTHER</infon>
+        <location offset="17728" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17775</offset>
+      <text>To ensure that the shift of g(-90 mV)/g(MIC) ratio and VMIC were genuinely associated with selective block of a subpopulation of NMDA receptors and not simply caused by errors associated with measuring smaller amplitude NMDA evoked currents, the relationship between g(-90 mV)/g(MIC) and NMDA evoked current amplitude was plotted as in Figure 3A. As the NMDA plus antagonists washed onto the dorsal horn neuron under study, the impact of the two antagonists on g(-90 mV)/g(MIC) were different. UBP141 depressed the amplitude of NMDA evoked currents and g(-90 mV)/g(MIC) values. EAB318 also depressed the amplitude of NMDA evoked current but caused a large shift to higher g(-90 mV)/g(MIC) values. In the two situations, UBP141 and EAB318 depressed the peak amplitudes of NMDA induced currents from -306 ± 48 to -130 ± 222 pA (n = 15, p &lt; 0.01 for paired t-test) and -108 ± 16 pA (n = 15, p &lt; 0.01 for paired t-test) respectively. Figure 3B shows the individual and mean g(-90 mV)/g(MIC) ratios determined when NMDA evoked currents were maximal under different drug conditions. UBP141 significantly decreased the g(-90 mV)/g(MIC) ratio from 0.23 ± 0.03 to 0.15 ± 0.01 (n = 15, p &lt; 0.01 for paired t-test) while EAB318 significantly increased the ratio from 0.23 ± 0.03 to 0.36 ± 0.05 (n = 15, p &lt; 0.01 for paired t-test) (see Methods). The upper and lower broken horizontal lines represent the g(-90 mV)/g(MIC) for pure NR2A/B and NR2C/D-containing NMDA receptors respectively as calculated using the data of Kuner and Schoepfer [6]. Comparing our data to these benchmarks shows that the two antagonists are pushing the g(-90 mV)/g(MIC) values in the directions predicted from heterologous expression data, assuming both types of subunits are present in the neuron tested.</text>
+      <annotation id="266">
+        <infon key="type">OTHER</infon>
+        <location offset="17904" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="17995" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="18063" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="18129" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="18269" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="18303" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="18353" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="18392" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="18495" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="18506" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="18546" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="18785" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="18852" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="18985" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="392">
+        <infon key="type">OTHER</infon>
+        <location offset="19223" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>19554</offset>
+      <text>The NMDA g(-90 mV)/g(MIC) ratio is not a function of the amplitude of NMDA-evoked membrane current. (A) The g(-90 mV)/g(MIC) ratio was calculated for each test ramp throughout NMDA applications in the absence and presence of antagonists and plotted as a function of NMDA-evoked current amplitude. (B) Summary of the antagonist effects on the g(-90 mV)/g(MIC) ratio. (C) The VMIC was calculated for each test ramp throughout NMDA applications in the absence and presence of antagonists and plotted as a function of NMDA-evoked current amplitude for the same data as (A). (D) Summary of the antagonist effects on the VMIC (n = 15). (E) The same data as in (B) but grouped according to the sequences of drug application.</text>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="19558" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="19624" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="19730" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="19820" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="19978" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="20068" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20272</offset>
+      <text>We also analyzed VMICs under different drug conditions. Figure 3C, calculated from the same data as Figure 3A, shows the action of the two antagonists on VMIC. As expected, UBP141 caused the VMIC to become somewhat more positive or more NR2A/B like, while EAB318 caused the VMIC to become more negative or more NR2C/D like. Figure 3D is the summary showing that UBP141 significantly shifted the mean VMIC, measured when the currents evoked by NMDA were maximal (see Methods), from -50 ± 2 mV to -45 ± 2 mV (n = 15, p &lt; 0.01 for paired t-test) while EAB318 significantly changed the mean VMIC to -53 ± 2 mV (n = 15, p &lt; 0.05 for paired t-test).</text>
+      <annotation id="372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="20445" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="20528" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="20634" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="20715" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="20821" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20919</offset>
+      <text>To rule out the possibility that the sequence of antagonist co-application with NMDA may have some effects on the g(-90 mV)/g(MIC) ratio, we grouped the experiments according to the order of drug application. In 9 of 15 cells tested, UBP141 was co-applied with NMDA before EAB318 co-application with NMDA. In 6 of 15 cells tested, UBP141 was co-applied after EAB318. UBP141 significantly decreased the g(-90 mV)/g(MIC) from 0.23 ± 0.04 to 0.13 ± 0.02 (n = 9, p &lt; 0.01 for paired t-test) and EAB318 significantly increased the g(-90 mV)/g(MIC) from 0.23 ± 0.04 to 0.37 ± 0.07 (n = 9, p &lt; 0.01 for paired t-test) when UBP141 was applied first (Figure 3E left side). Similarly, EAB318 significantly increased the g(-90 mV)/g(MIC) from 0.23 ± 0.04 to 0.33 ± 0.06 (n = 6, p &lt; 0.05 for paired t-test) and UBP141 significantly decreased the g(-90 mV)/g(MIC) from 0.23 ± 0.04 to 0.17 ± 0.02 (n = 6, p &lt; 0.05 for paired t-test) when EAB318 was applied earlier (Figure 3E right side).</text>
+      <annotation id="2XXx230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="20999" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="21153" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21180" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="21192" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="2XXx231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="21219" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="21250" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="21278" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="21286" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="21410" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="21535" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="21594" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="21718" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="21843" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21902</offset>
+      <text>Comparison of NMDA receptor types between NK1R+ and NK1R- neurons</text>
+      <annotation id="2XXx233">
+        <infon key="type">OTHER</infon>
+        <location offset="21916" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21968</offset>
+      <text>Having verified that these two approaches, Mg2+ sensitivity and pharmacological blockade, allowed us to distinguish different NMDA receptor subtypes, we asked if NK1+ and NK1- neurons differed in the proportions of NR2A/B and NR2C/D containing receptors that they expressed. Indeed, although co-application of NMDA with either UBP141 or EAB318 significantly changed the g(-90 mV)/g(MIC) ratios, the ratio changes were not the same for all neurons tested. Figure 4A1 shows the UBP141-induced change in the g(-90 mV)/g(MIC) ratio in individual lamina I neurons pre-identified as either NK1R+ or NK1R- neurons. The g(-90 mV)/g(MIC) ratios of most neurons showed high sensitivity to UBP141, suggesting that most dorsal horn neurons express some NMDA receptors that include NR2C/D subunits. On average, NK1R+ neurons had a significantly higher g(-90 mV)/g(MIC) ratio than NK1R- neurons (0.26 ± 0.03, n = 11 v.s. 0.16 ± 0.02, n = 4, p &lt; 0.05 for unpaired t-test), indicating that in these neurons, a higher percentage of NMDA receptors include NR2C/D subunits than in NK1R- neurons (Figure 4A2).</text>
+      <annotation id="131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="22011" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx239">
+        <infon key="type">OTHER</infon>
+        <location offset="22094" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="22278" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="22295" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="22305" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="22444" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="22647" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="2XXx241">
+        <infon key="type">OTHER</infon>
+        <location offset="22709" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">OTHER</infon>
+        <location offset="22983" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>23060</offset>
+      <text>NK1R+ neurons express higher proportion of NMDA receptors with NR2C/D subunits than do NK1R- neurons. (A1) Individual NK1R+ and NK1R- neurons showed different degree of g(-90 mV)/g(MIC) ratio decrease following exposure to UBP141. (A2) Overall, NK1R+ neurons show significantly higher g(-90 mV)/g(MIC) ratio than NK1R- neurons (p &lt; 0.05). (B1) Individual NK1R+ and NK1R- neuron showed increased g(-90 mV)/g(MIC) ratio when NMDA was applied in the presence of EAB318. (B2) In summary, EAB318 significantly increased g(-90 mV)/g(MIC) ratios in both NK1R+ and NK1R- lamina I neurons.</text>
+      <annotation id="2XXx246">
+        <infon key="type">OTHER</infon>
+        <location offset="23103" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="23283" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="23483" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="23519" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="23544" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23641</offset>
+      <text>To confirm this observation, we also observed the effect of EAB318 on the g(-90 mV)/g(MIC) ratio of individual neurons in Figure 4B1. EAB318 increased the g(-90 mV)/g(MIC) ratio in most, but not all dorsal horn neurons tested, again suggesting that most of them expressed NMDA receptors with both high and low Mg2+ sensitivity, consistent with the data of UBP141. On average, EAB318 caused the g(-90 mV)/g(MIC) ratio measured from NK1R+ neurons to become more NR2C/D like than from NK1R- neurons (Figure 4B2), consistent with the interpretation that NK1R+ neurons express a higher percentage of NMDA receptors with NR2C/D subunits.</text>
+      <annotation id="354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="23701" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="2XXx250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="23775" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="291">
+        <infon key="type">OTHER</infon>
+        <location offset="23913" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="23951" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="23997" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="24017" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">OTHER</infon>
+        <location offset="24236" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>24273</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24284</offset>
+      <text>We have identified NMDA receptor subtypes expressed by two populations of dorsal horn neurons; NK1R+ and NK1R- lamina I neurons. Based on our experiments, both highly Mg2+ sensitive (NR2A/B) and poorly Mg2+ sensitive (NR2C/D) NMDA receptors are expressed by NK1R+ neurons. NR2C/D subunits are less strongly expressed by NK1R- lamina I neurons and therefore the NR2A/B receptor subtypes dominate more strongly there.</text>
+      <annotation id="2XXx257">
+        <infon key="type">OTHER</infon>
+        <location offset="24303" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="24451" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="24486" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">OTHER</infon>
+        <location offset="24510" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24700</offset>
+      <text>Ratio assay confirmed by pharmacology</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24738</offset>
+      <text>The main approach for identification of NR2 subunit expression by different neurons in our study was to establish and apply a ratio assay for NMDA receptor-mediated currents recorded in 100 μM Mg2+. After identifying conditions to minimize the change of the g(-90 mV)/g(MIC) ratio during activation of NMDA receptors, including recording in the presence of Ba2+ and using low concentrations of agonist, it was possible to repeatedly measure the g(-90 mV)/g(MIC) throughout the duration of NMDA application with minimal variation in the ratio in many of the neurons tested. The ratio values observed, particularly in NK1R+ neurons, indicated that functional receptors composed of NR2A/B and NR2C/D subunits are present. The reversible shift of the ratios to larger values in the presence of the NR2A/B antagonist, EAB318, and to smaller values in the presence of the NR2C/D preferring antagonist, UBP141, confirm this interpretation. In addition, the action of these drugs in shifting the measured g(-90 mV)/g(MIC) ratio in the predicted direction strongly supports the use of this ratio assay to identify natively expressed NR2 subunits.</text>
+      <annotation id="2XXx263">
+        <infon key="type">OTHER</infon>
+        <location offset="24880" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="24931" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx264">
+        <infon key="type">OTHER</infon>
+        <location offset="25040" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001464</infon>
+        <location offset="25095" length="4"/>
+        <text>Ba2+</text>
+      </annotation>
+      <annotation id="2XXx265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="25227" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="25551" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="25634" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25877</offset>
+      <text>NR2A/B and NR2C/D subunits expressed by subpopulations of lamina I neurons</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25952</offset>
+      <text>While published evidence suggests expression of both NR2A/B and NR2C/D subunit types in the dorsal horn generally, our data, collected on subpopulations of lamina I neurons, show cell specific differences. Previous reports indicate that NMDA receptors with NR2A and NR2B subunits are expressed in superficial dorsal horn based on in situ hybridization [31-33], single cell PCR [34] and immunostaining [14,35,36] studies. Our observations show strong evidence of NR2A and/or NR2B expression in both NK1R+ and NK1R- lamina I neurons. Earlier studies suggest that NR2D mRNA is expressed by many and NR2C mRNA by few dorsal horn neurons [34]. In addition, more NR2D mRNA is expressed in adult dorsal horn and embryonic spinal cord than NR2C mRNA [5,37,38]. Further support for the presence of NR2D is that NMDA receptors with NR2D-like single channel conductance have been reported for lamina II neurons in rat dorsal horn [39,40]. Based on our experiments, we have found that NK1R+ neurons express NR2C/D subunits more strongly than the NK1R- neurons. While it remains uncertain which NMDA receptors with low Mg2+ sensitivity are expressed by these lamina I neurons, NR2D is the best candidate.</text>
+      <annotation id="2XXx267">
+        <infon key="type">OTHER</infon>
+        <location offset="26189" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx268">
+        <infon key="type">OTHER</infon>
+        <location offset="26754" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx269">
+        <infon key="type">OTHER</infon>
+        <location offset="27034" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="27058" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27144</offset>
+      <text>NK1R+ lamina I neurons represent a comparatively uniform population of neurons that are predominantly projection neurons [21]. The NK1R- neuron population is heterogeneous, including inhibitory and excitatory interneurons as well as a small population of NK1R- projection neurons [41]. Within the NK1R- population of neurons, some of the variability of NR2 subunit identity may represent different receptor configurations on different subpopulations of dorsal horn neurons.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27618</offset>
+      <text>At the whole cell level, particularly for NK1R+ neurons, we have evidence that NMDA receptors with NR2C/D subunits are present. NMDA receptors with these less Mg2+ sensitive NR2 subunits could be expressed at synapses, extrasynaptically or both. Momiyama (2000) has suggested an extrasynaptic localization of NR2D containing NMDA receptors by lamina II neurons in the dorsal horn. Because of their higher binding affinity with glutamate, these extrasynaptic receptors may be more sensitive to ambient glutamate levels in the extracellular space that could accumulate due to glial release [42,43], spill over associated with high amounts of activity, and to injury [44]. Activation of these receptors would be expected to have a potent impact on neuronal cell function due to their lowered Mg2+ sensitivity, prolonged time over which they open following glutamate binding, and lack of desensitization [5,6,45].</text>
+      <annotation id="2XXx275">
+        <infon key="type">OTHER</infon>
+        <location offset="27697" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="302">
+        <infon key="type">OTHER</infon>
+        <location offset="27746" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="27777" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="2XXx277">
+        <infon key="type">OTHER</infon>
+        <location offset="27943" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="28045" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="2XXx272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="28119" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="2XXx273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="28407" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="28471" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28528</offset>
+      <text>Other factors that could influence NMDA receptor conductance ratio</text>
+      <annotation id="2XXx278">
+        <infon key="type">OTHER</infon>
+        <location offset="28563" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28595</offset>
+      <text>One concern with our approach to NR2 subunit identification is the possibility that changes in membrane currents secondary to NMDA receptor activation will alter the g(-90 mV)/g(MIC). It is because of this concern that we have recorded in low Ca2+ solution with added Ba2+ and limited our analysis to those neurons showing no change in g(-90 mV)/g(MIC) while NMDA washes on and off the spinal cord slices. Even more importantly, we have used pharmacological tools as an independent test of subunit composition under these carefully controlled drug application conditions. In some of the neurons excluded from these studies, NMDA-induced currents showed strongly increased g(-90 mV)/g(MIC) ratios during wash-out of NMDA (data not shown). The underlying mechanism for this is not clear. For the data that met the criteria for our study, we have confirmed identification of subunit composition by the use of NMDA receptor specific compounds to alter conductance ratio in predictable ways. The opposing effects of EAB318 and UBP141 on g(-90 mV)/g(MIC) supports our interpretation of conductance ratio in terms of subunit composition.</text>
+      <annotation id="2XXx283">
+        <infon key="type">OTHER</infon>
+        <location offset="28721" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002118</infon>
+        <location offset="28838" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="2XXx280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001464</infon>
+        <location offset="28863" length="4"/>
+        <text>Ba2+</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="28954" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="29219" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="2XXx286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016202</infon>
+        <location offset="29310" length="4"/>
+        <text>NMDA</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">OTHER</infon>
+        <location offset="29501" length="13"/>
+        <text>NMDA receptor</text>
+      </annotation>
+      <annotation id="2XXx281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="29606" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+      <annotation id="385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="29617" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>29726</offset>
+      <text>Significance</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29739</offset>
+      <text>We have taken advantage of the Mg2+ sensitivity of NMDA receptors to identify NMDA receptors of different NR2 subunits in identified subpopulations of lamina I neuorns and confirmed this with pharmacology. We show that individual neurons express NMDA receptors with different NR2 subunits at different ratios. When comparing identified populations of lamina I neurons, NK1R+ neurons express a higher mean ratio of NR2C/D type NMDA receptors compared with NK1R- neurons. NR2D has been suggested to have a role in the development of allodynia or hyperalgesia in several different pain models [12] and lamina I, NK1R+ neurons are importantly involved in the expression of allodynia [46]. In this context, it is possible that these receptors may contribute to development of NR2D-dependent allodynia.</text>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="29770" length="4"/>
+        <text>Mg2+</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">OTHER</infon>
+        <location offset="29790" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx290">
+        <infon key="type">OTHER</infon>
+        <location offset="29817" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="311">
+        <infon key="type">OTHER</infon>
+        <location offset="29985" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+      <annotation id="2XXx292">
+        <infon key="type">OTHER</infon>
+        <location offset="30165" length="14"/>
+        <text>NMDA receptors</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30536</offset>
+      <text>Competing interests</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30556</offset>
+      <text>The authors declare that they have no competing interests.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30615</offset>
+      <text>Authors' contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30638</offset>
+      <text>CKT, EJK and ABM conceived and designed the experiments. CKT and ABM analyzed the data and wrote the manuscript. CKT carried out the experiments. EJK provided the essential compounds UBP141 and EAB318. All authors read and approved the final manuscript.</text>
+      <annotation id="386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010616,MESH:D010879,MESH:D002264</infon>
+        <location offset="30821" length="6"/>
+        <text>UBP141</text>
+      </annotation>
+      <annotation id="359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C498147</infon>
+        <location offset="30832" length="6"/>
+        <text>EAB318</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

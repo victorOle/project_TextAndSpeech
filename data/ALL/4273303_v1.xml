@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4273303</id>
+    <passage>
+      <infon key="name_3">surname:Banaszak-Léonard;given-names:Estelle</infon>
+      <infon key="article-meta">10.3762/bjoc.10.304</infon>
+      <infon key="name_2">surname:Buchotte;given-names:Marie</infon>
+      <infon key="name_1">surname:Blaszkiewicz;given-names:Claire</infon>
+      <infon key="name_0">surname:Hamon;given-names:Florian</infon>
+      <infon key="article-id_pmid">25550753</infon>
+      <infon key="notes">This article is part of the Thematic Series "Superstructures with cyclodextrins: Chemistry and applications II".</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_pmc">4273303</infon>
+      <infon key="article-id_doi">10.3762/bjoc.10.304</infon>
+      <infon key="type">front</infon>
+      <infon key="lpage">2885</infon>
+      <infon key="fpage">2874</infon>
+      <infon key="volume">10</infon>
+      <infon key="license">This is an Open Access article under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.The license is subject to the Beilstein Journal of Organic Chemistry terms and conditions: (http://www.beilstein-journals.org/bjoc)</infon>
+      <infon key="name_10">surname:Djedaini-Pilard;given-names:Florence</infon>
+      <infon key="name_11">surname:Wenz;given-names:Gerhard</infon>
+      <infon key="kwd">azobenzene cyclodextrins inclusion complex photoisomerization switchable binding behavior</infon>
+      <infon key="name_9">surname:Len;given-names:Christophe</infon>
+      <infon key="name_8">surname:Bouteiller;given-names:Laurent</infon>
+      <infon key="name_7">surname:Cézard;given-names:Christine</infon>
+      <infon key="name_6">surname:Monflier;given-names:Eric</infon>
+      <infon key="name_5">surname:Tilloy;given-names:Sébastien</infon>
+      <infon key="name_4">surname:Bricout;given-names:Hervé</infon>
+      <offset>0</offset>
+      <text>Synthesis and characterization of a new photoinduced switchable β-cyclodextrin dimer</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="64" length="14"/>
+        <text>β-cyclodextrin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>88</offset>
+      <text>Summary</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>96</offset>
+      <text>This paper reports an efficient preparation of bridged bis-β-CD AZO-CDim 1 bearing azobenzene as a linker and exhibiting high solubility in water. The photoisomerization properties were studied by UV–vis and HPLC and supported by ab initio calculations. The cis/trans ratio of AZO-CDim 1 is 7:93 without irradiation and 37:63 after 120 min of irradiation at 365 nm; the reaction is reversible after irradiation at 254 nm. The photoinduced, switchable binding behavior of AZO-CDim 1 was evaluated by ITC, NMR and molecular modeling in the presence of a ditopic adamantyl guest. The results indicate that AZO-CDim 1 can form two different inclusion complexes with an adamantyl dimer depending on its photoinduced isomers. Both cavities of cis-AZO-CDim 1 are complexed simultaneously by two adamantyl units of the guest forming a 1:1 complex while trans-AZO-CDim 1 seems to lead to the formation of supramolecular polymers with an n:n stoichiometry.</text>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="151" length="8"/>
+        <text>bis-β-CD</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="160" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="179" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="236" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="373" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="567" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="656" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="699" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="761" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="833" length="14"/>
+        <text>cis-AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="884" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="941" length="16"/>
+        <text>trans-AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1046</offset>
+      <text>  </text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1049</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1062</offset>
+      <text>α-, β- or γ-Cyclodextrins (CDs) are cyclic oligosaccharides composed of 6, 7 or 8 α-D-1,4 glucopyranose moieties, respectively. They are natural compounds produced from starch by the reaction of 4-α-glucanotransferases [1]. Their toroidal shape, with C6-primary hydroxy groups on the narrow rim and C2 and C3 secondary groups on the wider rim, enables encapsulation of hydrophobic molecules inside their cavity. Since the 1950s, it has been demonstrated that CDs can form non-covalent-force complexes in water due to their unique spatial arrangement. In particular, β-cyclodextrin (β-CD) is known to form supramolecular inclusion complexes with molecules, and such inclusion usually enhances the solubility of water-insoluble substances [1–4]. Pharmaceutical companies already use these cyclodextrins or their derivatives in their formulations [5–6]. In fact, they have a well-defined structure, low toxicological or pharmacological activity, and good solubility in water. For example, the inclusion of active substances in CDs can reduce their undesirable storage or metabolism degradation, which has led research on CDs to focus on controlled drug delivery [4]. In the food industry, CDs enable the fixation or retention of volatile flavors, as well as the removal of undesirable flavors from food [7–8].</text>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047391,MESH:D047392,MESH:D047408</infon>
+        <location offset="1062" length="25"/>
+        <text>α-, β- or γ-Cyclodextrins</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="1089" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009844</infon>
+        <location offset="1105" length="16"/>
+        <text>oligosaccharides</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005936,MESH:D005936</infon>
+        <location offset="1134" length="31"/>
+        <text>6, 7 or 8 α-D-1,4 glucopyranose</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013213</infon>
+        <location offset="1231" length="6"/>
+        <text>starch</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031356</infon>
+        <location offset="1324" length="7"/>
+        <text>hydroxy</text>
+      </annotation>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="1521" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="1566" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="1628" length="14"/>
+        <text>β-cyclodextrin</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="1644" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="1772" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="1849" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="2028" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2086" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2180" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2248" length="3"/>
+        <text>CDs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2394</offset>
+      <text>In comparison with CD monomers, bridged bis-cyclodextrins can improve the original binding ability of native CDs through the cooperative binding of both cavities located close to the guest molecules [9–10]. These cyclodextrins linked by ester [11], thioether [12–16], urea [17–19], or triazole [20] moieties have been previously described. In addition, aromatic azobenzenes are excellent candidates as molecular switch linkers as they have two forms, namely cis (Z) and trans (E) isomers, which can be interconverted by both photochemical and thermal means [21]. This transformation by external stimuli induces a molecular movement and a significant geometric change [22–23]. CDs and azobenzene derivatives can form inclusion complexes controlled by photoisomerization of the guests and this property has been widely applied to molecular shuttles, motors, information storage [24–25] and catalysis [26].</text>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2413" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2434" length="17"/>
+        <text>bis-cyclodextrins</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2503" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="2607" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004952</infon>
+        <location offset="2631" length="5"/>
+        <text>ester</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013440</infon>
+        <location offset="2643" length="9"/>
+        <text>thioether</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014508</infon>
+        <location offset="2662" length="4"/>
+        <text>urea</text>
+      </annotation>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014230</infon>
+        <location offset="2679" length="8"/>
+        <text>triazole</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="2756" length="11"/>
+        <text>azobenzenes</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="3070" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="3078" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3308</offset>
+      <text>Some examples of azobenzene-linked CD dimers can be found in the literature but they generally suffer from arduous purification steps and very low yields [27–28]. As an exception, Vargas et al. [29] described the synthesis of 1,2,3-triazole-linked azobenzene-cyclodextrin derivatives producing rather good yields but the photoisomerization and inclusion complex properties were not investigated. Here, we report an efficient preparation of a new bis-β-CD with azobenzene dicarboxylate and the influence of photoisomerization of the linker on the conformation and binding behavior of the CD dimer.</text>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="3325" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="3343" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014230</infon>
+        <location offset="3534" length="14"/>
+        <text>1,2,3-triazole</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="3556" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="3567" length="12"/>
+        <text>cyclodextrin</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="3754" length="8"/>
+        <text>bis-β-CD</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="3768" length="24"/>
+        <text>azobenzene dicarboxylate</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="3895" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>3908</offset>
+      <text>Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3931</offset>
+      <text>The AZO-CDim 1 synthesis was performed as follows: 4,4’-azobenzenedicarboxylic acid was first obtained by reductive coupling of 4-nitrobenzoic acid with a yield of 49% (Scheme 1) [30]. Then, the carboxylic groups were activated by N-hydroxysuccinimide (NHS) and condensed with mono-6-amino-6-deoxy-β-cyclodextrin (β-CD-NH2) [31] in anhydrous DMF at room temperature. Flash chromatography (C18 column, H2O/MeOH 90:10 to 10:90 v/v in 20 min) afforded pure AZO-CDim 1 with 62% yield.</text>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="3935" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="3982" length="32"/>
+        <text>4,4’-azobenzenedicarboxylic acid</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008629</infon>
+        <location offset="4059" length="19"/>
+        <text>4-nitrobenzoic acid</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002264</infon>
+        <location offset="4126" length="10"/>
+        <text>carboxylic</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001426</infon>
+        <location offset="4162" length="20"/>
+        <text>N-hydroxysuccinimide</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001426</infon>
+        <location offset="4184" length="3"/>
+        <text>NHS</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="4208" length="35"/>
+        <text>mono-6-amino-6-deoxy-β-cyclodextrin</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="4245" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004126</infon>
+        <location offset="4273" length="3"/>
+        <text>DMF</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="4332" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="4336" length="4"/>
+        <text>MeOH</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="4385" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>4418</offset>
+      <text>Synthesis pathway of the dimer AZO-CDim 1.</text>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="4449" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4461</offset>
+      <text>It should be noted that AZO-CDim 1 exhibits surprisingly high solubility in water, reaching 220 mM at 293 K, even though the linker is hydrophobic and the solubility of β-CD is only 16 mM under the same conditions. Concentration-variable NMR analysis revealed a strong upfield shift and a broadening of the proton signals. No significant chemical shift variations were observed at concentrations below 1 mM, which is consistent with a critical aggregation concentration of around 1·10−3 M.</text>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="4485" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="4537" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="4630" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4955</offset>
+      <text>The UV–vis absorption spectrum of azobenzene presents three characteristic absorption bands (250, 320 and 450 nm) corresponding to π–π* and n–π* electronic transitions, respectively. For the trans isomer, the absorption band π–π* at 320 nm is very intense while the other two bands (π–π*) at 250 nm and (n–π*) at 420 nm are much weaker. For the cis isomer, the absorption band π–π* is shifted slightly to a shorter wavelength and is significantly less intense at 320 nm. Because the n–π* transition is possible in the cis isomer, this band increases in intensity [22–23]. A molecular switch is based on the light-induced, reversible transformation of chemical species between two molecular states with different absorption spectra. Thus, the trans/cis isomerization can be reversibly controlled through UV light irradiation as depicted in Fig. 1. As shown in Fig. 1, when a sample containing AZO-CDim 1 in pure water at room temperature was UV irradiated at 365 nm, it switched from its trans to its cis form resulting in a marked change in the UV–vis spectra. As the irradiation continued, the absorption band at around 320 nm gradually decreased while the bands at 420 nm and 250 nm slightly increased. This change is clearly due to the simple, but partial, isomerization of the azo groups from the trans photoisomer to the cis photoisomer [21]. The maximum isomerization yield was obtained after 120 min of irradiation at 365 nm.</text>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="4989" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="5847" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="5866" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="6236" length="3"/>
+        <text>azo</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>6419</offset>
+      <text>Overlaid UV spectra of the irradiation of AZO-CDim 1 (a) from 0 to 120 min at 365 nm and then (b) from 0 to 90 min at 254 nm; (c = 10−4 M, water, 6 W lamp).</text>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="6461" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6558" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6578</offset>
+      <text>The reaction is reversible and when irradiated at 254 nm (Fig. 1), the cis isomer of AZO-CDim 1 gradually returned to its trans form, and the maximum isomerization yield was obtained after 90 min of irradiation. Both isomers could be separated by HPLC (Dionex, H2O/MeCN 90:10) and the cis/trans ratio of AZO-CDim 1 before irradiation (7:93) and after 2 h of irradiation (37:63) at 365 nm was determined (Fig. 2). Although each isomer could not be obtained in pure form, as is often the case for many azoderivatives [32], the isomerization efficiency is better than the cis/trans ratio of 14:86 after irradiation described by Liu [27].</text>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="6663" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="6839" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="6843" length="4"/>
+        <text>MeCN</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="6882" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="7078" length="14"/>
+        <text>azoderivatives</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7213</offset>
+      <text>HPLC quantification of the cis/trans ratio of AZO-CDim 1 before irradiation (left) and after irradiation at 365 nm (2 h, 6 W lamp) (right).</text>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="7259" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7353</offset>
+      <text>Both isomers of AZO-CDim 1 have an appreciable resistance to fatigue thus the irradiation cycle could be carried out several times without causing side effects, as shown in Fig. 3.</text>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="7369" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7534</offset>
+      <text>Percentage of cis isomer of AZO-CDim 1 produced during photoisomerization cycles (c = 10−4 M, water). A cycle consists of irradiation at 365 nm for 2 h followed by irradiation at 254 nm for 1 h.</text>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="7562" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="7628" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7731</offset>
+      <text>Ab initio calculations were also performed but the cis/trans transition was not observed since molecular modeling methods are unable to break bonds. In order to collect data on this phenomenon, the two configurations of the system had to be taken into account separately. Thus, ab initio calculations were performed on the two configurations of the azobenzene linker, the so-called 4,4’-bis(N-methylcarboxamide)azobenzene linker, to determine the structures of minimal energy (Fig. 4 and Fig. 4). Once optimized, the measured C4–C4’ distances were 9.1 and 6.6 Å for the trans and cis configurations, respectively, and the C–N=N–C dihedral angles were 180° and −10°, respectively. These results are comparable to those obtained by Koshima et al. [33–34] on crystal structures where intermolecular packing effects might be important. From these calculations, the geometrical force field parameters needed for molecular dynamics simulations were derived.</text>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="8080" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="8113" length="39"/>
+        <text>4,4’-bis(N-methylcarboxamide)azobenzene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>8700</offset>
+      <text>Representation of the most stable structures obtained for the azobenzene linker (a) for the trans configuration and (b) for the cis one and for the AZO-CDim 1 systems (c) for the trans configuration and (d) for the cis one.</text>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="8762" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="8848" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8924</offset>
+      <text>Molecular dynamics simulations performed on the two configurations of AZO-CDim 1 highlighted the rigidity of the linker, which governs the relative position of the two CD cavities. The trajectories, corresponding to 50,000 snapshots, were clustered into thirty representative conformations. The most stable structure of these thirty representative conformations for each configuration is shown in Fig. 4 and Fig. 4. It should be kept in mind that although the linker is quite rigid, the two CD cavities can rotate and move around the azobenzene axis. Throughout the simulations, the C4–C4’ distances and the C–N=N–C dihedral angles did not fluctuate much. The C–C average value was 8.9 ± 0.1 and 5.8 ± 0.3 Å and the C–N=N–C dihedral angle was 175.1 ± 4.8 and −6.3 ± 5.4° for the trans and cis configurations, respectively.</text>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="8994" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="9092" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="9415" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="9458" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9769</offset>
+      <text>In these conditions, using azobenzene as a linker between two β-CD can lead to a modulation of the inclusion properties, such as a cooperative effect. The cavity of each CD is available to form an inclusion complex with a hydrophobic guest molecule. Among these, adamantane is known to be an excellent guest for the β-CD cavity, with an association constant K a ranging from 2·104 M−1 to 4·104 M−1 [35]. This is because the adamantyl residue fits perfectly inside the β-CD cavity. In this present work, we investigated how the affinity between the dimer of adamantane and switchable AZO-CDim 1 may be influenced by the cis/trans ratio of the host molecule. For this purpose, we synthesized the adamantyl dimer EDTA bis-1-aminoadamantyldiamide disodium salt, ADAdim 4, as described by Vasquez Tato et al. [36] (Fig. 5). These authors showed that the single interaction between one binding site of the ditopic guest ADAdim 4 and one binding site of a particular β-CD dimer, bearing a terephthalic acid linker, was independent of the number of binding sites, that is, no cooperative effect was observed and a supramolecular polymer was formed.</text>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="9796" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="9831" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="9939" length="2"/>
+        <text>CD</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="10032" length="10"/>
+        <text>adamantane</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="10085" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="10193" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="10237" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="10326" length="10"/>
+        <text>adamantane</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="10352" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="10463" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="10479" length="46"/>
+        <text>EDTA bis-1-aminoadamantyldiamide disodium salt</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="10527" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="10683" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="10729" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011363</infon>
+        <location offset="10751" length="17"/>
+        <text>terephthalic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10922</offset>
+      <text>Structure of the ditopic guest ADAdim 4.</text>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="10953" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10963</offset>
+      <text>ITC is one of the most interesting methods to characterize the interaction of CDs with guests in solution [37–38]. It enables the enthalpy, entropy and equilibrium constants involved in complexation processes to be determined in a single experiment. Moreover, the guest:host molar ratio (i.e., the stoichiometry of the complex) can be measured. First, enthalpies of dilution of the monotopic hosts β-CD and β-CD-NH2, the ditopic host AZO-CDim 1 and the guest ADAdim 4 were measured in separate experiments to determine the maximum concentration to use for the ITC experiments. Enthalpies of dilution of β-CD and β-CD-NH2 were negligible over a broad concentration range, whereas enthalpies of dilution of AZO-CDim 1 were negligible only for concentrations lower than 1 mM, which is in agreement with NMR data. As observed by Vásquez Tato and coworkers [39], ADAdim 4 can be considered as a surfactant. However, by using a maximum concentration of 4 mM in the ITC experiment, the effect of any heat resulting from a deaggregation process can be avoided. First, the interactions between β-CD or β-CD-NH2 and ADAdim 4 (added to the CD solution) were studied by ITC. After integrating the heat signal as a function of the molar ratio between the guest and the host, the isotherm was fitted to the one-site binding model as shown in Fig. 6. The average values for the thermodynamic parameters are given in Table 1.</text>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="11041" length="3"/>
+        <text>CDs</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="11361" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="11370" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="11397" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="11422" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="11566" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="11575" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="11668" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="11821" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="12048" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="12056" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="12069" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="12092" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12391</offset>
+      <text>Titration of (a) β-CD (c = 0.8 mM) and (b) β-CD-NH2 (c = 0.8 mM) by ADAdim 4 (c = 4 mM). (c) Dilution of ADAdim 4 (c = 0.6 mM) in water at 298 K. Titration of AZO-CDim 1 (c = 0.1 mM) by ADAdim 4 (c = 0.6 mM) (d) before irradiation at 298 K and (e) after irradiation in water at 365 nm for 120 min at 278 K.</text>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="12408" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="12434" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="12459" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="12496" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12521" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="12550" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="12577" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12660" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>12704</offset>
+      <text>Thermodynamic parameters deduced from ITC experiments for the different host–guest systems studied (temperature 298 K in water).</text>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12825" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>13579</offset>
+      <text> n a: guest:host molar ratio in the complex. The values in parentheses are theoretical values for the formation of complexes with all the binding sites of both guest and host occupied. bValues corresponding to the model of one set of sites. cValues corresponding to the model of two sets of sites. dValues corresponding to the two sets of sites model after irradiation at 365 nm, for 120 min at 278 K. The units of the experimental enthalpy value are kJ·mol−1 of the titrating species (i.e. the guest species).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14093</offset>
+      <text>For β-CD and β-CD-NH2, the experimental n values (0.50 and 0.43, respectively) for the complexes correspond to one ADAdim 4 for two cyclodextrins (stoichiometry 1:2). Considering the slightly different experimental conditions, all the data obtained are in very good agreement with the literature [36,39]. The same study was performed with AZO-CDim 1 exhibiting a cis/trans ratio of 7:93 and the experimental values are presented in Table 1. As depicted in Fig. 6, two jumps can be observed in the calorimetric titration curves revealing two independent interactions. The experimental curve was well-fit to the two-sites binding model and the following results were achieved: the first jump corresponds to a very strong interaction between a small fraction of AZO-CDim 1 and ADAdim 4 with n = 0.13 and K a = 8·108 M−1. The second jump corresponds to a weaker interaction between a major fraction of AZO-CDim 1 and ADAdim 4 with n = 0.77 and K a = 8·105 M−1. Assuming a 1:1 stoichiometry in both cases, the first jump involves 14% of the mixture and the second 86% in relatively good agreement with the cis/trans ratio measured by HPLC (7:93). It is therefore tempting to assign the first jump to the complexation between ADAdim 4 and the cis isomer of AZO-CDim 1 and the second jump to the complexation between ADAdim 4 and the trans isomer of AZO-CDim 1.</text>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="14097" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="14106" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="14208" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="14225" length="13"/>
+        <text>cyclodextrins</text>
+      </annotation>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="14432" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="14852" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="14867" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="14991" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="15006" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="15313" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="15344" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="15403" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="15436" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15456</offset>
+      <text>To confirm this hypothesis, the same ITC study was performed after UV irradiation at 365 nm for 120 min (Fig. 6). To improve the stability of cis-AZO-CDim 1, the titration was carried out at 278 K under the same experimental conditions as previously performed. The average values for the thermodynamic parameters are summarized in Table 1. Again, two jumps can be observed in the enthalpogram (Fig. 6), the stoichiometry of which has been shifted due to the UV irradiation. Neither the 20 °C difference nor the changing stoichiometry is thought to greatly affect the formation constants of the complexes. We therefore attempted a fit of both experimental curves with the same values for association constants and enthalpies. The following parameter values afforded a reasonable fit: K 1 = 8·108 L·mol−1, ΔH 1 = −95 kJ·mol−1, K 2 = 8·105 L·mol−1, ΔH 2 = −67 kJ·mol−1, with stoichiometries n 1 = 0.26 and n 2 = 0.42 (vs experimental stoichiometries n 1 = 0.27 and n 2 = 0.44) after irradiation. Assuming a 1:1 stoichiometry in both cases, the first jump involves 38% of the mixture and the second 62%, again matching the cis/trans ratio measured by HPLC (37:63). This unambiguously proves that the two jumps detected by ITC correspond to the complexation of both isomers of AZO-CDim 1.</text>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="15598" length="14"/>
+        <text>cis-AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="16728" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16761</offset>
+      <text>Interestingly, the association constants measured for the ditopic host (about 109 M−1 for the cis isomer and 106 M−1 for the trans isomer) are orders of magnitude larger than the association constant for the monotopic β-CD (K a = 5·104 M−1). This means that the complexation is highly cooperative, particularly in the case of the cis isomer. Although it was not demonstrated, such an additional interaction could explain why the association constant between the trans isomer of the ditopic host AZO-CDim 1 and the ditopic guest ADAdim 4 is significantly larger than that between β-CD and ADAdim 4. This, in turn, hints at particularly well matched conformations, as shown by the molecular simulation (see below).</text>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="16979" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="17256" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="17289" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="17340" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="17349" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17483</offset>
+      <text>The 1H NMR spectra of AZO-CDim 1 with a cis/trans ratio of 7:93 were obtained in the absence or presence of an equimolar concentration of ADAdim 4 (Fig. 7). As previously stated, each cis and trans isomer could not be isolated in pure form, complicating the NMR study. In the presence of the ditopic guest ADAdim 4, a strong broadening of all signals was observed, indicating the presence of large objects in solution. A ROESY experiment was also carried out and although the presence of cross-correlation peaks between protons of AZO-CDim 1 and ADAdim 4 supports an inclusion complex, the strong signal broadening impeded any assignment (data not shown).</text>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="17487" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="17505" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="17621" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="17789" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="18014" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="18029" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18139</offset>
+      <text>(a) 1H NMR spectra of AZO-CDim 1 (500 MHz, D2O, 2.5 mM) in the absence (bottom) and presence of ADAdim 4 (2.5 mM, top); (b) DOSY spectra of AZO-CDim 1 (red), ADAdim 4 (blue) and an equimolecular mixture of both (purple), (1 mM, D2O).</text>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="18143" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="18161" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017666</infon>
+        <location offset="18182" length="3"/>
+        <text>D2O</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="18235" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="18279" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="18297" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017666</infon>
+        <location offset="18367" length="3"/>
+        <text>D2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18373</offset>
+      <text>Diffusion-ordered spectroscopy (DOSY) is a solution-based NMR method used to discriminate signals arising from different species by their diffusion rates. This method is very helpful and convenient for characterizing molecular aggregates or inclusion complexes [40]. The diffusion coefficient (D) is directly related to the molecular mass of the observed species in solution. In other words, when the molecular mass increases, the diffusion rate decreases. The DOSY spectra for ADAdim 4, AZO-CDim 1, and an equimolecular mixture of both were recorded in D2O (Fig. 7) and the measured D values were 3.540·10−10 m2·s−1, 2.293·10−10 m2·s−1 and 1.33·10−10 m2·s−1, respectively. The D value of ADAdim 4 is smaller than that of AZO-CDim 1, in accordance with their molecular masses. It is usually assumed that the D value of an inclusion complex is the same as that of the host molecule alone [40], however, this was not observed in our case, which is in agreement with the formation of larger objects in solution.</text>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="18851" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="18861" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017666</infon>
+        <location offset="18927" length="3"/>
+        <text>D2O</text>
+      </annotation>
+      <annotation id="C161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="19062" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="19095" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19400</offset>
+      <text>The experimental data strongly suggests that AZO-CDim 1 is a switchable host which forms two different inclusion complexes with this ditopic guest. The structural analyses of the molecular dynamics trajectories of the two configurations of the AZO-CDim 1 systems enable us to draw some conclusions as to how the adamantyl units could be contained in one or both cavities. To further support our assumptions, the corresponding systems were built and minimized. The following main conclusions can be drawn. For the first, in the cis configuration, both cavities of the ditopic host AZO-CDim 1 are available for complexation and their orientation favors the simultaneous inclusion of both adamantyl units of ADAdim 4, forming a 1:1 chelate-type complex depicted in Fig. 8. The chelate effect has been extensively studied by Breslow et al. [41–42] among others and a higher stability constant is expected due to the strong cooperative effect. Regarding the second main conclusion, the size and rigidity of the linker in AZO-CDim 1 prevent the trans configuration from forming ditopic 1:1 complexes upon complexation with only one molecule of ADAdim 4. Nevertheless, the two cavities remain available for complex formation through their wider rim with two adamantyl units belonging to two different ADAdim 4 molecules, leading to the formation of supramolecular polymers with an n:n stoichiometry. This situation has already been encountered in the complex of ADAdim 4 and a β-CD dimer bearing a terephthalic moiety as the linker [36]. At this stage, based on the molecular dynamics study, at least two supramolecular polymers can be considered: the first is linear, as often described in the literature [43–44] (Fig. 8), and the second is cyclic (Fig. 8). Furthermore, it is possible that such linear or cyclic polymers are aggregated into larger objects stabilized by hydrogen bonds between cyclodextrin moieties and by π-stacking interactions between azobenzene linkers.</text>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="19445" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="19644" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="19712" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="19980" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="20086" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="20105" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="20416" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="20538" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="20651" length="9"/>
+        <text>adamantyl</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="20694" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="20855" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="20870" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C011363</infon>
+        <location offset="20891" length="12"/>
+        <text>terephthalic</text>
+      </annotation>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="21265" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="21288" length="12"/>
+        <text>cyclodextrin</text>
+      </annotation>
+      <annotation id="C164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009850</infon>
+        <location offset="21349" length="10"/>
+        <text>azobenzene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21375</offset>
+      <text>Proposed structures of inclusion complexes with the ditopic host AZO-CDim 1 and the ditopic guest ADAdim 4 after minimization by molecular modeling methods: (a) 1:1 chelate-type complex with AZO-CDim 1 in its cis configuration; linear (b) and cyclic (c) supramolecular polymers with AZO-CDim 1 in its trans configuration.</text>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="21440" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="21473" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="21566" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="21658" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21697</offset>
+      <text>Finally, according to the computational data, the complexes of AZO-CDim 1 with ADAdim 4 are further stabilized by intramolecular interactions between CD subunits that are more favorable in the cis than in the trans configurational arrangement, which is in agreement with the ITC data.</text>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="21760" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+      <annotation id="C184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="21776" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="21847" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21982</offset>
+      <text>Experimental</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21995</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22017</offset>
+      <text>All solvents were used as purchased, unless otherwise noted. All starting materials were used without purification. β-CD was purchased from Roquette Frères (Lestrem, France) and β-CD-NH2 was synthesized as previously described [31] or purchased from Biocydex (Poitiers, France). Analytical TLC was performed using Silica Gel 60 F254 plates (Merck, Germany). Eluents were mixtures of dichloromethane/methanol or cyclohexane/ethyl acetate. Ratios are specified in each case in the experimental section. Products were illuminated under UV light (λ = 254 nm) followed by charring with vanillin/H2SO4. </text>
+      <annotation id="C191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="22133" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="22195" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D058428</infon>
+        <location offset="22331" length="10"/>
+        <text>Silica Gel</text>
+      </annotation>
+      <annotation id="C187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008752</infon>
+        <location offset="22400" length="15"/>
+        <text>dichloromethane</text>
+      </annotation>
+      <annotation id="C188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="22416" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506365</infon>
+        <location offset="22428" length="11"/>
+        <text>cyclohexane</text>
+      </annotation>
+      <annotation id="C189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="22440" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="C190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100058</infon>
+        <location offset="22598" length="8"/>
+        <text>vanillin</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C033158</infon>
+        <location offset="22607" length="5"/>
+        <text>H2SO4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22626</offset>
+      <text>UV analyses were performed on a UV–vis Cary VARIAN spectrophotometer coupled with an optic fiber. A 6 Watt mercury lamp was used (λ = 365 nm) for the irradiation of aqueous AZO-CDim 1 solutions (c = 10−4 M).</text>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008628</infon>
+        <location offset="22733" length="7"/>
+        <text>mercury</text>
+      </annotation>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="22799" length="10"/>
+        <text>AZO-CDim 1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22839</offset>
+      <text>Stepwise control of the reactions was readily achieved by ESIMS in the positive ion mode using a ZQ 4000 quadrupole mass spectrometer (Waters-Micromass, Manchester, UK). High resolution electrospray mass spectra (HRMS–ESI) operated in the positive ion mode were obtained on a Q-TOF Ultima Global instrument (Waters-Micromass, Manchester, UK). Data acquisition and processing were performed with MassLynx 4.0 software. High resolution mass spectra were recorded in the positive mode on a ZabSpec TOF (Micromass, UK) tandem hybrid mass spectrometer with EBETOF geometry. The compounds were individually dissolved in a 1:1 water/CH3CN mixture at a concentration of 10 μg·cm−3 and then infused into the electrospray ion source at a flow rate of 10 mm3·min−1 at 333 K. The mass spectrometer was operated at 4 kV while scanning the magnet over a typical range of 4000–100 Da. The mass spectra were collected as a continuum profile data. Accurate mass measurement was achieved using polyethylene glycol as the internal reference mass with a resolving power set to a minimum of 10,000 (10% valley).</text>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="23459" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="23465" length="5"/>
+        <text>CH3CN</text>
+      </annotation>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011092</infon>
+        <location offset="23815" length="19"/>
+        <text>polyethylene glycol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23941</offset>
+      <text>NMR experiments were performed at 300.13 and 600.13 MHz using Bruker AVANCE DPX300 and AVANCE 600 spectrometers equipped with a Z-gradient unit for pulsed-field gradient spectroscopy. Me4Si was used as an external standard and calibration was performed using the signal of the residual protons or of the carbon of the solvents as a secondary reference. Measurements were performed at 300 K with careful temperature regulation. The length of the 90° pulse was approximately 7 μs. 1D NMR data spectra were collected using 16K data points. 2D experiments were run using 1K data points and 512 time increments. The phase-sensitive (TTPI) sequence was used and processing resulted in a 1K·1K (real-real) matrix. The DOSY experiments were performed using the ledbpgp2s sequence from the Bruker library, with stimulated echo, longitudinal eddy current compensation, bipolar gradient pulses and two spoil gradients using 16 different gradient values varying from 2 to 95% of the maximum gradient strength. A 100 ms diffusion time and a 2.2 ms gradient length were used.</text>
+      <annotation id="C201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C073196</infon>
+        <location offset="24125" length="5"/>
+        <text>Me4Si</text>
+      </annotation>
+      <annotation id="C202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="24245" length="6"/>
+        <text>carbon</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25006</offset>
+      <text>Isothermal Titration Calorimetry (ITC) was performed using a VP-ITC microcalorimeter at 298 K or 278 K in pure water. Briefly, titration was carried out with 60 injections of 5 µL every 6 min. Control experiments were performed by the dilution of the guest solution in water and showed small heats of dilution. Thus, these results were subtracted from each titration to remove guest heats of dilution. The experimental data were fitted to a theoretical titration curve using Origin 7.0, Microcal software with the one set or two sets of sites models. During this fitting, enthalpy (ΔH), stoichiometry (n) and association constants (K a) were adjustable parameters.</text>
+      <annotation id="C203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25117" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25275" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25679</offset>
+      <text>Molecular modeling</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25698</offset>
+      <text>Initial geometries of the β-cyclodextrin dimers studied in this work were built using the LEaP program from the AmberTools 1.4 distribution, following the strategy and methodology previously established [45]. Except for the linker, the CD fragments were taken from the R.E.DD.B. database [46] under project F-85 (http://q4md-forcefieldtools.org/REDDB/). Both the linker fragment and the cation were defined and parameterized according to the strategy previously developed using the RED program [47] along with the RED server [48].</text>
+      <annotation id="C206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="25724" length="14"/>
+        <text>β-cyclodextrin</text>
+      </annotation>
+      <annotation id="C205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="25934" length="2"/>
+        <text>CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26232</offset>
+      <text>Molecular dynamics (MD) simulations were performed using the SANDER module of the AMBER10 program suite to perform MD simulations on the aforementioned complexes [49]. The systems were solvated in a truncated octahedral box with a buffer distance of 10.0 Å. The q4md-CD force field parameters were used to model the β-CD systems [45]. The parameters used for water were taken from the TIP3P model [50]. Classic MD simulations of 50 ns were then performed using the NPT ensemble at a pressure of 1 atm and a temperature of 300 K. In order to obtain representative ensembles of conformations for the two bis-CD systems, molecular configurations from MD trajectories were clustered.</text>
+      <annotation id="C209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C031215</infon>
+        <location offset="26548" length="4"/>
+        <text>β-CD</text>
+      </annotation>
+      <annotation id="C207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26591" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003505</infon>
+        <location offset="26834" length="6"/>
+        <text>bis-CD</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26915</offset>
+      <text>Ab initio calculations were performed with the Gaussian 09 program [50] to perform quantum chemical calculations. The structures corresponding to the two configurations of the linker were optimized at the B3LYP level of theory using the 6-31+G* basis set.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27171</offset>
+      <text>Synthesis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27181</offset>
+      <text>4,4’-Dicarboxyazobenzene (2): p-nitrobenzoic acid (7.72 g, 46.2 mmol, 1 equiv) and sodium hydroxide (14.24 g, 356 mmol, 7.8 equiv) in 100 mL of water were heated at 338 K for 1 h. Then, 120 mL of 60 wt % glucose solution in water was added dropwise in two portions separated by 1 h of stirring. The mixture was heated at 353 K for 3 h and dropped into a large crystallizer where a precipitate appeared on the surface after several hours. The solid was filtered, dissolved in hot water, acidified with 100 mL of acetic acid, the precipitate filtered again and dried under reduced pressure. 4,4’-Dicarboxyazobenzene (2) was obtained as a pink solid (m = 6.11 g) with a yield of 49%. The analyses are in full agreement with the literature [30]. Mp &gt; 523 K (dec); 1H NMR (DMSO-d 6, 300.13 MHz) δ 8.16 (d, J = 8.4 Hz, 4H), 8.01 (d, J = 8.4 Hz, 4H) ppm; 13C NMR (DMSO-d 6, 75.77 MHz) δ 166.9, 154.3, 133.7, 130.9, 123.0 ppm; ESIMS (m/z): [M − H]− calcd for C14H9N2O4, 269.1; found, 268.9.</text>
+      <annotation id="C219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="27181" length="24"/>
+        <text>4,4’-Dicarboxyazobenzene</text>
+      </annotation>
+      <annotation id="C215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008629</infon>
+        <location offset="27211" length="19"/>
+        <text>p-nitrobenzoic acid</text>
+      </annotation>
+      <annotation id="C221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="27264" length="16"/>
+        <text>sodium hydroxide</text>
+      </annotation>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27325" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="27385" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27405" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27660" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019342</infon>
+        <location offset="27692" length="11"/>
+        <text>acetic acid</text>
+      </annotation>
+      <annotation id="C220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="27770" length="24"/>
+        <text>4,4’-Dicarboxyazobenzene</text>
+      </annotation>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="27941" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="27949" length="8"/>
+        <text>DMSO-d 6</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="27994" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28020" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000615229</infon>
+        <location offset="28029" length="3"/>
+        <text>13C</text>
+      </annotation>
+      <annotation id="C226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="28038" length="8"/>
+        <text>DMSO-d 6</text>
+      </annotation>
+      <annotation id="C227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28118" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="28132" length="9"/>
+        <text>C14H9N2O4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28174</offset>
+      <text>4,4’-Dicarboxyazobenzene bis(N-hydroxysuccinimide ester) (3): Compound 2 (1.0 g, 3.70 mmol, 1 equiv), N-hydroxysuccinimide (1.87 g, 16.28 mmol, 4.4 equiv) and DMAP (90 mg, 0.74 mmol, 0.2 equiv) were dissolved in 10 mL of DMF at room temperature. After 10 min of stirring, EDCI (2.13 g, 11.1 mmol, 3 equiv) was added, then the solution was stirred at room temperature for 16 h under an inert atmosphere. The mixture was extracted by 100 mL of DCM and 100 mL of HCl (0.1 M). The aqueous phase was extracted twice with 50 mL of DCM. Organic phases were combined, dried over Na2SO4 and purified over a plug-in of silica with DCM/MeOH (99:1 v/v) as eluent to obtain 3 as a red solid (m = 1.41 g) with a yield of 83%. Mp &gt; 523 K (dec); 1H NMR (CDCl3, 300.13 MHz) δ 8.33 (d, J = 8.4 Hz, 4H), 8.07 (d, J = 8.4 Hz, 4H), 2.95 (s, 8H) ppm; 13C NMR (CDCl3, 75.77 MHz) δ 169.3, 161.4, 155.9, 132.0, 127.7, 123.6, 25.9 ppm; HRMS–ESI (m/z): [M + Na]+ calcd for C22H16N4O8Na, 487.0866; found, 487.0876.</text>
+      <annotation id="C244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="28174" length="56"/>
+        <text>4,4’-Dicarboxyazobenzene bis(N-hydroxysuccinimide ester)</text>
+      </annotation>
+      <annotation id="C230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C001426</infon>
+        <location offset="28276" length="20"/>
+        <text>N-hydroxysuccinimide</text>
+      </annotation>
+      <annotation id="C228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003885</infon>
+        <location offset="28333" length="4"/>
+        <text>DMAP</text>
+      </annotation>
+      <annotation id="C242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004126</infon>
+        <location offset="28395" length="3"/>
+        <text>DMF</text>
+      </annotation>
+      <annotation id="C241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005022</infon>
+        <location offset="28446" length="4"/>
+        <text>EDCI</text>
+      </annotation>
+      <annotation id="C238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008752</infon>
+        <location offset="28616" length="3"/>
+        <text>DCM</text>
+      </annotation>
+      <annotation id="C234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="28634" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008752</infon>
+        <location offset="28699" length="3"/>
+        <text>DCM</text>
+      </annotation>
+      <annotation id="C237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C012036</infon>
+        <location offset="28745" length="6"/>
+        <text>Na2SO4</text>
+      </annotation>
+      <annotation id="C229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012822</infon>
+        <location offset="28783" length="6"/>
+        <text>silica</text>
+      </annotation>
+      <annotation id="C240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008752</infon>
+        <location offset="28795" length="3"/>
+        <text>DCM</text>
+      </annotation>
+      <annotation id="C231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="28799" length="4"/>
+        <text>MeOH</text>
+      </annotation>
+      <annotation id="C232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28904" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002725</infon>
+        <location offset="28912" length="5"/>
+        <text>CDCl3</text>
+      </annotation>
+      <annotation id="C245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28954" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="28980" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000615229</infon>
+        <location offset="29003" length="3"/>
+        <text>13C</text>
+      </annotation>
+      <annotation id="C236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002725</infon>
+        <location offset="29012" length="5"/>
+        <text>CDCl3</text>
+      </annotation>
+      <annotation id="C247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="29105" length="2"/>
+        <text>Na</text>
+      </annotation>
+      <annotation id="C243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001391</infon>
+        <location offset="29120" length="12"/>
+        <text>C22H16N4O8Na</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29169</offset>
+      <text> N,N’-Bis[6I-deoxy-β-cyclodextrin-6I-yl]carboxamide-4,4’-azobenzene, AZO-CDim (1): β-CD-NH2 (2.02 g, 1.78 mmol, 2 equiv) and 3 (404 mg, 0.87 mmol, 1 equiv) were dissolved in 5 mL of dried distilled DMF. After 16 h of stirring at room temperature, the mixture was concentrated and the product precipitated by addition of acetone, then dried under reduced pressure. The product 1 was obtained as an orange powder (m = 4.44 g) with a quantitative yield and an HPLC purity over 98%. Then, the product was purified by flash chromatography (20 min, H2O/MeOH from 90:10 to 10:90 (v/v), 40 mL·min−1) to afford compound 1 (2.75 g, 62%). Mp 423 K (dec); 1H NMR (D2O, 600.13 MHz) δ 7.94 (d, 3 J H10–H11 = 8.1 Hz, H10, 4H), 7.90 (d, 3 J H11–H10 = 8.1 Hz, H11, 4H), 4.97–5.17 (m, H1 I–VII, 14H), 3.14–4.25 (m, H2 I–VII–H3 I–VII–H4 I–VII–H5 I–VII-H6 I–VII–H6 I–VII, 84H) ppm; 13C NMR (D2O, 150.76 MHz) δ 168.19 (C=O), 153.56 (C12), 135.35 (C9), 128.21 (C10), 122.94 (C11), 101.28–101.93 (C1 I–VII), 83.69 (C4 I), 80.26–81.05 (C4 II–VII), 71.63–73.54 (C2 I–VII–C3 I–VII–C5 II–VII), 70.44 (C5 I), 59.16–60.42 (C6 II–VII), 41.15 (C6 I); HRMS–ESI (m/z): [M + Na]+ calcd for C98H148N4O70Na, 2523.8042; found, 2523.8125.</text>
+      <annotation id="C290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="29170" length="66"/>
+        <text>N,N’-Bis[6I-deoxy-β-cyclodextrin-6I-yl]carboxamide-4,4’-azobenzene</text>
+      </annotation>
+      <annotation id="C292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="29238" length="12"/>
+        <text>AZO-CDim (1)</text>
+      </annotation>
+      <annotation id="C258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C521573</infon>
+        <location offset="29252" length="8"/>
+        <text>β-CD-NH2</text>
+      </annotation>
+      <annotation id="C255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004126</infon>
+        <location offset="29367" length="3"/>
+        <text>DMF</text>
+      </annotation>
+      <annotation id="C256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000096</infon>
+        <location offset="29489" length="7"/>
+        <text>acetone</text>
+      </annotation>
+      <annotation id="C257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="29712" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="29716" length="4"/>
+        <text>MeOH</text>
+      </annotation>
+      <annotation id="C251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29813" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017666</infon>
+        <location offset="29821" length="3"/>
+        <text>D2O</text>
+      </annotation>
+      <annotation id="C259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29853" length="3"/>
+        <text>H10</text>
+      </annotation>
+      <annotation id="C260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29857" length="3"/>
+        <text>H11</text>
+      </annotation>
+      <annotation id="C261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29871" length="3"/>
+        <text>H10</text>
+      </annotation>
+      <annotation id="C262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29876" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29894" length="3"/>
+        <text>H11</text>
+      </annotation>
+      <annotation id="C267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29898" length="3"/>
+        <text>H10</text>
+      </annotation>
+      <annotation id="C263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29912" length="3"/>
+        <text>H11</text>
+      </annotation>
+      <annotation id="C264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29917" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29936" length="2"/>
+        <text>H1</text>
+      </annotation>
+      <annotation id="C269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29946" length="3"/>
+        <text>14H</text>
+      </annotation>
+      <annotation id="C270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29966" length="2"/>
+        <text>H2</text>
+      </annotation>
+      <annotation id="C271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29975" length="2"/>
+        <text>H3</text>
+      </annotation>
+      <annotation id="C272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29984" length="2"/>
+        <text>H4</text>
+      </annotation>
+      <annotation id="C273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="29993" length="2"/>
+        <text>H5</text>
+      </annotation>
+      <annotation id="C274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30002" length="2"/>
+        <text>H6</text>
+      </annotation>
+      <annotation id="C275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30011" length="2"/>
+        <text>H6</text>
+      </annotation>
+      <annotation id="C276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30021" length="3"/>
+        <text>84H</text>
+      </annotation>
+      <annotation id="C254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000615229</infon>
+        <location offset="30031" length="3"/>
+        <text>13C</text>
+      </annotation>
+      <annotation id="C253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017666</infon>
+        <location offset="30040" length="3"/>
+        <text>D2O</text>
+      </annotation>
+      <annotation id="C277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30081" length="3"/>
+        <text>C12</text>
+      </annotation>
+      <annotation id="C278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30095" length="2"/>
+        <text>C9</text>
+      </annotation>
+      <annotation id="C279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30108" length="3"/>
+        <text>C10</text>
+      </annotation>
+      <annotation id="C280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30122" length="3"/>
+        <text>C11</text>
+      </annotation>
+      <annotation id="C281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30143" length="2"/>
+        <text>C1</text>
+      </annotation>
+      <annotation id="C282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30161" length="2"/>
+        <text>C4</text>
+      </annotation>
+      <annotation id="C283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30181" length="2"/>
+        <text>C4</text>
+      </annotation>
+      <annotation id="C284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30206" length="2"/>
+        <text>C2</text>
+      </annotation>
+      <annotation id="C285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30215" length="2"/>
+        <text>C3</text>
+      </annotation>
+      <annotation id="C286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30224" length="2"/>
+        <text>C5</text>
+      </annotation>
+      <annotation id="C287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30243" length="2"/>
+        <text>C5</text>
+      </annotation>
+      <annotation id="C288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30263" length="2"/>
+        <text>C6</text>
+      </annotation>
+      <annotation id="C289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="30282" length="2"/>
+        <text>C6</text>
+      </annotation>
+      <annotation id="C265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="30310" length="2"/>
+        <text>Na</text>
+      </annotation>
+      <annotation id="C291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D047392,MESH:C009850</infon>
+        <location offset="30325" length="14"/>
+        <text>C98H148N4O70Na</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30437</offset>
+      <text>EDTA bis-1-adamantanylamine disodium salt, ADAdim (4): Adamantine (1.01 g, 6.68 mmol, 2.1 equiv) was dissolved in 30 mL of dried DMF and 10 mL of Et3N. The mixture was cooled to 273 K under an inert atmosphere and EDTA anhydride (0.82 g, 3.20 mmol, 1 equiv) was added portionwise. After 16 h of stirring under inert atmosphere, the solvent was removed under vacuum, and 10 mL of water was added and the solution was neutralized by HCl. The precipitate was washed with water, dried under reduced pressure then recrystallized in MeOH to obtain the diacidic compound. The diacid (814 mg, 1.46 mmol, 1 equiv) was suspended in water (10 mL) and NaOH (116 mg, 2.90 mmol, 2 equiv) was added. The mixture was sonicated for 10 min and the product precipitated by addition of 100 mL of acetone. The solid was filtered, washed with acetone and dried under reduced pressure to obtain ADAdim 4 as a white powder (m = 420 mg), with a yield of 52% over the two steps. The analyses are in full agreement with the literature [36]. Mp 505–506 K; 1H NMR (DMSO-d 6, 300.13 MHz) δ 7.47 (NH, 2H), 3.37 (Hf, 4H), 3.15 (Hd, 4H), 2.72 (He, 4H), 1.99 (Hb, 6H), 1.91 (Ha, 12H), 1.60 (Hc, 12H); 13C NMR (DMSO-d 6, 75.77 MHz) δ 172.5, 169.3, 58.8, 55.9, 52.4, 50.8, 41.1, 36.1, 29.0; HRMS–ESI (m/z): [M + Na]+ calcd for C30H46N4O6Na, 581.3315; found, 581.3299.</text>
+      <annotation id="C305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="30437" length="41"/>
+        <text>EDTA bis-1-adamantanylamine disodium salt</text>
+      </annotation>
+      <annotation id="C317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="30480" length="10"/>
+        <text>ADAdim (4)</text>
+      </annotation>
+      <annotation id="C308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000218</infon>
+        <location offset="30492" length="10"/>
+        <text>Adamantine</text>
+      </annotation>
+      <annotation id="C301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004126</infon>
+        <location offset="30566" length="3"/>
+        <text>DMF</text>
+      </annotation>
+      <annotation id="C307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016162</infon>
+        <location offset="30583" length="4"/>
+        <text>Et3N</text>
+      </annotation>
+      <annotation id="C293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="30651" length="14"/>
+        <text>EDTA anhydride</text>
+      </annotation>
+      <annotation id="C295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30816" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="30868" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30905" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="30964" length="4"/>
+        <text>MeOH</text>
+      </annotation>
+      <annotation id="C297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="31059" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="31077" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+      <annotation id="C302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000096</infon>
+        <location offset="31213" length="7"/>
+        <text>acetone</text>
+      </annotation>
+      <annotation id="C303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000096</infon>
+        <location offset="31258" length="7"/>
+        <text>acetone</text>
+      </annotation>
+      <annotation id="C306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="31309" length="8"/>
+        <text>ADAdim 4</text>
+      </annotation>
+      <annotation id="C298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31465" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="C316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="31473" length="8"/>
+        <text>DMSO-d 6</text>
+      </annotation>
+      <annotation id="C310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31507" length="2"/>
+        <text>2H</text>
+      </annotation>
+      <annotation id="C311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31522" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31537" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31552" length="2"/>
+        <text>4H</text>
+      </annotation>
+      <annotation id="C318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31567" length="2"/>
+        <text>6H</text>
+      </annotation>
+      <annotation id="C319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31582" length="3"/>
+        <text>12H</text>
+      </annotation>
+      <annotation id="C320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="31598" length="3"/>
+        <text>12H</text>
+      </annotation>
+      <annotation id="C299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000615229</infon>
+        <location offset="31604" length="3"/>
+        <text>13C</text>
+      </annotation>
+      <annotation id="C315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="31613" length="8"/>
+        <text>DMSO-d 6</text>
+      </annotation>
+      <annotation id="C314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012964</infon>
+        <location offset="31713" length="2"/>
+        <text>Na</text>
+      </annotation>
+      <annotation id="C309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003516</infon>
+        <location offset="31728" length="12"/>
+        <text>C30H46N4O6Na</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

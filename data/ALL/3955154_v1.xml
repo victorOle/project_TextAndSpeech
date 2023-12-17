@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181116</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3955154</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Jichlinski;given-names:Patrice</infon>
+      <infon key="name_2">surname:Bonvin;given-names:Debora</infon>
+      <infon key="name_1">surname:van Beijnum;given-names:Judy R</infon>
+      <infon key="name_0">surname:Weiss;given-names:Andrea</infon>
+      <infon key="article-id_pmid">24450440</infon>
+      <infon key="issue">3</infon>
+      <infon key="fpage">480</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_pmc">3955154</infon>
+      <infon key="article-id_doi">10.1111/jcmm.12199</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">18</infon>
+      <infon key="license">This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="kwd">angiogenesis inhibitors axitinib, bevacizumab combination therapy endothelial cells photodynamic therapy sorafenib sunitinib synergy tyrosine kinase inhibitors</infon>
+      <infon key="name_6">surname:Nowak-Sliwinska;given-names:Patrycja</infon>
+      <infon key="lpage">491</infon>
+      <infon key="name_5">surname:Griffioen;given-names:Arjan W</infon>
+      <infon key="name_4">surname:Dyson;given-names:Paul J</infon>
+      <offset>0</offset>
+      <text>Low-dose angiostatic tyrosine kinase inhibitors improve photodynamic therapy for cancer: lack of vascular normalization</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>120</offset>
+      <text>Photodynamic therapy (PDT) is an effective clinical treatment for a number of different cancers. PDT can induce hypoxia and inflammation, pro-angiogenic side effects, which may counteract its angio-occlusive mechanism. The combination of PDT with anti-angiogenic drugs offers a possibility for improved anti-tumour outcome. We used two tumour models to test the effects of the clinically approved angiostatic tyrosine kinase inhibitors sunitinib, sorafenib and axitinib in combination with PDT, and compared these results with the effects of bevacizumab, the anti-VEGF antibody, for the improvement of PDT. Best results were obtained from the combination of PDT and low-dose axitinib or sorafenib. Molecular analysis by PCR revealed that PDT in combination with axitinib suppressed VEGFR-2 expression in tumour vasculature. Treatment with bevacizumab, although effective as monotherapy, did not improve PDT outcome. In order to test for tumour vessel normalization effects, axitinib was also applied prior to PDT. The absence of improved PDT outcome in these experiments, as well as the lack of increased oxygenation in axitinib-treated tumours, suggests that vascular normalization did not occur. The current data imply that there is a future for certain anti-angiogenic agents to further improve the efficacy of photodynamic anti-cancer therapy.</text>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="556" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="567" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="581" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="662" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="795" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="807" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="882" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="959" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="1094" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="1240" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1468</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1481</offset>
+      <text>Photodynamic therapy (PDT) is a minimally invasive therapy in which visible or near infrared light irradiation is combined with light sensitive molecules (photosensitizers) to produce reactive oxygen species (ROS). These ROS can damage blood vessels in such a way that vascular occlusion occurs. Several photosensitizers have been approved by the FDA to treat a number of oncological applications by PDT (see Table S1). Photodynamic therapy is also used in ophthalmology and for many years PDT was the mainstay for treating exudative age-related macular degeneration, the main cause of blindness in the aged western population. Angio-occlusive PDT can cause tissue responses, such as hypoxia and inflammation, both of which play a role in inducing angiogenesis. This angiogenic tissue response following PDT can in principle counteract the angio-occlusive effect of PDT, thus leading to a reduced tumoricidal outcome. Therefore, PDT results may be improved by co-treatment with an angiogenesis inhibitor. We previously showed in a tumour-free model that vessel regrowth after angio-occlusive PDT can effectively be inhibited by anti-angiogenic agents. In the present study, we tested the effect of combining PDT with an anti-angiogenic drug by monitoring tumour vasculature and tumour growth. This was done in two different tumour models on the chorioallantoic membrane (CAM) of the chicken embryo.</text>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1665" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="2XXx11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1690" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="1702" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2881</offset>
+      <text>Therapeutic anti-angiogenesis strategies have been established in the clinical management of cancer, both as monotherapies and in combination with other anti-tumour modalities. Among these are bevacizumab (Avastin®, an antibody-based drug that neutralizes VEGF), and the broad-spectrum (tyrosine) kinase inhibitors (TKIs) that inhibit the signalling of growth factor receptors. Examples of the latter are sunitinib (Sutent®), clinically approved for the treatment of metastatic renal cell carcinoma, imatinib-resistant gastrointestinal stromal-and pancreatic neuroendocrine tumours. We also tested sorafenib (Nexavar®), approved for metastatic renal cell cancer and unresectable hepatocellular carcinoma. While sunitinib inhibits VEGF receptors 1, 2 and 3 (VEGFR-1,-2 and-3), platelet-derived growth factor receptor beta (PDGFR-β) and mast/stem cell growth factor receptor (c-KIT) with medium affinity, and FGFR-1 with low affinity, sorafenib inhibits the RAF/MEK/ERK pathways, as well as VEGFR-1,-2 and-3, c-KIT and PDGFR-β with relatively low affinity. A second-generation TKI with improved affinity to VEGFR-2 and a better toxicity profile, is axitinib (Inlyta®). Axitinib has fewer targets and has a higher affinity for the VEGF receptors. It should be noted that the combination of PDT with the antibody-based agents bevacizumab and ranibizumab has been tested clinically for the treatment of wet age-related macular degeneration. For cancer, only pre-clinical studies are available. Very limited research has been focused so far on the combination of PDT with TKIs.</text>
+      <annotation id="2XXx22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="3074" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="3087" length="7"/>
+        <text>Avastin</text>
+      </annotation>
+      <annotation id="gy39">
+        <infon key="type">OTHER</infon>
+        <location offset="3167" length="17"/>
+        <text>(tyrosine) kinase</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="3286" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="3297" length="6"/>
+        <text>Sutent</text>
+      </annotation>
+      <annotation id="2XXx15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068877</infon>
+        <location offset="3381" length="8"/>
+        <text>imatinib</text>
+      </annotation>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="3479" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="3490" length="7"/>
+        <text>Nexavar</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="3592" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="3814" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="4028" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="4038" length="6"/>
+        <text>Inlyta</text>
+      </annotation>
+      <annotation id="2XXx20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="4048" length="8"/>
+        <text>Axitinib</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="4203" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069579</infon>
+        <location offset="4219" length="11"/>
+        <text>ranibizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4459</offset>
+      <text>It has previously been shown that angiogenesis inhibition can normalize cancer vessels. As the efficacy of PDT depends on tissue oxygenation, we tested sequencing of the combination therapy. We found that PDT treatment can be significantly improved by angiostatic compounds. The tested TKIs were more effective enhancers of PDT effects than bevacizumab. In addition, anti-angiogenic drugs were found to be best applied after PDT. These results, as well as tissue oxygenation measurements, suggested that the observed improvements were not dependent on vascular normalization.</text>
+      <annotation id="2XXx28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="4800" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>5035</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>5057</offset>
+      <text>Cell culture, preparation and implantation on the CAM model</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>5117</offset>
+      <text>A2780 human ovarian carcinoma cells (ECACC, Salisbury, UK) were maintained in RPMI-1640 cell culture medium supplemented with GlutaMAX™ (Gibco, Carlsbad, CA, USA), 10% bovine calf serum (Sigma-Aldrich, St. Louis, MO, USA) and 1% antibiotics (Sigma-Aldrich). Human colorectal carcinoma (HCT-116; ECACC) cells were maintained in DMEM medium (Gibco) supplemented as above. Fertilized chicken eggs were incubated in a hatching incubator (relative humidity 65%, 37°C), as previously described. On EDD 7, 106 HCT-116 cells were mixed with ice-cold Matrigel (BD Biosciences, Franklin Lakes, NJ, USA) and transplanted on the surface of the CAM as a 30 μl drop. 106 A2780 cells were prepared as a spheroid in a 25 μl hanging drop and 3 hrs later were transplanted on the surface of the CAM.</text>
+      <annotation id="gy57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5195" length="29"/>
+        <text>RPMI-1640 cell culture medium</text>
+      </annotation>
+      <annotation id="gy58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5243" length="8"/>
+        <text>GlutaMAX</text>
+      </annotation>
+      <annotation id="gy59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="5444" length="11"/>
+        <text>DMEM medium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>5907</offset>
+      <text>Image acquisition and quantification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>5944</offset>
+      <text>Visualization of the CAM vasculature and irradiation with light during PDT was performed under an epi-fluorescence microscope (Eclipse E 600 FN; Nikon AG, Tokyo, Japan) with objectives (Plan Apo 4×/0.2, working distance: 20 mm or Plan Fluor 10×/0.3, working distance: 16 mm; Nikon AG), as previously described. Shortly, PDT was performed (λex = 420 ± 20 nm, λem ≥ 470 nm; Nikon) using Visudyne® (Novartis Pharma Inc., Hettlingen, Switzerland). Visualization of blood vessels was achieved through fluorescence angiography after intravenous (i.v.) injection of fluorescein isothiocyanate dextran (FITC-dextran, 20 kD, 20 μl, 25 mg/ml, Sigma-Aldrich). A volume of 20 μl of India ink from Pelikan (Witzikon, Switzerland) was administered to enhance vascular contrast. Fluorescence images were taken using an F-view II 12-bit monochrome Peltier-cooled digital CCD camera run by ‘analySIS DOCU’ software (Soft Imaging System GmbH, Munster, Germany). Image processing and quantification of the fluorescence angiographies was achieved by using a macro written in ImageJ (version 1.40 a; National Institutes of Health, Bethesda, MD, USA), as previously described. The four concentric circles with ‘1’ being the central area, and ‘4’ being the most peripheral area, create four zones of revascularization, each of which is analysed separately by the software.</text>
+      <annotation id="166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077362</infon>
+        <location offset="6329" length="8"/>
+        <text>Visudyne</text>
+      </annotation>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015219</infon>
+        <location offset="6503" length="34"/>
+        <text>fluorescein isothiocyanate dextran</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015219</infon>
+        <location offset="6539" length="12"/>
+        <text>FITC-dextran</text>
+      </annotation>
+      <annotation id="gy64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028433</infon>
+        <location offset="6614" length="9"/>
+        <text>India ink</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>7330</offset>
+      <text>Combination therapy on the CAM</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>7361</offset>
+      <text>Bevacizumab was purchased from Genentech (San Francisco, CA, USA), sunitinib from Pfizer Inc. (New York, NY, USA), axitinib and sorafenib from LC Laboratories (Woburn, MA, USA). Drugs were administered intravenously (20 μl) on EDD 10 and 11 at two concentrations: axitinib (6.5 or 13 μg/kg), sorafenib (21 or 85 μg/kg), sunitinib (35.5 or 71 μg/kg) and bevacizumab (99 or 497 μg/kg). Concentrations were calculated for an estimated embryo weight of 3 g. Angiograms of the CAM were taken on EDD 12. Visudyne®-PDT (subsequently referred to as PDT) was performed at a low-fluence rate (5 J/cm2, with irradiance of 35 mW/cm2 at 420 ± 20 nm). The irradiation area was limited to a circular spot of 0.02 cm2 using an optical diaphragm. Directly after PDT, 20 μl of the angiogenesis inhibitors was administered intravenously in the CAM at the following effective doses: axitinib (13 μg/kg), sorafenib (85 μg/kg), sunitinib (71 μg/kg) and bevacizumab (497 μg/kg). Treatment was repeated 24 hrs after PDT.</text>
+      <annotation id="133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="7361" length="11"/>
+        <text>Bevacizumab</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="7428" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="7476" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="7489" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="7625" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="7653" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="7681" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="7714" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077362</infon>
+        <location offset="7859" length="8"/>
+        <text>Visudyne</text>
+      </annotation>
+      <annotation id="2XXx41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="8224" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="8245" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="8267" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="8292" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8388</offset>
+      <text>Tumour treatment</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8405</offset>
+      <text>Vascularized tumours appeared ˜3 days after inoculation beneath the surface of the CAM and the average tumour volume was 1.66 ± 0.09 mm3. Visudyne®-PDT, as described above, was performed at this moment, while adjusting the diaphragm to the tumour size. Angiostatic therapy was performed by administering 20 μl of axitinib (13 μg/kg), sorafenib (85 μg/kg), sunitinib (71 μg/kg) and bevacizumab (497 μg/kg) intravenously at EDD 10 and 11.</text>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077362</infon>
+        <location offset="8543" length="8"/>
+        <text>Visudyne</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="8718" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="8739" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="8761" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="8786" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8859</offset>
+      <text>Combination therapy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8879</offset>
+      <text>Tumours receiving combination treatment were injected twice intravenously with 20 μl of each angiogenesis inhibitor (at doses as above) according to two different schedules: (i) right after PDT and 24 hrs after PDT or (ii) 24 hrs before PDT and right after PDT (Fig. 6A). Photodynamic therapy with 5 J/cm2 and 35 mW/cm2 at 420 ± 20 nm was applied. Tumours were measured daily, volume = (the largest diameter)2 × (perpendicular diameter) × 0.5.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9342</offset>
+      <text>Immunohistochemistry</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9363</offset>
+      <text>Tumours were resected at treatment day 8, fixed overnight in zinc fixative solution and stained as previously described. In short, 4 μm sections were treated with 0.3% H2O2 in methanol for 30 min., a citrate buffer (20 min. at 95°C) antigen retrieval step was applied, blocking with 10% goat serum and 1% BSA was performed. Primary antibody (DIA-310; Dianova, Hamburg, Germany) incubations were performed overnight.</text>
+      <annotation id="38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="9531" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="9539" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="gy108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019343</infon>
+        <location offset="9563" length="14"/>
+        <text>citrate buffer</text>
+      </annotation>
+      <annotation id="gy105">
+        <infon key="identifier">MESH:D000911</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="9705" length="7"/>
+        <text>DIA-310</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9784</offset>
+      <text>RNA isolation, cDNA synthesis and quantitative real-time RT-PCR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9848</offset>
+      <text>Total RNA isolation, cDNA synthesis and quantitative real-time RT-PCR (qRT-PCR) were performed as previously described. Each target gene was quantified relative to the expression of the reference genes (β-Actin and Cyclophilin-A). Chicken (gg) and human (hs) primers were synthesized by Eurogentec (Liege, Belgium).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>10167</offset>
+      <text>pO2 measurements</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>10184</offset>
+      <text>Intra-tumoral oxygenation was measured 24 hrs after the first treatment intervention (corresponding to treatment day 2). Measurements of the partial pressure of oxygen (pO2) within the treated tumours were obtained using an OxyLab pO2 meter (Oxford Optronix Ltd., Oxford, UK) coupled to a calibrated fibre optic probe (NP/O/E) placed in a 23G surgical steel needle. Each measurement was taken over 60 sec. after the intra-tumoral probe insertion.</text>
+      <annotation id="2XXx57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="10345" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="10353" length="3"/>
+        <text>pO2</text>
+      </annotation>
+      <annotation id="186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="10415" length="3"/>
+        <text>pO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>10633</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>10654</offset>
+      <text>Values are given as mean values ± SEM. Data are represented as averages of independent experiments. Statistical analysis was done using the anova test and t-test. *P indicating P-values lower than 0.05 and **P indicating P-values lower than 0.01 were considered statistically significant. Synergy was calculated using the CompuSyn application.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11001</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11009</offset>
+      <text>Clinically used angiostatic TKIs prolong the vaso-occlusive effect of PDT</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11083</offset>
+      <text>Visudyne®-PDT (PDT) was performed on the CAM at embryo development day (EDD) 10 (Fig. 1A), leading to blood flow stasis in the smaller blood vessels and in the capillary bed. Vessels with a diameter &gt;70 μm stayed perfused (Fig. 1B). New capillaries were first seen in the most peripheral zone of the treated area (Fig. 1B) and a completely regrown vasculature was observed after 48 hrs (Fig. 1C). Quantification of the data was performed by digital image analysis in four concentric areas (Fig. 1C, most right image).</text>
+      <annotation id="2XXx60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077362</infon>
+        <location offset="11083" length="8"/>
+        <text>Visudyne</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">jcmm0018-0480-f1.jpg</infon>
+      <infon key="id">fig01</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>11610</offset>
+      <text>Clinically used angiostatic tyrosine kinase inhibitors prolong the vaso-occlusive effect of PDT. (A) Fluorescence angiograms of the CAM before PDT. The circle represents the diaphragm, which limits CAM exposed with light. (B) 24 hrs and (C) 48 hrs after PDT showing the start of micro-vascular regrowth and complete revascularization of the treated area, respectively. (C) Right panel shows the skeletonization and area numbers used for the image processing. (D and E) Natural growth of CAM vasculature and inhibition of angiogenesis by axitinib and skeleton images of EDD 12. White arrows indicate the avascular zones induced by axitinib. (F) Quantification of the number of branching points per mm2 after treatment with an ineffective and an effective dose of each compound. Effective doses: axitinib (13 μg/kg; N = 7), sorafenib (85 μg/kg; N = 7), sunitinib (71 μg/kg; N = 5) and bevacizumab (497 μg/kg; N = 5). (G) Fluorescence angiogram of the CAM treated with PDT+axitinib at its effective dose taken 48 hrs post PDT. (H) Quantification of the results for all four tested compounds. Data are shown as means (±SEM, **P &lt; 0.01 as compared to the control in each respective area of vascular regrowth (1–4), N = 3–6 per condition). The scale bars in (A, D and G) represent 200 μm.</text>
+      <annotation id="2XXx68">
+        <infon key="type">OTHER</infon>
+        <location offset="11638" length="15"/>
+        <text>tyrosine kinase</text>
+      </annotation>
+      <annotation id="2XXx61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="12147" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="12240" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="12404" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="12432" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="12461" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="12493" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="12580" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>12923</offset>
+      <text>To prolong the effect of PDT, treatment with anti-angiogenic compounds, axitinib, sorafenib, sunitinib or bevacizumab, was performed. Angiostatic compounds were first tested alone by administering i.v. injection on EDD 10 and 11, followed by imaging and quantification performed on EDD 12. Representative fluorescence images of the CAM treated with 0.9% NaCl (control) or axitinib (13 μg/kg) are presented in Fig. 1D and 1E, respectively. Low concentrations of all four drugs were identified where a statistically significant inhibitory effect was observed (**P &lt; 0.01, Fig. 1F). These doses were tested in combination with PDT. All drugs were administered twice, immediately after PDT and 24 hrs later. Interestingly, all three tested TKIs markedly suppressed the regrowth of blood vessels, as determined by a significant reduction in the number of branching points. This activity was not observed for bevacizumab. Axitinib and sunitinib were the most effective drugs (Fig. 1G and H). An ˜90% reduction in the number of branching points per mm2 was observed in treatment area 1, while bevacizumab was completely ineffective.</text>
+      <annotation id="49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="12995" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="13005" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="13016" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="13029" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="13277" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="13295" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="13826" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="13839" length="8"/>
+        <text>Axitinib</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="13852" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="14009" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>14058</offset>
+      <text>Angiostatic TKIs, but not bevacizumab, improve the anti-tumour effect of PDT</text>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="14084" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>14135</offset>
+      <text>A2780 ovarian carcinoma cells were inoculated at EDD 7 and monitored for 11 days. Established and vascularized tumours were detected 3 days post implantation (EDD 10). Tumours grew to an average size of ˜140 mm3 by EDD 17 when left untreated (Fig. S1A). The chicken vasculature in these tumours was efficiently perfused, as demonstrated by the prompt distribution of India ink throughout the tumour vasculature within 5 sec. after intravenous injection (Fig. S1B). As expected, the tumour vessels were leaky, as the ink was present in the extracellular space of the tumour already after 20 sec. (Fig. S1C).</text>
+      <annotation id="171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028433</infon>
+        <location offset="14502" length="9"/>
+        <text>India ink</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>14751</offset>
+      <text>Sub-optimal treatment strategies were defined, both for PDT (Fig. 2A) and angiostatic compounds (Fig. 2C) in A2780. The PDT conditions were selected such that tumour growth was inhibited by ˜60% (Fig. 2B). Dose selection for axitinib is shown in Figure 2D. For sorafenib, sunitinib and bevacizumab, the sub-optimal doses in A2780 model were defined at 85, 71 and 497 μg/kg, respectively. The same doses were applied in the HCT-116 model.</text>
+      <annotation id="56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="14976" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="15012" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="15023" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="15037" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">jcmm0018-0480-f2.jpg</infon>
+      <infon key="id">fig02</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>15196</offset>
+      <text>Defining sub-optimal drug concentrations and PDT conditions for tumour treatment on the CAM. Treatment regimens for CAM tumours tested for PDT alone (A) or drug alone (C). Tumour growth curves for PDT (B) and angiostatic drug (D) are shown. Arrows indicate treatment days. Data are shown as means (±SEM). N = 3–10 per condition; **P &lt; 0.01.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15544</offset>
+      <text>Combination of PDT and i.v. drug administration immediately after and 24 hrs later was performed in the A2780 xenographs (Fig. 3A). The representative images of tumours resected on treatment day 8 from different treatment groups are presented in Figure 3B. Photodynamic therapy in combination with axitinib and sorafenib significantly improved PDT outcome (**P = 0.0033 and **P = 0.0025, respectively, Fig. 3C, N = 6–10). Surprisingly, sunitinib and bevacizumab did not or only marginally improve the effect of PDT. Synergy, as defined by the Chou-Talalay equation as combinations with a ‘combination index’ (CI) less than 1, was calculated for the combination of PDT with axitinib (CI = 0.36) and PDT with sorafenib (CI = 0.59). Neither sunitinib nor bevacizumab gave a statistically significant difference in tumour size together with PDT as compared to PDT alone. Similar experiments with axitinib and sorafenib were performed on human HCT-116 colorectal carcinoma tumours. In this model, comparable results were observed for PDT+axitinib (N = 6, **P = 0.0008 as compared to the control) and PDT+sorafenib (N = 9, *P = 0.02), as shown in Figure 6D (schedule 1) and G, respectively, as a percentage of the control at the last day of the experiment.</text>
+      <annotation id="59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="15842" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="15855" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="15980" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="15994" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="16217" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="16251" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="16282" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="16296" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="16436" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="16449" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="16577" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="16643" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">jcmm0018-0480-f3.jpg</infon>
+      <infon key="id">fig03</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16824</offset>
+      <text>PDT and anti-angiogenesis combination therapy. (A) Treatment regimens for CAM tumours treated with schedule 1. (B) Representative images A2780 human ovarian tumours for control and various treated groups resected on treatment day 8. (C) Tumour growth curves of tumours treated by each anti-angiogenic drug, PDT and the combination of both therapies (**P = 0.0033 for PDT+axitinib and **P = 0.0025 for PDT+sorafenib as compared to PDT alone, (C) N = 6–10 per condition). S indicates synergy (CI&lt;1).</text>
+      <annotation id="2XXx96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="17195" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="17229" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17330</offset>
+      <text>Combination therapy reduces vessel density and modulates vascular morphology and angiogenesis-related gene expression</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17448</offset>
+      <text>Immunohistochemical staining for CD31 was performed 3 and 8 days after treatment (Fig. 4) in both tumour models. It was found that the combination of PDT and TKIs (both axitinib and sorafenib) suppressed microvessel density as shown at the last (8th) experiment day (Fig. 4A, **P = 0.0009, *P = 0.022, respectively and N = 6–14). Angiogenesis inhibitors alone did not significantly suppress microvessel density (Fig. S2). Microvessel density in the bevacizumab combination group was not different from the PDT monotherapy group, while sunitinib combination group was increased as compared to the control. Another interesting difference was observed in the morphology of the tumour vessels. While control tumours had a large numbers of small vessels with compressed lumens, the combination of PDT with axitinib and sorafenib resulted in larger vessels with an open lumen (**P &lt; 0.001, *P = 0.051, respectively, N = 6–22, Fig. 4A). Photodynamic therapy initially (treatment day 3, Fig. 4B) suppressed microvessel density significantly, but after a longer period (day 8) this effect had largely disappeared, presumably because of the PDT-induced angiogenesis. Combination treatment of PDT + axitinib of HCT-116 tumours revealed a statistically significant decrease in vessel density (**P = 0.0006, N = 10) as compared to control tumours resected at the last (8th) experiment day (Fig. 4C).</text>
+      <annotation id="2XXx98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="17617" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="17630" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="17897" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="17983" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="18249" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="18262" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="18636" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">jcmm0018-0480-f4.jpg</infon>
+      <infon key="id">fig04</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>18862</offset>
+      <text>Histology of resected tumours showing microvessel density. (A) CD31-stained sections of the A2780 tumours excised at day 8 for control, PDT and combination treatment groups. Graphs of microvessel density and the percentage of vessels with open lumens showing a statistically significantly decrease in microvessel density and increase in the number of vessels with an open lumen for PDT+axitinib and PDT+sorafenib treated tumours as compared to the control tumours. (B) CD31-stained sections of the A2780 tumours excised at day 3 for the most effective treatment group (PDT+axitinib, 13 μg/kg) and quantification of microvessel density (right). (C) CD31-stained sections of HCT-116 tumours excised on day 8 and quantification of microvessel density (right) showing significant inhibition of vessel density in the combination PDT+axitinib treatment group. **P &lt; 0.01; N = 5–22 per condition.</text>
+      <annotation id="77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="19248" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="19265" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="19435" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="19690" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>19760</offset>
+      <text>Based on the above-described results, we performed real-time quantitative PCR studies for tumours exposed to axitinib and its combination with PDT (Fig. 5A–C). We investigated the expression of angiogenic growth factor receptors in vasculature (chicken specific primers, 5A and B) and growth factors secreted by tumour cells (human specific primers, Fig. 5C). It was observed that early after treatment (day 3), i.v. administered axitinib, but not PDT, suppressed VEGFR-2 in the vasculature. VEGFR-2 was still down-regulated 8 days after treatment, at which time this effect was also seen for the expression of PDGFR-β. Assessment of growth factor expression in the tumour cells (Fig. 5C) did not reveal a strong angiogenic response.</text>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="19869" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="20190" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">jcmm0018-0480-f5.jpg</infon>
+      <infon key="id">fig05</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>20501</offset>
+      <text>Real-time RT-PCR molecular profiling of the tumours treated with PDT, axitinib (13 μg/kg), or their combination. The expression of some of the angiogenesis-related genes determined by quantitative real-time PCR performed at day 3 (A) and day 8 (B) post PDT using chicken (gg)-specific primers for: VEGFA, VEGFR2, PDGFR-β. (C) Quantification of human genes in tumours excised on day 3 using human (hs)-specific primers for VEGFA, bFGF and PLGF. Mean relative expressions are shown with the SEM. N = 5–7 per condition.</text>
+      <annotation id="2XXx111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="20571" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21025</offset>
+      <text>The change in the Ct values of the control and treatment group tumours was examined between tumours excised on treatment days 3 and 8. A detectable, but not significant, change in gene levels was noticed between days 3 and 8 in control tumours (data not shown). The only significant increase in gene expression levels was noted for VEGFA, whose expression was up-regulated by 10.7% in the host cells on Day 3 versus Day 8 (*P = 0.044, N = 5–7) and by 11.7% in the tumour cells between days 3 and 8 (*P = 0.052, N = 2–3).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21558</offset>
+      <text>Scheduling of PDT and angiostasis: lack of vascular normalization</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>21624</offset>
+      <text>Next to the above used schedule (Fig. 6A, now called schedule 1), a treatment schedule starting with angiostatic compounds axitinib (Fig. 6B–D) or sorafenib (Fig. 6E–G) 24 hrs prior to PDT (schedule 2) was also tested in the two tumour models. Interestingly, none of the angiostatic compounds applied prior to PDT (schedule 2) resulted in significantly better anti-tumour photodynamic activity than for schedule 1 at the conditions applied. While for sorafenib similar results for schedule 1 and 2 were observed (Fig. 6E and G), for axitinib treatment schedule 2 resulted in a worse outcome (Fig. 6B and D), as compared to schedule 1 in both tumour models. In the HCT-116 model, all tumours treated with combination therapy using either schedule were inhibited significantly as compared to the control tumours (control: N = 6–12; axitinib schedule 1: **P = 0.0008; axitinib schedule 2: *P = 0.01; sorafenib schedule 1: *P = 0.022; and sorafenib schedule 2: *P = 0.024).</text>
+      <annotation id="84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="21747" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="21771" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="22075" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="22157" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="22454" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="22489" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="22521" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="22559" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">jcmm0018-0480-f6.jpg</infon>
+      <infon key="id">fig06</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>22616</offset>
+      <text>Tumour growth rate depends on the treatment schedule. Treatments were performed at day 1 and 2 (black arrows) as indicated by the two different schedules, shown in (A). Graphs show the effects of combination therapies with two different treatment schedules for axitinib in A2780 (B) and in HCT-116 (D) tumours. Also for sorafenib (E) and bevacizumab (H) in A2780 and sorafenib in HTC-116 (G) tumours. In all cases, the most effective treatment was combination therapy with treatment schedule 1. Measurements of intra-tumoral oxygenation in control, PDT, axitinib (C), sorafenib (F) and bevacizumab (I) treated A2780 tumours. Each group represents the mean ± SEM (N = 3–8 per condition; **P &lt; 0.01). Human HCT-116 colon carcinoma growth rate inhibited by PDT+axitinib (**P = 0.0008) or PDT+sorafenib (**P = 0.022) applied at schedule 1, was similar to that obtained in the A2780 model. Data are shown as means (±SEM); N = 6–12 per condition.</text>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="22877" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="22936" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="22954" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="22983" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="23170" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="23184" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="23202" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="23374" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="23405" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>23575</offset>
+      <text>The most unexpected result was that bevacizumab pre-treatment even resulted in a loss of the anti-tumour activity resulting from the PDT treatment (Fig. 6H). To further investigate the origin of differences in tumour growth after treatment with the two schedules, intra-tumoral oxygenation was measured at 24 hrs (when PDT was performed in schedule 2) after the first bolus injection of axitinib (13 μg/kg), sorafenib (85 μg/kg) and bevacizumab (497 μg/kg), see Figure 6C, F, and I, respectively. The pO2 measurements performed 24 hrs after the first injection with the inhibitors showed a small and not significant increase in oxygenation (e.g. 6.7% for bevacizumab, as compared to control tumours, P = 0.27, N = 10). Moreover, there was no difference between the latter groups and the PDT group.</text>
+      <annotation id="148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="23611" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="23962" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="23983" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="24008" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="24230" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>24387</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>24398</offset>
+      <text>A major limitation in the use of PDT against cancer is the PDT-induced angiogenic tissue response. As there are now many clinically approved effective angiogenesis inhibitors, it is proposed that these compounds can significantly prolong the beneficial angio-occlusive effect of PDT. The results of the present study show that angiostatic small molecule TKI can synergistically improve the anti-tumour effect of PDT, in both an ovarian and a colorectal tumour model. A major observation of this study is that this improvement of PDT outcome was because of the inhibition of PDT-induced angiogenesis, and not to the vascular normalization processes, as TKI-induced enhancement of tumour oxygenation was not observed. Synergy between PDT and anti-angiogenic TKIs for tumour growth suppression was best observed for axitinib when applied at a sub-optimal dose and combined with a sub-optimal PDT regimen. Sorafenib also showed a synergistic activity, but these results were not observed for sunitinib and bevacizumab. The results suggest that a combination of PDT and axitinib might be a promising strategy for translation into the clinic.</text>
+      <annotation id="2XXx133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="25211" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="25300" length="9"/>
+        <text>Sorafenib</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="25386" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="25400" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="25463" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>25535</offset>
+      <text>Photodynamic therapy has been most successfully used in the treatment of ophthalmological neovascularization-based disorders. These were in the past mainly wet age-related macular degeneration patients and at present mainly patients with polypoidal choroidal vasculopathy. The treatment of solid tumours with PDT is currently receiving renewed interest because it is being realized that its combination with anti-angiogenesis therapy has promising applications. Several studies have been reported on such combinations for the treatment cancer. These include pre-clinical studies assessing the activity of cetuximab and/or bevacizumab with hypericin-PDT in a human bladder carcinoma model, SU5416 and SU6668 with hypericin-PDT in a human nasopharyngeal carcinoma model and PD166285 and PD173074 with hexylether pyropheophorbide-a-PDT in a murine mammary carcinoma model. In all these studies, the anti-angiogenic drugs were applied after PDT, and the combination treatment was shown to be more potent than the monotherapies. A comparative study in which the PDT was combined in varying treatment schedules, with clinically approved TKIs has not yet been performed. In our study, the best results, i.e. a synergistic improvement of PDT, were observed in combination with axitinib, making a clinical translation of this treatment a promising option. This would most likely be best developed for tumour types that have been shown to be successfully treated with PDT, such as basal cell carcinoma (BCC) or non-metastatic base of the tongue squamous cell carcinoma.</text>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068818</infon>
+        <location offset="26140" length="9"/>
+        <text>cetuximab</text>
+      </annotation>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="26157" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004965</infon>
+        <location offset="26174" length="9"/>
+        <text>hypericin</text>
+      </annotation>
+      <annotation id="177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C116890</infon>
+        <location offset="26224" length="6"/>
+        <text>SU5416</text>
+      </annotation>
+      <annotation id="2XXx139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C412603</infon>
+        <location offset="26235" length="6"/>
+        <text>SU6668</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004965</infon>
+        <location offset="26247" length="9"/>
+        <text>hypericin</text>
+      </annotation>
+      <annotation id="gy272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C109647</infon>
+        <location offset="26307" length="8"/>
+        <text>PD166285</text>
+      </annotation>
+      <annotation id="gy271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C115711</infon>
+        <location offset="26320" length="8"/>
+        <text>PD173074</text>
+      </annotation>
+      <annotation id="2XXx146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C040298</infon>
+        <location offset="26334" length="29"/>
+        <text>hexylether pyropheophorbide-a</text>
+      </annotation>
+      <annotation id="2XXx140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="26804" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>27095</offset>
+      <text>In BCC-diagnosed patients, the average recurrence was shown to be 10% at 12 months after topical Metvix® (methyl aminolevulinate)-mediated PDT. Unfortunately, the follow-up of these patients is not continued longer than 1 year post PDT, whereas it was shown in many studies that the recurrence peak post Metvix®-PDT is at 36 months. Moreover, patients treated with such PDT strategies had a better cosmetic outcome and the treatment outcome was typically superior to that achieved with existing standard therapies. Recurrent base of the tongue malignancies develop usually loco-regionally at previously irradiated fields. Also, interstitial PDT (with metatetra(hydroxyphenyl)chlorin, mTHPC) of recurrent non-metastatic carcinoma of the tongue base showed promising results.</text>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C475457</infon>
+        <location offset="27192" length="6"/>
+        <text>Metvix</text>
+      </annotation>
+      <annotation id="111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C475457</infon>
+        <location offset="27201" length="22"/>
+        <text>methyl aminolevulinate</text>
+      </annotation>
+      <annotation id="180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C475457</infon>
+        <location offset="27399" length="6"/>
+        <text>Metvix</text>
+      </annotation>
+      <annotation id="181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C072269</infon>
+        <location offset="27746" length="31"/>
+        <text>metatetra(hydroxyphenyl)chlorin</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C072269</infon>
+        <location offset="27779" length="5"/>
+        <text>mTHPC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>27874</offset>
+      <text>It is most interesting to see that when PDT was followed by angiogenesis inhibition at the applied conditions, synergisms were observed for axitinib and sorafenib, but not for sunitinib and bevacizumab. For the latter, there even seemed to be a lack of additive effect (Fig. 3). It should be noted that part of the VEGF signalling in this model may be derived from chicken VEGF, and bevacizumab probably binds chicken VEGF with a lower affinity than human VEGF. However, a number of studies have shown the efficacy of anti-VEGF antibodies (bevacizumab or ranibizumab) against chicken VEGF, so this argument may not be very significant. The question remains why neutralizing vascular endothelial growth factor (VEGF) does not work so well, while inhibition of VEGFR signalling does. This could mean that neutralization of VEGF by a large molecule—an antibody—is much less efficient inside the microenvironment of a tumour in situ than inhibiting the VEGFR by a small molecule. Another explanation could be the broader activity spectrum of axitinib. This then raises the question why axitinib works better than sunitinib. However, the most likely explanation for this is that the affinity of axitinib for VEGFR-2 is some 40 times higher.</text>
+      <annotation id="2XXx149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="28014" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="28027" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="28050" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="28064" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="28257" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="28414" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="2XXx152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000069579</infon>
+        <location offset="28429" length="11"/>
+        <text>ranibizumab</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="28912" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="28956" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="28983" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="29064" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>29115</offset>
+      <text>A similar discussion is valid for the situation of angiogenesis inhibition prior to PDT. Here, bevacizumab not only lacks improvement of PDT but also seems to counteract the efficacy of PDT. Apparently, the presence of VEGF is necessary for an effective PDT outcome. It can be assumed that VEGF-induced active cell metabolism is necessary for effective PDT. This also suggests that the major effect of PDT, at the applied conditions, is through its effect on the vasculature. The fact that the results from the axitinib treatment groups do not seem to support this option may be explained by the broad activity spectrum of TKIs. Relatedly, this may also explain the overt difference between axitinib and sunitinib, being the two drugs mainly inhibiting the VEGFRs. Although VEGFRs and other growth factor receptors are considered the primary targets of these compounds, it has been shown before that more than one hundred kinases are affected by sunitinib, and it would thus be quite difficult to pinpoint the exact mechanism of action of these drugs. Moreover, it cannot be ruled out that part of the success of axitinib is through a direct activity on the tumour cells.</text>
+      <annotation id="2XXx165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="29210" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="29626" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="2XXx161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="29806" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="29819" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077210</infon>
+        <location offset="30061" length="9"/>
+        <text>sunitinib</text>
+      </annotation>
+      <annotation id="2XXx164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="30228" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>30287</offset>
+      <text>Another aim of this study was to study the consequences of the treatment sequence. Previous studies on such combination therapies for cancer were all performed by timing the angiostatic therapy starting either at the same time as PDT, or after PDT. As suggested by Jain, angiogenesis inhibition can normalize the tumour vasculature, as well as the blood flow, interstitial pressure, vessel wall permeability and oxygenation. We and others have shown that this effect of angiogenesis inhibitors can improve the combination with e.g. chemo-and radiotherapy. For example, Dings et al. found a time-window of increased tumour oxygenation over the first 4 days of treatment with either bevacizumab (10 mg/kg i.v. in a single injection) or anginex (10 or 20 mg/kg/d i.p.). Elevated oxygenation was also accompanied by reduced vessel density and increased pericyte coverage. When radiotherapy was initiated within this window, tumour growth delay was significantly enhanced in relation to alternative treatment schedules. Huber et al. showed that SU11657 (a multi-target small molecule inhibitor of VEGFRs and PDGFR) was more effective when administered 1 day prior to radiotherapy as compared to 1 day after radiotherapy. As PDT, like radiotherapy, is dependent on oxygenation of the tissue, we put forward the hypothesis that anti-angiogenesis, at least in some cases, could effectively be given prior to PDT. In the present study, we observed that the latter treatment schedule does not improve the anti-tumour activity, or even, it can make the overall outcome worse. This suggests that vascular normalization does not take place to a significant extent at the applied conditions. Indeed, in our experimental conditions, we did not observe significantly increased oxygenation after treatment with axitinib (13 μg/kg), sorafenib (85 μg/kg) or bevacizumab (497 μg/kg) over a period of 24 hrs. It should, however, be noted that in these studies we used very low drug doses, i.e. 0.497 mg/kg of bevacizumab, as compared to a dose of 10 mg/kg reported to induce vascular normalization by Dings et al..</text>
+      <annotation id="157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="30968" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="gy328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C558923</infon>
+        <location offset="31021" length="7"/>
+        <text>anginex</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C474557</infon>
+        <location offset="31327" length="7"/>
+        <text>SU11657</text>
+      </annotation>
+      <annotation id="126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077784</infon>
+        <location offset="32081" length="8"/>
+        <text>axitinib</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077157</infon>
+        <location offset="32102" length="9"/>
+        <text>sorafenib</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="32126" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000068258</infon>
+        <location offset="32275" length="11"/>
+        <text>bevacizumab</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>32397</offset>
+      <text>To summarize the data from the current study, it can be concluded that PDT and anti-angiogenic therapy can synergistically inhibit tumour growth. Through the indirect neutralization of VEGF, and the direct inhibition of growth factor receptors, the anti-tumour effect of PDT can be improved.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>32689</offset>
+      <text>Conflicts of interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>32711</offset>
+      <text>The authors confirm that there are no conflicts of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>32772</offset>
+      <text>References</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">SUPPL</infon>
+      <offset>37494</offset>
+      <text>Supporting information</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">SUPPL</infon>
+      <offset>37517</offset>
+      <text>Additional Supporting Information may be found in the online version of this article:</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5501509</id>
+    <passage>
+      <infon key="name_3">surname:Xu;given-names:Chao</infon>
+      <infon key="name_2">surname:Fan;given-names:Qiuping</infon>
+      <infon key="name_1">surname:Wang;given-names:Bo</infon>
+      <infon key="name_0">surname:Ji;given-names:Weiping</infon>
+      <infon key="notes">All relevant data are within the paper.</infon>
+      <infon key="article-id_pmid">28686704</infon>
+      <infon key="issue">7</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_publisher-id">PONE-D-17-14434</infon>
+      <infon key="article-id_pmc">5501509</infon>
+      <infon key="alt-title">Paclitaxel-loaded dextran-indomethacin micelles for resistant breast cancer therapy</infon>
+      <infon key="title">Data Availability</infon>
+      <infon key="article-id_doi">10.1371/journal.pone.0180037</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">e0180037</infon>
+      <infon key="volume">12</infon>
+      <infon key="license">This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</infon>
+      <infon key="name_6">surname:Ahmad;given-names:Aamir</infon>
+      <infon key="name_5">surname:Chen;given-names:Youfen</infon>
+      <infon key="name_4">surname:He;given-names:Youwu</infon>
+      <offset>0</offset>
+      <text>Chemosensitizing indomethacin-conjugated dextran-based micelles for effective delivery of paclitaxel in resistant breast cancer therapy</text>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="17" length="12"/>
+        <text>indomethacin</text>
+      </annotation>
+      <annotation id="2XXx1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="41" length="7"/>
+        <text>dextran</text>
+      </annotation>
+      <annotation id="2XXx2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="90" length="10"/>
+        <text>paclitaxel</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>136</offset>
+      <text>Multidrug resistance (MDR) against chemotherapeutic agents has become the major obstacle to successful cancer therapy and multidrug resistance-associated proteins (MRPs) mediated drug efflux is the key factor for MDR. Indomethacin (IND), one of the non-steroidal anti-inflammatory agents, has been demonstrated to increase cytotoxic effects of anti-tumor agents as MRP substrates. In this study, dextran-g-indomethacin (DEX-IND) polymeric micelles were designed to delivery paclitaxel (PTX) for the treatment of MDR tumors. The DEX-IND polymer could effectively encapsulate PTX with high loading content and DEX-IND/PTX micelles present a small size distribution. Compared with free PTX, the release of PTX from DEX-IND/PTX micelles could be prolonged to 48 h. Cellular uptake test showed that the internalization of DEX-IND/PTX micelles by drug-sensitive MCF-7/ADR cells was significantly higher than free PTX benefiting from the inhibitory effect of IND on MRPs. In vitro cytotoxicity test further demonstrated that DEX-IND/PTX micelles could enhance the cytotoxicity of PTX against MCF-7/ADR tumor cells. In vivo pharmacokinetic results showed that DEX-IND/PTX micelles had longer systemic circulation time and slower plasma elimination rate in comparison to PTX. The anti-tumor efficacy test showed that DEX-IND/PTX micelles exhibited greater tumor growth-inhibition effects on MDR tumor-bearing mice, with good correlation between in vitro and in vivo. Overall, the cumulative evidence indicates that DEX-IND/PTX micelles hold significant promise for the treatment of MDR tumors.</text>
+      <annotation id="2XXx3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="354" length="12"/>
+        <text>Indomethacin</text>
+      </annotation>
+      <annotation id="681">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="368" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="532" length="22"/>
+        <text>dextran-g-indomethacin</text>
+      </annotation>
+      <annotation id="gy21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="556" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="610" length="10"/>
+        <text>paclitaxel</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="622" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="664" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="710" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="744" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="752" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="819" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="839" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="848" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="856" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="953" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="961" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1043" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="690">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="1088" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="1154" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1162" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1209" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="1288" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1296" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1398" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="1444" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1452" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="1642" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="1650" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1721</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1734</offset>
+      <text>Multidrug resistance (MDR) is a great obstacle for cancer chemotherapy, which leads to the poor treatment outcomes [,]. The overexpression of drug efflux transporters on the cell surface has been confirmed based on the clinical and experimental studies []. The most commonly reported efflux membrane transporter multidrug resistance-associated proteins (MRPs) are extensively overexpressed in various tumor cells and actively pump the broad spectrum of chemotherapeutics outward from the cells [,].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2233</offset>
+      <text>Several chemotherapeutics can be served as substrates for MRPs [,,,]. The anti-tumor agent paclitaxel (PTX) is widely used for the treatment of various solid tumors via promoting polymerization of tubulin dimers to form microtubules and stabilizing microtubules by preventing depolymerization [], but it is also a substrate for MRPs []. The abnormal increase of drug efflux and decrease of intracellular drug concentration lead to PTX resistance. In addition, it has several therapeutic limitations, including irreversible nephrotoxicity, neurotoxicity, and cardiotoxicity [].</text>
+      <annotation id="41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="2324" length="10"/>
+        <text>paclitaxel</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="2336" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="2664" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2810</offset>
+      <text>Nano-drug delivery system provides potential solutions to some limitations, such as increased drug solubility, target site distribution or reduced drug-induced toxicity [,]. Dextran (DEX), as hydrophilic moieties, has been widely used as drug carrier and it has no surface charge, which can reduce aggregate with negatively charged serum proteins and increase the nonspecific cellular uptake []. Indomethacin (IND), one of non-steroidal anti-inflammatory agents, has been demonstrated to suppress MDR pump and glutathione-S-transferase activities, and then reduce MRPs-mediated efflux of chemotherapeutics []. IND sensitizes the drug-resistant tumor cells to PTX by inhibiting multi-drug resistance protein 1 (MRP1) promoter activity and then reduces the expression of MRP1 [].</text>
+      <annotation id="2XXx34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="2984" length="7"/>
+        <text>Dextran</text>
+      </annotation>
+      <annotation id="686">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="2993" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="3206" length="12"/>
+        <text>Indomethacin</text>
+      </annotation>
+      <annotation id="2XXx37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="3220" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx40">
+        <infon key="type">OTHER</infon>
+        <location offset="3320" length="25"/>
+        <text>glutathione-S-transferase</text>
+      </annotation>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="3420" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="3469" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3588</offset>
+      <text>Here, we tried to combine polymeric micelle with chemosensitizer to exert synergetic oncotherapy. Dextran-indomethacin (DEX-IND) polymeric micelles were prepared to encapsulate hydrophobic chemotherapy PTX. So far as we know, PTX-loaded DEX-IND (DEX-IND/PTX) micelles have never been used for oncotherapy, nor have their in vivo behavior been systematically investigated. In this study, we assessed the therapeutic effects of DEX-IND/PTX micelles in MDR tumor-bearing mouse model. In addition, we systematically assessed their characteristics, cytotoxicity, and pharmacokinetic profiles.</text>
+      <annotation id="gy87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="3686" length="20"/>
+        <text>Dextran-indomethacin</text>
+      </annotation>
+      <annotation id="gy89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="3708" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="3790" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="3814" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="3825" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="3834" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="3842" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="4014" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="4022" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4176</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4198</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4208</offset>
+      <text>Paclitaxel (PTX) was purchased by Jingyan Chemicals Corporation (Shanghai, China); Dextran (DEX, Mn = 10 KDa), Indomethacin (IND), Dicyclohexylcarbodiimide (DCC) and 4-Dimethylaminopyridine (4-DMAP) were purchased from Shanghai Aladdin Bio-chem Technology Co. Limited (Shanghai, China); Pyrene and 4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide (MTT) were purchased from Sigma-Aldrich Co (St Louis, MO, USA); All other solvents and reagents were chemical grade.</text>
+      <annotation id="2XXx50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="4208" length="10"/>
+        <text>Paclitaxel</text>
+      </annotation>
+      <annotation id="2XXx51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="4220" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="687">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="4291" length="7"/>
+        <text>Dextran</text>
+      </annotation>
+      <annotation id="2XXx53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="4300" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="680">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="4319" length="12"/>
+        <text>Indomethacin</text>
+      </annotation>
+      <annotation id="689">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="4333" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004024</infon>
+        <location offset="4339" length="24"/>
+        <text>Dicyclohexylcarbodiimide</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004024</infon>
+        <location offset="4365" length="3"/>
+        <text>DCC</text>
+      </annotation>
+      <annotation id="72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003885</infon>
+        <location offset="4374" length="23"/>
+        <text>4-Dimethylaminopyridine</text>
+      </annotation>
+      <annotation id="2XXx59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003885</infon>
+        <location offset="4399" length="6"/>
+        <text>4-DMAP</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030984</infon>
+        <location offset="4495" length="6"/>
+        <text>Pyrene</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022616</infon>
+        <location offset="4506" length="62"/>
+        <text>4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022616</infon>
+        <location offset="4570" length="3"/>
+        <text>MTT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4686</offset>
+      <text>Animal</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4693</offset>
+      <text>BALB/c nude (20 ± 2 g) mice and female Sprague Dawley (200 ± 20 g) rats were purchased from Shanghai slack laboratory animal co., Ltd and fed under standard laboratory conditions. This study was carried out in strict accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health. The protocol was approved by the Committee on the Ethics of Animal Experiments of Wenzhou medical university. All surgery was performed under sodium pentobarbital anesthesia, and all efforts were made to minimize suffering.</text>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010424</infon>
+        <location offset="5182" length="20"/>
+        <text>sodium pentobarbital</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5266</offset>
+      <text>Synthesis of DEX-IND polymer</text>
+      <annotation id="gy125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="5279" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5295</offset>
+      <text>DEX-IND polymer was synthesized via the esterification reaction between hydroxy group of DEX and carboxyl group of IND in the presence of DCC and DMAP. Briefly, 2.148 g IND (10% to number of D-glucose units in Dex), 3.708 g DCC and 0.244 g DMAP (1:3:0.3, mol:mol:mol) were dissolved in 20 mL DMSO and stirred at 50°C for 1 h to activate the carboxylic acid of IND. Then, 10 g DEX was added and stirred at 50°C the protection of nitrogen for 2 days. After the reaction, the mixture was transferred into a dialysis membrane (MWCO 7.0 kDa) to dialyze against pure water 48 h with frequent exchanges of pure water. The final solution was filtered through 0.8 μm filter and lyophilization to achieve DEX-IND polymer.</text>
+      <annotation id="gy159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="5295" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="692">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="5384" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="2XXx66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="5410" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004024</infon>
+        <location offset="5433" length="3"/>
+        <text>DCC</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003885</infon>
+        <location offset="5441" length="4"/>
+        <text>DMAP</text>
+      </annotation>
+      <annotation id="696">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="5464" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="5486" length="9"/>
+        <text>D-glucose</text>
+      </annotation>
+      <annotation id="90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="5505" length="3"/>
+        <text>Dex</text>
+      </annotation>
+      <annotation id="91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004024</infon>
+        <location offset="5519" length="3"/>
+        <text>DCC</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003885</infon>
+        <location offset="5535" length="4"/>
+        <text>DMAP</text>
+      </annotation>
+      <annotation id="93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="5587" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002264</infon>
+        <location offset="5636" length="15"/>
+        <text>carboxylic acid</text>
+      </annotation>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="5655" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="5671" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="5723" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="2XXx79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="5856" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="5899" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="gy158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="5990" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6010</offset>
+      <text>Characterization of DEX-IND polymer</text>
+      <annotation id="gy160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6030" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6046</offset>
+      <text>The obtained DEX-IND polymer was confirmed by 1H NMR spectra using a Bruker (AVACE) AV-500 spectrometer. 20 mg·mL-1 DEX, IND and DEX-IND were respectively dissolved in dimethylsulfoxide-d6 and measured.</text>
+      <annotation id="gy170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6059" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="6092" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="6162" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="2XXx86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="6167" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6175" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="6214" length="20"/>
+        <text>dimethylsulfoxide-d6</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6250</offset>
+      <text>The critical micelle concentration of DEX-IND was determined by fluorescence measurement using pyrene as a probe []. Briefly, 1 mL pyrene solution was added into brown volumetric flask and acetone was removed with the nitrogen flow. Different concentration DEX-IND solution (ranged from 10−4 to 10−1 mg·mL-1) were added into each flask to reach the final pyrene concentration (6.0 × 10−7 M). The fluorescence intensity was measured using fluorescence spectrophotometer (RF-5301PC, Japan), and the intensity ratio of the first peak (I1, 374 nm) to the third peak (I3, 385 nm) was calculated to determinate CMC value.</text>
+      <annotation id="gy175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6288" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030984</infon>
+        <location offset="6345" length="6"/>
+        <text>pyrene</text>
+      </annotation>
+      <annotation id="119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030984</infon>
+        <location offset="6381" length="6"/>
+        <text>pyrene</text>
+      </annotation>
+      <annotation id="2XXx92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000096</infon>
+        <location offset="6439" length="7"/>
+        <text>acetone</text>
+      </annotation>
+      <annotation id="121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="6468" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="gy181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6507" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030984</infon>
+        <location offset="6605" length="6"/>
+        <text>pyrene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6874</offset>
+      <text>Preparation and characterization of DEX-IND/PTX micelles</text>
+      <annotation id="gy185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6910" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="6918" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6931</offset>
+      <text>DEX-IND/PTX micelles were prepared via the dialysis method. Briefly, 10 mg DEX-IND was dissolved in 10 mL pure water under magnetic stirring at room temperature. Then, the 1 mg·mL-1 PTX ethanol solution was added into DEX-IND solution (PTX: DEX-IND = 10%, w/w), and stirred for 10 min. The mixed solution was dialyzed (MWCO 7.0 kDa) against pure water for 24 h with frequent exchange of pure water. After dialysis, the mixed solution was centrifuged at 5,000 rpm for 10 minutes to remove unencapsulated PTX, and the DEX-IND/PTX micelles were obtained.</text>
+      <annotation id="gy195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="6931" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="6939" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="7006" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="7042" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239,MESH:D000431</infon>
+        <location offset="7113" length="11"/>
+        <text>PTX ethanol</text>
+      </annotation>
+      <annotation id="gy192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="7149" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="7167" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="7172" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="7277" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="7323" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="7434" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="7447" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="7455" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7484</offset>
+      <text>The morphological examinations were performed by transmission electron microscopy (TEM, Hitachi, Tokyo, Japan). The samples were dropped on copper grids and stained with 2% (w/v) phosphotungstic acid for viewing. The size and polydispersity index (PDI) were measured using dynamic light scattering (DLS).</text>
+      <annotation id="146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="7624" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010772</infon>
+        <location offset="7663" length="20"/>
+        <text>phosphotungstic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7789</offset>
+      <text>Evaluation of stability</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7813</offset>
+      <text>The stability of DEX-IND/PTX micelles was evaluated at 4°C. At pre-determined times, DEX-IND/PTX micelle solution was taken and the mean size and PDI were recorded by DLS.</text>
+      <annotation id="gy217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="7830" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="7838" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="7898" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="7906" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7986</offset>
+      <text>Determination of drug-encapsulation efficiency and drug loading</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8050</offset>
+      <text>PTX content was measured using high performance liquid chromatography (HPLC). DEX-IND/PTX micelles were diluted in methanol solution to dissociate the micelles, and the PTX was measured. The content of PTX was assayed with C18 column (250 mm × 4.6 mm, 5 μm), and acetonitrile/water (45:55, v/v) was used as the mobile phase. The column temperature and the detection wavelength were set as 35°C and 240 nm with flow rate at 1.0 mL·min-1 []. Encapsulation efficiency and drug loading were calculated using eqs below:</text>
+      <annotation id="2XXx118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8050" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="8128" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8136" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="8165" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="2XXx121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8219" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8252" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="8313" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="2XXx124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="8326" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8569</offset>
+      <text>In vitro PTX release</text>
+      <annotation id="163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8578" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8590</offset>
+      <text>In vitro drug release profiles of DEX-IND/PTX micelles were investigated using the dialysis method. 2 mL DEX-IND/PTX micelle solution was transferred into a dialysis membrane (MWCO 7.0 kDa), and then immersed in 30 mL PBS solution (including pH 7.4 and pH 5.0) containing 2 M sodium salicylate and incubated at 37°C with constant shaking at 70 rpm []. At pre-determined time intervals (1, 2, 4, 6, 8, 10, 12, 24, 36 and 48 h), the samples were collected and replaced with fresh medium. PTX content was measured using HPLC. All drug-release tests were repeated thrice.</text>
+      <annotation id="gy251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="8624" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8632" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="8695" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="8703" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="8808" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012980</infon>
+        <location offset="8866" length="17"/>
+        <text>sodium salicylate</text>
+      </annotation>
+      <annotation id="172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="9076" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9159</offset>
+      <text>Cell culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9172</offset>
+      <text>MCF-7 Cells and resistant human breast carcinoma cells (MCF-7/ADR) were purchased from Nanjing Kaiji Biotech. Ltd. Co. (Nanjing, China). Cells were cultured in RPMI-1640 medium with 10% (v/v) fetal bovine serum (FBS) and 1% penicillin-streptomycin in a humidified atmosphere at 37°C with 5% CO2.</text>
+      <annotation id="173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="9332" length="16"/>
+        <text>RPMI-1640 medium</text>
+      </annotation>
+      <annotation id="2XXx136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406,MESH:D013307</infon>
+        <location offset="9396" length="23"/>
+        <text>penicillin-streptomycin</text>
+      </annotation>
+      <annotation id="176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="9463" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>9469</offset>
+      <text>Cellular uptake</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9485</offset>
+      <text>The cellular uptake test of DEX-IND micelles was then investigated in vitro. MCF-7 cells were seeded in 24-well plates at 3×104 cells per well, and incubated for 24 h. Then, the cells were exposed to a medium containing DEX-IND/RITC micelles, and further incubated for 1 and 8 h. After washed with PBS, the cells were observed using a confocal microscopy.</text>
+      <annotation id="gy264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="9513" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="9705" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027755</infon>
+        <location offset="9713" length="4"/>
+        <text>RITC</text>
+      </annotation>
+      <annotation id="182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="9783" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9842</offset>
+      <text>MCF-7 and MCF-7/ADR cells were seeded in 24-well plates at 3×104 cells per well, and incubated for 24 h. Then, the cells were exposed to PTX, free PTX+IND or DEX-IND/PTX micelles (0.5 μmol·mL-1) for further incubation (1 and 8h). Then, cells were lysed with RIPA buffer to release the intracellular PTX, free PTX+IND or DEX-IND/PTX micelles. The intracellular concentrations of PTX were determined by HPLC method as mentioned above. Uptake was expressed as the amount (nmol) of PTX associated with a unit weight (1 mg) of cellular protein. Protein contents of cell lysate were measured using BCA protein assay reagent kit.</text>
+      <annotation id="2XXx141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="9979" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="9989" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="700">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="9993" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="10000" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10008" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="699">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10100" length="11"/>
+        <text>RIPA buffer</text>
+      </annotation>
+      <annotation id="189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10141" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10151" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="701">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="10155" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="10162" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10170" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10220" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10320" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10468</offset>
+      <text>Cytotoxicity</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10481</offset>
+      <text>MCF-7 and MCF-7/ADR cells were used to determine the cytotoxicity of DEX-IND/PTX micelles via the MTT assay. Cells were seeded in 96-well plates at 1×104 cells per well, and incubated for 24 h. Then, PTX and DEX-IND/PTX micelles with serial concentrations were added into the cell medium and cultured for 48 h. At pre-determined times, 10 μL of MTT (5 mg·mL-1, 5% MTT) was added and incubated for further 4 h, and then 150 μL DMSO was added to dissolve MTT formazan. The absorbance was measured at 570 nm in a microplate reader (Bio-Rad, USA) and the viability was expressed as the percentage of the control. The test was repeated thrice.</text>
+      <annotation id="gy291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="10550" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10558" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022616</infon>
+        <location offset="10579" length="3"/>
+        <text>MTT</text>
+      </annotation>
+      <annotation id="2XXx155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10681" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="10689" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="10697" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022616</infon>
+        <location offset="10826" length="3"/>
+        <text>MTT</text>
+      </annotation>
+      <annotation id="206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022616</infon>
+        <location offset="10845" length="3"/>
+        <text>MTT</text>
+      </annotation>
+      <annotation id="207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="10907" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C079782</infon>
+        <location offset="10934" length="12"/>
+        <text>MTT formazan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11124</offset>
+      <text>In vivo pharmacokinetics study</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11155</offset>
+      <text>The in vivo pharmacokinetic study was performed in male Sprague-Dawley rats (200 ± 20 g), and pharmacokinetic parameters were calculated via the software of Drug and Statistics (2.0). The rats were fasted overnight with free to water before conducting the study. The experimental protocols and animal care were approved by the Committee for Animal Experiments of Wenzhou Medical University. In this study, the rats were randomly divided into two groups, including PTX and DEX-IND/PTX group (n = 6). Rats were administered intravenously at a dose of 10 mg·kg-1 PTX solution or DEX-IND/PTX micelles solution, respectively. At designated intervals (0.25, 0.5, 1, 2, 4, 6, 8, 12, 24 and 48 h), blood samples (300 μL) were drawn from orbit and immediately placed into heparinized tubes. The obtained blood samples were centrifugation at 4000 rpm for 10 min, and then stored at -20°C for further analysis. To determine PTX concentration, methanol and acetonitrile were used for both protein precipitation and PTX extraction []. The sample mixture was vortexed for 10 min, and then centrifuged for 15 min at 10,000 rpm. The supernatant was transferred and evaporated under the nitrogen flow. The extraction residual was redissolved in the mobile phase solution and injected for analysis. The analysis was performed on Agilent-C18 column (250 mm × 4.6 mm, 5 μm) with a security guard column (C18, 10 × 4 mm, 5 mm); mobile phase: acetonitrile/water (45:55, v/v); detection wavelength: 240 nm; flow rate: 1.0 mL·min-1; column temperature: 35°C. The linear standard curve presented good linearity over the concentration range of 0.1–20 μg·mL-1. The standard curve in plasma: A = 43.175C - 1.743 (R2 = 0.9993). The average recovery was (101.54 ± 1.271)% and the coefficients of variation within and between days were 3.58% and 4.72%, respectively.</text>
+      <annotation id="2XXx163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11383" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="11619" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="11627" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="11635" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="11715" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="11731" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="11739" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="12068" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="12087" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="12100" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="12158" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="12325" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="12576" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="2XXx174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12589" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13005</offset>
+      <text>In vivo anti-tumor efficacy study</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13039</offset>
+      <text>In vivo anti-tumor efficacy of DEX-IND/PTX micelles was investigated in male BALB/c nude mice transplanted with MDR tumor cells and pharmacological intervention began when the tumor volume grew to approximately 100 mm3. Mice were randomly divided into four groups (n = 5), and received saline solution, 10 mg·kg-1 PTX, 10 mg·kg-1 DEX-IND/PTX micelles and 10 mg·kg-1 DEX-IND/PTX micelles, respectively, for 7 days consecutively. The tumor volume ((((longest diameter)^2)*(shortest diameter)))/2) and body weight were monitored every 4 days. At the end of the experiment, mice were sacrificed and tumors were weighted individually.</text>
+      <annotation id="gy349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="13070" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="13078" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077330</infon>
+        <location offset="13325" length="15"/>
+        <text>saline solution</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="13353" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="13369" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="13377" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="13405" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="13413" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13672</offset>
+      <text>Statistics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13683</offset>
+      <text>All data, expressed as means ± SEM, were from at least three separate experiments. Statistical analysis was conducted using Student’s t-test with *p &lt; 0.05 as indicative of statistically significant differences.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>13898</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13921</offset>
+      <text>Synthesis and characterization of DEX-IND polymer</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13971</offset>
+      <text>DEX-IND polymer was successfully synthesized via the esterification between the carboxyl group of IND and the hydroxyl group of DEX. The synthesis route is presented in Fig 1A. IND was used as a hydrophobic chain and DEX was used as hydrophilic moieties. The structure of DEX-IND conjugates was confirmed via 1H NMR spectra and the results are presented in Fig 1B. The characteristic peaks of IND could be observed in 1H NMR spectrum of DEX-IND conjugates. Based on this, it is evidence that the DEX-IND conjugates are successfully synthesized in this study.</text>
+      <annotation id="gy374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="13971" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="704">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="14069" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="14099" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="2XXx188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="14148" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="703">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="14188" length="3"/>
+        <text>DEX</text>
+      </annotation>
+      <annotation id="gy366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14243" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14280" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="2XXx191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="14364" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14389" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="gy358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14408" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14467" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>14530</offset>
+      <text>Preparation and characterization of DEX-IND micelles.</text>
+      <annotation id="gy376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14566" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>14584</offset>
+      <text>(A) Synthetic route of DEX-IND polymer. (B) 1H NMR spectra. (C) Negative-stain transmission electron microscopy of DEX-IND and DEX-IND/PTX micelles. (D) Characteristics of DEX-IND and DEX-IND/PTX micelles.</text>
+      <annotation id="gy391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14607" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="14628" length="2"/>
+        <text>1H</text>
+      </annotation>
+      <annotation id="gy390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14699" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14711" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="14719" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14756" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14768" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="14776" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14790</offset>
+      <text>The obtained DEX-IND polymer could spontaneously form micelles in aqueous medium. The CMC is one of the important characteristics for amphiphilic materials and represents the self-assembly ability to form micelles. Low CMC value means that polymer can form micelles under highly diluted condition. The aggregation behavior of DEX-IND was determined using fluorescence method using pyrene as a probe. The CMC value of DEX-IND polymer was 34.2 μg·mL-1.</text>
+      <annotation id="gy395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="14803" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15116" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030984</infon>
+        <location offset="15171" length="6"/>
+        <text>pyrene</text>
+      </annotation>
+      <annotation id="gy393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15207" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15243</offset>
+      <text>Preparation and characterization of DEX-IND/PTX micelles</text>
+      <annotation id="gy398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15279" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15287" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15300</offset>
+      <text>The DEX-IND/PTX micelles were prepared through solvent diffusion method. Ethanol has been removed by dialysis method. Amphiphilic DEX-IND polymer could spontaneously form micelles in aqueous medium and encapsulate hydrophobic PTX. Drug encapsulating efficiency of DEX-IND/PTX micelles was 80.8 ± 1.1%, and drug loading was 7.14 ± 0.25% during 10% drug feeding amount (Table 1). The obtained DEX-IND/PTX micelles were examined using TEM and DLS. Fig 1C showed that DEX-IND and DEX-IND/PTX micelles both had a uniform spherical shape observed by TEM, and their sizes were 68.3 ± 4.63 nm and 64.1 ± 3.81 nm measured by DLS, respectively. The particle size of DEX-IND/PTX micelles was smaller than DEX-IND micelles, which was associated with the hydrophobic interaction between the hydrophobic chains (IND) and free PTX becoming stronger after PTX loading.</text>
+      <annotation id="gy418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15304" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15312" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="15373" length="7"/>
+        <text>Ethanol</text>
+      </annotation>
+      <annotation id="gy401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15430" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15526" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15564" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15572" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15691" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15699" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15764" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15776" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15784" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15956" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="15964" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="15994" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="16098" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16112" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16140" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_title_caption</infon>
+      <offset>16157</offset>
+      <text>Characteristics of DEX-IND and DEX-IND/PTX micelles.</text>
+      <annotation id="gy441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16176" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16188" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16196" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16364</offset>
+      <text>To investigate in vitro stability of DEX-IND/PTX micelles at 4°C, micellar size and PDI were detected at different periods of time (1, 2, 3, 4, 5, 6 and 7d). Fig 2A and 2B showed that micellar size remained nearly unchanged within a week, and PDI increased slightly over the same period, which provided the strong evidence that DEX-IND/PTX micelles could keep good colloidal stability and be suitable to be stored at 4°C.</text>
+      <annotation id="gy447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16401" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16409" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16692" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16700" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>16788</offset>
+      <text>Stability and in vitro release of DEX-IND/PTX micelles.</text>
+      <annotation id="gy452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16822" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16830" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16844</offset>
+      <text>(A, B) In vitro stability of DEX-IND/PTX micelles at 4°C, including size and PDI. (C) In vitro release profiles of free PTX and DEX-IND/PTX micelles in pH 7.4 PBS, and DEX-IND/PTX micelles in pH 5.0 PBS. Data represent mean ± standard deviation (n = 3).</text>
+      <annotation id="gy466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16873" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16881" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16964" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="16972" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="16980" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17003" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="gy469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17012" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17020" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17043" length="3"/>
+        <text>PBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17100</offset>
+      <text>In vitro PTX release from DEX-IND/PTX micelles</text>
+      <annotation id="336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17109" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17126" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17134" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17147</offset>
+      <text>In vitro drug release profiles of DEX-IND/PTX micelles were investigated by dialysis method in pH 7.4 and pH 5.0 PBS. As shown in Fig 2C, free PTX is released quickly, more than 90% within 12h. In contrast, the release of PTX can be maintained for more than 48 h. The release of DEX-IND/PTX micelles exhibits a biphasic release pattern, including rapid release during the initial 12 h and slow release later on (12–48 h).</text>
+      <annotation id="gy479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17181" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17189" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="17260" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="2XXx254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17290" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17369" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17426" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="17434" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>17571</offset>
+      <text>Cellular uptake of DEX-IND micelles</text>
+      <annotation id="gy492">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17590" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17607</offset>
+      <text>The cellular uptake test of DEX-IND micelles were investigated in MCF-7 cells. In this study, rhodamine B isothiocyanate (RITC) was used to label DEX-IND micelles. Fig 3A presents the cellular images of cells after incubation with DEX-IND/RITC micelles for 1 and 8 h. The results showed that DEX-IND/RITC micelles could be internalized into MCF-7 cells in a time-dependent manner.</text>
+      <annotation id="gy499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17635" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027755</infon>
+        <location offset="17701" length="26"/>
+        <text>rhodamine B isothiocyanate</text>
+      </annotation>
+      <annotation id="354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027755</infon>
+        <location offset="17729" length="4"/>
+        <text>RITC</text>
+      </annotation>
+      <annotation id="gy504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17753" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17838" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027755</infon>
+        <location offset="17846" length="4"/>
+        <text>RITC</text>
+      </annotation>
+      <annotation id="gy503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="17899" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027755</infon>
+        <location offset="17907" length="4"/>
+        <text>RITC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>17988</offset>
+      <text>Cellular uptake of DEX-IND micelles.</text>
+      <annotation id="gy510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="18007" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18025</offset>
+      <text>(A) Fluorescence images of MCF-7 cells were incubated with DEX-IND/RITC micels for 1 and 8 h, respectively. (B) Comparison of the cellular uptake of PTX, PTX+IND or DEX-IND/PTX in MCF-7 cells and MCF-7/ADR cells. Data represent mean ± standard deviation (n = 3). *P &lt; 0.05.</text>
+      <annotation id="gy519">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="18084" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027755</infon>
+        <location offset="18092" length="4"/>
+        <text>RITC</text>
+      </annotation>
+      <annotation id="2XXx270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18174" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18179" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="18183" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="18190" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18198" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18300</offset>
+      <text>Then, cellular accumulation efficiency was quantitatively analyzed using HPLC method to determine intracellular concentrations of PTX in drug-sensitive MCF-7 cells and drug-resistant MCF-7/ADR cells after 12 h incubation with free PTX, free PTX+IND or DEX-IND/PTX micelles. The results showed that the internalization of free PTX by drug-resistant MCF-7/ADR cells was significantly decreased in comparison to that by drug-sensitive MCF-7 cells. In contrast, the internalization of free PTX+IND and DEX-IND/PTX micelles by drug-resistant MCF-7/ADR cells was similar to that by drug-sensitive MCF-7 cells (Fig 3B). Therefore, DEX-IND micelles could provide more efficient cellular uptake both in MCF-7 and MCF-7/ADR cells. This result can be explained by the following reasons: 1) more efficient endocytosis of PTX can be accomplished with the help of micellar carriers; 2) MRPs-mediated efflux can be reversed by IND released from DEX-IND/PTX micelles. Free PTX could be internalized into tumor cells via molecular diffusion mechanism, while PTX encapsulated in micelles could be internalized into tumor cells via endocytosis, which was a high-efficiency route for drugs going through cell membrane.</text>
+      <annotation id="374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18430" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18531" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18541" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="18545" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy555">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="18552" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18560" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18626" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18786" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="707">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="18790" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy544">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="18798" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="18806" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy550">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="18924" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19109" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="19212" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="19230" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19238" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19257" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19341" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19499</offset>
+      <text>In vitro antitumor activity</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19527</offset>
+      <text>Cytotoxicities of PTX, and DEX-IND/PTX micelles against MCF-7 and MCF-7/ADR cells were addressed using MTT assay. As shown in Fig 4A and 4B, DEX-IND conjugates showed negligible toxicity with DEX-IND concentration ranging from 1–600 μg·mL-1 in MCF-7 and MCF-7/ADR cells. Fig 4C showed that PTX, PTX + IND and DEX-IND/PTX micelles could inhibit the proliferation of MCF-7 cells in a dose-dependent manner. In contrast, PTX + IND and DEX-IND/PTX micelles both led to the higher cytotoxicity in comparison to PTX in MCF-7/ADR cells, which indicated that IND in micelles probably suppress MRPs-mediated efflux to some extent and increase PTX accumulation in cells. Here, it was shown that IND could enhance the cytotoxicity of PTX in MCF-7/ADR cells, which was consistent with cellular uptake test that IND could retard the efflux of PTX and then enhance its cytotoxicity.</text>
+      <annotation id="2XXx294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19545" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy568">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="19554" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19562" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C022616</infon>
+        <location offset="19630" length="3"/>
+        <text>MTT</text>
+      </annotation>
+      <annotation id="gy581">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="19668" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy595">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="19719" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19817" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19822" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="708">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="19828" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy571">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="19836" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19844" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19945" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="19951" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy575">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="19959" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="19967" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20033" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="710">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="20078" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20161" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="711">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="20212" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="2XXx308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20250" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="712">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="20326" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20357" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>20400</offset>
+      <text>In vitro anti-tumor activity of DEX-IND/PTX micelles.</text>
+      <annotation id="gy606">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="20432" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20440" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>20454</offset>
+      <text>(A, B) Cytotoxicity of DEX-IND micelles without PTX encapsulation in MCF-7 and MCF-7/ADR cells for 24 h (n = 3). (C, D) The viability of MCF-7/ADR cells after incubation with PTX, PTX + IND and DEX-IND/PTX micelles for 24 h. Data represent mean ± standard deviation (n = 3). *P &lt; 0.05.</text>
+      <annotation id="gy611">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="20477" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20502" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20629" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20634" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="20640" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy615">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="20648" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20656" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20741</offset>
+      <text>In vivo pharmacokinetics</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20766</offset>
+      <text>The plasma concentration-time profiles of PTX and DEX-IND/PTX micelles following single dose administration are showed in Fig 5. As presented, PTX plasma concentration reduced quickly at initial 10 h of intravenous administration, leading to short t1/2, approximately 7.462 h, and little PTX could be measured in the plasma after 12 h. As expected, DEX-IND micelles could significantly increase the blood circulation of PTX, and appreciable PTX could still be detected in rats treated with DEX-IND/PTX micelles at 24 h after administration. Compared with PTX, DEX-IND/PTX micelles showed prolonged blood circulation (t1/2, 12.894 h). The concentration-time data was analyzed by the non-compartmental model. The pharmacokinetic parameters are presented in Table 2. Compared with PTX, the area under concentration curve (AUC0-∞) in DEX-IND/PTX micelles was significantly increased from 99.71 ± 19.347 ng·mL-1·h-1 to 300.069 ± 89.089 ng·mL-1·h-1. The mean residence time (MRT) of DEX-IND/PTX micelles (13.234 ±1.175 h) was 1.8-fold increase for PTX (7.136 ± 1.06 h).</text>
+      <annotation id="435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20808" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy628">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="20816" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20824" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="20909" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21054" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy625">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="21115" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21186" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21207" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy636">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="21256" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21264" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21321" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy638">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="21326" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21334" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21544" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy630">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="21596" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21604" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy654">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="21743" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21751" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21808" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>21840</offset>
+      <text>The concentration versus time curve of PTX and DEX-IND/PTX after intravenous administration.</text>
+      <annotation id="2XXx344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21879" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy658">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="21887" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="21895" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>21933</offset>
+      <text>Data represent mean ± standard deviation (n = 5).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_title_caption</infon>
+      <offset>21984</offset>
+      <text>Plasma pharmacokinetic parameters of PTX after intravenous administration of Taxol and DEX-IND/PTX micelles in rats (n = 5).</text>
+      <annotation id="464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="22021" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="22061" length="5"/>
+        <text>Taxol</text>
+      </annotation>
+      <annotation id="gy665">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="22071" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="22079" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>22303</offset>
+      <text>AUC, area under the concentration-time curve; MRT, mean residence time; CL, clearance rate.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22395</offset>
+      <text>The stability of drug delivery system is of great significance because it is a prerequisite for the successful delivery to target tissues. After systemic administration, drug delivery system will encounter plasma proteins before it reaches target tissues. It was reported that serum proteins easily interacted with drug carriers and thus affect their stability and tissue disposition. Therefore, the integrity of drug delivery system in the presence of blood components is of great significance to efficient drug delivery to the target tissues. In vivo pharmacokinetic results showed that DEX-IND micelles could enhance circulation time of PTX via slowing PTX clearance from body, which ensure more PTX distributed into tumor cells via enhanced permeability and retention (EPR) effect.</text>
+      <annotation id="gy673">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="22984" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23035" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23051" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23094" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>23181</offset>
+      <text>In vivo antitumor activity</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23208</offset>
+      <text>The in vivo antitumor efficacy of DEX-IND/PTX micelles was investigated in MDR tumor-bearing mice. The anti-tumor efficacy of DEX-IND/PTX micelles was compared with PTX and saline. The changes of tumor volume were plotted. As shown in Fig 6A, both PTX and DEX-IND/PTX micelles could effectively suppress tumor growth. After 24 d, tumor volumes in tumor-bearing mice treated with PTX and DEX-IND/PTX micelles were significantly smaller than those treated with saline (vs saline, P &lt; 0.05). After 48 d, tumor volumes in tumor-bearing mice treated with DEX-IND/PTX micelles were significantly smaller than those treated with PTX (vs PTX, P &lt; 0.05), but were no significant difference between two different dose DEX-IND/PTX micelles (P &gt; 0.05). The tumor volume in tumor-bearing mice treated with 20 mg·mL-1 DEX-IND/PTX micelles was 1.81-fold smaller than those treated with 20 mg·mL-1 PTX. The synergetic effect of micellar passive targeting and enhanced anti-tumor activity with IND could be the main reason for the significant inhibition on tumor growth in tumor-bearing mice treated with DEX-IND/PTX micelles.</text>
+      <annotation id="gy704">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="23242" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23250" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy711">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="23334" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23342" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23373" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23456" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy685">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="23464" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23472" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23587" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy691">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="23595" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23603" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy696">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="23758" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="491">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23766" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23830" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23838" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy683">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="23916" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="23924" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy703">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="24012" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24020" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24090" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="2XXx368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007213</infon>
+        <location offset="24185" length="3"/>
+        <text>IND</text>
+      </annotation>
+      <annotation id="gy689">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="24296" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24304" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>24320</offset>
+      <text>In vivo antitumor activities of PTX and DEX-IND/PTX after intravenous administration tumor-bearing mice.</text>
+      <annotation id="505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24352" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy725">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="24360" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24368" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>24425</offset>
+      <text>(A) Mice tumor volume changes within 48 days. (B) Mice body weight changes within 48 days. Data represent mean ± standard deviation (n = 5).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24567</offset>
+      <text>The toxicity of Dex-Ind/DOX micelles was next assessed through bodyweight changes. As shown in Fig 6B, PTX led to 30% bodyweight reduction, which was involved with its severe drug-related toxicity. In contrast, DEX-IND/PTX micelles could significantly decrease PTX toxicity during systemic circulation, which benefited from encapsulated PTX in DEX-IND micelles leading to the reduced exposure of normal tissues to it and enhanced passive accumulation of PTX in tumor sites via EPR effect. Therefore, DEX-IND/PTX micelles could reduce the undesirable side effects and then improve the reduction of bodyweight.</text>
+      <annotation id="gy741">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="24583" length="7"/>
+        <text>Dex-Ind</text>
+      </annotation>
+      <annotation id="510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="24591" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="2XXx382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24670" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy740">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="24778" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24786" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="515">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24828" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="516">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="24904" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy746">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="24911" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="25021" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy747">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="25067" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="522">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="25075" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25176</offset>
+      <text>Co-delivery of anti-tumor agents together with MRPs inhibitors has become more popular to overcome MDR. In some studies, anti-tumor agents were encapsulated into drug delivery systems and chemosensitizers were administered as free solutions. However, chemosensitizers are easily distributed to all tissues during administered in a free form, which induces the non-specific activity of chemosensitizers. Therefore, it is of great importance to delivery chemosensitizers to the site of action. In this study, DEX-IND/PTX micelles were prepared to achieve co-delivery of anti-tumor agent and chemosensitizer, and the in vivo anti-tumor result showed that DEX-IND/PTX micelles could effectively suppress tumor growth with reduced toxicity to normal tissues.</text>
+      <annotation id="gy756">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="25683" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="525">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="25691" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy758">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="25828" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="25836" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>25930</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25941</offset>
+      <text>DEX-IND was synthesized successfully with low CMC in this study. The DEX-IND could spontaneously form nanosized micelles in aqueous medium and encapsulate the hydrophobic anti-tumor agent PTX. The PTX release from DEX-IND micelles could be maintained for more than 48h. DEX-IND/PTX micelles were effective for suppressing both drug sensitive and resistant MCF-7 cells. The assay of anti-tumor activity indicated that DEX-IND/PTX micelles could increase anti-tumor activity in comparison to commercial PTX. Overall, the results indicated that DEX-IND/PTX micelles were a promising potential candidate for oncotherapy.</text>
+      <annotation id="gy771">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="25941" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy778">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="26010" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="533">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="26129" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="534">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="26138" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy774">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="26155" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="gy765">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="26211" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="26219" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy760">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="26358" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="2XXx399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="26366" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="543">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="26442" length="3"/>
+        <text>PTX</text>
+      </annotation>
+      <annotation id="gy777">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911,MESH:D007213</infon>
+        <location offset="26483" length="7"/>
+        <text>DEX-IND</text>
+      </annotation>
+      <annotation id="546">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017239</infon>
+        <location offset="26491" length="3"/>
+        <text>PTX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>26558</offset>
+      <text>Supporting information</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>26581</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

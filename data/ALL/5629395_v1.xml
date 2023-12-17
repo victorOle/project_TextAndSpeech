@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5629395</id>
+    <passage>
+      <infon key="article-meta">10.3762/bjoc.13.192</infon>
+      <infon key="name_2">surname:Schreiner;given-names:Peter</infon>
+      <infon key="name_1">surname:Cuevas;given-names:Gabriel</infon>
+      <infon key="name_0">surname:Barquera-Lozada;given-names:José Enrique</infon>
+      <infon key="article-id_pmid">29062416</infon>
+      <infon key="fpage">1969</infon>
+      <infon key="year">2017</infon>
+      <infon key="article-id_pmc">5629395</infon>
+      <infon key="article-id_doi">10.3762/bjoc.13.192</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">13</infon>
+      <infon key="license">This is an Open Access article under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.The license is subject to the Beilstein Journal of Organic Chemistry terms and conditions: (http://www.beilstein-journals.org/bjoc)</infon>
+      <infon key="kwd">biogenesis density functional theory reaction mechanism sigmatropic rearrangement terpenes</infon>
+      <infon key="lpage">1976</infon>
+      <offset>0</offset>
+      <text>Are boat transition states likely to occur in Cope rearrangements? A DFT study of the biogenesis of germacranes</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="100" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>112</offset>
+      <text>It has been proposed that elemanes are biogenetically formed from germacranes by Cope sigmatropic rearrangements. Normally, this reaction proceeds through a transition state with a chair conformation. However, the transformation of schkuhriolide (germacrane) into elemanschkuhriolide (elemane) may occur through a boat transition state due to the final configuration of the elemanschkuhriolide, but this transition state is questionable due to its high energy. The possible mechanisms of this transformation were studied in the density functional theory frame. The mechanistic differences between the transformation of (Z,E)-germacranes and (E,E)-germacranes were also studied. We found that (Z,E)-germacranolides are significantly more stable than (E,E)-germacranolides and elemanolides. In the specific case of schkuhriolide, even when the boat transition state is not energetically favored, a previous hemiacetalization lowers enough the energetic barrier to allow the formation of a very stable elemanolide that is even more stable than its (Z,E)-germacrane.</text>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="138" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="178" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="344" length="13"/>
+        <text>schkuhriolide</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="359" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="376" length="19"/>
+        <text>elemanschkuhriolide</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="397" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="486" length="19"/>
+        <text>elemanschkuhriolide</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="731" length="17"/>
+        <text>(Z,E)-germacranes</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="753" length="17"/>
+        <text>(E,E)-germacranes</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="804" length="21"/>
+        <text>(Z,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="861" length="21"/>
+        <text>(E,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="887" length="12"/>
+        <text>elemanolides</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="925" length="13"/>
+        <text>schkuhriolide</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="1111" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="1157" length="16"/>
+        <text>(Z,E)-germacrane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1175</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1188</offset>
+      <text>Germacranes are biogenetic precursors of elemanes [–], because germacranes can be easily transformed into elemanes by heating through a Cope rearrangement. In some cases, these transformations are so favorable that it has been mentioned that the observed elemanes are only artifacts produced at the extraction [–]. It is known that 1,5-dienes suffer Cope rearrangements at temperatures between 200 and 300 °C, but some structural changes in the diene, such as the anionic oxy-Cope transformation allows the reactions to happen at temperatures below 0 °C []. The Cope rearrangement is a [3,3]-sigmatropic reaction and in general, occurs through a single transition state (TS), which has, normally, a chair conformation due to the higher energy of the boat conformation [,,–]. In this mechanism, the electron density of the TS is delocalized into the six carbon atoms [–]. However, if the diene contains free radical stabilizing groups, this mechanism could have significant contributions from other mechanisms that involve radical species [,,,–]. Detailed discussions about Cope rearrangements can be found in several studies and reviews that have been published previously [,–]. The configuration of elemanes formed via a Cope rearrangement from germacranolides only depends on the configuration of the most stable germacrane conformer since it is mainly a concerted reaction [,,]. It is accepted that the conformers that normally carry out a Cope rearrangement are the ones that have crossed double bonds, as they can generate a chair TS. The configuration of the final elemanolide is also affected by the substituents in the germacranolides, the pseudo-equatorial position is preferred over the pseudo-axial position [,–]. These are the factors that dictate that specific germancranes will only rearrange to yield one or potentially two elemanolide configurations.</text>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="1188" length="11"/>
+        <text>Germacranes</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="1229" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="1251" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="1294" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="1443" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000466</infon>
+        <location offset="1520" length="10"/>
+        <text>1,5-dienes</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000466</infon>
+        <location offset="1633" length="5"/>
+        <text>diene</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="2041" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000466</infon>
+        <location offset="2075" length="5"/>
+        <text>diene</text>
+      </annotation>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="2388" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="2434" length="15"/>
+        <text>germacranolides</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="2503" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="2759" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="2815" length="15"/>
+        <text>germacranolides</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="2962" length="12"/>
+        <text>germancranes</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="3027" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3071</offset>
+      <text>The schkuriolide (1, Scheme 1) is a sesquiterpene lactone, specifically a (Z,E)-germacranolide, named melampolide, that coexists in the same natural source with the elemanschkuhriolide (3), which is an elemanolide with a stereochemistry structurally similar to 1 (C14αH5β). In order to know if 1 and 3 have biogenetic relation, 1 was transformed into 3 by heating 1 for 10 minutes at 200 °C. This suggests that 1 is a biogenetic precursor of 3 []. It is important to mention that 1 suffers a hemiacetalization in addition to a Cope rearrangement to form 3. The non-hemiacetaled compound 3 was found in neither the natural source nor the products of the biomimetic transformation of 1 into 3. This transformation is very interesting since in order to explain the stereochemistry of elemane 3, a boat-like TS is necessary (path M, Scheme 1) [–]. This is one of the few reported cases of elemane’s biogenetic formations where a boat TS can be proposed instead of the normal chair TS [,–]. In a second proposed mechanism for the transformation of 1 into 3, the (Z,E)-germacranolide isomerizes into (E,E)-germacranolide and in a second step a Cope rearrangement forms the elemane. In this case a normal chair TS is proposed to generate the correct elemane configuration (path N, Scheme 1) [,–]. It is possible that an enzyme is responsible to allow reactions that happen in the flask at very high temperatures in two ways, stabilizing the transition state, or destabilizing the ground states energy of the reactants. An antibody-catalyzed oxy-Cope reaction has already been described [] as well as a proposed reaction mechanism []. In the study presented in this paper, we performed density functional theory (DFT) calculations of the possible mechanisms for the transformation of 1 into 3, to elucidate which mechanism is more likely and to determine if the Cope TS with a boat conformation during the transformation is energetically favorable. The study will also help to understand the structural factors that determine the energetic evolution of germacranolides’ Cope transformations.</text>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="3075" length="12"/>
+        <text>schkuriolide</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717,MESH:D007783</infon>
+        <location offset="3107" length="21"/>
+        <text>sesquiterpene lactone</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="3145" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="3173" length="11"/>
+        <text>melampolide</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="3236" length="19"/>
+        <text>elemanschkuhriolide</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="3273" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="3335" length="7"/>
+        <text>C14αH5β</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="3852" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="3956" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="4128" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="4165" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="4238" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="4314" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="5116" length="15"/>
+        <text>germacranolides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>5168</offset>
+      <text>Biogenetic hypothesis for the transformation of schkuhriolide (1) into elemanschkuriolide (3).</text>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="5216" length="13"/>
+        <text>schkuhriolide</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="5239" length="18"/>
+        <text>elemanschkuriolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5263</offset>
+      <text>Computational methods</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5285</offset>
+      <text>DFT has been proved to be a good method for the study of reaction mechanisms of natural products' biogenesis and it has been used in many studies [–] and it is the method of choice for pericyclic reactions studies [,]. In particular, third generation hybrid functionals have improved the description of the potential energy surface and produce very reliable results [–]. Our studies in terpene biogenesis show that these hybrid functionals competes successfully with others in the determination of the energetic profile of reaction coordinates []. The third-generation hybrid functional improves the description of the energetic barriers with respect to the popular B3LYP functional []. Moreover, the B3LYP functional was used in a Cope rearrangement study of several germacranes and it was unable to obtain accurate results when the energy differences between germacranes and elemanes were small [].</text>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013729</infon>
+        <location offset="5671" length="7"/>
+        <text>terpene</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="6053" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="6146" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="6162" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6190</offset>
+      <text>All calculations were performed with Gaussian 09 []. All the geometries were fully optimized using the DFT hybrid method M06x [], a functional that is very reliability in calculations of activation energies [,]. The 6-31+G(d,p) basis set was used for all calculations. Diffuse functions in double split valence basis have shown to be more important than a triplet split of the valence basis when reaction energies and activation energies are calculated with DFT []. The stability of the wave functions of all the transition states was checked. An unrestricted wave function was used to calculate the activation energy of the cis/trans isomerization of the (Z,E)-germacranolide. All energies were reported with zero-point energy corrections and all TS geometries have only one imaginary frequency.</text>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="6846" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>6987</offset>
+      <text>Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7010</offset>
+      <text>Besides the two previously proposed mechanisms (Scheme 1), there are two other possible mechanisms for the transformation of 1 into 3. It is also likely that the hemiacetalization occurs before the Cope rearrangement. Fig. 1 shows the reaction coordinate of these four mechanisms. In the first proposed mechanism (path M, Fig. 1) a conformational transformation of 1 must occur first. The most stable conformer has chair-boat conformation that according to Samek nomenclature is [15D5,1D14] (1a). This conformer is the one that is present in solution []. Nevertheless, conformer 1a does not have the proper geometry to directly generate the correct stereochemistry of 3. Both C–C bonds next to the C10–C1 double bond of conformer 1a have to rotate to generate the boat-boat conformer (1b, [15D5,1D14]), which is 3.5 kcal/mol less stable than 1a, but conformer 1b has the proper conformation to generate the configuration of 3 (ground state destabilization). The second step is the Cope rearrangement. The saddle point (TS1b-2) for this process has a high relative energy (47.0 kcal/mol). Thus, the transformation of 1 into 2 through TS1b-2 is unlikely at 200 °C (temperature at which the biogenetic transformation was performed) []. In case of path N, the activation energy of 4 to reach the Cope TS (TS4-2) is 25.9 kcal/mol, and the relative energy of TS4-2 is 35.0 kcal/mol. The chair TS was, as expected, less energetic than the boat TS. However, before the Cope rearrangement can proceed, the (Z,E)-germacranolide 1, must isomerize to the corresponding (E,E)-germacranolide 4. This process is highly unfavorable, its energetic barrier is about 55.7 kcal/mol, which is very close to the reported activation energies for the ethylene thermal isomerization (≈65 kcal/mol) [–]. Therefore, this high energy TS makes path N and path P unlikely. It is important to point out that in nature this isomerization of germacranes can be catalyzed by different mechanism. For example, other cis/trans transformations have been biomimetically catalyzed by SeO2 [,–]. The only remaining route for the thermal transformation of 1 into 3 is path O. In this path, the hemiacetalization is the first step. We used a water molecule to facilitate the proton transfer in this stage. In the experiment, a hydroxylic group of other proximate germacranolide molecule or an actual water molecule could participate as donor and acceptor of the germacranolide proton. In fact, in the solid state 1 cocrystalizes with a water molecule []. The next step in this mechanism is the Cope rearrangement which have a TS (TS5-3) less energetic than the Cope TS without hemiacetal group (TS1b-2). This could be because the hemiacetalization reduces the transannular distance between C10 and C5 (3.20 Å, 2.91 Å, 2.72 Å and 2.66 Å for 1b, 4, 5 and 6, respectively) that facilitates orbital interactions and bond formation. The chair TS (TS6-3) is still more stable, the energy difference between TS5-3 and TS6-3 is almost the same than in TS1b-2 and TS4-2, but the energy of boat TS (TS5-3) decreases to 38.0 kcal/mol, which is small enough to be overcome at 200 °C. Thus, hemiacetalization lowers the activation energy of the boat Cope TS which allows the reaction to be completed at a temperature significantly lower than the temperature that a standard boat TS would need (≈260 °C) [].</text>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="8507" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="8567" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C036216</infon>
+        <location offset="8737" length="8"/>
+        <text>ethylene</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="8919" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D064588</infon>
+        <location offset="9055" length="4"/>
+        <text>SeO2</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="9331" length="14"/>
+        <text>germacranolide</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="9430" length="14"/>
+        <text>germacranolide</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000080</infon>
+        <location offset="9645" length="10"/>
+        <text>hemiacetal</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10381</offset>
+      <text>Reaction paths M (blue), N (orage), O (yellow) and P (green) for the transformation of 1 into 3. Relative free energies in kcal/mol. The energetic barriers for the hemiacetalization steps are calculated including a water molecule to facilitate the proton transfer.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10646</offset>
+      <text>The hemiacetalization also allows the transformation of a (Z,E)-germacranolide 1 into a elemanolide 3. This is an exception because all the biomimetical transformation of germacranolides into elemanolides reported until now are of (E,E)-germacranolides [,–]. Fig. 1 shows that the elemanolide 2 is less stable than the (Z,E)-germacranolide 1, so it is not possible to obtain 2 from 1 without a transformation that stabilizes 2. In this special case, the hemiazetalization significantly lowers the energy of the elemanolide what makes the global process spontaneous. In fact, previous studies show that the transformation of (Z,E)-germacranolides with a blocked C6 hydroxy group do not produce the corresponding elemanolide (Scheme 2) []. Contrary, elemane (2) is more stable than the (E,E)-germacranolide. Therefore, a elemanolide can be formed directly from a (E,E)-germacranolide. Moreover, the (E,E)-germacranolide 4 is even less stable than 1 (9.1 kcal/mol), which explains the lack of published cases for a transformation of an (E,E)-germacranolide into a (Z,E)-germacranolide, but in the opposite direction there are some examples [,,].</text>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="10704" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="10734" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="10817" length="15"/>
+        <text>germacranolides</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="10838" length="12"/>
+        <text>elemanolides</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="10877" length="21"/>
+        <text>(E,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="10927" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="10965" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="11157" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11270" length="21"/>
+        <text>(Z,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="11357" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="11394" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11430" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="11465" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11507" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11543" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11679" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11707" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11791</offset>
+      <text>Similar compounds to melampolide 1 unable to be hemiacetaled.</text>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="11812" length="11"/>
+        <text>melampolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11853</offset>
+      <text>The hemiacetalization by itself does not guarantee the stabilization of an elemane. If compound 1 had to suffer a normal Cope (chair TS), it would generate the C5 epimer of 2 (2’, Fig. 2). This epimer is 2.6 kcal/mol less stable than 1a, so the formation of 2’ from 1, as in case of 2, is thermodynamically forbidden. Epimer 2’ can also produce a hemiacetal (3’) but this compound has a higher energy than 3 by 4.2 kcal/mol; this is due to the C5 propenyl group in 3’ is axially oriented instead of equatorially as in 3. In contrast to 3, the formation of epimer 3’ from 1 is not thermodynamically highly favored. Therefore, the hemiacetal formation with the right orientation is fundamental to produce an elemanolide more stable than the (Z,E)-germacranolide.</text>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="11928" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000080</infon>
+        <location offset="12200" length="10"/>
+        <text>hemiacetal</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000080</infon>
+        <location offset="12482" length="10"/>
+        <text>hemiacetal</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="12559" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="12592" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12626</offset>
+      <text>Schematic representations of the calculated C5 epimeric structures of 2 and 3. Relative electronic energies in kcal/mol. The energies are relative to 1a.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12780</offset>
+      <text>It has been proposed that the configuration of an elemane depends on the most stable conformation of the germacradiene from which it is derived [,], although this is not a general rule and, in some cases, a conformer with higher energy is the conformer that reacts. To explain this behavior, some authors have proposed that the least energetic conformation of the Cope TS is what determines the elemane configuration [,,]. However, any of these arguments can explain the configuration of 3. Compound 3 has neither the configuration of the most stable conformer of 1 (1a) nor the configuration of the least energetic conformation of the Cope TS (a chair TS that would generate 2’). Compound 3 comes from conformer 1b which is not the most stable one and from a boat TS that is not the least energetic TS. Then, why does compound 3 have this configuration? The answer is simple, although not obvious; the elemanolide 2 has the right configuration to allow a hemiacetalization that reduced its energy via the formation of a significantly more stable hemiacetaled elemanolide 3. The configuration of 3 is the most stable among all other possible configurations. Therefore, the energy of the different elemane configurations and their possible subsequent rearrangement reactions should also be considered when a prediction of the configuration of an elemane is determined before a Cope rearrangement.</text>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="12830" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="12885" length="13"/>
+        <text>germacradiene</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="13175" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="13683" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="13840" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="13977" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="14125" length="7"/>
+        <text>elemane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14178</offset>
+      <text>Finally, we studied the role the γ-lactone ring plays in the transformation of germacranes into elemanes. Takeda et al. carried out a series of experiments, which proved that γ-lactone rings prevent the Cope rearrangement of (Z,E)-germacranolides when the ring is closed but not when the ring is open []. A study of the Cope rearrangement in open ring (Z,E)-germacranolide 1 (7, Fig. 3) and (E,E)-germacranolide 4 (8, Fig. 3) was done in order to analyze the effect of the lactone ring. Fig. 3 shows that energetic differences between cis and trans isomers do not vary significantly. When the lactone ring is closed, this difference is 9.1 kcal/mol, and when it is open it is 8.9 kcal/mol, so the opening of the lactone ring does not affect in any way the relative stability of the isomers. Another possible explanation of the inhibition of Cope rearrangement by the lactone ring (proposed by Takeda) is that the lactone ring raises the Cope TS energy, as the lactone ring strains the germacrane ring. Contrary to what Takeda predicted, the relative energies of opened lactones, TS7-9 (50.8 kcal/mol) and TS8-9 (39.3 kcal/mol), are higher in comparison with their respectively closed lactone, TS1-2 (47.0 kcal/mol) and TS4-2 (35.0 kcal/mol). Elemanolide 9, product from Cope rearrangements of 7 and 8, has a closer energy to (Z,E)-germacranolide than its closed ring analog, 2. The difference between 1 and 2 is 4.5 kcal/mol while between 7 and 9 is only 2.1 kcal/mol. Thus, the lactone ring destabilizes the elemanolide, which explains why closed ring (Z,E)-germacranolides cannot carry out a Cope rearrangement contrary to the open ring (Z,E)-germacranolides. Again, the relative stability of an elemane versus that of a germacrane determines the likelihood of the transformation. The conclusion is that the γ-lactone ring in the Cope rearrangement destabilizes the corresponding elemane and it has a little or no effect in the Cope TS. This conclusion could be extrapolated to any 5-membered or smaller rings. The smaller a ring is the more susceptible it is to the strain generated by a second ring (5-members or smaller) fused to it. Therefore, the impact of the γ-lactone ring on the elemane ring (6-members) is significantly more than on the Cope TS ring (10-members).</text>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="14211" length="9"/>
+        <text>γ-lactone</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="14257" length="11"/>
+        <text>germacranes</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="14274" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="14353" length="9"/>
+        <text>γ-lactone</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="14403" length="21"/>
+        <text>(Z,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="14530" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="14569" length="20"/>
+        <text>(E,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="14651" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="14771" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="14890" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15045" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15091" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15138" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="15163" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15247" length="8"/>
+        <text>lactones</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15362" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="15420" length="11"/>
+        <text>Elemanolide</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="15503" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15657" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="15687" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="15731" length="21"/>
+        <text>(Z,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="15817" length="21"/>
+        <text>(Z,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="15876" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="15901" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="15988" length="9"/>
+        <text>γ-lactone</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="16060" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="16346" length="9"/>
+        <text>γ-lactone</text>
+      </annotation>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="16368" length="7"/>
+        <text>elemane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>16470</offset>
+      <text>Reaction paths of the Cope rearrangements of closed (dark blue and orange) and open (red and pink) γ-lactone ring. Relative free energies in kcal/mol.</text>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="16569" length="9"/>
+        <text>γ-lactone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16625</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16636</offset>
+      <text>The Cope rearrangement is commonly used to determine the germacrane conformation in solution, since the specialized literature establishes that the elemane configuration is due to the most stable conformer of germacrane. However, this is not always true as in the case studied here, where the product observed has neither the configuration of the most stable conformer nor the configuration of the least energetic conformation of the Cope TS. The configuration of elemane 3 is the most stable configuration of this compound. Therefore, it is also important to consider the energy of the different configurations of an elemane to correctly predict the conformation of a germacrene.</text>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="16693" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="16784" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="16845" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="17100" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="17254" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="17305" length="10"/>
+        <text>germacrene</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17317</offset>
+      <text>Interestingly, the (Z,E)-germacranes are significantly more stable than (E,E)-germacranes. Then, cis/trans isomerization can only happen in one way, (E,E)-germacranes → (Z,E)-germacranes. Moreover, this isomerization cannot be thermally activated because of the high energy of the associated TS. (Z,E)-Germacranolides are also more stable than elemanolides, (Z,E)-germacranolides cannot transform into elemanolides unless there is a subsequent reaction that reduces the energy of the elemanolide, like the hemiacetalization does in the case of 3. The transformation studied herein is possible due to a previous hemiacetalization that reduces the energy of the boat transition state by enforcing a shorter distance between the atoms that form the new C–C bond. Moreover, the transformation (Z,E)-germacranolide → elemanolide is only possible when the lactone ring is open, since in this case the elemanolide is more stable than the (Z,E)-germacranolide. Contrary to what other authors have proposed, the inability of (Z,E)-germacranes to transform into elemanes via a Cope rearrangement when (Z,E)-germacranes have small rings (lactone) fused is not due to an increase of the activation energy of the Cope rearrangement. The activation energy does not change significantly when the fused ring is open or closed, but when the ring is open, the elemane is more stable. A fused small ring produces a lot of strain in the elemanes. In summary, fused small rings increase significantly the energy of elemanes, but those rings do not significantly modify the energy of germacrane’s Cope TSs.</text>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="17336" length="17"/>
+        <text>(Z,E)-germacranes</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="17389" length="17"/>
+        <text>(E,E)-germacranes</text>
+      </annotation>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="17466" length="17"/>
+        <text>(E,E)-germacranes</text>
+      </annotation>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="17486" length="17"/>
+        <text>(Z,E)-germacranes</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="17613" length="21"/>
+        <text>(Z,E)-Germacranolides</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="17661" length="12"/>
+        <text>elemanolides</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="17675" length="21"/>
+        <text>(Z,E)-germacranolides</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="17719" length="12"/>
+        <text>elemanolides</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="17801" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="18106" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18129" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="18167" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18212" length="11"/>
+        <text>elemanolide</text>
+      </annotation>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C432449</infon>
+        <location offset="18248" length="20"/>
+        <text>(Z,E)-germacranolide</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="18333" length="17"/>
+        <text>(Z,E)-germacranes</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18369" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="18408" length="17"/>
+        <text>(Z,E)-germacranes</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007783</infon>
+        <location offset="18444" length="7"/>
+        <text>lactone</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18659" length="7"/>
+        <text>elemane</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18734" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012717</infon>
+        <location offset="18811" length="8"/>
+        <text>elemanes</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D045788</infon>
+        <location offset="18879" length="10"/>
+        <text>germacrane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18910</offset>
+      <text>Supporting Information</text>
+    </passage>
+  </document>
+</collection>

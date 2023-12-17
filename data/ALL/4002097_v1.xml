@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4002097</id>
+    <passage>
+      <infon key="name_3">surname:Barker;given-names:Roger A.</infon>
+      <infon key="name_2">surname:Fraser;given-names:Graham</infon>
+      <infon key="name_1">surname:Zibaee;given-names:Shahin</infon>
+      <infon key="name_0">surname:Herva;given-names:Maria Eugenia</infon>
+      <infon key="article-id_pmid">24584936</infon>
+      <infon key="fpage">11897</infon>
+      <infon key="issue">17</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_publisher-id">M113.542340</infon>
+      <infon key="article-id_pmc">4002097</infon>
+      <infon key="alt-title">α-Synuclein Protein Misfolding Cyclic Amplification (PMCA)</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1074/jbc.M113.542340</infon>
+      <infon key="volume">289</infon>
+      <infon key="license">Author's Choice—Final version full access.Creative Commons Attribution Unported License applies to Author Choice Articles</infon>
+      <infon key="kwd">α-Synuclein Amyloid Cell Therapy Drug Screening Protein Aggregation PMCA</infon>
+      <infon key="lpage">11905</infon>
+      <infon key="name_5">surname:Spillantini;given-names:Maria Grazia</infon>
+      <infon key="name_4">surname:Goedert;given-names:Michel</infon>
+      <offset>0</offset>
+      <text>Anti-amyloid Compounds Inhibit α-Synuclein Aggregation Induced by Protein Misfolding Cyclic Amplification (PMCA)*</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>118</offset>
+      <text>Background: α-Synuclein filaments can be formed in vitro, but the process is slow and unreliable, unsuitable for high throughput screening.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>262</offset>
+      <text>Results: Protein misfolding cyclic amplification (PMCA) rapidly assembles α-synuclein into filaments that form aggregates in cell culture and whose formation is inhibited by anti-amyloid compounds.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>464</offset>
+      <text>Conclusion: Anti-amyloid compounds affect PMCA cell-transmissible α-synuclein fibril formation.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>564</offset>
+      <text>Significance: α-Synuclein PMCA is useful for the screening of anti-aggregation compounds as treatments for α-synucleinopathies.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>700</offset>
+      <text>Filaments made of α-synuclein form the characteristic Lewy pathology in Parkinson and other diseases. The formation of α-synuclein filaments can be reproduced in vitro by incubation of recombinant protein, but the filament growth is very slow and highly variable and so unsuitable for fast high throughput anti-aggregation drug screening. To overcome this obstacle we have investigated whether the protein misfolding cyclic amplification (PMCA) technique, used for fast amplification of prion protein aggregates, could be adapted for growing α-synuclein aggregates and thus suitable for screening of drugs to affect α-synuclein aggregation for the treatment of the yet incurable α-synucleinopathies. Circular dichroism, electron microscopy, and native and SDS-polyacrylamide gels were used to demonstrate α-synuclein aggregate formation by PMCA, and the strain imprint of the α-synuclein fibrils was studied by proteinase K digestion. We also demonstrated that α-synuclein fibrils are able to seed new α-synuclein PMCA reactions and to enter and aggregate in cells in culture. In particular, we have generated a line of “chronically infected” cells, which transmit α-synuclein aggregates even after multiple passages. To evaluate the sensitivity of the PMCA system as an α-synuclein anti-aggregating drug screening assay a panel of 10 drugs was tested. Anti-amyloid compounds proved efficient in inhibiting α-synuclein fibril formation induced by PMCA. Our results show that α-synuclein PMCA is a fast and reproducible system that could be used as a high throughput screening method for finding new α-synuclein anti-aggregating compounds.</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="1456" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C016679</infon>
+        <location offset="1460" length="14"/>
+        <text>polyacrylamide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2395</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2408</offset>
+      <text>α-Synucleinopathies are characterized by the misfolding and aggregation of the abundant CNS protein α-synuclein that is expressed predominantly in nerve cells and is concentrated at presynaptic nerve terminals, where it plays a role in synaptic vesicle transport (1). Aggregated α-synuclein forms the neuronal inclusions of Parkinson disease and dementia with Lewy bodies (Lewy bodies and neurites) and the oligodendroglial inclusions of multiple system atrophy (glial cytoplasmic inclusions) (1). Evidence that α-synuclein aggregation causes these diseases has accumulated through a variety of neuropathological, biochemical, and genetic studies (2, 4). In particular, dominantly inherited mutations and duplications and triplications of SNCA, the α-synuclein gene, cause familial forms of Parkinson disease, dementia with Lewy bodies, and multiple system atrophy (5), and α-synuclein has been identified as a risk factor for Parkinson disease in all genome-wide association studies done to date (6). Despite being a point of intense research, the critical question of how to prevent, stop, or revert the aggregation of α-synuclein remains unresolved.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3589</offset>
+      <text>α-Synuclein is a 140-amino acid protein with little ordered structure that binds to lipid membranes. It comprises seven repeats, in the positively charged amino-terminal region and the hydrophobic middle part, with the carboxyl-terminal region being negatively charged. Monomeric α-synuclein adopts an α-helical structure upon binding to lipid membranes containing acidic phospholipids. This conformation involves amino acids 1–98, with residues 99–140 being considered unstructured (7).</text>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="3610" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010743</infon>
+        <location offset="3961" length="13"/>
+        <text>phospholipids</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="4003" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4089</offset>
+      <text>In recent years, the mechanism of α-synuclein aggregation has been compared with that of the prion protein, whose misfolding causes transmissible spongiform encephalopathies (8). Common biochemical hallmarks are the propensity to aggregate, insolubility in mild detergents, and partial resistance to protease digestion (9–11). The development and use of protein misfolding cyclic amplification (PMCA)3 of the prion protein (12) has helped to understand the underlying prion replication, infectivity, and strain formation.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4615</offset>
+      <text>EXPERIMENTAL PROCEDURES</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>4639</offset>
+      <text>Expression and Purification of Recombinant Wild-type α-Synuclein</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4708</offset>
+      <text>BL21(DE3) Escherichia coli was transformed with human full-length α-synuclein in pRK172, and the protein was then purified as described (13). Briefly, bacterial cells were harvested and resuspended in Tris/EDTA buffer, lysed 4 °C (with 25 kg/square inch using a cell disruptor (Constant Systems Ltd.) and centrifuged). α-Synuclein protein was purified from the lysate supernatant by anion exchange using HiTrap Capto adhere (GE Healthcare), (NH4)2SO4 precipitation, gel filtration, and anion exchange using Mono Q GL (GE Healthcare). The pooled protein fractions collected from the purification steps were concentrated and solvent-exchanged using Amicon Ultra-15 centrifugal filters with 10-kDa molecular mass cutoff (Millipore). Aliquots of protein were stored at −20 °C prior to use. A 10-μl aliquot was hydrolyzed in 6 m HCl for amino acid analysis. Protein concentrations were determined by quantitative amino acid analysis, performed in-house (LMB-MRC, UK), and confirmed at the Protein and Nucleic Acid Chemistry Facility, University of Cambridge, UK.</text>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="4909" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="4914" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000645</infon>
+        <location offset="5149" length="9"/>
+        <text>(NH4)2SO4</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C042855</infon>
+        <location offset="5215" length="6"/>
+        <text>Mono Q</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="5532" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="5540" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="5616" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>5775</offset>
+      <text>PMCA</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5780</offset>
+      <text>PMCA was carried out by subjecting recombinant wild-type full-length human α-synuclein to repeated cycles of sonication and incubation. α-Synuclein was prepared as indicated (13) and diluted to a final 90 μm concentration in conversion buffer (1% Triton X-100, 150 mm NaCl, Complete Protease Inhibitor Mixture (Roche Applied Science; in 1×PBS). For PMCA, 60-μl aliquots from 200 μl of the 90 μm reaction mixtures were transferred into 200-μl PCR tubes (Axygen) containing 37 ± 3 mg of 1.0-mm zirconia/silica beads (Biospec Products), and samples were subjected to cycles of 20-s sonication and 30-min incubation at 37 °C, for different times depending on the experiment, using a Misonix 4000 sonicator at 70 power setting. All reactions were performed in triplicate. When drugs or seeds were used, 2 μl of concentrated drugs were added into 200 μl of the PMCA reaction mixture. Seeded reactions (for the study of substrate concentrations and the serial PMCA) were done by diluting 1:100 of 90 μm α-synuclein fibrils, previously generated by PMCA, into fresh soluble α-synuclein recombinant substrate.</text>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017830</infon>
+        <location offset="6027" length="12"/>
+        <text>Triton X-100</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="6048" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="6119" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028541</infon>
+        <location offset="6272" length="8"/>
+        <text>zirconia</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012822</infon>
+        <location offset="6281" length="6"/>
+        <text>silica</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>6906</offset>
+      <text>Thioflavin T Assay</text>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="6906" length="12"/>
+        <text>Thioflavin T</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6925</offset>
+      <text>From each sample, 5 μl was added to 495 μl of ThT solution (20 μm ThT, 50 mm glycine in H2O, pH 8.5, with KOH). Fluorescence was measured with a PerkinElmer Life Sciences luminescence spectrophotometer LSS5 with 450-nm excitation and 480-nm emission settings.</text>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="6971" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="6991" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="7002" length="7"/>
+        <text>glycine</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="7013" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029943</infon>
+        <location offset="7031" length="3"/>
+        <text>KOH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>7188</offset>
+      <text>Far-UV Circular Dichroism Spectroscopy (CD)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7232</offset>
+      <text>Conformational changes in α-synuclein PMCA samples were monitored using a CD spectrometer (Jasco J-810), taking an average of five scans at 100 nm/min over the spectral range of 190–260 nm. The samples, first tested for ThT fluorescence, were loaded into a 0.5-mm path length quartz cuvette (Hellma) and scanned in Peltier temperature-controlled unit (Jasco), at 20 °C. The CD spectrum of the buffer alone was also evaluated and found to produce negligible spectra. The relative increase in secondary structure, corresponding to α-synuclein aggregation, was determined based on the decrease in negative absorbance, with a peak ∼200 nm and subsequent simultaneous increases in negative absorbance with a peak ∼ 218 nm, consistent with a change of structure from disordered monomers to β-sheet-rich amyloid fibrils.</text>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="7452" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>8057</offset>
+      <text>Transmission Electron Microscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8090</offset>
+      <text>The morphology of α-synuclein aggregates in PMCA samples was examined by transmission electron microscopy using a Phillips model EM208S microscope operated at 80 keV. Three-μl aliquots of 24 h PMCA or 8-day incubated samples were placed directly on carbon-coated 400-mesh grids, briefly washed with ddH2O, and negatively stained with 1–2% (w/v) phosphotungstic acid. Observations were made over a wide range of magnifications up to ×110,000 using a built-in CCD camera.</text>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="8339" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="8389" length="5"/>
+        <text>ddH2O</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010772</infon>
+        <location offset="8435" length="20"/>
+        <text>phosphotungstic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>8565</offset>
+      <text>Native and SDS Gels</text>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="8576" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8585</offset>
+      <text>Three-μl aliquots of α-synuclein PMCA or non-PMCA control samples were either mixed with 1 μl of 4× loading buffer (NuPAGE LDS®; Invitrogen) and incubated at 100 °C for 10 min (for SDS gels) or mixed with 1 μl of 4× native loading buffer (NativePAGE®; Invitrogen), and 3.5 μl of the mixture was loaded into 4–12% SDS (Bis-Tris)- or native gels (Invitrogen). Either low molecular mass standard (Bio-Rad) or SeeBlue Plus2 (Invitrogen) protein ladders were used as molecular mass markers for Bis-Tris gels, whereas NativeMark® unstained protein standards were used for native gels. In some cases gels were stained using only Coomassie Blue, whereas in other experiments proteins were transferred onto PVDF Immobilon membranes (Millipore), and α-synuclein was visualized by incubation with monoclonal or polyclonal anti-α-synuclein antibodies. Chemiluminescence was induced by ECL-Plus (Pierce) and recorded with the Alliance software (Uvitec Cambridge).</text>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="8766" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="8898" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="8903" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="9074" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="9207" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024865</infon>
+        <location offset="9283" length="4"/>
+        <text>PVDF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>9552</offset>
+      <text>Proteinase K (PK) Digestion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9580</offset>
+      <text>Aliquots of 20 μl of α-synuclein PMCA samples or controls (non-PMCA) were incubated for 30 min at 37 °C with 4 μl of 0, 15, 60, or 600 μg/ml PK (Roche Applied Science) in conversion buffer with a final concentration of 0, 2.5, 10, or 100 μg/ml PK. Enzymatic reactions were terminated by adding 6 μl of 4× loading buffer (NuPAGE LDS®) and heating for 10 min at 95 °C. Fifteen-μl samples were loaded onto 4–12% or 12% Bis-Tris gels, and SeeBlue Plus2 was used as molecular mass standard. Gels were either stained with Coomassie Blue or electrotransferred for immunoblotting.</text>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="9996" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="10096" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>10166</offset>
+      <text>α-Synuclein PMCA “Defibrillation”</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10205</offset>
+      <text>Drugs were added to 90 μm α-synuclein fibrils, previously generated by PMCA in a final 50 μm concentration and incubated at 37 °C with agitation at 750 rpm for 30 min. Samples were cooled, and 5 μl was taken to determine the presence of α-synuclein fibrils using the ThT assay as described previously.</text>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="10472" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>10518</offset>
+      <text>Drugs and Antibodies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10539</offset>
+      <text>Congo red, curcumin, quinacrine, resveratrol, lacmoid acid, tannic acid, ibuprofen, acetaminophen, and aspirin (all Sigma) were diluted in DMSO at various concentrations and then diluted also in DMSO at 1 and 5 mm concentrations. Of these aliquots, 2 μl were added to 198 μl of PMCA reactions for final 10 and 50 μm concentrations. The anti-α-synuclein antibodies Syn1 (BD Biosciences), 5C2 (Novus Biologicals), Per7 (14) and Per4 (3) were used for immunoblotting. The antibody Syn1 and Hoechst 33342 dye were used for immunofluorescence. The epitopes of the anti-α-synuclein antibody are: Per7, 1–120; 5C2, 61–95; LB509, 115–122; Per4, carboxyl-terminal; Syn1, 91–99.</text>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003224</infon>
+        <location offset="10539" length="9"/>
+        <text>Congo red</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="10550" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011796</infon>
+        <location offset="10560" length="10"/>
+        <text>quinacrine</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="10572" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="10585" length="12"/>
+        <text>lacmoid acid</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013634</infon>
+        <location offset="10599" length="11"/>
+        <text>tannic acid</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007052</infon>
+        <location offset="10612" length="9"/>
+        <text>ibuprofen</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000082</infon>
+        <location offset="10623" length="13"/>
+        <text>acetaminophen</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001241</infon>
+        <location offset="10642" length="7"/>
+        <text>aspirin</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="10678" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="10734" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017807</infon>
+        <location offset="11026" length="13"/>
+        <text>Hoechst 33342</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>11221</offset>
+      <text>Cell Infection with α-Synuclein PMCA Fibrils</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11270</offset>
+      <text>SH-SY5Y (5 × 105) cells stably overexpressing human full-length α-synuclein (15) were seeded with either sonicated α-synuclein PMCA fibrils or monomeric recombinant α-synuclein (used as control) at a 3 μg/ml concentration in the cell media. Confluent cells were split 4 days after infection, and in every following passage a cell aliquot was plated on glass coverslips and immunostained fluorescently to detect α-synuclein aggregates. Ten fields per sample were counted in three different experiments.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>11789</offset>
+      <text>RESULTS</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>11797</offset>
+      <text>Establishment of a Reproducible and Sensitive Method to Produce α-Synuclein Aggregates</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11888</offset>
+      <text>In view of the propensity of α-synuclein to aggregate in vitro we set out to establish an α-synuclein PMCA to generate recombinant wild-type α-synuclein fibril assembly. The PMCA technique combines cycles of incubation at 37 °C (to grow fibrils) and sonication (to break fibrils into smaller growing fractions) of samples containing Triton X-100 for solubility, avoiding precipitation of the aggregates. We compared the kinetics of full-length α-synuclein fibril growth by PMCA with the traditional incubation/shaking method, over 8 days and at nine different time points. ThT 480-nm emission was used as the readout for fibril assembly (16). The results (Fig. 1A) show that PMCA induces a faster kinetic of filamentous aggregate formation compared with incubation and shaking. Fibril formation was detected following 6 h of PMCA with the maximal signal reached between 12 and 24 h following the beginning of the reaction. By the time α-synuclein fibrils were obtained by PMCA, and using the same concentration of recombinant protein, no fibrils were seen with the incubation/shaking method. With the latter method some ThT signal was observed after 4 days but with high variability. Furthermore, no ThT signal was present when PMCA was performed using β- instead of α-synuclein (Fig. 1B). After 24/48 h there was a decline in the PMCA-induced ThT signal. To clarify the reasons for this decrease the biochemical characteristics of the samples at 1 and 8 days following PMCA were studied by SDS-PAGE with Coomassie Blue staining and Western blotting. The results showed that following 8 days of PMCA no monomeric α-synuclein was detectable, and all of the protein was concentrated in a high molecular mass smear (data not shown). It is likely that ThT does not have easy access to big aggregates, as those present in our system at this time point, and hence the reduced signal, although more work is needed to confirm this hypothesis.</text>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017830</infon>
+        <location offset="12221" length="12"/>
+        <text>Triton X-100</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="12461" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="13008" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="13088" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="13232" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="13379" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="13393" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="13636" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>13854</offset>
+      <text>α-Synuclein PMCA. A, growth kinetics of full-length recombinant α-synuclein fibril assembly by PMCA and incubation methods. B, α- and β-synuclein PMCA fibril formation compared with non-PMCA samples in a 24-h reaction. C and D, kinetics of α-synuclein fibril formation with PMCA or incubation (Inc) using 30 μm (C) or 90 μm (D) recombinant α-synuclein substrate, with or without seeding with recombinant α-synuclein PMCA fibrils. Assembly was monitored by the enhancement over time of ThT fluorescence intensity at 480 nm. Each point represents mean ± S.D. (error bars) of three replicates and is representative of two experiments. Fibril formation is faster with PMCA compared with the incubation method both in the presence and absence of α-synuclein fibril seeds.</text>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="14339" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14655</offset>
+      <text>To explore the effect of seeding on the initial substrate concentration and time required for fibril formation, we investigated the kinetics of fibril formation of 30 and 90 μm (Fig. 1, C and D) recombinant α-synuclein substrates in the absence or presence of 0.9 μm α-synuclein fibrils in a 24-h PMCA or in a regular incubation reaction. When recombinant α-synuclein fibrils were added to the reaction at both concentrations, a small increase in the ThT signal was observed with the incubation method, whereas using PMCA fibrils formed as fast as 2 h, with the maximum level reached between 4 and 8 h (Fig. 1, C and D). The results of the 24-h 90 μm PMCA samples shown (Fig. 1, A, B, and D), have a ThT signal average of 210.3 ± 20.4 with a 9.7% standard deviation, exhibiting high reproducibility between experiments.</text>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="15106" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="15355" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>15491</offset>
+      <text>Biochemical Characterization of α-Synuclein Fibrils Generated by PMCA</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15565</offset>
+      <text>The biochemical characteristics of the α-synuclein material generated by PMCA were investigated by several techniques to confirm aggregate formation. Circular dichroism (CD) was performed to compare the product of PMCA α-synuclein and non-PMCA control samples (Fig. 2A). Comparison of the spectra showed an increase in β-sheet content in α-synuclein PMCA samples compared with the non-PMCA-treated α-synuclein that remained mainly unfolded. Negative staining electron microscopy was performed on the samples. Fibrils of heterogeneous sizes were present in high amounts in the PMCA α-synuclein sample reaction whereas in the incubated sample filaments were less abundant and longer (Fig. 2B). Native gel electrophoresis (Fig. 2C) was also used to compare samples subjected or not to 24-h PMCA. Both Coomassie Blue staining and immunoblotting with specific α-synuclein antibodies showed that only after PMCA were large aggregates of α-synuclein present. The proteinase K resistance of recombinant α-synuclein PMCA samples compared with non-PMCA samples was then determined (Fig. 2D). Non-PMCA-treated protein was easily digested by 10 μg/ml PK whereas the α-synuclein PMCA sample was resistant to digestion up to 100 μg/ml PK. Immunoblotting of 2.5 μg/ml PK-digested samples with antibodies against five α-synuclein epitopes located in the amino-terminal, central, and carboxyl-terminal part of the protein was performed. The result suggested that the amino-terminal fragment of the protein was resistant to PK digestion (Fig. 2E). Finally the existence of “strain-like” modifications in the fibril formation by performing serial PMCAs was investigated, but the pattern of bands after PK digestion remained constant after eight passages (Fig. 2F).</text>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="16363" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>17357</offset>
+      <text>Characterization of α-synuclein PMCA-derived fibrils. A, circular dichroism of recombinant α-synuclein before and after 24-h PMCA. B, transmission electron microscopy of 24-h PMCA (upper panels) and incubation (lower panels) α-synuclein fibrils in carbon coated grids at two different magnifications. C, Coomassie Blue-stained (left) and anti-α-synuclein fluorescence-immunostained (right) native gels of recombinant α-synuclein subjected (+) or not (−) to 24-h PMCA. An increase in high molecular mass species is present following PMCA. D, Coomassie Blue-stained (left) or anti-α-synuclein immunostained (right) Bis-Tris gel before and after 24-h PMCA samples following digestion with different concentrations of PK. Whereas non-PMCA samples contain mainly monomeric protein that is completely degraded by PK, the PMCA-derived samples show specific bands following PK digestion. Asterisk indicates the position of the PK band in the Coomassie Blue-stained gel. E, α-synuclein 24-h PMCA, before (−) and after (+) PK digestion, epitope mapping using several anti-α-synuclein-specific antibodies. F, Coomassie Blue-stained SDS (Bis-Tris) gel of serial α-synuclein 24-h PMCA samples after 2.5 μg/ml PK digestion. No clear significant difference is observed in band pattern after PK digestion in samples from different PMCA passages.</text>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="17605" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="17661" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="17898" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="17970" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="18291" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="18455" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="18478" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="18483" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>18724</offset>
+      <text>α-Synuclein PMCA for Anti-amyloid Drug Testing</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18775</offset>
+      <text>Our aim was to set up a rapid system for screening compounds affecting α-synuclein aggregation. We therefore investigated the effects on PMCA aggregation of α-synuclein of compounds previously described to affect amyloid aggregation differently.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19029</offset>
+      <text>Congo red and curcumin were selected because their effect has been widely studied in prions and they have been also reported to interact with α-synuclein filamentous aggregates (17–19). As a negative control quinacrine was selected because it is known not to inhibit prion aggregation in vitro although it is effective in vivo (20). Other previously studied drugs, non-steroidal anti-inflammatory drugs such as Ibuprofen (21), acetaminophen (22), and aspirin (23) were used to evaluate the specificity of the assay. The remaining drugs tested included lacmoid and resveratrol, with reported binding to α-synuclein (24, 25); tannic acid and (−)epigallocatechin gallate (EGCG), previously described as potential inhibitors of α-synuclein aggregation (26–29).</text>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003224</infon>
+        <location offset="19029" length="9"/>
+        <text>Congo red</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="19043" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011796</infon>
+        <location offset="19237" length="10"/>
+        <text>quinacrine</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007052</infon>
+        <location offset="19440" length="9"/>
+        <text>Ibuprofen</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000082</infon>
+        <location offset="19456" length="13"/>
+        <text>acetaminophen</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001241</infon>
+        <location offset="19480" length="7"/>
+        <text>aspirin</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="19581" length="7"/>
+        <text>lacmoid</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="19593" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013634</infon>
+        <location offset="19653" length="11"/>
+        <text>tannic acid</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045651</infon>
+        <location offset="19669" length="27"/>
+        <text>(−)epigallocatechin gallate</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045651</infon>
+        <location offset="19698" length="4"/>
+        <text>EGCG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19798</offset>
+      <text>We initially established that DMSO, used to dilute the drugs, did not affect α-synuclein PMCA, then we tested two different concentrations of each drug, 10 and 50 μm, to determine presence and potency of their inhibition in a 16-h PMCA reaction. The drug screening results (Fig. 3A) showed a great percentage of inhibition of ThT signal (70–90%) by Congo red and curcumin at both concentrations tested, lower inhibition (35–40%) with EGCG, tannic acid, and lacmoid, and no inhibition with the remaining drugs. To avoid artifacts, the results were confirmed by SDS-PAGE before and after PK digestion followed by Coomassie Blue staining. This revealed that also resveratrol (which has fluorescence emission in the presence of β-sheet structures that overlaps with the emission of ThT (25)) was inhibiting α-synuclein aggregation during PMCA (Fig. 3B). Furthermore, we studied the disaggregating properties of the same battery of drugs in preformed PMCA α-synuclein fibrils. The same drugs that inhibited the aggregation of α-synuclein during PMCA (Fig. 3C) were also able to disaggregate preformed α-synuclein aggregates.</text>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="19828" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="20124" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003224</infon>
+        <location offset="20147" length="9"/>
+        <text>Congo red</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="20161" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045651</infon>
+        <location offset="20232" length="4"/>
+        <text>EGCG</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013634</infon>
+        <location offset="20238" length="11"/>
+        <text>tannic acid</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="20255" length="7"/>
+        <text>lacmoid</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="20358" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="20409" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="20458" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="20576" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>20942</offset>
+      <text>Compound screening using α-synuclein PMCA. A, 16-h α-synuclein (alpha-syn) PMCA reaction, alone or in the presence of solvent (DMSO) and two concentrations of 10 different drugs added at the beginning of the reaction. ThT signal is measured as readout for α-synuclein fibril assembly. Data are normalized for α-synuclein signal (α-synuclein) without drugs and presented as mean ± S.D. (error bars) of triplicate samples in two independent experiments. B and C, Coomassie Blue staining of SDS (Bis-Tris) gel of the drug-PMCA samples before (B) and after (C) digestion with 2.5 μg/ml PK. The order of the drugs (as indicated by name abbreviation) corresponds to that in A. The lanes indicated as syn show α-synuclein without drugs. D, ThT signal of defibrillated α-synuclein (alpha-syn) PMCA samples following 30-min incubation with 50 μm concentration of 10 different drugs added to preformed fibrils.</text>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="21069" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="21160" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="21403" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="21430" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="21435" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="21675" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <offset>21874</offset>
+      <text>α-Synuclein “Chronically Infected” Cells</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21920</offset>
+      <text>To confirm the efficacy of the compounds selected by PMCA, we set up a cellular system from which to obtain α-synuclein aggregates. SH-SY5Y neuroblastoma cells stably transfected with human full-length α-synuclein were exposed to α-synuclein PMCA material and then split on confluence (Fig. 4A). The presence of α-synuclein aggregates was investigated by immunofluorescence with anti-α-synuclein antibodies, and the result showed accumulation of α-synuclein for up to 10 divisions following the initial exposure to the aggregates (Fig. 4C). The percentage of cells with accumulated α-synuclein remained fairly constant at approximately 25% during the passages, and without further exposure, indicating that the cells were chronically infected (Fig. 4B).</text>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>22702</offset>
+      <text>α-Synuclein aggregation cell model. A, diagram representing the cell “infection” experiment using SH-SY5Y neuroblastoma cells overexpressing human α-synuclein. B, cell count expressed as percentage of infected cells (showing accumulated α-synuclein) per passage. These results are from three independent experiments. C, immunofluorescence staining using Syn1 anti-α-synuclein antibody (red) and Hoechst dye staining (blue) in α-synuclein-transfected SH-SY5Y control cells and cells collected at several passages after incubation with PMCA-derived aggregates.</text>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001562</infon>
+        <location offset="23097" length="11"/>
+        <text>Hoechst dye</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>23281</offset>
+      <text>DISCUSSION</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23292</offset>
+      <text>α-Synuclein is a critical protein in Parkinson disease and other neurodegenerative diseases called α-synucleinopathies. Several missense mutations, duplications and triplications of the α-synuclein gene (SNCA) are associated with hereditary forms of Parkinson disease. Additionally, all sporadic Parkinson cases as well as those associated with α-synuclein mutations have aggregated α-synuclein in Lewy bodies. These aggregates are believed to be involved in toxicity and contribute to the loss of neuronal function (for review, see Ref. 30). Moreover, the ability of α-synuclein aggregates to travel from cell to cell, spreading as seeds to form newly misfolded α-synuclein aggregates in host cells (31–33), makes the protein a target for therapy. Indeed, inhibiting the aggregation of α-synuclein would impede cell-to-cell transmission of seeds and stop progression of the disease.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24208</offset>
+      <text>Recombinant α-synuclein can form in vitro filamentous aggregates similar to those found in human brain (32–35). Although recombinant α-synuclein aggregates have been formed in vitro for 15 years, the methods used have some limitations mainly for two reasons: unless mutant α-synuclein is used, the generation of fibrils takes days and the concentration of recombinant protein needed is very high, between 300 and 500 μm. Recently, an α-synuclein-adapted PMCA was published (36), but it still required high concentration of recombinant protein, seeding of the reaction with preformed fibrils and long times.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24832</offset>
+      <text>In this study we have set up a highly efficient PMCA for α-synuclein based on modifications of prion PMCA (12). In a concentration-dependent reaction we can generate α-synuclein fibrils in 6 h, or 2 h when seeds of preformed fibrils are added. The concentration of recombinant α-synuclein is much lower than in most methods described previously (37, 38) for aggregation; moreover, the method is highly reproducible.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25260</offset>
+      <text>When α-synuclein fibril formation rate was compared between PMCA and the traditional incubation method a significant difference was found. Fibrils were present already after 6 h of PMCA whereas using the incubation method and the same low substrate concentration, filaments only started to appear after 4 days. Furthermore, the PMCA method showed great reproducibility between the triplicates or between different experiments as indicated by the low S.D. values, averaging 10% S.D. both within the same experiment and between different experiments, whereas this was not the case for the incubation method that had greater variability.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25899</offset>
+      <text>To study whether the α-synuclein aggregation was specific and not an artifact of a system that would generate aggregates out of any protein, we performed PMCA using as substrate β-synuclein. This protein has a 63% homology with α-synuclein, and is not present in Lewy body filaments. Furthermore, it does not aggregate in vitro unless in the presence of metals, glycosaminoglycans, or molecular crowding (39). The result demonstrated that the PMCA was specific for α-synuclein, as an aggregation prone protein, because no fibrils were obtained when β-synuclein was used.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26488</offset>
+      <text>In vitro generated α-synuclein aggregates have been shown to present biophysical and biochemical characteristics similar to in vivo α-synuclein aggregates, and therefore we wanted to determine whether our PMCA-generated α-synuclein aggregates had the same hallmarks. The folding pattern of α-synuclein after PMCA revealed a high content in β-sheet structure by circular dichroism compared with the predominantly unfolded non-PMCA control. Electron microscopy and negative staining showed in the PMCA samples a heterogeneous population of fibrils with different lengths, in contrast to the longer filaments obtained with the incubation method. The difference in the fibril length is probably a reflection of the breakup of the PMCA α-synuclein fibrils during sonication. When the PMCA samples were run on native gels they showed high molecular mass aggregates compared with the low molecular mass forms of the soluble native protein in the non-PMCA control. As for the resistance of newly generated α-synuclein aggregates to digestion with proteinase K, there were fragments still resistant to high concentrations of the enzyme in the PMCA sample compared with the non-PMCA control. Those fragments consisted mainly of amino-terminal regions, as anti-α-synuclein antibodies recognizing epitopes toward the carboxyl terminus, such as LB509 and Per4, failed to recognize some of the PK-resistant fragments. The unchanged pattern of PK-resistant bands in a serial PMCA indicated an absence of conformational or “strain” differences (40) in the samples.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28068</offset>
+      <text>Together, these results show that α-synuclein PMCA promotes the formation of α-synuclein aggregates with all biochemical features characteristic of α-synuclein aggregates in vivo. Therefore, the α-synuclein PMCA is a fast and low protein consuming method to mimic α-synuclein fibril growth. Thereafter, we explored the potential of the α-synuclein PMCA to screen for compounds that by interfering with α-synuclein aggregation would be candidates for therapy in α-synucleinopathies.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28582</offset>
+      <text>A panel of 10 compounds was chosen to prove our concept. The anti-amyloid properties of some compounds (Congo red, curcumin, resveratrol) previously established for aggregation-prone proteins, such as prions, β-amyloid, or α-synuclein. Non-steroidal anti-inflammatory drugs, initially described as α-synuclein aggregate modulators (23), but without real effect in patients, as demonstrated by epidemiological studies (41, 42), were included to test PMCA specificity. Other compounds were reported to bind α-synuclein or to alter its aggregation in other in vitro assays. Finally, quinacrine did not have any relationship with amyloids or protein aggregation and therefore was chosen as a negative control. In our drug screening α-synuclein aggregation was strongly inhibited by Congo red, curcumin, and resveratrol (as shown by PK digestion but not ThT assay for the latter, because resveratrol has its own fluorescence), and to a lower extent by EGCG, tannic acid, and lacmoid. Very recently it was reported that lacmoid does not prevent α-synuclein aggregation as measured by “amyloid intrinsic fluorescence” (43); however, here we showed by Coomassie Blue and Western blotting that the content of high molecular α-synuclein bands and PK resistance were decreased following lacmoid. This confirmed that the decrease in ThT labeling in the presence of lacmoid corresponded in fact to a reduction of aggregated α-synuclein. None of the non-steroidal anti-inflammatory drugs influenced the formation of α-synuclein aggregates. These results, where only the drugs with proven anti-amyloid activity and/or interaction with α-synuclein have an effect inhibiting the reaction, revealed a high specificity of the system in detecting drugs with a high probability to interfere with α-synuclein pathology. Moreover, PMCA was done in a high-throughput format that will allow screening of a large number of compounds using low amounts of recombinant proteins and in short time. Therefore we believe that the α-synuclein PMCA model that we present here is a good tool for anti-aggregation drug screening.</text>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003224</infon>
+        <location offset="28686" length="9"/>
+        <text>Congo red</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="28697" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="28707" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011796</infon>
+        <location offset="29162" length="10"/>
+        <text>quinacrine</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003224</infon>
+        <location offset="29360" length="9"/>
+        <text>Congo red</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003474</infon>
+        <location offset="29371" length="8"/>
+        <text>curcumin</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="29385" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="29431" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="29465" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045651</infon>
+        <location offset="29529" length="4"/>
+        <text>EGCG</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013634</infon>
+        <location offset="29535" length="11"/>
+        <text>tannic acid</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="29552" length="7"/>
+        <text>lacmoid</text>
+      </annotation>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="29596" length="7"/>
+        <text>lacmoid</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C048139</infon>
+        <location offset="29726" length="14"/>
+        <text>Coomassie Blue</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="29858" length="7"/>
+        <text>lacmoid</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="29903" length="3"/>
+        <text>ThT</text>
+      </annotation>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C570487</infon>
+        <location offset="29935" length="7"/>
+        <text>lacmoid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30723</offset>
+      <text>To further extend the α-synuclein fibril characterization, looking at spreading, and to generate an ex vivo assay for further drug screening, we inoculated SH-SY5Y neuroblastoma cells overexpressing human full-length α-synuclein with α-synuclein PMCA fibrils. Although the cells were in contact with the recombinant fibrils for just 4 days at the beginning of the experiment, a constant percentage of infected cells (cells with accumulated α-synuclein) was present at all analyzed cell passages. We hypothesize that probably there are two mechanisms involved in the maintenance of the persistent infection: first, the turnover of cells dying and other naïve cells taking up the released aggregates, and secondly the existence of cell-to-cell transmission. Further studies to verify our hypothesis are currently ongoing. Nevertheless, these chronically infected cultures provide an expandable and reproducible cellular system for α-synuclein aggregation that can be used for drug testing, as well as for investigating the pathways involved in the spread and cell response to α-synuclein aggregation.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31846</offset>
+      <text>In summary, our results show that α-synuclein PMCA is a fast and reproducible system that can be used for high-throughput screening for α-synuclein anti-aggregating compounds. This system, complemented with chronically infected cells, is relevant for identifying therapeutic compounds for Parkinson disease and other α-synucleinopathies.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32196</offset>
+      <text>This work was supported by a grant from the Parkinson's UK (to R. A. B., M. G. S., and M. E. H.) and by funding from the UK Medical Research Council (to M. G., S. Z., and G. F.).</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32375</offset>
+      <text>PMCA</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32380</offset>
+      <text>protein misfolding cyclic amplification</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32420</offset>
+      <text>Bis-Tris</text>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="32420" length="8"/>
+        <text>Bis-Tris</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32429</offset>
+      <text>bis(2-hydroxyethyl)iminotris(hydroxymethyl)methane</text>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026272</infon>
+        <location offset="32429" length="50"/>
+        <text>bis(2-hydroxyethyl)iminotris(hydroxymethyl)methane</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32480</offset>
+      <text>DMSO</text>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="32480" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32485</offset>
+      <text>dimethyl sulfoxide</text>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="32485" length="18"/>
+        <text>dimethyl sulfoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32504</offset>
+      <text>EGCG</text>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045651</infon>
+        <location offset="32504" length="4"/>
+        <text>EGCG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32509</offset>
+      <text>(−)epigallocatechin gallate</text>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C045651</infon>
+        <location offset="32509" length="27"/>
+        <text>(−)epigallocatechin gallate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32539</offset>
+      <text>PK</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32542</offset>
+      <text>proteinase K</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32555</offset>
+      <text>ThT</text>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="32555" length="3"/>
+        <text>ThT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32559</offset>
+      <text>thioflavin T.</text>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009462</infon>
+        <location offset="32559" length="12"/>
+        <text>thioflavin T</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>32573</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>32602</offset>
+      <text>REFERENCES</text>
+    </passage>
+  </document>
+</collection>

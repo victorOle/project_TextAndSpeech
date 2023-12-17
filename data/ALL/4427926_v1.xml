@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181112</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4427926</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Welch;given-names:Jacob</infon>
+      <infon key="name_2">surname:Lam;given-names:Hong</infon>
+      <infon key="name_1">surname:Ling;given-names:Xiang</infon>
+      <infon key="name_0">surname:Westover;given-names:David</infon>
+      <infon key="article-id_pmid">25928015</infon>
+      <infon key="year">2015</infon>
+      <infon key="article-id_publisher-id">362</infon>
+      <infon key="article-id_pmc">4427926</infon>
+      <infon key="title">Keywords</infon>
+      <infon key="article-id_doi">10.1186/s12943-015-0362-9</infon>
+      <infon key="type">front</infon>
+      <infon key="elocation-id">92</infon>
+      <infon key="volume">14</infon>
+      <infon key="license">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="kwd">FL118 ABCG2 Resistance Irinotecan Topoisomerase I Anticancer drug Human tumor animal models</infon>
+      <infon key="name_8">surname:Li;given-names:Fengzhi</infon>
+      <infon key="name_7">surname:Wani;given-names:Mansukh</infon>
+      <infon key="name_6">surname:Del Rio;given-names:Maguy</infon>
+      <infon key="name_5">surname:Gongora;given-names:Celine</infon>
+      <infon key="name_4">surname:Jin;given-names:Chunyang</infon>
+      <offset>0</offset>
+      <text>FL118, a novel camptothecin derivative, is insensitive to ABCG2 expression and shows improved efficacy in comparison with irinotecan in colon and lung cancer models with ABCG2-induced resistance</text>
+      <annotation id="129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="0" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="15" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="122" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>195</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>206</offset>
+      <text>Irinotecan is a camptothecin analogue currently used in clinical practice to treat advanced colorectal cancer. However, acquired resistance mediated by the drug efflux pump ABCG2 is a recognized problem. We reported on a novel camptothecin analogue, FL118, which shows anticancer activity superior to irinotecan. In this study, we sought to investigate the potency of FL118 versus irinotecan or its active metabolite, SN-38, in both in vitro and in vivo models of human cancer with high ABCG2 activity. We also sought to assess the potency and ABCG2 affinity of several FL118 analogues with B-ring substitutions.</text>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="206" length="10"/>
+        <text>Irinotecan</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="222" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="433" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="456" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="507" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="574" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="587" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="624" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="776" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>819</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>827</offset>
+      <text>Colon and lung cancer cells with and without ABCG2 overexpression were treated with FL118 in the presence and absence of Ko143, an ABCG2-selective inhibitor, or alternatively by genetically modulating ABCG2 expression. Using two distinct in vivo human tumor animal models, we further assessed whether FL118 could extend time to progression in comparison with irinotecan. Lastly, we investigated a series of FL118 analogues with B-ring substitutions for ABCG2 sensitivity.</text>
+      <annotation id="2XXx13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="911" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="948" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="2XXx14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1128" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="1186" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1234" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>1299</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>1307</offset>
+      <text>Both pharmacological inhibition and genetic modulation of ABCG2 demonstrated that, in contrast to SN-38, FL118 was able to bypass ABCG2-mediated drug resistance. FL118 also extended time to progression in both in vivo models by more than 50% compared with irinotecan. Lastly, we observed that FL118 analogues with polar substitutions had higher affinity for ABCG2, suggesting that the nonpolar nature of FL118 plays a role in bypassing ABCG2-mediated resistance.</text>
+      <annotation id="278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="1405" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1412" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1469" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="1563" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1600" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1711" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>1770</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>1782</offset>
+      <text>Our results suggest that in contrast to SN-38 and topotecan, FL118 is a poor substrate for ABCG2 and can effectively overcome ABCG2-mediated drug resistance. Our findings expand the uniqueness of FL118 and support continued development of FL118 as an attractive therapeutic option for patients with drug-refractory cancers resulting from high expression of ABCG2.</text>
+      <annotation id="279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="1822" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="1832" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1843" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="1978" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="2021" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>2146</offset>
+      <text>Electronic supplementary material</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>2180</offset>
+      <text>The online version of this article (doi:10.1186/s12943-015-0362-9) contains supplementary material, which is available to authorized users.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2320</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2331</offset>
+      <text>Camptothecin analogues have been used clinically to treat cancer for almost 20 years. Irinotecan (also known as CPT-11) is used in combination with other antitumor agents as a first-line therapy for metastatic colorectal cancer and has a history of use as a second-line therapy in advanced gastric and non-small cell lung cancers (NSCLC). The second clinically used camptothecin analogue, topotecan, is approved for treatment of ovarian, cervical, and small cell lung cancers. It has been established in the literature that camptothecin analogues function through inhibition of the topoisomerase I (Top1) enzyme. Camptothecin-class compounds target the DNA-Top1 covalent complex, forming a ternary complex that prevents the dissociation of Top1. This ternary complex inhibits replication and transcription and leads to the formation of double-strand DNA breaks.</text>
+      <annotation id="2XXx28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="2331" length="12"/>
+        <text>Camptothecin</text>
+      </annotation>
+      <annotation id="2XXx33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="2417" length="10"/>
+        <text>Irinotecan</text>
+      </annotation>
+      <annotation id="324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="2443" length="6"/>
+        <text>CPT-11</text>
+      </annotation>
+      <annotation id="2XXx29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="2697" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="2720" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="2855" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="2944" length="12"/>
+        <text>Camptothecin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>3194</offset>
+      <text>Unfortunately, resistance to irinotecan and topotecan is observed in the clinic. Failure of irinotecan- and topotecan-based regimens has been hypothesized to occur through a number of different mechanisms, though only a few are supported with clinical data. In vitro evidence and limited clinical observations suggest mutations in the Top1 gene decrease the affinity of the Top1 protein with clinically used camptothecin analogues. However, based on the literature, likely a more common cause of resistance to irinotecan and topotecan is the increased expression of ATP-binding cassette (ABC), subfamily G, isoform 2 protein (ABCG2, also known as breast cancer resistance protein, BCRP), a drug efflux pump and a member of the ABC transporter superfamily. A number of clinical studies revealed that failure of irinotecan and topotecan often correlates with increased ABCG2 expression. Multiple in vitro studies have demonstrated that irinotecan, SN-38 (active metabolite of irinotecan), and topotecan are all substrates for ABCG2, and high expression of ABCG2 is associated with decreased intracellular accumulation of these compounds and consequentially a decrease in drug potency. Additionally, many other anticancer agents are known ABCG2 substrates, including methotrexate, many anthracyclines, and a variety of tyrosine kinase inhibitors.</text>
+      <annotation id="2XXx35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="3223" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="3238" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="3286" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="3302" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="3602" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="3704" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="3719" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="325">
+        <infon key="type">OTHER</infon>
+        <location offset="3760" length="58"/>
+        <text>ATP-binding cassette (ABC), subfamily G, isoform 2 protein</text>
+      </annotation>
+      <annotation id="2XXx39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="4004" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="4019" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="4128" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="4140" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="4168" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="4185" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008727</infon>
+        <location offset="4458" length="12"/>
+        <text>methotrexate</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018943</infon>
+        <location offset="4477" length="14"/>
+        <text>anthracyclines</text>
+      </annotation>
+      <annotation id="2XXx51">
+        <infon key="type">OTHER</infon>
+        <location offset="4510" length="15"/>
+        <text>tyrosine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>4538</offset>
+      <text>Our lab recently reported on a novel camptothecin derivative, designated FL118. The chemical name of FL118 is 10,11-methylenedioxy-20(S)-camptothecin, also known as 10,11-MD-CPT, MDCPT, and 10,11-mCPT (Additional file 1: Figure S1). FL118 shows strong anticancer activity in several different cancer types in vitro and in vivo. We have demonstrated that although FL118 is not a better Top1 inhibitor than clinically used camptothecin analogues, FL118 is able to selectively inhibit the expression of several members of the Inhibitor of Apoptosis family (survivin, XIAP, and cIAP2) and the Bcl-2 family (Mcl-1), which was demonstrated to contribute to FL118 function and anti-cancer activity. More recent studies have further characterized the novel properties of FL118. Induction of cancer cell senescence and cell death by FL118 employs both p53-dependent and p53-independent signaling pathways, and rapid induction of wild type p53 accumulation by FL118 is largely independent of the ATM-dependent DNA damage signaling pathway but dependent on E3-competent Mdm2. Our previous studies also revealed that, while mice showed continuing body weight loss after treatment with irinotecan, body weight rapidly recovers after the completion of FL118 treatment, suggesting that FL118 possesses a more favorable toxicity profile in comparison with irinotecan.</text>
+      <annotation id="23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="4575" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4611" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4639" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4648" length="39"/>
+        <text>10,11-methylenedioxy-20(S)-camptothecin</text>
+      </annotation>
+      <annotation id="2XXx68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4703" length="12"/>
+        <text>10,11-MD-CPT</text>
+      </annotation>
+      <annotation id="2XXx69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4717" length="5"/>
+        <text>MDCPT</text>
+      </annotation>
+      <annotation id="2XXx70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4728" length="10"/>
+        <text>10,11-mCPT</text>
+      </annotation>
+      <annotation id="145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4771" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4901" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="4959" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="4983" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="5189" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="5301" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="5362" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="5488" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="5711" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="5776" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="5809" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="5878" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>5890</offset>
+      <text>In the present study we found that, although SN-38 and topotecan are ABCG2 substrates and fail to overcome ABCG2-mediated drug resistance, FL118 is insensitive to ABCG2 expression and effectively bypasses ABCG2 resistance. FL118 also demonstrates better antitumor efficacy than irinotecan in human xenografts with high ABCG2 expression. Additionally, we found that the relatively nonpolar nature of FL118 plays a role in bypassing ABCG2-induced resistance.</text>
+      <annotation id="2XXx76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="5935" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="5945" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="6029" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="6113" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="6168" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="6289" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6347</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6355</offset>
+      <text>FL118 is a more potent anticancer agent than SN-38 in NSCLC and colon cancer cell lines</text>
+      <annotation id="157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="6355" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="6400" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">Tab1.xml</infon>
+      <infon key="id">Tab1</infon>
+      <infon key="type">table_caption</infon>
+      <offset>6697</offset>
+      <text>
+EC50 of FL118 and SN-38 in NSCLC and colorectal cancer cell lines, including Top1 inhibitor-resistant HCT116 sub-lines
+</text>
+      <annotation id="158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="6706" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="6716" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">12943_2015_362_Fig1_HTML.jpg</infon>
+      <infon key="id">Fig1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>7470</offset>
+      <text>Pharmacological inhibition of ABCG2 modulates the potency of SN-38, but not FL118. A and B, Western blot analysis of ABCG2 protein expression in HCT116 colon cancer cells, drug-resistant HCT116 sub-lines (A), and H460 and EKVX NSCLC cells (B). C and E, dose-response curves in the presence and absence of 1 μM Ko143, an ABCG2 inhibitor, after 72 hour treatments in HCT116 sub-lines (C) and NSCLC cell lines (E). D and F, dose-response curves in the presence and absence of 1 μM Ko143 after 72-hour treatments in HCT116 sub-lines (D) and NSCLC cell lines (F). Viability for each dose was determined using a ViCELL XR cell viability analyzer and normalized to that of DMSO control. Error bars = SEM, n = 3 independent experiments.</text>
+      <annotation id="2XXx83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="7531" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="7546" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="7780" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="2XXx84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="7948" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="8136" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8208</offset>
+      <text>The potency of FL118 versus SN-38 was compared in a panel of NSCLC and colon cancer cell lines. In each of the parental cell lines tested, FL118 was 5- to 10-fold more potent than SN-38, with EC50 values consistently below 1 nM (Table 1, Additional file 1: Figures S2, S3). In the four HCT116-derived camptothecin-resistant colon cancer sublines, each with mutations in Top1 was demonstrated to decrease potency of camptothecin analogues, FL118 showed greater potency than SN-38 overall. Intriguingly, FL118 showed much more potency than SN-38 in sublines SN50 and A2 in comparison with sublines SN6 and G7 (Table 1). SN50 and A2 sublines highly express ABCG2, while the SN6 and G7 sublines show undetectable ABCG2 expression (Figure 1A). We assessed whether there was a difference between relative resistance (RR) for FL118 and SN-38 in HCT116 sublines. We back-transformed RR into LogRR for the purpose of statistical analysis, and found a statistically significant difference in three sublines tested (SN6, SN50, A2). Importantly, the difference between the LogRR of FL118 and SN-38 was statistically significant in both sublines with high ABCG2 expression, SN50 (p = 0.023) and A2 (p = 0.027) (Additional file 1: Table S1). Together, these data suggest that ABCG2 expression is an SN-38 resistance factor but not an FL118 resistance factor. Therefore, we hypothesized that FL118 is a comparatively poor substrate of ABCG2, and thus the potency of FL118 is not affected by ABCG2 expression.</text>
+      <annotation id="2XXx88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="8223" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="8236" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="8347" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="8388" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="8509" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="8623" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="8647" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="8681" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="8710" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="8746" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9027" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="9037" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9278" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="9288" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="9493" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9528" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9585" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9659" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9713</offset>
+      <text>Pharmacological inhibition of ABCG2 does not modulate FL118 potency</text>
+      <annotation id="2XXx104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9767" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9781</offset>
+      <text>Many anticancer drugs are substrates of the ABC transporter ABCG2, which often contributes to drug treatment failure in the clinic. To determine whether FL118 potency is affected by ABCG2 activity, we utilized cell lines with varying ABCG2 protein expression to test drug sensitivity. In addition to the camptothecin-resistant HCT116 sublines discussed above, we also employed two NSCLC cell lines: H460, which express high levels of ABCG2 protein, and EKVX cells, which have undetectable levels of ABCG2 protein expression when assessed by Western blot (Figure 1B). Then, we employed a highly selective inhibitor of ABCG2, Ko143, to determine whether inhibition of ABCG2 would affect FL118 potency in these cells. As expected, inhibition of ABCG2 activity by Ko143 in HCT116-A2, HCT116-SN50, and H460 cell lines, which have high ABCG2 expression, resulted in a significant increase in potency for SN-38 (Figure 1C, E) and topotecan (Additional file 1: Figure S4), indicating that they are substrates of ABCG2. In contrast, the potency of FL118 remained unchanged (Figure 1D, F) in these cell lines, suggesting that FL118 potency is unaffected by ABCG2 overexpression. Using HCT116-SN50 as a representative example, the EC50 of SN-38 alone was 135.1 nM, compared to 12.3 nM for SN-38 in the presence of Ko143 (p &lt; 0.0001). In the same cell line, the EC50 of FL118 alone was 4.0 nM, compared to 3.0 nM for FL118 in combination with Ko143 (p = 0.22). In contrast, Ko143 did not alter the potency of either SN-38 or FL118 in HCT116, HCT116-G7, or EKVX cells that lack detectable ABCG2 (Figure 1).</text>
+      <annotation id="2XXx106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="9934" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="10085" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="10405" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="2XXx107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="10466" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="10541" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="10679" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="10704" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="10820" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="10897" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="11009" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="11059" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="11084" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="11139" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="11186" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="11212" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="2XXx120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="11243" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="2XXx117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="11285" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="11294" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11387</offset>
+      <text>Genetic silencing or overexpression of ABCG2 does not affect the potency of FL118</text>
+      <annotation id="2XXx123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="11463" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">12943_2015_362_Fig2_HTML.jpg</infon>
+      <infon key="id">Fig2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>11469</offset>
+      <text>Genetic silencing or overexpression of ABCG2 demonstrates that the potency of FL118 is not affected by ABCG2. A and D, Western blot analysis of ABCG2 protein expression in HCT116-A2 cells that were stably transduced with a non-silencing shRNA control (ns) or anti-ABCG2 shRNA (sh1 = V3LHS_380805, sh2 = V3LHS_380806) (A), and HEK293 cells that were stably transfected with either an ABCG2 expression vector (HEK293/ABCG2) or a corresponding empty vector (HEK293/pcDNA3) (D). B and C, dose-response curves of SN-38 (B) and FL118 (C) after 72-hour treatments in HCT116-A2 cell lines. E and F, dose-response curves of SN-38 (E) and FL118 (F) after 72-hour treatments in HEK293 cell lines that were stably transfected with ABCG2 expression vector or empty vector. Viability was determined as in Figure 1. Error bars = SEM, n = 3 independent experiments.</text>
+      <annotation id="178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="11547" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="11977" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="11991" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="12084" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="12098" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>12332</offset>
+      <text>We also employed a genetic approach through direct silencing of ABCG2 to test the hypothesis that FL118 potency is not affected by ABCG2 expression. Two ABCG2-specific shRNAs were validated in our studies that effectively knock down ABCG2 protein expression (Figure 2A). When the expression of ABCG2 was stably knocked down in HCT116-A2 cells, the EC50 of SN-38 was reduced to 19.6 nM (p &lt; 0.0001) and 22.4 nM (p &lt; 0.0001), compared to 97.0 nM in cells transduced with a non-silencing control shRNA (Figure 2B, Additional file 1: Table S2). In contrast, consistent with pharmacological inhibition, there was no change in potency for FL118 with or without ABCG2 silencing (Figure 2C, Additional file 1: Table S2). Next, we alternatively determined whether exogenous overexpression of ABCG2 would affect FL118 potency using a human embryonic kidney cell line, HEK293 that was stably transfected with either an ABCG2 expression vector (HEK293/ABCG2) or an empty vector (HEK293/pcDNA3) (Figure 2D). As expected, overexpression of ABCG2 decreased the potency of SN-38 from 0.39 nM in HEK293/pcDNA3 cells to 62.95 nM in HEK293/ABCG2 cells (p = 0.002) (Figure 2E, Additional file 1: Table S2). In contrast, there was no significant difference in FL118 potency in HEK293/pcDNA3 cells compared to HEK293/ABCG2 (p = 0.09) (Figure 2F, Additional file 1: Table S2). These data confirm that ABCG2 expression does not mediate resistance to FL118, suggesting that FL118 could bypass ABCG2-mediated treatment resistance.</text>
+      <annotation id="2XXx129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="12430" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="12688" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="12965" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="13134" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="13389" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="13571" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="13758" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="13781" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>13859</offset>
+      <text>FL118 exhibits better antitumor activity than irinotecan and significantly extends time to progression in human xenograft models</text>
+      <annotation id="2XXx138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="13859" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="13905" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">12943_2015_362_Fig3_HTML.jpg</infon>
+      <infon key="id">Fig3</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>13988</offset>
+      <text>FL118 shows improved efficacy in two in vivo models of irinotecan-resistant cancer in comparison with irinotecan. SCID mice bearing HCT116-SN50 or H460 subcutaneous xenografts with an average volume of ~100 mm3 were treated via IP once per week with 100 mg/kg irinotecan or 1.5 mg/kg FL118, on a repeating treatment for 4 weeks followed by 1 week of rest. Individual animals were considered to have progressed and were removed from treatment as tumor volume reached 1500 mm3 or for a moribund condition. A and B, tumor growth curves for HCT116-SN50 (A) and H460 (B) xenografts during treatment with either FL118 or irinotecan. As individual mice progressed and were removed from treatment, their final tumor volume was included in the graphed average on subsequent dates. Each treatment is indicated with a caret. C and D, Kaplan-Meier chart of progression events for animals with HCT116-SN50 (C) and H460 (D) xenografts. Statistical difference in time to progression between the two treatments was determined using the log-rank test. E and F, average body weight over time during treatments. Error bars = SEM.</text>
+      <annotation id="188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="13988" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="14043" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="14090" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="14248" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="14272" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="14594" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="14603" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15105</offset>
+      <text>Next, we determined antitumor activity of FL118 versus irinotecan in HC116-SN50 and H460 xenograft models of ABCG2-mediated drug-resistant cancer. Once tumors were established and reached an average volume of ~100 mm3, a repeating treatment was applied intraperitoneally (IP) weekly for 4 weeks, followed by 1 week of rest. The time to progression (TTP) was used as the primary endpoint for assessment of efficacy of FL118 versus irinotecan. In both models, FL118 controlled tumor growth better than irinotecan (Figure 3A, B) and led to significantly improved TTP (Figure 3C, D). Specifically, in the HCT116-SN50 model, median TTP was 58 days for animals treated with FL118, compared to 38.5 days for animals treated with irinotecan (p = 0.002), a 50.6% increase (Figure 3C). In the H460 model, median TTP was extended from 21 days with irinotecan to 35 days with FL118 (p = 0.009), a 66.7% increase (Figure 3D). Consistent with our earlier reports, FL118 showed a tolerability profile similar to irinotecan (Figure 3E, F).</text>
+      <annotation id="191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="15147" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="15160" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="15522" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="15535" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="15563" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="15605" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="15773" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="15827" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="15942" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="15969" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="16055" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="16102" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>16149</offset>
+      <text>The unique nonpolar structure of FL118 appears to play a role in FL118 bypassing ABCG2-mediated drug resistance.</text>
+      <annotation id="197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="16182" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="16214" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">12943_2015_362_Fig4_HTML.jpg</infon>
+      <infon key="id">Fig4</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16262</offset>
+      <text>Electronegative potentials influence the affinity of the Position 7-substituted FL118 analogues for ABCG2 binding. A, structures of FL118 analogues with B ring substitutions. B, correlation between electronegativity of chemical groups (χ, Pauling units, calculated using the method of Huheey) and the ratio of EC50 of drug alone / EC50 drug + Ko143.</text>
+      <annotation id="199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="16342" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="16394" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="16605" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">TABLE</infon>
+      <infon key="file">Tab2.xml</infon>
+      <infon key="id">Tab2</infon>
+      <infon key="type">table_caption</infon>
+      <offset>16706</offset>
+      <text>
+Electronegativities (χ, Pauling units) for added 7-position functional groups, and EC50 +/- K0143 in HCT116-SN50 cells
+</text>
+      <annotation id="343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="16799" length="5"/>
+        <text>K0143</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>17461</offset>
+      <text>We next investigated the potency of several analogues of FL118 with functional groups attached to the 7-position of the B ring (Figure 4A), a position where substitutions have been shown to favorably alter drug properties, in the irinotecan-resistant sub-line HCT116-SN50. We observed little change in potency between FL118 and the FL118-derived analogues with relatively nonpolar alkyl substitutions (methyl, ethyl, and allyl) (Table 2). In contrast, addition of more polar groups (bromomethyl, chloromethyl, and hydroxymethyl) resulted in a marked decrease in potency (Table 2). Thus, adding groups to the B ring that increase the polarity of the molecule would result in decreased potency. Previous reports indicated that the addition of polar residues to the A ring of camptothecin analogues increased affinity to ABCG2, but the effect of B ring substitutions with these types of residues remains unknown. To assess whether the polarity-related decrease in potency was at least partially dependent on ABCG2, growth inhibition was subsequently assessed in the presence and absence of ABCG2 inhibitor Ko143. Although we observed no significant change in EC50 for 7-methyl-FL118, 7-ethyl-FL118, or 7-allyl-FL118 with the addition of Ko143, we were able to observe a significant decrease in EC50 for 7-bromomethyl-FL118 (87.0 nM to 17.0 nM, p &lt; 0.0001), 7-chloromethyl-FL118, (26.8 nM to 12.9 nM, p = 0.016), and 7-hydroxymethyl-FL118 (24.2 nM to 4.8 nM, p &lt; 0.0001) (Table 2). Thus, the potency of the latter three FL118 analogues is affected by ABCG2 activity. We next compared the electronegativity (χ, in Pauling units) of each added functional group to the ratio of EC50 / EC50 + Ko143 (Figure 4B). Consistent with the data shown in Table 2, it was revealed that chemical groups with stronger electronegativity (bromomethyl, chloromethyl, and hydroxymethyl) show higher affinity to ABCG2 than the chemical groups with weaker or no electronegativity (methyl, ethyl, and allyl) (Figure 4B). Together, our work revealed that lack of polar functional groups on the B ring of FL118 plays a role in FL118 bypassing ABCG2-mediated drug resistance.</text>
+      <annotation id="2XXx169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="17518" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="17691" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="17779" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="17793" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="18234" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="18564" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="18626" length="14"/>
+        <text>7-methyl-FL118</text>
+      </annotation>
+      <annotation id="345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="18642" length="13"/>
+        <text>7-ethyl-FL118</text>
+      </annotation>
+      <annotation id="346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="18660" length="13"/>
+        <text>7-allyl-FL118</text>
+      </annotation>
+      <annotation id="339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="18695" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="18761" length="19"/>
+        <text>7-bromomethyl-FL118</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="18815" length="20"/>
+        <text>7-chloromethyl-FL118</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="18874" length="21"/>
+        <text>7-hydroxymethyl-FL118</text>
+      </annotation>
+      <annotation id="210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="18977" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="19146" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="19537" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="19559" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>19631</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>19642</offset>
+      <text>The present study expands the uniqueness of FL118 in mechanism of action to overcome drug resistance, and demonstrated that, in a panel of colon cancer and NSCLC cell lines, FL118 is more potent than SN-38. We found that, in contrast to the two clinically used camptothecin analogues (irinotecan, topotecan), which are ABCG2 substrates and unable to overcome ABCG2 resistance, FL118 potency is not affected by ABCG2 expression and can bypass ABCG2-mediated treatment resistance. This phenomenon was investigated and confirmed by multiple independent approaches to either inhibit (i.e., pharmacological and genetic inhibition) or enhance (i.e., overexpression) ABCG2 activity. These approaches demonstrated that high ABCG2 activity results in resistance to SN-38 and topotecan, but not FL118.</text>
+      <annotation id="2XXx183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="19686" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="19816" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="19842" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="19903" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="19927" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="19939" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="20019" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="20398" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="20408" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="20427" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>20434</offset>
+      <text>We also assessed the efficacy of FL118 in two distinct in vivo xenograft models of ABCG2-mediated drug-resistant cancer. In both models, FL118 exhibited a better ability to decrease tumor growth in comparison with irinotecan, while maintaining a tolerable toxicity profile similar to that of irinotecan. Most importantly, mice treated with FL118 showed a significant increase in time to progression (TTP) compared to mice treated with irinotecan.</text>
+      <annotation id="217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="20467" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="20571" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="20648" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="20726" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="20774" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="20869" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>20881</offset>
+      <text>Our group recently reported on the in vivo efficacy of FL118 in other models of human cancer, using an intravenous (IV)-compatible, Tween/polysorbate 80-free formulation. In that study, we compared three schedules (every day for five injections, every other day for five injections and once weekly for 4 injections) of FL118 administration via IV administration. We found that the optimum administration of FL118 appears to be every other day. However, for this study, we opted for a weekly schedule that mimics irinotecan administration in the clinic. Therefore, while our results in this study revealed that the weekly administration of FL118 was able to significantly extend TTP in comparison with irinotecan, we predict that treating with FL118 every other day for five treatments will show even better efficacy. Additionally, in the current studies, we used IP routes instead of intravenous administration of FL118 for technical convenience. However, the Tween/polysorbate 80-free formulation of FL118 can be administrated via IV routes with increased maximum tolerated dose (MTD). This may also result in better in vivo tumor inhibition outcomes for FL118. We intend to perform these experiments with optimal routes and schedules in our follow-up studies as part of a broader goal of optimizing FL118 administration to prepare for clinical applications.</text>
+      <annotation id="220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="20936" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="21013" length="20"/>
+        <text>Tween/polysorbate 80</text>
+      </annotation>
+      <annotation id="2XXx200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="21200" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="21288" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="21393" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="21520" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="21582" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="21624" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="21795" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="21841" length="20"/>
+        <text>Tween/polysorbate 80</text>
+      </annotation>
+      <annotation id="226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="21882" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="22037" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="22182" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>22241</offset>
+      <text>It was reported that the affinity of camptothecin analogues to ABCG2 is influenced by polar additions to the A ring. We hypothesize that the polarity of B ring-substituted functional groups of FL118 may also affect ABCG2 binding. To test this hypothesis, we modeled the distinct electrostatic potential of six FL118 analogues with different chemical groups on the 7-position of the B ring versus FL118 itself, and assessed their potency using cell proliferation assays. As before, we used potency in the presence and absence of ABCG2 inhibition as a surrogate for assessing the affinity of individual drugs for ABCG2. We saw a significant change in EC50 in the presence of Ko143 for FL118 analogues with stronger electronegative groups, indicating that these FL118 analogues are substrates of ABCG2. We also noted that some structures with less polar functional groups (e.g., 7-ethyl-FL118) still have regions of localized electronegativity in those groups (indicated by the red gradient) (Additional file 1: Figure S5), while some structures with more polar groups lack such regions of moderate localized electronegativity (e.g., 7-chloro-FL118, Additional file 1: Figure S5). Comparing these electrostatic potential maps to our results in Table 2, we propose that these localized electronegative regions are less predictive of a compound’s affinity for ABCG2 than the Pauling electronegativity of the molecule as a whole.</text>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="22278" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="22434" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="22551" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="22637" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="22914" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="2XXx217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="22924" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="23000" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="23117" length="13"/>
+        <text>7-ethyl-FL118</text>
+      </annotation>
+      <annotation id="349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="23372" length="14"/>
+        <text>7-chloro-FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>23668</offset>
+      <text>We recently reported a novel IV-compatible Tween/polysorbate 80-free formulation for FL118, which could increase FL118 MTD 3-7 fold in comparison with FL118 formulated using the previous Tween/polysorbate 80-containing recipe. We found that in this new formulation, while FL118 showed solubility similar to 7-bromomethyl-FL118, 7-chloromethyl-FL118 and 7-hydroxymethyl-FL118, the solubility of 7-methyl-FL118, 7-ethyl-FL118 and 7-allyl-FL118 was much poorer than FL118. Similarly, FL118 analogues with other 7-substituted nonpolar groups (e.g., cycloalkyl, aryl) also showed poor solubility in our Tween/polysorbate 80-free formulation recipes with or without 5% DMSO. Therefore, future studies related to the structural modification of the FL118 scaffold should be based on the findings revealed from these compounds to further optimize potency and drug-like properties, for example by adding hydrophilic group on positions of 5, 9 or 12. Alternatively, we may generate the pro-drug for potent compounds, such as dipeptide derivatives to increase water solubility. Working in these directions may allow us to generate compounds with even better therapeutic index (TI, i.e. ratio of antitumor activity versus toxicity) than the favorable TI of FL118.</text>
+      <annotation id="2XXx236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="23711" length="20"/>
+        <text>Tween/polysorbate 80</text>
+      </annotation>
+      <annotation id="2XXx226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="23753" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="23781" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="23819" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="23855" length="20"/>
+        <text>Tween/polysorbate 80</text>
+      </annotation>
+      <annotation id="239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="23940" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="23975" length="19"/>
+        <text>7-bromomethyl-FL118</text>
+      </annotation>
+      <annotation id="74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="23996" length="20"/>
+        <text>7-chloromethyl-FL118</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="24021" length="21"/>
+        <text>7-hydroxymethyl-FL118</text>
+      </annotation>
+      <annotation id="353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="24062" length="14"/>
+        <text>7-methyl-FL118</text>
+      </annotation>
+      <annotation id="76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="24078" length="13"/>
+        <text>7-ethyl-FL118</text>
+      </annotation>
+      <annotation id="354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="24096" length="13"/>
+        <text>7-allyl-FL118</text>
+      </annotation>
+      <annotation id="2XXx232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="24131" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="24149" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="24266" length="20"/>
+        <text>Tween/polysorbate 80</text>
+      </annotation>
+      <annotation id="79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="24331" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="24409" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004151</infon>
+        <location offset="24682" length="9"/>
+        <text>dipeptide</text>
+      </annotation>
+      <annotation id="2XXx225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24716" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="2XXx235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="24912" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>24919</offset>
+      <text>Here, it should be pointed out that the relationship between the affinity of camptothecin analogues to ABCG2 and the strength of electronegative charges of distinct chemical groups on the B ring has not been investigated previously, although the B ring of camptothecin is often modified in order to improve the anticancer potency and pharmacological properties. While there was a positive correlation between χ and ABCG2-induced resistance, the large loss of potency for 7-bromomethyl-FL118 compared to 7-chloromethyl-FL118 suggests that functional group electronegativity may be only one characteristic that influences ABCG2 affinity. Since ABCG2-mediated resistance to anticancer drugs, including irinotecan and topotecan, is a recognized problem in the clinic, further understanding of the structure-activity relationship of FL118 analogues for ABCG2 binding may lead to rational design of better anticancer agents for clinical application.</text>
+      <annotation id="2XXx239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="24996" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="2XXx240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="25175" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="25390" length="19"/>
+        <text>7-bromomethyl-FL118</text>
+      </annotation>
+      <annotation id="355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="25422" length="20"/>
+        <text>7-chloromethyl-FL118</text>
+      </annotation>
+      <annotation id="2XXx242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="25618" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="25633" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="25747" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>25865</offset>
+      <text>Interestingly, cabazitaxel, a taxane derivative with poor affinity for another drug-efflux pump protein, P-glycoprotein 1 (P-gp, also known as multidrug resistance protein 1 and ABCB1), was recently approved for use in patients with castration-resistant prostate cancer who had previously failed docetaxel-based regimens. It is thought that cabazitaxel’s lack of affinity for P-gp plays an important role in its effectiveness in docetaxel-refractory cancer. In keeping with this rationale, the work presented here suggests that this strategy may be useful in other cancer types and with other classes of cytotoxic agents, including camptothecins. Due to FL118’s superior anticancer activity, favorable tolerability, and insensitivity to ABCG2, we posit that FL118 may become a better option for targeted cancer therapeutics to address the increasingly complex issue of drug failure by circumventing multiple mechanisms of drug resistance, including efflux pump-mediated resistance.</text>
+      <annotation id="87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552428</infon>
+        <location offset="25880" length="11"/>
+        <text>cabazitaxel</text>
+      </annotation>
+      <annotation id="2XXx247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C080625</infon>
+        <location offset="25895" length="6"/>
+        <text>taxane</text>
+      </annotation>
+      <annotation id="2XXx248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077143</infon>
+        <location offset="26161" length="9"/>
+        <text>docetaxel</text>
+      </annotation>
+      <annotation id="2XXx249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C552428</infon>
+        <location offset="26206" length="11"/>
+        <text>cabazitaxel</text>
+      </annotation>
+      <annotation id="2XXx250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077143</infon>
+        <location offset="26294" length="9"/>
+        <text>docetaxel</text>
+      </annotation>
+      <annotation id="356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="26497" length="13"/>
+        <text>camptothecins</text>
+      </annotation>
+      <annotation id="2XXx251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="26519" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="26623" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>26851</offset>
+      <text>In conclusion, the present study demonstrated that FL118 has additional mechanistic features in terms of its superior anticancer efficacy, which further distinguish it from irinotecan, SN-38 and topotecan. These findings suggest that FL118 is a poor substrate for the drug efflux pump ABCG2, and thus FL118 is able to overcome ABCG2-mediated resistance to SN-38, irinotecan and topotecan in vitro and in vivo. Additionally, this study also indicated that polar chemical groups on the B ring of FL118 analogues can contribute to ABCG2-mediated resistance, which provides one principle for new FL118 analogue design. Together, the new features of FL118 revealed in this study plus the other FL118 unique features reported in our previous studies warrants FL118 further development toward clinical application.</text>
+      <annotation id="2XXx264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="26902" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="27024" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="27036" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="27046" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27085" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27152" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="27207" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="27214" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="2XXx258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="27229" length="9"/>
+        <text>topotecan</text>
+      </annotation>
+      <annotation id="2XXx259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27345" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27443" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27496" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27540" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27604" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>27659</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>27681</offset>
+      <text>Drug resource and preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>27711</offset>
+      <text>Topotecan (Selleckchem Chemicals, Houston, TX), FL118 (in house), and FL118 analogues (RTI International) were prepared as stocks at 1 mM in DMSO (Merck KGaA, Darmstadt, Germany). The synthesis of FL118 and FL118 analogues (7-methyl-FL118, 7-ethyl-FL118, 7-allyl-FL118, 7-bromomethyl-FL118, 7-chloromethyl-FL118 and 7-hydroxymethyl-FL118) were reported previously. Stock SN-38 (Sigma-Aldrich Corporation, St. Louis, MO) was prepared at 2.5 mM in DMSO. Ko143 (Tocris Bioscience, Bristol, United Kingdom) was prepared as stock solutions at 10 mM in DMSO.</text>
+      <annotation id="2XXx278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019772</infon>
+        <location offset="27711" length="9"/>
+        <text>Topotecan</text>
+      </annotation>
+      <annotation id="2XXx274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27759" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27781" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="27852" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27908" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="27918" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="27935" length="14"/>
+        <text>7-methyl-FL118</text>
+      </annotation>
+      <annotation id="95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="27951" length="13"/>
+        <text>7-ethyl-FL118</text>
+      </annotation>
+      <annotation id="358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="27966" length="13"/>
+        <text>7-allyl-FL118</text>
+      </annotation>
+      <annotation id="96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="27981" length="19"/>
+        <text>7-bromomethyl-FL118</text>
+      </annotation>
+      <annotation id="97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="28002" length="20"/>
+        <text>7-chloromethyl-FL118</text>
+      </annotation>
+      <annotation id="98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007212,MESH:D052117</infon>
+        <location offset="28027" length="21"/>
+        <text>7-hydroxymethyl-FL118</text>
+      </annotation>
+      <annotation id="304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="28082" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="2XXx272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="28157" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="2XXx280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C541506</infon>
+        <location offset="28163" length="5"/>
+        <text>Ko143</text>
+      </annotation>
+      <annotation id="100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="28258" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>28267</offset>
+      <text>Cell culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>28280</offset>
+      <text>Human colorectal cancer cell lines HCT8, HCT116, and SW620 and NSCLC cell lines A549 and NCI-H460 (“H460”) were purchased from American Type Culture Collection (ATCC, Manassas, VA). The human NSCLC cell line EKVX (donated by Dr. Daniel Chan) was originally from the National Cancer Institute. Camptothecin resistant sub-lines of HCT116 with mutated Top1 (HCT116-SN6, HCT116-G7, HCT116-A2, and HCT116-SN50) were established and described previously by Drs. Gongora and Del Rio. Drug resistant cell lines were passaged in 10 nM SN-38, except for five days prior to all experiments, to maintain resistant phenotypes. Human embryonic kidney HEK293 cells that were stably transfected with either an ABCG2 expression vector (HEK293/ABCG2) or an empty vector (HEK293/pcDNA3) were provided by Dr. Wendy Huss, which were originally a gift from Dr. Susan Bates (National Cancer Institute, Rockville, MD). All cell lines were maintained in RPMI-1640 medium supplemented with 10% heat-inactivated fetal bovine serum, 100 U/mL penicillin, and 0.1 μg/mL streptomycin (“complete media”). Cells were cultured in 5 % CO2 at 37°C and passaged every 2-4 days.</text>
+      <annotation id="2XXx283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="28573" length="12"/>
+        <text>Camptothecin</text>
+      </annotation>
+      <annotation id="2XXx287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="28806" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+      <annotation id="gy547">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="29209" length="16"/>
+        <text>RPMI-1640 medium</text>
+      </annotation>
+      <annotation id="103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="29294" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="29320" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="2XXx286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="29380" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29432</offset>
+      <text>Immunoblot analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>29452</offset>
+      <text>Immunoblot analysis was performed as described previously, with minor modifications. Briefly, cells were lysed in radioimmunoprecipitation analysis buffer (50 mM Tris, 150 mM NaCl, 0.1% SDS, 0.5% sodium deoxycholate, 1% Nonidet P-40, 10 μg/mL PMSF, 20 μM leupeptin) and sonicated for 15 s using a sonic dismembrator 100 (Thermo Fisher Scientific, Waltham, MA) to homogenize lysate. Next, lysate was denatured with 5X Laemmli Sample Buffer (5X: 300 mM Tris-HCl pH 6.8, 10% SDS, 50% glycerol, 20% β-mercaptoethanol, 0.05% bromophenol blue) and equal amounts of protein were electrophoretically separated on 10-15% SDS-PAGE gels and electrotransferred onto 0.2 μm nitrocellulose membranes (Bio-Rad Laboratories, Inc., Hercules, CA). Membranes were blocked for 1 h at room temperature in 5% skim milk, then incubated with primary antibody (1:1,000 for ABCG2 and 1:5,000 for actin) in 5% bovine serum albumin in TBS-T overnight at 4°C. Membranes were washed with TBS-T, then incubated with species-specific anti-IgG antibodies conjugated to horseradish peroxidase (1:5,000, second antibody) at room temperature for 1 h in 5% milk. Membranes were again washed with TBS-T. Chemiluminescence with ECL plus (PerkinElmer, Inc., Waltham, MA) was used to detect protein using X-ray film (Midsci, St. Louis, MO).</text>
+      <annotation id="106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="29614" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="29627" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="29638" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840</infon>
+        <location offset="29648" length="19"/>
+        <text>sodium deoxycholate</text>
+      </annotation>
+      <annotation id="2XXx293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010615</infon>
+        <location offset="29672" length="12"/>
+        <text>Nonidet P-40</text>
+      </annotation>
+      <annotation id="gy579">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010664</infon>
+        <location offset="29695" length="4"/>
+        <text>PMSF</text>
+      </annotation>
+      <annotation id="2XXx295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032854</infon>
+        <location offset="29707" length="9"/>
+        <text>leupeptin</text>
+      </annotation>
+      <annotation id="2XXx303">
+        <infon key="identifier">MESH:C088816</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="29866" length="24"/>
+        <text>5X Laemmli Sample Buffer</text>
+      </annotation>
+      <annotation id="gy582">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="29903" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="29924" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="29933" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="2XXx298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="29947" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="2XXx299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001978</infon>
+        <location offset="29972" length="16"/>
+        <text>bromophenol blue</text>
+      </annotation>
+      <annotation id="2XXx300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="30064" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="2XXx304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003101</infon>
+        <location offset="30113" length="14"/>
+        <text>nitrocellulose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>30767</offset>
+      <text>Cell proliferation and viability assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>30806</offset>
+      <text>Cells were plated in 6-well plates at densities ranging from 2 x 105 to 4 x 105 cells per well, depending on doubling time. On day 2, cells were treated with varying concentrations of indicated compounds in complete media. Final concentration of the vehicle, DMSO, was 0.1% in all treatments with or without drugs. On day 5, attached cells were harvested with 0.5 mL of 0.25% Trypsin-EDTA. Trypsin was deactivated by addition of 0.5 mL of complete media and cells were analyzed on a Vi-CELL XR Cell Viability Analyzer (Beckman Coulter Inc., Brea, CA). EC50 values and coefficient of determination (R2) were calculated from seven doses of each analyzed compound, in addition to the vehicle control, using GraphPad Prism 6 (GraphPad Software, Inc., La Jolla, CA). Each experiment was performed at least 3 times.</text>
+      <annotation id="120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="31065" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="364">
+        <infon key="identifier">MESH:D014357,MESH:D004492</infon>
+        <infon key="type">Chemical</infon>
+        <location offset="31182" length="12"/>
+        <text>Trypsin-EDTA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>31618</offset>
+      <text>Transduction of lentiviral particles containing ABCG2-specific or control shRNA</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>31698</offset>
+      <text>Lentiviral particles containing ABCG2-specific shRNA, with sequences of AACTCTTGAATGACCCTGT (V3LHS_380805) or ATAATACTTGGTAACATCC (V3LHS_380806), and one control non-silencing shRNA (Dharmacon, Lafayette, CO) were prepared in the Rowell Park Cancer Institute shRNA Core Facility as previously described. HCT116-SN50 cells were plated in 6-well plates at a density of 7 x 105 cells/well. The next day, media was aspirated and 0.5 mL of fresh complete media and 0.5 mL of viral supernatant were added to each well. Cells were incubated with viral supernatant in 5% CO2 at 37°C for 16 h. Stably transduced cells were selected and maintained in 1 μg/mL puromycin (Invivogen, San Diego, CA).</text>
+      <annotation id="122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="32261" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011691</infon>
+        <location offset="32347" length="9"/>
+        <text>puromycin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32391</offset>
+      <text>Electrostatic potential maps</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32420</offset>
+      <text>Electrostatic potential maps were generated using the PBEQ solver module in CHARMM-GUI in default conditions, using protein data bank (.pdb) files and Tripos Mol2 (.mol2) files created with MarvinSketch 14.7.7.0 (ChemAxon, Ltd., Budapest, Hungary). Maps were visualized with PyMOL 1.3r1 edu (Schrödinger, LLC, New York, NY).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32746</offset>
+      <text>Pauling electronegativity</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>32772</offset>
+      <text>Electronegativities were taken from published studies. When electronegativities for certain functional groups were not reported in those studies, they were calculated using the methods developed by the authors in the cited works.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>33002</offset>
+      <text>Establishment of human xenograft models</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>33042</offset>
+      <text>Xenografts were established in female 12-week old severe combined immunodeficiency (SCID) mice. Cells (4 x 106 per injection) were suspended in 200 μL of a 1:1 solution of ice-cold serum-free RPMI 1640 media and matrigel (Corning Incorporated, Corning, NY) and injected subcutaneously into the left flank. When tumors reached an average volume of 100 mm3, animals were randomly assigned to one of two treatment groups. One group received 100 mg/kg irinotecan (Camptosar) (Pfizer, New York, NY), the MTD, IP once per week. The other group received the MTD of FL118, 1.5 mg/kg, IP once per week. The treatment schedule, one treatment per week for 4 weeks, followed by 1 week of rest, repeated until progression, was selected to approximate the administration of camptothecin-class drugs in the clinic. Tumor volume and body weight were measured three times per week. Progression was defined as a tumor volume ≥ 1500 mm3 or a moribund condition. Tumor volume was calculated as V = 0.5*(length x width2), and was measured using digital calipers.</text>
+      <annotation id="gy595">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007053</infon>
+        <location offset="33214" length="3"/>
+        <text>ice</text>
+      </annotation>
+      <annotation id="gy592">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="33234" length="15"/>
+        <text>RPMI 1640 media</text>
+      </annotation>
+      <annotation id="2XXx309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="33490" length="10"/>
+        <text>irinotecan</text>
+      </annotation>
+      <annotation id="125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="33502" length="9"/>
+        <text>Camptosar</text>
+      </annotation>
+      <annotation id="2XXx314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="33600" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="33802" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>34102</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>34123</offset>
+      <text>An extra sum-of-squares F test was used to compare dose response curves. Comparison of survival curves for xenograft models was done using the log-rank test. To assess the difference between calculated RR values in camptothecin-resistant HCT116 sublines, which had logarithmic error, the RR value was back-transformed to LogRR so that the error would be symmetric. The LogRR values for FL118 and SN-38 were then compared using Student’s t-test. A p-value of ≤ 0.05 was considered significant for all analyses. Power analysis to determine appropriate group sizes for in vivo work was done with the following parameters: α = 0.05, power = 0.8.</text>
+      <annotation id="2XXx315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002166</infon>
+        <location offset="34338" length="12"/>
+        <text>camptothecin</text>
+      </annotation>
+      <annotation id="274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="34509" length="5"/>
+        <text>FL118</text>
+      </annotation>
+      <annotation id="2XXx317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077146</infon>
+        <location offset="34519" length="5"/>
+        <text>SN-38</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>34782</offset>
+      <text>Study approval</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>34797</offset>
+      <text>All studies using animals were approved by the Institutional Animal Care and Use Committee (IACUC) at Roswell Park Cancer Institute.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>34930</offset>
+      <text>Additional file</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>34946</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>34960</offset>
+      <text>NSCLC</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>34966</offset>
+      <text>non-small cell lung cancer</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>34993</offset>
+      <text>Top1</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>34998</offset>
+      <text>Topoisomerase I</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35014</offset>
+      <text>ABC</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35018</offset>
+      <text>ATP-binding cassette protein</text>
+      <annotation id="2XXx318">
+        <infon key="type">OTHER</infon>
+        <location offset="35018" length="28"/>
+        <text>ATP-binding cassette protein</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35047</offset>
+      <text>IP</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35050</offset>
+      <text>Intraperitoneal</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35066</offset>
+      <text>IV</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35069</offset>
+      <text>Intravenous</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35081</offset>
+      <text>RR</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35084</offset>
+      <text>Relative resistance</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35104</offset>
+      <text>TI</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35107</offset>
+      <text>Therapeutic index</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35125</offset>
+      <text>Competing interests</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35145</offset>
+      <text>FL118 will be further developed in Canget BioTekpharma LLC, a Roswell Park Cancer Institute spinoff company. XL, MW and FL are initial investors in Canget BioTekpharma.</text>
+      <annotation id="2XXx319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C578515</infon>
+        <location offset="35145" length="5"/>
+        <text>FL118</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35314</offset>
+      <text>Authors’ contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>35339</offset>
+      <text>DW participated in the conception and design of this study, performed and analyzed cell viability assays, lentiviral shRNA knockdown assays, and in vivo experiments, produced electrostatic potential maps, and participated in the preparation of this manuscript; XL conducted initial experiments which served as the basis for this study and provided training for in vivo experiments, and performed and analyzed cell viability assays; HL performed and analyzed cell viability and immunoblot assays; JW performed and analyzed cell viability and immunoblot assays and assisted in production of electrostatic potential maps; CJ provided experimental compounds, technical expertise, and critically evaluated early drafts of the manuscript; CG and MDR provided proprietary cell lines and offered technical advice on their use in this work; MW was involved in initially synthesizing most of the compounds used in this study, and provided overall technical expertise related to medicinal chemistry; FL participated in the conception and design of the study and preparation of the manuscript. All authors read and approved the final manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>36473</offset>
+      <text>Authors’ information</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>36496</offset>
+      <text>Hong Lam and Jacob Welch were interns in the Roswell Park Cancer Institute Summer Research Program.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">ABBR</infon>
+      <offset>36596</offset>
+      <text>Dr. Wani is an emeritus member of RTI International.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>36649</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4988499</id>
+    <passage>
+      <infon key="name_3">surname:Ní Cheallaigh;given-names:Aisling;prefix:Dr.</infon>
+      <infon key="name_2">surname:Hoeven;given-names:Robin;prefix:Dr.</infon>
+      <infon key="name_1">surname:Karuppiah;given-names:Vijaykumar;prefix:Dr.</infon>
+      <infon key="name_0">surname:Lygidakis;given-names:Antonios</infon>
+      <infon key="notes">
+A. Lygidakis, V. Karuppiah, R. Hoeven, A. Ní Cheallaigh, D. Leys, J. M. Gardiner, H. S. Toogood, N. S. Scrutton, Angew. Chem.
+2016, 128, 9748.
+</infon>
+      <infon key="article-id_pmid">27587903</infon>
+      <infon key="fpage">9748</infon>
+      <infon key="issue">33</infon>
+      <infon key="year">2016</infon>
+      <infon key="article-id_publisher-id">ANGE201603785</infon>
+      <infon key="article-id_pmc">4988499</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1002/ange.201603785</infon>
+      <infon key="volume">128</infon>
+      <infon key="license">This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="kwd">Biotransformationen Biosynthese essenzieller Mentha-Öle Isopiperitenon-Reduktase Kurzkettige Dehydrogenasen/Reduktasen Strukturaufklärung</infon>
+      <infon key="name_7">surname:Scrutton;given-names:Nigel S.;prefix:Prof.</infon>
+      <infon key="name_6">surname:Toogood;given-names:Helen S.;prefix:Dr.</infon>
+      <infon key="lpage">9752</infon>
+      <infon key="name_5">surname:Gardiner;given-names:John M.;prefix:Dr.</infon>
+      <infon key="name_4">surname:Leys;given-names:David;prefix:Prof.</infon>
+      <offset>0</offset>
+      <text>Pinpointing a Mechanistic Switch Between Ketoreduction and “Ene” Reduction in Short‐Chain Dehydrogenases/Reductases</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>122</offset>
+      <text>Abstract</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>131</offset>
+      <text>Three enzymes of the Mentha essential oil biosynthetic pathway are highly homologous, namely the ketoreductases (−)‐menthone:(−)‐menthol reductase and (−)‐menthone:(+)‐neomenthol reductase, and the “ene” reductase isopiperitenone reductase. We identified a rare catalytic residue substitution in the last two, and performed comparative crystal structure analyses and residue‐swapping mutagenesis to investigate whether this determines the reaction outcome. The result was a complete loss of native activity and a switch between ene reduction and ketoreduction. This suggests the importance of a catalytic glutamate vs. tyrosine residue in determining the outcome of the reduction of α,β‐unsaturated alkenes, due to the substrate occupying different binding conformations, and possibly also to the relative acidities of the two residues. This simple switch in mechanism by a single amino acid substitution could potentially generate a large number of de novo ene reductases.</text>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009822</infon>
+        <location offset="152" length="20"/>
+        <text>Mentha essential oil</text>
+      </annotation>
+      <annotation id="O0">
+        <infon key="type">OTHER</infon>
+        <location offset="243" length="34"/>
+        <text>(−)‐menthone:(−)‐menthol reductase</text>
+      </annotation>
+      <annotation id="O2">
+        <infon key="type">OTHER</infon>
+        <location offset="282" length="37"/>
+        <text>(−)‐menthone:(+)‐neomenthol reductase</text>
+      </annotation>
+      <annotation id="O1">
+        <infon key="type">OTHER</infon>
+        <location offset="345" length="25"/>
+        <text>isopiperitenone reductase</text>
+      </annotation>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="736" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="750" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000475</infon>
+        <location offset="814" length="23"/>
+        <text>α,β‐unsaturated alkenes</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="1012" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1129</offset>
+      <text>Biosynthetic enzymes involved in the production of menthol oil have been investigated for their biological function and biocatalytic potential because of the high commercial demand for this oil (ca. 31 000 t/US‐$ 373–401 million per year).1 Three salutaridine/menthone reductase like subfamilies of short‐chain dehydrogenases/reductases (SDRs)2 from Mentha piperita were identified, namely (−)‐menthone:(−)‐menthol reductase (MMR), (−)‐menthone:(+)‐neomenthol reductase (MNMR), and isopiperitenone reductase (IPR).1a,1b MMR and MNMR catalyze the ketoreduction of (−)‐menthone 1 a to (1R,2S,5R)‐menthol 2 a and (1S,2S,5R)‐neomenthol 2 b, respectively (Scheme 1).1a Additionally, they act on isomenthone 1 b to produce (1R,2R,5R)‐neoisomenthol 2 c and (1R,2S,5S)‐isomenthol 2 d, respectively. In contrast, IPR catalyzes double bond reduction of isopiperitenone 3 a to cis‐isopulegone 4 a (Scheme 1).1b </text>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610,MESH:D009822</infon>
+        <location offset="1180" length="11"/>
+        <text>menthol oil</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610,MESH:D009822</infon>
+        <location offset="1319" length="3"/>
+        <text>oil</text>
+      </annotation>
+      <annotation id="O4">
+        <infon key="type">OTHER</infon>
+        <location offset="1376" length="31"/>
+        <text>salutaridine/menthone reductase</text>
+      </annotation>
+      <annotation id="O5">
+        <infon key="type">OTHER</infon>
+        <location offset="1519" length="34"/>
+        <text>(−)‐menthone:(−)‐menthol reductase</text>
+      </annotation>
+      <annotation id="O6">
+        <infon key="type">OTHER</infon>
+        <location offset="1561" length="37"/>
+        <text>(−)‐menthone:(+)‐neomenthol reductase</text>
+      </annotation>
+      <annotation id="O7">
+        <infon key="type">OTHER</infon>
+        <location offset="1611" length="25"/>
+        <text>isopiperitenone reductase</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C019466</infon>
+        <location offset="1692" length="12"/>
+        <text>(−)‐menthone</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="1712" length="18"/>
+        <text>(1R,2S,5R)‐menthol</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="1739" length="21"/>
+        <text>(1S,2S,5R)‐neomenthol</text>
+      </annotation>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C575995</infon>
+        <location offset="1819" length="11"/>
+        <text>isomenthone</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561808</infon>
+        <location offset="1846" length="24"/>
+        <text>(1R,2R,5R)‐neoisomenthol</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C561808</infon>
+        <location offset="1879" length="21"/>
+        <text>(1R,2S,5S)‐isomenthol</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044944</infon>
+        <location offset="1972" length="15"/>
+        <text>isopiperitenone</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039648</infon>
+        <location offset="1995" length="15"/>
+        <text>cis‐isopulegone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>2092</offset>
+      <text>Reactions catalyzed by MMR, MNMR, and IPR.1a,1b </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2141</offset>
+      <text>The enzymes of the SDR superfamily are characterized by large sequence divergences (&gt;15 % homology), yet show highly conserved three‐dimensional structures2 and an active‐site tetrad typically containing Ser, Tyr, Lys, and Asn.2, 3, 4, 5 Interestingly, the three Mentha SDRs have high protein‐sequence identities (63–68 %), so we performed comparative studies of MMR, MNMR, and IPR, to pinpoint the determinants of ketoreductase vs. ene‐reductase activity within SDRs.</text>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="2345" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="2350" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="2355" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="2364" length="3"/>
+        <text>Asn</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2624</offset>
+      <text>Kinetic studies of MMR, MNMR, and IPR (see the Supporting Information for details; Figures S1–S3; Table S1)1c and biotransformations were performed with a variety of (a)cyclic, aromatic, and monoterpenoid enones, enals, and enols (Table 1; Figure S4). In some cases, where not commercially available, product standards were synthesized to confirm whether ene reduction or ketoreduction had occurred. Double bond reduction by IPR was seen for six α,β‐unsaturated cyclic enones (3 a,b and 5 a–d) to produce the corresponding unsaturated ketones (4 a,b and 6 a–d, respectively; Table 1, entries 1–6; Scheme 1). The highest yields were obtained with the (+/−)‐isopiperitenone mixture 3 a (50 % ee) to produce nearly equivalent amounts of cis/trans‐isopulegone 4 a diastereomers. Isophorone 5 b and ketoisophorone 5 c were also reduced with high yields and enantiopurity (Table 1, entries 4 and 5). However, the predominant enantiomer of 6 c generated was (S)‐levodione, opposite to (R)‐6 c generation by the Old Yellow Enzyme (OYEs) ene reductases.5, 6 Low activity was detected with (R)‐piperitenone 3 b generating enantiopure (R)‐pulegone 4 b. No ketoreduction was observed with any substrate tested. </text>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659,MESH:D000447,-</infon>
+        <location offset="2793" length="60"/>
+        <text>cyclic, aromatic, and monoterpenoid enones, enals, and enols</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="3070" length="29"/>
+        <text>α,β‐unsaturated cyclic enones</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="3147" length="19"/>
+        <text>unsaturated ketones</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044944</infon>
+        <location offset="3274" length="21"/>
+        <text>(+/−)‐isopiperitenone</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039648</infon>
+        <location offset="3358" length="21"/>
+        <text>cis/trans‐isopulegone</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005940</infon>
+        <location offset="3399" length="10"/>
+        <text>Isophorone</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C476259</infon>
+        <location offset="3418" length="14"/>
+        <text>ketoisophorone</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C494596</infon>
+        <location offset="3575" length="13"/>
+        <text>(S)‐levodione</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044956</infon>
+        <location offset="3704" length="16"/>
+        <text>(R)‐piperitenone</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039648</infon>
+        <location offset="3748" length="12"/>
+        <text>(R)‐pulegone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>3894</offset>
+      <text>Biocatalytic reduction of cyclic ketones by three SDRs.[a] </text>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="3920" length="14"/>
+        <text>cyclic ketones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>4417</offset>
+      <text>[a] Reactions (1 mL) were performed in buffer (50 mm KH2PO4 pH 6.0 for IPR; 50 mm Tris pH 7.0 for MMR/MNMR) containing monoterpenoid (1 a,b, 3 a,b, 5 a–d; 5 mm), enzyme (5 μm), NADP+ (10 μm), glucose (15 mm), GDH (10 U), and enzyme (2 μm). The reaction solutions were agitated at 25 °C for 10 h at 130 rpm. Product identification was performed by both comparing retention times with authentic standards and identification by GCMS on a DB‐WAX column (only GCMS identification for product 6 c). MMR and MNMR data were obtained from previously published work.1c [b] Product yield and enantiomeric excess were determined by GC analysis using DB‐WAX and Chirasil‐DEX‐CB columns, respectively. [c] Lacking enantiopure product standards to assign diastereomeric/enantiomeric identity. [d] nd=not determined due to low product yield.</text>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="4470" length="6"/>
+        <text>KH2PO4</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="4499" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D039821</infon>
+        <location offset="4536" length="13"/>
+        <text>monoterpenoid</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="4594" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="4609" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5301</offset>
+      <text>Biotransformations with MMR and MNMR showed only ketoreduction products, with no detectable double bond reduction (Figure S4).1a,1b Reactions with 1 a and 1 b generated the menthol isomers 2 a–d (Table 1, entries 7, 8, 10, and 11). The product ee values were medium to high (72 to &gt;99 %). The only other ketoreduction seen was the slow conversion of 5 a to 7 by MNMR (5 % yield; Table 1, entry 9).</text>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008610</infon>
+        <location offset="5474" length="7"/>
+        <text>menthol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5723</offset>
+      <text>A sequence alignment of the three ketoreductases MMR, MNMR, and salutaridine reductase (SalR; 45–49 % homology to Mentha enzymes) from Papaver somniferum L with IPR showed each enzyme contained typical SDR‐like motifs, such as those involved in central β‐sheet stabilization, and a TGxxxGhG motif (Figure S5).4b The latter motif in the Mentha enzymes contains the motif TGxxKGIG, predictive of a preference for NADP(H) over NAD(H).7 A key difference in the sequences between the ketoreductases and IPR was a substitution of the highly conserved catalytic Tyr residue for Glu (238 in IPR). An further sequence alignment of over 500 SDRs revealed only four additional enzymes had substitutions of the active‐site Tyr residue (results not shown). One of these enzymes was IPR from a related Mentha sp., which also contained an active‐site Glu. Interestingly, the aldo–keto reductase superfamily contains both ketoreductases (e.g. aldose reductase) and double bond reductases (e.g. Δ4‐3‐ketosteroid 5β‐reductase) with high sequence homologies.8 In this case, a substitution of an active‐site His for a Glu residue discriminated between ketoreduction and double bond reduction.9 Therefore, we investigated the role of the different catalytic acid residues in IPR (Glu 238) and MNMR (Tyr 244) in the reaction mechanism.</text>
+      <annotation id="O16">
+        <infon key="type">OTHER</infon>
+        <location offset="5787" length="22"/>
+        <text>salutaridine reductase</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="6134" length="7"/>
+        <text>NADP(H)</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009243</infon>
+        <location offset="6147" length="6"/>
+        <text>NAD(H)</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="6278" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="6294" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="6434" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="6559" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="O17">
+        <infon key="type">OTHER</infon>
+        <location offset="6701" length="29"/>
+        <text>Δ4‐3‐ketosteroid 5β‐reductase</text>
+      </annotation>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="6821" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="6982" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="7001" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7070</offset>
+      <text>We determined crystal structures of both MNMR and IPR (Figure 1), the latter in combination with NADP+, alkene 3 a, and β‐cyclocitral (non‐substrate). Crystallographic methodology, data refinement statistics, and detailed structural descriptions can be found in the Supporting Information (Table S2 and associated discussion). The crystal structures of apo‐IPR and the 3 a‐ and β‐cyclocitral‐bound complexes were solved by molecular replacement using the known SalR crystal structure (PDB 3O26; 1.2 and 1.7 Å resolution, respectively; Table S2).10 The presence of clear density in the F0−Fc map for NADP+ (Figure 1 B) suggested IPR had scavenged it from host cells during protein expression. Substrate 3 a was bound to the active with the C=C bond close to, and parallel with, the nicotinamide ring of NADP+, and close (3.19 Å) to the site of hydride transfer (Figure 1 B right and Figure S 6 a). The carbonyl oxygen atom of 3 a hydrogen bonds with Glu 238 and the highly conserved Ser 182 and sits at an equal distance (3.15 Å) from both residues. A water molecule hydrogen bonds with Glu 238 and the ribose ring of NADP+, suggesting a mechanistic role for this water molecule. Conserved residue Asn 154 is hydrogen‐bonded to Glu 238, while Lys 242 forms hydrogen bonds to the ribose of NADP+ and a water molecule, indicating its role in stabilizing NADP+ and contributing to a proton relay.3 The IPR–β‐cyclocitral co‐crystal structure shows the ligand binds in a non‐active conformation compared to 3 a binding (Figure S 6 b). No other major changes in residue positions were observed in the co‐crystal structures. </text>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="7167" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000475</infon>
+        <location offset="7174" length="6"/>
+        <text>alkene</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C516118</infon>
+        <location offset="7190" length="13"/>
+        <text>β‐cyclocitral</text>
+      </annotation>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C516118</infon>
+        <location offset="7448" length="13"/>
+        <text>β‐cyclocitral</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="7669" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="7809" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="7811" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009536</infon>
+        <location offset="7851" length="12"/>
+        <text>nicotinamide</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="7872" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="7980" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="7999" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="8019" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="8052" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="8121" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="8136" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="8156" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012266</infon>
+        <location offset="8172" length="6"/>
+        <text>ribose</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="8187" length="4"/>
+        <text>NADP</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="8233" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="8267" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="8278" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="8297" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="8312" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="8326" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012266</infon>
+        <location offset="8348" length="6"/>
+        <text>ribose</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="8358" length="4"/>
+        <text>NADP</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="8370" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="8421" length="4"/>
+        <text>NADP</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C516118</infon>
+        <location offset="8472" length="13"/>
+        <text>β‐cyclocitral</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>8776</offset>
+      <text>Crystal structure analyses of IPR and MNMR. A) Overlay of IPR (blue; PDB code 5LCX) and SalR (coral; PDB code 3O26) structures. The flap domains of IPR and SalR are indicated by dotted lines. NADP+ is displayed as ball and stick and colored by atom type. B) Left: overlay of IPR (gray; PDB code 5LDG) and MNMR (yellow; PDB code 5L53) structures. Right: active site showing side chains of some active‐site residues of IPR and MNMR along with 3 a (cyan) and NADP+. The Figure was prepared using CCP4mg.11 </text>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="8968" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="9232" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9288</offset>
+      <text>The MNMR structure was solved by molecular replacement using IPR as the search model (resolution 2.3–2.7 Å; Table S2), and was found to be structurally similar (rmsd 0.97 Å; Figure 1 B left). A coenzyme‐bound MNMR structure was obtained by soaking crystals with NADP+, however no structures were obtained with 1 a,b within the active site. Major structural differences were not observed between apoprotein and NADP+‐bound forms. Additional discussion on the crystal structures of the Mentha enzymes and related proteins is found in the Supporting Information (Figures S7–S9).</text>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="9550" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="9698" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9888</offset>
+      <text>As expected, the conserved Glu 238 of IPR occupied the position of Tyr 244 in MNMR, with a distance between Cβ of 3 a and the NADPH hydride of 3.18 Å in the co‐crystal structure. Therefore the bulkier MNMR Tyr 244 likely positions substrates in a different conformation compared to that observed for 3 a in IPR (Figure 1 B right) because of the larger side‐chain bulk of tyrosine. This is consistent with the helix of the flap domain (MNMR) being shifted compared to that in IPR (Figure 1 B right), to accommodate binding of 1 a,b. This structural comparison suggests that this rare residue substitution might be responsible for the switch in activity seen for IPR to NADPH‐dependent 1,4 conjugate reduction of the α,β‐unsaturated carbonyl compound 3 a to 4 a.</text>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="9915" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="9955" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C516118</infon>
+        <location offset="9996" length="2"/>
+        <text>Cβ</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="10014" length="13"/>
+        <text>NADPH hydride</text>
+      </annotation>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="10094" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="10259" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="10556" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044944</infon>
+        <location offset="10603" length="33"/>
+        <text>α,β‐unsaturated carbonyl compound</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10687</offset>
+      <text>Based on prior mechanistic studies and our structural studies, we propose mechanisms of action for both ketoreduction (MNMR) and double bond reduction (IPR) in SDRs.3, 4, 7, 12 Ketoreduction follows typically an ordered “bi‐bi” mechanism, where the coenzyme binds first and leaves last. MNMR appears to follow this classical SDR ketoreduction mechanism for 1 a to 2 b and 1 b to 2 d (Scheme 2 A).1a The alcohol product is formed by the transfer of a hydride from NADPH to the carbonyl carbon atom of the substrate with facial selectivity. In the case of SDRs, the 4‐pro‐S hydride is transferred, in contrast to MDRs that catalyze 4‐pro‐R hydride transfer.4a Concurrent with hydride attack, the carbonyl oxygen atom takes a proton from the conserved Tyr 244 residue acting as a catalytic acid. This starts a cascade of proton transfers through the NADP+ coenzyme and Lys 248, terminating with removal of a proton from a water molecule. The conserved Ser 188 residue likely functions to stabilize the substrate, while Lys 248 hydrogen bonds with the nicotinamide ribose moiety, lowering the pK a of the Tyr 244‐OH to promote proton transfer.3 Residue Asn 160 in SDRs interacts with the conserved Lys 248 and bulk solvent via water molecule(s), forming a protein relay or hydrogen‐bonded solvent network (Scheme 2 A). This likely helps to stabilize the position of Lys 248, thereby assisting the overall ketoreduction mechanism.3 </text>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000438</infon>
+        <location offset="11090" length="7"/>
+        <text>alcohol</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="11150" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="C165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="11172" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="11390" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="11436" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="11534" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="11553" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11606" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="11636" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="11703" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="C166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11711" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018613</infon>
+        <location offset="11735" length="19"/>
+        <text>nicotinamide ribose</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="11788" length="10"/>
+        <text>Tyr 244‐OH</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="11836" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="11881" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="11910" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11956" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="12049" length="3"/>
+        <text>Lys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>12165</offset>
+      <text>Proposed mechanisms of A) ketoreduction by MNMR and B) reduction of an α,β‐unsaturated double bond by IPR. The three‐dimensional nature of the active sites is represented as compounds in the foreground and background shown in black and grey, respectively.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12431</offset>
+      <text>The structure of the IPR–3 a co‐crystal reveals that Glu 238 positions the substrate to allow hydride addition at the C=C bond of 3 a, rather than the carbonyl carbon atom. In the proposed IPR double bond reduction mechanism, hydride transfer from NADPH to the 4‐position of the α,β‐unsaturated carbonyl system of 3 a results in formation of the respective enolate ion (Scheme 2 B), which then accepts a proton from the conserved residue Glu 238 to generate the more stable enol. Residue Glu 238 abstracts a proton from a nearby water molecule that may initiate a similar proton transfer cascade to that seen in MNMR. Formation of cis‐isopulegone 4 a then proceeds by Glu 238 abstracting the proton, previously donated to the substrate, resulting in re‐formation of the carbonyl group. Alternatively a nonenzymatic water‐mediated step may occur. Concomitantly, the enolate double bond accepts a proton from water, giving the 1,4 conjugate reduction product (Scheme 2 B). This mechanism is possible in IPR as the side chain of Glu 238, unlike the Tyr side chain, readily dissociates to its conjugate base in water.</text>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="12484" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="12549" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="12551" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="12591" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="C172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="12679" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12788" length="11"/>
+        <text>enolate ion</text>
+      </annotation>
+      <annotation id="C173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="12869" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="12905" length="4"/>
+        <text>enol</text>
+      </annotation>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="12919" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="12960" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C039648</infon>
+        <location offset="13062" length="15"/>
+        <text>cis‐isopulegone</text>
+      </annotation>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="13099" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="13246" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="13296" length="7"/>
+        <text>enolate</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="13338" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="13457" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="13477" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="13538" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13587</offset>
+      <text>To test this hypothesis further, we generated the variants IPR E238Y and MNMR Y244E and performed biotransformation reactions to detect ketoreduction and/or double bond reduction (Table 2). We tested IPR E238Y at pH 6.0, consistent with the preference for lower pH values of the wild‐type enzymes, in addition to reactions at pH 7.0 for comparison with the MNMR Y244E variant. IPR E238Y showed no double bond reduction with any substrate tested (3 a,b and 5 a–d), however it performed minor ketoreduction with substrate 3 a to form the equivalent alcohol products 8 a (Table 2, entries 1 and 2). Additionally it showed MNMR‐like activity towards Mentha compounds 1 a,b, forming primarily 2 b and 2 d, respectively (Table 2, entries 3–6), although the product yields and enantiopurity were lower than with wild‐type MNMR. Interestingly, reactions with 1 b at pH 7.0 generated a slightly higher yield of products, but they were obtained in near racemic form (Table 2, entry 6. Therefore, replacing of active‐site Glu by Tyr has converted the enzyme from an ene reductase into a ketoreductase, albeit with lower catalytic efficiency and enantiospecificity. </text>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000438</infon>
+        <location offset="14134" length="7"/>
+        <text>alcohol</text>
+      </annotation>
+      <annotation id="C206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C019466,MESH:C575995</infon>
+        <location offset="14233" length="16"/>
+        <text>Mentha compounds</text>
+      </annotation>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="14598" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="14605" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>14800</offset>
+      <text>Biocatalytic reduction of cyclic ketones by enzyme variants IPR E238Y and MNMR Y244E.[a]  </text>
+      <annotation id="C210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007659</infon>
+        <location offset="14826" length="14"/>
+        <text>cyclic ketones</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>15298</offset>
+      <text>[a] Reactions (1 mL) were performed in buffer (50 mm KH2PO4 pH 6.0 for IPR; 50 mm Tris pH 7.0 for MNMR and IPR) containing monoterpenoid (1 a,b, 3 a,b, and 5 a–d; 5 mm), enzyme (5 μm or 10 μm for IPR and MNMR, respectively), NADP+ (10 μm), glucose (15 mm), GDH (10 U), and enzyme (2 μm). The reaction solutions were agitated at 25 °C for 24 h at 130 rpm. Product identification was performed by both comparing retention times with authentic standards and identification by GCMS on a DB‐WAX column (only GCMS identification for product 8 a). Figure S10 gives the GCMS spectra traces of the additional products and their respective substrates. [b] Product yield and enantiomeric excess were determined by GC analysis using DB‐WAX and Chirasil‐DEX‐CB columns, respectively. nd=not determined due to low product yield. [c] Other isomer formed (20 % yield) was 2 a. [d] Other isomer formed (2 % yield) was 2 c.</text>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="15351" length="6"/>
+        <text>KH2PO4</text>
+      </annotation>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="15380" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D039821</infon>
+        <location offset="15421" length="13"/>
+        <text>monoterpenoid</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="15523" length="5"/>
+        <text>NADP+</text>
+      </annotation>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="15538" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16275</offset>
+      <text>In the case of MNMR variant Y244E, ketoreduction was not seen with any substrate tested (1 a,b, 3 a,b, and 5 a–d). Minor double bond reduction was detected with substrate 5 c to form 6 c (Table 2, entry 7). MMR and MNMR are known to have narrower substrate specificities than IPR1a (Table 1 and Figure S4), suggesting further mutations are required to form a more active ene reductase.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16681</offset>
+      <text>Interestingly, studies with mechanistically different enzymes of the class I aldolase family (transaldolase and fructose‐6‐phosphate aldolase) have shown that the change of the nature of the catalytic acid/base can have a significant effect on the reaction mechanism.14, 15 However, the effect of active‐site spacial changes by residue substitution needs to be considered. For example the lack of ketoreduction of wild‐type IPR with 3 a and 3 b may be due to a preference for binding in a conformation consistent with double bond reduction, while the steric bulk of Tyr in IPR variant E238Y may orient the substrate in a position suitable for ketoreduction. Further studies will be needed to determine the relative contribution of catalytic residue type vs. steric constraints in determining the overall mechanism of the catalysis.</text>
+      <annotation id="O71">
+        <infon key="type">OTHER</infon>
+        <location offset="16793" length="29"/>
+        <text>fructose‐6‐phosphate aldolase</text>
+      </annotation>
+      <annotation id="C230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="17247" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17527</offset>
+      <text>We have pinpointed a simple mechanistic switch between ene‐reductase and ketoreduction activity in the SDR superfamily. This simple mechanistic switch, in addition to other residue substitutions to improve catalytic efficiency, could potentially transform SDR ketoreductases into novel ene reductases and provide attractive routes to novel ene‐reductase catalysts. This would reduce the dependence on traditional FMN‐containing OYEs for the biocatalytic reduction of α,β‐unsaturated alkenes and complications (reaction rates, yields, and product enantiopurity) that arise when OYEs are affected by molecular oxygen.13 Access to a new class of ene reductases would open up the possibility of developing new catalytic specificities typical of the SDR superfamily for the reduction of α,β‐unsaturated alkenes.</text>
+      <annotation id="C232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000475</infon>
+        <location offset="17994" length="23"/>
+        <text>α,β‐unsaturated alkenes</text>
+      </annotation>
+      <annotation id="C233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="18135" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000475</infon>
+        <location offset="18309" length="23"/>
+        <text>α,β‐unsaturated alkenes</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>18348</offset>
+      <text>Supporting information</text>
+    </passage>
+  </document>
+</collection>

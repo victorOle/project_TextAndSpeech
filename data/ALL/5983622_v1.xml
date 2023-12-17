@@ -1,0 +1,1881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180607</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5983622</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Wu;given-names:Xiaoyan</infon>
+      <infon key="name_2">surname:Xiao;given-names:Qi</infon>
+      <infon key="name_1">surname:Wang;given-names:Lulu</infon>
+      <infon key="name_0">surname:Xie;given-names:Dan</infon>
+      <infon key="article-id_pmid">29735940</infon>
+      <infon key="issue">5</infon>
+      <infon key="year">2018</infon>
+      <infon key="article-id_publisher-id">ijms-19-01393</infon>
+      <infon key="article-id_pmc">5983622</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.3390/ijms19051393</infon>
+      <infon key="elocation-id">1393</infon>
+      <infon key="volume">19</infon>
+      <infon key="license">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).</infon>
+      <infon key="kwd">thymidylate synthase (TYMS) monomer dimer octamer overexpression and purification</infon>
+      <infon key="name_6">surname:Wang;given-names:Lina</infon>
+      <infon key="name_5">surname:Yang;given-names:Qingkai</infon>
+      <infon key="name_4">surname:Zhang;given-names:Lin</infon>
+      <offset>0</offset>
+      <text>New Insight into the Octamer of TYMS Stabilized by Intermolecular Cys43-Disulfide</text>
+      <annotation id="2X0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="66" length="15"/>
+        <text>Cys43-Disulfide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>82</offset>
+      <text>Thymidylate synthase (TYMS) is an essential enzyme for the de novo synthesis of deoxythymidine monophosphate (dTMP) and has been a primary target for cancer chemotherapy. Although the physical structure of TYMS and the molecular mechanisms of TYMS catalyzing the conversion of deoxyuridine monophosphate (dUMP) to dTMP have been the subject of thorough studies, its oligomeric structure remains unclear. Here, we show that human TYMS not only exists in dimer form but also as an octamer by intermolecular Cys43-disulfide formation. We optimized the expression conditions of recombinant human TYMS using the Escherichia coli system. Using high-performance liquid chromatography–tandem mass spectrometry (HPLC–MS/MS), we have shown that purified TYMS has catalytic activity for producing dTMP. In the absence of reductant β-mercaptoethanol, SDS-PAGE and size exclusion chromatography (SEC) showed that the size of the TYMS protein is about 35 kDa, 70 kDa, and 280 kDa. When the Cys43 was mutated to Gly, the band of ~280 kDa and the peak of the octamer disappeared. Therefore, TYMS was determined to form an octamer, depending on the presence of Cys43-disulfide. By measuring steady-state parameters for the monomer, dimer, and octamer, we found the kcat of the octamer was increased slightly more than the monomer. On the basis of these findings, we suggest that the octamer in the active state might have a potential influence on the design of new drug targets.</text>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="162" length="28"/>
+        <text>deoxythymidine monophosphate</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="192" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="359" length="26"/>
+        <text>deoxyuridine monophosphate</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="387" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="396" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="587" length="15"/>
+        <text>Cys43-disulfide</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="868" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="902" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="921" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="1058" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="1079" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="2X20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="1226" length="15"/>
+        <text>Cys43-disulfide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1549</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1565</offset>
+      <text>Classical thymidylate synthase (TYMS), encoded by the thyA gene, is highly conserved in most eukaryotes, including humans [,]. It catalyzes the transfer of a methylene group from the cofactor 5,10-methylenetetrahydrofolate (mTHF) to its substrate deoxyuridine monophosphate (dUMP) and forms deoxythymidine monophosphate (dTMP), yielding 7,8-dihydrofolate (DHF) as a secondary product [,,]. A second class of thymidylate synthases, flavin-dependent thymidylate synthases (FDTSs) [,,], is encoded by the thyX gene and has been found primarily in prokaryotes and viruses [,]. FDTSs utilize a noncovalently bound flavin adenine dinucleotide (FAD) prosthetic group to catalyze the redox chemistry and use mTHF only as a methylene donor. Several organisms, including human pathogens, rely solely on thyX for thymidylate synthesis. Recent studies further showed the catalytic mechanism of TYMS and FDTS [,], which are essential enzymes for DNA replication and frequently targeted by chemotherapeutic and antibiotic drugs [,]. However, drug resistance has become an increasing concern due to long-term use [,,,]. Therefore, researchers continue to search for effective and specific inhibitors of TYMS to overcome the resistance problem.</text>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="1757" length="30"/>
+        <text>5,10-methylenetetrahydrofolate</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="1789" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="1812" length="26"/>
+        <text>deoxyuridine monophosphate</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="1840" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="1856" length="28"/>
+        <text>deoxythymidine monophosphate</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="1886" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="1902" length="17"/>
+        <text>7,8-dihydrofolate</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="1921" length="3"/>
+        <text>DHF</text>
+      </annotation>
+      <annotation id="235">
+        <infon key="type">OTHER</infon>
+        <location offset="1996" length="38"/>
+        <text>flavin-dependent thymidylate synthases</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="2174" length="27"/>
+        <text>flavin adenine dinucleotide</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="2203" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="2265" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2794</offset>
+      <text>Extensive knowledge of the structure and properties of the target protein could contribute to formulating more efficient strategies for drug development. Many studies have reported that TYMS exists as a dimer–monomer equilibrium, whose two residues R175 and R176 form part of the dUMP binding site, and the TYMS dimer form can adopt active and inactive conformation [,,]. There is evidence that the TYMS dimer interface plays an important role in TYMS–mRNA recognition, perhaps by controlling a conformational change of the protein that exposes the mRNA binding site [,,]. In addition, Chu et al. thought the dimer obligates catalytic function, while the monomer is believed to play a crucial role in TYMS–mRNA regulation []. Considering these different insights in TYMS structure and function, it is of undeniable importance to further investigate the oligomeric form of the TYMS protein, which contributes to the design of compounds that bind at the oligomer interface of TYMS. Such compounds could overcome drug resistance problems []. </text>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="3074" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3840</offset>
+      <text>The aim of this study was to determine the oligomeric state of TYMS and reconstitute the dTMP synthesis system in vitro. We optimized the overexpression conditions of TYMS, such as the host strain, the inducer concentration, temperature, and culture medium. TYMS catalytic activity for producing dTMP was assessed by mass spectrometry. More importantly, we used SDS-PAGE and size exclusion chromatography (SEC) to analyze the oligomeric state of TYMS. The data showed the full functionality of TYMS on DNA biosynthesis and demonstrated that TYMS coexists in an octamer–dimer–monomer equilibrium and that Cys43 disulfide contributes to octamer formation. In conclusion, our study demonstrated that the octamer exists in an active state by measuring steady-state parameters of different oligomeric form.</text>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="3929" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="4136" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="4202" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="2X49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="4444" length="15"/>
+        <text>Cys43 disulfide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4646</offset>
+      <text>2. Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4657</offset>
+      <text>2.1. TYMS Overexpression and Purification</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4699</offset>
+      <text>To optimize the overexpression condition of the target protein, five different Escherichia coli strains (Tuner (DE3), BL21 (DE3), C41 (DE3), C43 (DE3), and BL21 (DE3)-pLysS) and bacteria concentrations with added isopropyl-β-d-thiogalactoside (IPTG) were initially used to screen. The results showed that 0.8 OD600 is optimal for pLysS (Figure S1A), C43 (Figure S1B), and C41 (Figure S1C), while 0.6 OD600 is optimal for BL21 (Figure S1D) and Tuner (Figure S1E). Then, comparing all of the expression levels of the optimal bacterial density of the different strains, we found 0.8 OD600 for pLysS is the optimal expression level (Figure S1F). Additionally, the concentration of IPTG, the temperature, and four different types of media were also screened. The optimal induction conditions for TYMS was found to be 0.4 mM IPTG and LB medium at 20 °C, after the cells reached 0.8 OD600 for pLysS (Figure S1G–I). Hence, we chose the recombinant 0.4 mM IPTG-LB-20 °C-0.8 OD600-pLysS for the large-scale expression condition.</text>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="4912" length="29"/>
+        <text>isopropyl-β-d-thiogalactoside</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="4943" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="5376" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="5518" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="5646" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5723</offset>
+      <text>After confirming the optimal system, the overexpressed TYMS was examined with Western blot and then purified with a nickel column twice. The samples were subjected to SDS-PAGE, followed by Coomassie brilliant blue staining after incubating at 100 °C with a loading buffer containing β-mercaptoethanol. Figure S2A shows that enrichment of TYMS via Ni-NTA chromatography yielded a large amount of full-length proteins. After the proteins were purified twice, they were diluted equivalently and subjected to SDS-PAGE followed by Coomassie brilliant blue staining (Figure S2B,C) to detect the purity of the proteins, which was found to be more than 90%. Finally, according to the BSA standard curve (Figure S2D), the concentration of purified TYMS was determined to be &gt;60 mg/mL.</text>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009532</infon>
+        <location offset="5839" length="6"/>
+        <text>nickel</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="5890" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="5912" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="6006" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="6070" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="6228" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="6249" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>6502</offset>
+      <text>2.2. Reconstitution of TYMS-Mediated dTMP Synthesis</text>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="6539" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6554</offset>
+      <text>The catalytic mechanism of classical thymidylate synthases is presented in Figure 1A. To formally test the functionality of such a pathway and to provide a tool to investigate its mechanistic features, we reconstituted the entire process of reductive methylation with defined components. Using the dUMP substrate, we performed reductive methylation to measure the formation of dTMP using HPLC–MS/MS. Multiple reaction monitoring (MRM) was used to determine base ion mass transitions of dU (229.1 to 113.1) and dT (243.1 to 127.1) (Figure 1B,C). Standard curves were built to quantify dU and dT modification (Figure 1D,E). In the absence of TYMS, no dT was detectable. However, full reconstitution of the TYMS with the dUMP and mTHF substrates generated a substantial amount of dU (Figure 1F). Together, these results demonstrate that TYMS-mediated reductive methylation of dUMP generates dTMP. </text>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="6852" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="6931" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="7040" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="7064" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="7138" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="7145" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="7203" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="7272" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="7281" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="7331" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="7427" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="7442" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7451</offset>
+      <text>2.3. TYMS Formed Octamer by Intermolecular Cys43-Disulfide </text>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="7494" length="15"/>
+        <text>Cys43-Disulfide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7511</offset>
+      <text>To determine the existence of the homologous dimer, we used Coomassie brilliant blue and Western blot to analyze the status of the TYMS protein. Surprisingly, after TYMS incubated with a loading buffer (no β-mercaptoethanol) at 37 °C, we found that TYMS showed three bands with molecular weights ~35 kDa, ~70 kDa, and ~280 kDa, respectively (Figure 2A,B). Compared to the conditions at 37 °C, after TYMS incubated with a loading buffer (no β-mercaptoethanol) at 100 °C, the bands of ~70 kDa and ~280 kDa weakened (Figure 2C,D). While TYMS was incubated with a loading buffer (containing β-mercaptoethanol) at 100 °C, the band of ~280 kDa disappeared and the band of ~70 kDa weakened. This phenomenon made us speculate that TYMS may exist as an octamer; the proportion of each oligomeric form in different conditions are shown in Figure S3. To investigate the active or inactive conformation of TYMS, we incubated TYMS with dUMP and mTHF and subjected them to SDS-PAGE followed by Western blot (Figure 2E) and Coomassie brilliant blue (Figure 2F) staining. The results showed that the bands of ~70 kDa and~280 kDa remain unchanged, compared to samples without dUMP and mTHF. It is obvious from this result that the presence of ligands does not influence the oligomeric state of the enzyme.</text>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="7571" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="7717" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="7951" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="8098" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="8434" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="8443" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="8470" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="8520" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="8670" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="8679" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8809</offset>
+      <text>To further investigate the oligomeric form of TYMS, we performed a calibration SEC experiment with five protein standards, including myosin (212.0 kDa), beta-galactosidase (116.0 kDa), bovine serum albumin (67.0 kDa), ovalbumin (43.0 kDa), and ribonuclease A (13.7 kDa). The established standard curve allowed a more reliable estimation of the protein molecular weight for the SEC column. As shown in the Figure 2G, the lg (Mr) value is plotted as a function of the retention volume. The experimental standard curve was well-fitted by the equation y = 2.46 − 0.016x with R2 = 0.996. TYMS (6 mg/mL) was subjected to SEC and collected at a retention volume of 8.9 mL, 13.53 mL, and 16.6 mL (Figure 2H). Meanwhile, TYMS (3 mg/mL) was subjected to SEC in the presence or absence of dUMP and mTHF (Figure 2I,J). The results indicated that the octamer is independent of the concentration and substrates of TYMS. Then, the collected samples were subjected to Western blot and Coomassie brilliant blue. (The Monomer was detected with SDS-PAGE (12% acrylamide), while the dimer and octamer were found with NATIVE-PAGE (7.5% acrylamide)) (Figure 2K). According to the standard curve equation and the Western Blot marker, the molecular weight of TYMS was estimated to be ~35 kDa, ~70 kDa, and ~280 kDa, which was about twice and 8-fold as much as the theoretical molecular weight of monomeric TYMS (35 kDa), indicating that the TYMS protein existed in oligomeric forms as a dimer and octamer by intermolecular Cys-disulfide.</text>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="9587" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="9596" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="9778" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="9835" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020106</infon>
+        <location offset="9849" length="10"/>
+        <text>acrylamide</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020106</infon>
+        <location offset="9924" length="10"/>
+        <text>acrylamide</text>
+      </annotation>
+      <annotation id="71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="10308" length="13"/>
+        <text>Cys-disulfide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10325</offset>
+      <text>To determine which Cys site contributes to the form of the octamer, we examined the effect of Cys43, Cys180, and Cys210 disulfide on the TYMS octamer by mutating these to Gly (depicted as red in Figure 3A), due to Cys195 being an active site and Cys199 contributing to the dimerization interface [,,]. TYMS (Cys43Gly), TYMS (Cys180Gly), and TYMS (Cys210Gly) were expressed and purified with Ni-NTA chromatography twice, and then they were detected by Western blot (Figure 3B), Coomassie brilliant blue without β-mercaptoethanol (Figure 3C), and SEC (Figure 3D). The band of octamer at ~280 kDa with a peak at 22.25 mL in TYMS (Cys43Gly) disappeared, while there were no changes in TYMS (Cys180Gly) and TYMS (Cys210Gly), which demonstrate the Cys43 residue is essential for the octamer. </text>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10344" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10419" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10426" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="10438" length="16"/>
+        <text>Cys210 disulfide</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="10496" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10539" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10571" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10633" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="10638" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10650" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="10656" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10672" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="10678" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="10716" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="10802" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="10835" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="10952" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="10957" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11012" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="11018" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11033" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="11039" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="11067" length="3"/>
+        <text>Cys</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11115</offset>
+      <text>2.4. Analysis of Kinetic Properties of All Oligomeric Forms</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11175</offset>
+      <text>To further analyze the effect of the octamer, we detected the steady-state parameters of all the oligomeric forms by measuring the formation of 7,8-dihydrofolate (DHF). The reaction process curves for dUMP and mTHF of the monomer, dimer, and octamer are shown in Figure 4A–F, respectively. The Km values for dUMP were increased by 3-fold for the dimer and 1.32-fold for the octamer compared with the monomer (Figure 4G). The Km values for mTHF were increased by 2.9-fold for the dimer and 1.6-fold for the octamer, relative to for the monomer (Figure 4H). The Vmax and kcat values for dUMP of the dimer were decreased slightly, while the octamer increased more than the monomer, with the same results for mTHF, suggesting that the octamer of TYMS is in the active state. The experimental standard curve of DHF was well-fitted by the equation y = 0.00394 + 0.00446x with R2 = 0.999 (Figure 4I). HPLC–MS/MS was carried out to demonstrate the enzyme activity of the monomer, dimer, and octamer of TYMS (Figure S4).</text>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="11319" length="17"/>
+        <text>7,8-dihydrofolate</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="11338" length="3"/>
+        <text>DHF</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="11376" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="11385" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="11483" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="11614" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="11760" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="11880" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="11981" length="3"/>
+        <text>DHF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>12191</offset>
+      <text>3. Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12205</offset>
+      <text>Recent research on the only de novo source of synthesized dTMP points towards a mechanism involving TYMS. Despite the classic nature of this pathway, experimental evidence that directly links TYMS activity with mTHF and dUMP is insufficient and the oligomeric form of TYMS remains unclear. This work aimed to analyze the oligomeric form of TYMS and reconstitute TYMS-mediated dTMP synthesis. </text>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="12263" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="12416" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="12425" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="12581" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12598</offset>
+      <text>In line with spectrophotometric assay [], our work provides mass spectrum evidence for a direct productive action of TYMS with mTHF and dUMP, confirming dTMP generation (Figure 1). Reaction efficiency of dUMP to dTMP reaches at least 20%, suggesting the TYMS we purified has enzyme activity. Many studies have reported TYMS exists as the dimer, which has two distinct states: one is the active state in the crystal structures of TYMS-nucleotide-(anti) folate ternary complexes []; the other one is an inactive state in sulfate-containing conditions []. The cavity in the dimer interface could serve as an allosteric site used to regulate the conformational switching between the active and inactive states [,]. In addition, TYMS performs at least two different functions with specific interaction regions: the dimer obligates catalytic function, while both the monomer and the dimer are believed to play crucial roles in TYMS–mRNA recognition and regulation [,,,]. In this study, we found TYMS not only formed a dimer, but also an octamer by intermolecular Cys43-disulfide (Figure 3). The octamer is a higher homologous aggregation and in an active conformation, and the Vmax and kcat were increased slightly (&lt;1.5-fold) for the octamer, while the Km was decreased (&lt;1.5-fold) (Figure 4). To the best of our knowledge, this is the first detailed report on the octamer of TYMS in an active conformation. Still, the role of the octamer is unclear. Since dimers have such an important function, it is possible that the octamer structure of TYMS may potentially affect the activity of TYMS so as to provide new drug targets to overcome resistance problems, as well as the synthesis of other nucleotides, so that the appropriate balance of the four nucleotides required for DNA synthesis is maintained. It should be noted that this study only examined the molecular weight of TYMS using SDS-PAGE and SEC. Our results lack crystallographic data. Despite its preliminary character, this study can clearly indicate TYMS exists in octamer–dimer–monomer equilibrium.</text>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="12725" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="12734" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="12751" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="12802" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="12810" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="2X218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="13032" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005492</infon>
+        <location offset="13050" length="6"/>
+        <text>folate</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013431</infon>
+        <location offset="13117" length="7"/>
+        <text>sulfate</text>
+      </annotation>
+      <annotation id="109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545,MESH:D004220</infon>
+        <location offset="13655" length="15"/>
+        <text>Cys43-disulfide</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="14285" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009711</infon>
+        <location offset="14342" length="11"/>
+        <text>nucleotides</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="14480" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14661</offset>
+      <text>In summary, this work serves as the first comprehensive evaluation of the oligomeric structure and the activities of TYMS in vitro. Further, it provides a foundation for further inquiry into the role of this very interesting DNA synthesis and repair enzyme.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14919</offset>
+      <text>4. Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14944</offset>
+      <text>4.1. Plasmid Construction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14970</offset>
+      <text>The human TYMS (NM_001071.2) sequence was amplified by polymerase chain reaction (PCR) from human cDNA (reverse transcription from total mRNA) with primers (PET28A-TYMS-HindIII-Forward and PET28A-TYMS-XhoI-Reverse). TYMS (Cys43Gly), TYMS (Cys180Gly), and TYMS (Cys210Gly) were amplified by Fusion PCR [] with primers PET28A-TYMS-HindIII-Forward, TYMS-43-Forward, TYMS-43-Reverse, TYMS-180-Forward, TYMS-180-Reverse, TYMS-210-Forward, TYMS-210-Reverse, and PET28A-TYMS-XhoI-Reverse (the sequence of the primers are shown in Table S1). The fragments were cloned into the pET-28a (+) vector using the restriction recognition site for Hind III and Xho I, carrying a N-terminal 6× His tag. DNA sequencing was used to verify the sequences of the constructed vector.</text>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15192" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="15197" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15209" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="15215" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="15231" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="15237" length="3"/>
+        <text>Gly</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15731</offset>
+      <text>4.2. Expression Screening</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15757</offset>
+      <text>To find out an optimized expression condition for TYMS, the vector pET-28a-6His-TYMS was transformed into Tuner (DE3), BL21 (DE3), C41 (DE3), C43 (DE3), BL21 (DE3)-pLysS. When IPTG (MedChemExpress, Monmouth, NJ, USA) was added, we optimized bacterial density, including concentrations of 0.3 OD600, 0.5 OD600, 0.8 OD600, 1.1 OD600, and 1.3 OD600, for different host strains. Furthermore, for the best host cell and its optional bacteria concentration, it was cultured in the nutrient-rich medium 32Y and several modified media, including LB, 2× TYE, and 4× TY (compositions of culture media are shown in Table S2) []. Then, the appropriate concentration of IPTG containing 0.1 mM, 0.2 mM, 0.4 mM, and 0.8 mM was investigated. Finally, the inducing temperature was optimized at 20 °C, 25 °C and 30 °C.</text>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="15833" length="3"/>
+        <text>His</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="15933" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007544</infon>
+        <location offset="16414" length="4"/>
+        <text>IPTG</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16563</offset>
+      <text>4.3. Protein Purification </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16590</offset>
+      <text>Cells were harvested by centrifugation at 5000× g for 10 min at 4 °C and washed twice with ice-cold PBS. Then, 2 g cell pellets were suspended with 10 mL of PBS, which contained 1 mM MgCl2, 10 mM imidazole (MedChemExpress), and protease inhibitor cocktail, and DNase at final concentrations of 1 mM, 20 mM, 1 mg/mL, 1 tablet/50 mL, and 100 U/mL, respectively. Resuspended cells were broken using an ultrasonic cell disruptor (NOISE ISOLATING CHAMBER JY 92-IIN) on ice (on 5 s, off 5 s). Lysed cells were subjected to centrifugation at 100,000× g for 1 h at 4 °C to obtain the supernatant. The supernatant containing TYMS was then loaded onto a Ni-NTA column pre-equilibrated with a binding buffer (PBS buffer, 150 mM NaCl, 10% (v/v) glycerol, 20 mM imidazole, pH 7.4). The resins were then washed eight times with the binding buffer containing 20 mM imidazole to remove nonspecifically bound proteins, and the bound proteins were eluted with an elution buffer (PBS buffer, 150 mM NaCl, 10% (v/v) glycerol, 400 mM imidazole, pH 7.4). To obtain more purified TYMS, we purified this protein twice using the Ni-NTA column as described above. Purified TYMS was concentrated using an Amicon Ultrafree centrifugal filter (Millipore Corporation, Billerica, MA, USA) with a cutoff of 10 kDa. The concentration buffer contained 20 mM Tris-Base, 150 mM NaCl, and 10% (v/v) glycerol at pH 7.4. Protein concentration was determined using the BCA assay according to manufacturer’s instructions (Pierce, Rockland, IL, USA). </text>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="16690" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="16747" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="16773" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="16786" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="17234" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="17288" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="17307" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="17323" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="17339" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="17440" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="17551" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="17570" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="17586" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029899</infon>
+        <location offset="17603" length="9"/>
+        <text>imidazole</text>
+      </annotation>
+      <annotation id="282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="17694" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="17914" length="9"/>
+        <text>Tris-Base</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="17932" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="17952" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>18106</offset>
+      <text>4.4. SDS-PAGE, Western Blot, and Coomassie Brilliant Analysis</text>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="18111" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="18139" length="19"/>
+        <text>Coomassie Brilliant</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18168</offset>
+      <text>After the purification, Coomassie brilliant blue was used to examine the purity of the proteins. Purified proteins were series diluted (0-, 2-, 4-, 8-, 16-, 32-, 64-, 128-, 256-fold) and then incubated with a loading buffer with or without β-mercaptoethanol at 37 °C or 100 °C for 10 min. Then, these sample were subjected to SDS-PAGE to determine the protein purity and oligomeric form. After that, 10 µM TYMS was incubated with 2 mM dUMP and 2 mM mTHF in a 40 µL reaction system at 37 °C and then subjected to SDS-PAGE to confirm the active or inactive state of TYMS.</text>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="18192" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="18408" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="18494" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="18603" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="18617" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="18680" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18749</offset>
+      <text>Western blot was used to verify the protein expression, TYMSs were subjected to SDS-PAGE, the SDS gel was washed with a transfer buffer, and then the proteins were transferred from the gel onto a nitrocellulose membrane with a constant current of 250 mA for 2 h. The membrane was blocked with 1% nonfat milk powder in PBST (PBS containing 0.05% (v/v) Tween-20). Mouse anti-His-tag antibody (Sigma, St. Louis, MO, USA) was used as the primary antibody at a 1:5000 dilution in blocking solution. Goat-anti-mouse was the secondary antibody (Sigma), which was diluted at 1:3000, and protein bands were detected on photographic films using an enhanced chemiluminescent substrate.</text>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="18829" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="18843" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="19073" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="19100" length="8"/>
+        <text>Tween-20</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006639</infon>
+        <location offset="19122" length="3"/>
+        <text>His</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19424</offset>
+      <text>4.5. Activity Detection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19448</offset>
+      <text>TYMS activity assays were carried out in 100 µL reaction volume containing a reaction buffer (10 mM boracic acid pH 6.0, 150 mM NaCl), 200 µM mTHF, 1 µM dUMP, and 10 µM TYMS. After incubation at 37 °C for 3 h, CIAP was added at a final concentration of 1 U and the reaction was incubated at 37 °C for 4 h. The samples were then subjected to HPLC–MS/MS analysis of deoxyuridine (dU) and deoxythymidine (dT). Quantification was performed using an HPLC system (Waters, Milford, MA, USA) coupled to an API 5500 triple quadrupole (ABSciex, Framingham, MA, USA) operating in positive electrospray ionization mode. The chromatographic separation was performed at 25 °C with the use of a C18 reverse-phase column (150 × 2.1 mm; 5 μm particle size; Thermo Fisher). The mobile phase consisted of A (water and 0.1% formic acid) and B (methanol and 0.1% formic acid) solutions []. The following conditions were employed during chromatography: 0.4 mL/min flow, 0–1 min, 1% B; 1–2 min, to 20% B; 2–3 min, to 20% B, 3–4 min, 1% B. To minimize potential salt and other contaminants in the ESI source, a time segment was set to direct the first 0.5 min of column elute to waste. For mass spectrometry detection, the multiple reaction monitoring was implemented using the following mass transitions: 243.1/127.1 (dT) and 243.1/127.1 (dU).</text>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032688</infon>
+        <location offset="19548" length="12"/>
+        <text>boracic acid</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="19576" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="19590" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="19601" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="19812" length="12"/>
+        <text>deoxyuridine</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="19826" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="19834" length="14"/>
+        <text>deoxythymidine</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="19850" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="20252" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="20272" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030544</infon>
+        <location offset="20290" length="11"/>
+        <text>formic acid</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="20743" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="20764" length="2"/>
+        <text>dU</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20788</offset>
+      <text>4.6. Size Exclusion Chromatography</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20823</offset>
+      <text>Purified TYMS by Ni-NTA column was subjected to SEC at a flow rate of 1.0 mL/min on a Superdex-200 HiLoad 10/300 column (GE Healthcare, Pittsburgh, PA, USA) that had been pre-equilibrated with HEPES buffer (10 mM HEPES, 150 mM NaCl, 10% glycerol, pH 7.4). The eluent was collected in constant volumes of 500 μL and examined by ultraviolet absorption at 280 nm. Columns are often calibrated using five standard samples, including myosin (212.0 kDa), beta-galactosidase (116.0 kDa), bovine serum albumin (67.0 kDa), ovalbumin (43.0 kDa), and ribonuclease A (13.7 kDa).</text>
+      <annotation id="239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088321</infon>
+        <location offset="20840" length="6"/>
+        <text>Ni-NTA</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="21016" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="21036" length="5"/>
+        <text>HEPES</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="21050" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="21060" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21391</offset>
+      <text>The components separated by SEC were concentrated using an Amicon Ultrafree centrifugal filter (Millipore Corporation, Billerica, MA, USA) with a cutoff of 10 kDa in concentration buffer. The dimer and octamer separated by SEC were subjected to NATIVE-PAGE (7.5%) and the monomer was subjected to SDS-PAGE (12%), and then were analyzed by using Western blot and Coomassie brilliant blue. For NATIVE-PAGE, samples were run at constant voltage (100 V before the indicator to spacer gel and then switched to 120 V).</text>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="21688" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="21753" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21904</offset>
+      <text>4.7. Reaction Kinetics Detection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21937</offset>
+      <text>Enzyme activity was determined by measuring the formation of dihydrofolate, which was monitored at 340 nm after the addition of the enzyme to the reaction assay [,]. Measurements were made at pH 6.0 and 37 °C in the reaction buffer (10 mM boric acid, 150 mM NaCl) for 5 min. To determine the Km(dUMP) for different oligomeric forms, varying concentrations of dUMP (0–50 µM) were used with constant concentrations of the enzyme (0.75 µM) and mTHF (100 µM). Km (mTHF) was determined with varying concentrations of mTHF (0–100 µM) and were used with constant concentrations of the enzyme (0.75 µM) and dUMP (50 µM).</text>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="21998" length="13"/>
+        <text>dihydrofolate</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032688</infon>
+        <location offset="22176" length="10"/>
+        <text>boric acid</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="22195" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="22232" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="22296" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="22378" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="22397" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="22449" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="22536" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>22574</offset>
+      <text>Supplementary Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22598</offset>
+      <text>The supplementary materials are available online at .</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>22652</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22673</offset>
+      <text>Li.W. and Q.Y. co-designed the research. D.X. performed most experiments and wrote the paper, Lu.W. detected the oligomeric forms using SEC, Q.X. constructed the plasmids, X.W., performed some western blot analysis, L.Z. carried out the Language polishing.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>22930</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22952</offset>
+      <text>The authors declare no conflict of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>22997</offset>
+      <text>References</text>
+    </passage>
+    <passage>
+      <infon key="file">ijms-19-01393-g001.jpg</infon>
+      <infon key="id">ijms-19-01393-f001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>26832</offset>
+      <text>HPLC–MS/MS assay measures the reductive methylation activity of thymidylate synthase (TYMS) in vitro. (A) Deoxyuridine monophosphate (dUMP) and 5,10-methylenetetrahydrofolate (mTHF) as cosubstrates generate deoxythymidine monophosphate (dTMP) by TYMS, yielding 7,8-dihydrofolate (DHF) as a secondary product; (B,C) Base ion mass transitions for LC–MS-MS analysis of dU and dT standard. The multiple reaction monitoring (MRM) transitions were monitored as follows: 229.1 to 113.1 (dU); 243.1 to 127.1 (dT); (D,E) HPLC–MS-MS standards curves of dU and dT (F) LC–MS-MS profiles of nucleosides derived from TYMS treatment. The upper LC–MS-MS profile shows nucleoside dU and dT standards. The lower LC–MS-MS profile shows dT generation in vitro reaction system of TYMS with dU as substrate.</text>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="26938" length="26"/>
+        <text>Deoxyuridine monophosphate</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="26966" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="26976" length="30"/>
+        <text>5,10-methylenetetrahydrofolate</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="27008" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="27039" length="28"/>
+        <text>deoxythymidine monophosphate</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013938</infon>
+        <location offset="27069" length="4"/>
+        <text>dTMP</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="27093" length="17"/>
+        <text>7,8-dihydrofolate</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="27112" length="3"/>
+        <text>DHF</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="27198" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="27205" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="27312" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="27333" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="27375" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="27382" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009705</infon>
+        <location offset="27410" length="11"/>
+        <text>nucleosides</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="27495" length="2"/>
+        <text>dU</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="27502" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013936</infon>
+        <location offset="27549" length="2"/>
+        <text>dT</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003857</infon>
+        <location offset="27601" length="2"/>
+        <text>dU</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">ijms-19-01393-g002.jpg</infon>
+      <infon key="id">ijms-19-01393-f002</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>27630</offset>
+      <text>The determination of protein dimers and octamers. (A) Coomassie brilliant blue of concentrated proteins incubated without β-mercaptoethanol (β-ME) for 10 min at 37 °C: (1) undilutedly concentrated proteins; (2) double-diluted proteins; (3) 4-times diluted proteins; (4) 8-times diluted proteins; (5) 16-times diluted proteins; (6) 32-times diluted proteins; (7) 64-times diluted proteins. The MW of monomer, dimer, and octamer are ~35 kDa, ~70 kDa, and ~280 kDa, respectively. (B) Coomassie brilliant blue of eight diluted proteins incubated without β-mercaptoethanol (β-ME) for 10 min at 37 °C. (C) Coomassie brilliant blue of concentrated proteins incubated without β-mercaptoethanol (β-ME) for 10 min at 100 °C: (1) undilutedly concentrated proteins; (2) double-diluted proteins; (3) 4-times diluted proteins; (4) 8-times diluted proteins; (5) 16-times diluted proteins; (6) 32-times diluted proteins; (7) 64-times diluted proteins. (D) Coomassie brilliant blue of 8-times diluted proteins incubated without mercaptoethanol for 10 min at 100 °C. (E) Western blot and (F) Coomassie brilliant blue: (1) TYMS was directly incubated with a loading buffer (containing β-mercaptoethanol) for 10 min at 100 °C; (2) TYMS reacting with dUMP and mTHF for 1 h at 37 °C, and then incubated with a loading buffer (containing β-mercaptoethanol) for 10 min at 100 °C; (3) TYMS was directly incubated with a loading buffer (without β-mercaptoethanol) for 10 min at 37 °C; (4) TYMS reacting with dUMP and mTHF for 1 h at 37 °C, and then incubated with a loading buffer (without β-mercaptoethanol) 10 min in 37 °C; (5) TYMS was directly incubated with a loading buffer (without β-mercaptoethanol) for 10 min at 100 °C; (6) TYMS reacting with dUMP and mTHF for 1 h at 37 °C, and then incubated with a loading buffer (without β-mercaptoethanol) for 10 min at 100 °C. (G) Standard curve for molecular weight estimation and (H) size exclusion chromatography (SEC). Peak 1, 2, 3 represent a symmetrical peak eluted at a retention volume of ~8.9 mL, ~13.53 mL, and ~16.6 mL, indicating that TYMS existed in octamer, dimer, and monomer form. (I) Size exclusion chromatography of protein that was diluted to 3 mg/mL. (J) Size exclusion chromatography of protein that was diluted to 3 mg/mL with dUMP and mTHF. (K) The Western blot and Coomassie brilliant blue of components separated by SEC. The monomer was subjected to SDS-PAGE with 12% acrylamide, while the dimer and octamer were subjected to NATIVE-PAGE with 7.5% acrylamide.</text>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="27684" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="27752" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="27771" length="4"/>
+        <text>β-ME</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="28111" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28180" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28199" length="4"/>
+        <text>β-ME</text>
+      </annotation>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="28230" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28298" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28317" length="4"/>
+        <text>β-ME</text>
+      </annotation>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="28570" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28641" length="15"/>
+        <text>mercaptoethanol</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="28704" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28796" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="28860" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="28869" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="28945" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="29049" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="29112" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="29121" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="29194" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="29293" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="29357" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="29366" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="29439" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="29902" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="29911" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="29942" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032259</infon>
+        <location offset="30028" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020106</infon>
+        <location offset="30046" length="10"/>
+        <text>acrylamide</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020106</infon>
+        <location offset="30126" length="10"/>
+        <text>acrylamide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">ijms-19-01393-g003.jpg</infon>
+      <infon key="id">ijms-19-01393-f003</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>30174</offset>
+      <text>Determination of the oligomeric state of TYMS by mutated Cys. (A) Available TYMS structures with Cys43, Cys180, and Cys210 sites depicted as red. The data were derived from PDB (Protein Data Bank) and the ID is 1YPV; (B,C) Western blot and Coomassie brilliant blue of TYMS with Cys43Gly, Cys180Gly, or Cys210Gly (without β-mercaptoethanol); (D) size exclusion chromatography of TYMS with Cys43Gly, Cys180Gly, or Cys210Gly.</text>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30231" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30271" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30278" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30290" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004692</infon>
+        <location offset="30414" length="24"/>
+        <text>Coomassie brilliant blue</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30452" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="30457" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30462" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="30468" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30476" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="30482" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008623</infon>
+        <location offset="30495" length="17"/>
+        <text>β-mercaptoethanol</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30562" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="30567" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30572" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="30578" length="3"/>
+        <text>Gly</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003545</infon>
+        <location offset="30586" length="3"/>
+        <text>Cys</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005998</infon>
+        <location offset="30592" length="3"/>
+        <text>Gly</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">ijms-19-01393-g004.jpg</infon>
+      <infon key="id">ijms-19-01393-f004</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>30600</offset>
+      <text>The reaction process curves and steady-state parameters for different oligomeric forms of TYMS. (A) Reaction process curves of dUMP for TYMS monomer, the left panel showing the substrate saturation curve, and the right panel showing the Lineweaver–Burk double-reciprocal plot; (B) reaction process curves of dUMP for TYMS dimer; (C) reaction process curves of dUMP for TYMS octamer; (D) reaction process curves of mTHF for TYMS monomer; (E) reaction process curves of mTHF for TYMS dimer; (F) reaction process curves of mTHF for TYMS octamer; (G) steady-state parameters of dUMP for different oligomeric forms; (H) steady-state parameters of mTHF for different oligomeric forms; (I) standard curve for ultraviolet absorption value at OD340 of DHF.</text>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="30727" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="30908" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="30960" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="31014" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="31068" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="31120" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007267</infon>
+        <location offset="31174" length="4"/>
+        <text>dUMP</text>
+      </annotation>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013123</infon>
+        <location offset="31242" length="4"/>
+        <text>mTHF</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010920</infon>
+        <location offset="31343" length="3"/>
+        <text>DHF</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

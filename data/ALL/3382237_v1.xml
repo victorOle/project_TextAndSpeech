@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180316</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3382237</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Carminati;given-names:Sergio A.</infon>
+      <infon key="name_2">surname:Salinas;given-names:Romina P.</infon>
+      <infon key="name_1">surname:Aguilera;given-names:Milton O.</infon>
+      <infon key="name_0">surname:Rosales;given-names:Eliana M.</infon>
+      <infon key="article-id_pmid">22761768</infon>
+      <infon key="issue">6</infon>
+      <infon key="year">2012</infon>
+      <infon key="article-id_publisher-id">PONE-D-11-23416</infon>
+      <infon key="article-id_pmc">3382237</infon>
+      <infon key="alt-title">Cortactin Is Involved in C. burnetii Invasion</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1371/journal.pone.0039348</infon>
+      <infon key="elocation-id">e39348</infon>
+      <infon key="volume">7</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</infon>
+      <infon key="name_7">surname:Zamboni;given-names:Dario S.</infon>
+      <infon key="name_6">surname:Berón;given-names:Walter</infon>
+      <infon key="name_5">surname:Martinez-Quiles;given-names:Narcisa</infon>
+      <infon key="name_4">surname:Colombo;given-names:María I.</infon>
+      <offset>0</offset>
+      <text>Cortactin Is Involved in the Entry of Coxiella burnetii into Non-Phagocytic Cells</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>82</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>93</offset>
+      <text>Cortactin is a key regulator of the actin cytoskeleton and is involved in pathogen-host cell interactions. Numerous pathogens exploit the phagocytic process and actin cytoskeleton to infect host cells. Coxiella burnetii, the etiologic agent of Q fever, is internalized by host cells through a molecular mechanism that is poorly understood.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>433</offset>
+      <text>Methodology/Principal Finding</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>463</offset>
+      <text>Here we analyzed the role of different cortactin motifs in the internalization of C. burnetii by non-phagocytic cells. C. burnetii internalization into HeLa cells was significantly reduced when the cells expressed GFP-cortactin W525K, which carries a mutation in the SH3 domain that renders the protein unable to bind targets such as N-WASP. However, internalization was unaffected when the cells expressed the W22A mutant, which has a mutation in the N-terminal acidic region that destroys the protein’s ability to bind and activate Arp2/3. We also determined whether the phosphorylation status of cortactin is important for internalization. Expression of GFP-cortactin 3F, which lacks phosphorylatable tyrosines, significantly increased internalization of C. burnetii, while expression of GFP-cortactin 3D, a phosphotyrosine mimic, did not affect it. In contrast, expression of GFP-cortactin 2A, which lacks phosphorylatable serines, inhibited C. burnetii internalization, while expression of GFP-cortactin SD, a phosphoserine mimic, did not affect it. Interestingly, inhibitors of Src kinase and the MEK-ERK kinase pathway blocked internalization. In fact, both kinases reached maximal activity at 15 min of C. burnetii infection, after which activity decreased to basal levels. Despite the decrease in kinase activity, cortactin phosphorylation at Tyr421 reached a peak at 1 h of infection.</text>
+      <annotation id="O0">
+        <infon key="type">OTHER</infon>
+        <location offset="691" length="5"/>
+        <text>W525K</text>
+      </annotation>
+      <annotation id="O1">
+        <infon key="type">OTHER</infon>
+        <location offset="874" length="4"/>
+        <text>W22A</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="1167" length="9"/>
+        <text>tyrosines</text>
+      </annotation>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019000</infon>
+        <location offset="1274" length="15"/>
+        <text>phosphotyrosine</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="1390" length="7"/>
+        <text>serines</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010768</infon>
+        <location offset="1478" length="13"/>
+        <text>phosphoserine</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="1815" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1860</offset>
+      <text>Conclusions/Significance</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1885</offset>
+      <text>Our results suggest that the SH3 domain of cortactin is implicated in C. burnetii entry into HeLa cells. Furthermore, cortactin phosphorylation at serine and dephosphorylation at tyrosine favor C. burnetii internalization. We present evidence that ERK and Src kinases play a role early in infection by this pathogen.</text>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="2032" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="2064" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2202</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2215</offset>
+      <text>Phagocytosis is the process that cells have developed for the engulfment of particulate material such as apoptotic cells, cell debris and, also, inert particles. Furthermore, phagocytosis represents a crucial event that triggers host defense mechanisms against invading pathogens. Nevertheless, several pathogens have acquired different strategies to alter these mechanisms to survive and multiply within host cell, causing infectious diseases , . The phagocytic process is initiated by a recognition step in which ligands on the particle surface bind receptors on the membrane of host cells . The ligand-receptor interaction leads to actin cytoskeleton and membrane rearrangements that permit, first, particle engulfment and, later, particle sequestration into a phagosome which precedes phagosome maturation into a phagolysosome , .</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3050</offset>
+      <text>Dynamic remodeling of the actin cytoskeleton is not only intimately involved in phagocytosis  but also in other essential cellular processes, including cell adhesion and motility , vesicle transport , , apoptosis  and endocytosis , all of which require dynamic remodeling of the actin cytoskeleton. There are numerous actin-associated proteins and several upstream signaling molecules that work in a coordinated way to control with exquisite precision the spatial and temporal assembly of actin structures, which can rapidly change in response to internal and external signals , . Proteins of the Arp2/3 complex that function as nucleators of branched actin filaments are activated by interaction with members of the Wiskott-Aldrich syndrome protein (WASP) family and cortactin , . Initial activation of WASP depends on its interaction with Rho family GTPases . These multicomponent complexes of Arp2/3-WASP-cortactin are involved in cellular processes such as cell motility , endocytosis  and phagocytosis , . Interestingly, some pathogens can regulate the host actin cytoskeleton during infection , .</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4153</offset>
+      <text>Cortactin is a key regulator of the actin cytoskeleton, and it plays a crucial role in tumor cell invasion , ruffles and lamellipodium formation during integrin-mediated cell adhesion ,  and podosome formation . Cortactin is also an important component of the endocytic machinery . It has emerged as a common target of pathogen-host cell interactions. For example, cortactin has been implicated in the adhesion of Escherichia coli  and in invasion by Shigella, Neisseria, Chlamydia, Staphylococcus and Listeria. The phosphorylation status of cortactin has been proposed to differentially regulate the invasion of many microbial pathogens. Cortactin is also involved in actin-based motility of many pathogens during their intracellular trafficking .</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4902</offset>
+      <text>Cortactin possesses an N-terminal acidic domain (NTA) and F-actin-binding repeats that activate the Arp2/3 complex to initiate actin polymerization . Cortactin also has a proline-serine-threonine-rich region (PST) that contains tyrosine residues critical for cortactin function. The C-terminal SH3 domain of cortactin binds various proteins, such as N-WASP proteins , . The Verprolin Cofilin Acidic domain (VCA) of WASP members can also activate the Arp2/3 complex . Theoretically N-WASP, cortactin and the Arp2/3 complex can form ternary complexes . Cortactin is phosphorylated by tyrosine kinases (Src, Fer, Syk and Abl) and serine/threonine kinases (ERK and Pak) in response to a wide range of stimuli that induce cytoskeletal rearrangement, including growth factor stimulation, cell adhesion and hyperosmotic stress .</text>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011392</infon>
+        <location offset="5073" length="7"/>
+        <text>proline</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="5081" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013912</infon>
+        <location offset="5088" length="9"/>
+        <text>threonine</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="5130" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="O2">
+        <infon key="type">OTHER</infon>
+        <location offset="5484" length="16"/>
+        <text>tyrosine kinases</text>
+      </annotation>
+      <annotation id="O3">
+        <infon key="type">OTHER</infon>
+        <location offset="5529" length="24"/>
+        <text>serine/threonine kinases</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5724</offset>
+      <text> Coxiella burnetii, the causative agent of human Q fever, is an obligate intracellular bacterium found in a wide range of hosts, including livestock and humans. The primary route of infection in humans is inhalation of contaminated aerosols , . Infected animals shed C. burnetii in their milk, urine and feces, and the bacteria are dispersed together with amniotic fluids and the placenta during birthing. These bacteria can survive for long periods in the environment, since they are highly resistant to heat, desiccation and common disinfectants.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6273</offset>
+      <text> C. burnetii inhabits mainly monocytes/macrophages but can infect a wide variety of cultured cell lines in vitro . This bacterium resides in an acidic parasitophorous vacuole (PV) with late endosome-lysosome characteristics –. The PV also interacts with the autophagic pathway, acquiring autophagosomal features , , . Interestingly, we have shown that PV biogenesis is regulated by actin and Rho family GTPases .</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6688</offset>
+      <text>In this report we describe the involvement of cortactin in C. burnetii internalization into HeLa cells, a non-professional phagocyte cell line. We investigated the role of the Arp2/3-activating DDW motif in the N-terminal acidic region and of the SH3 domain at the C-terminus of cortactin during C. burnetii internalization. We observed that overexpression of cortactin mutated in the SH3 domain inhibits uptake of the bacterium, suggesting that the SH3 domain is important for internalization. We also analyzed the role of cortactin phosphorylation in internalization. By overexpressing cortactin mutants that are non-phosphorylatable and that mimic phosphorylation, we show that cortactin favors C. burnetii internalization in a tyrosine dephosphorylation- and/or serine phosphorylation-dependent manner. Furthermore, pharmacological inhibition of Src and ERK kinases reduce C. burnetii uptake. Our results indicate that phosphorylation status of cortactin affect internalization of C. burnetii.</text>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="7419" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="7454" length="6"/>
+        <text>serine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g001.jpg</infon>
+      <infon key="id">pone-0039348-g001</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>7686</offset>
+      <text>The SH3 domain of cortactin is important for C. burnetii internalization.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g001.jpg</infon>
+      <infon key="id">pone-0039348-g001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>7760</offset>
+      <text>(A) HeLa cells were transfected with pGFP-cortactin WT, GFP-cortactin W22A, a mutant that does not interact with Arp 2/3, or GFP-W525K, a mutant unable to bind and activate targets such as N-WASP. Transfected cells were infected for 4 h with C. burnetii. Cells were fixed and processed for immunofluorescence with a specific anti-C. burnetii antibody (see Methods). Cells were analyzed by confocal microscopy. In the merged images (panels d, h, l and p), extracellular C. burnetii are shown in green and red pseudocolors while intracellular C. burnetii are shown in red pseudocolor. Bars, 10 µm. (B) Quantification of C. burnetii internalized by transfected HeLa cells. Results are expressed as means ± SE of at least three independent experiments. *, P&lt;0.05. (%), percentage of total number of bacteria.</text>
+      <annotation id="O4">
+        <infon key="type">OTHER</infon>
+        <location offset="7830" length="4"/>
+        <text>W22A</text>
+      </annotation>
+      <annotation id="O5">
+        <infon key="type">OTHER</infon>
+        <location offset="7889" length="5"/>
+        <text>W525K</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>8570</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>8578</offset>
+      <text>Materials</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8588</offset>
+      <text>Dulbecco’s Modified Eagle's Medium (D-MEM), fetal bovine serum (FBS), penicillin and streptomycin were obtained from Gibco BRL/Life Technologies (Buenos Aires, Argentina). Vectors encoding a fusion of green fluorescent protein (GFP) with cortactin WT (full-length cortactin) or GFP-cortactin 3F (cortactin mutated in the three tyrosine-phosphorylation sites recognized by Src) were kindly provided by S. Bourdoulous (Département de Biologie Cellulaire, Institut Cochin, Université Paris, Paris, France). Rabbit polyclonal anti-Coxiella antibody against Nine Mile phase II, clone 4 (RSA439) was generously provided by Dr. Robert Heinzen (Rocky Mountain Laboratories, NIAID, NIH, Hamilton, MT, USA). Secondary antibodies were purchased from Jackson ImmunoResearch Laboratories, Inc. (West Grove, PA, USA). Rabbit monoclonal anti-phosphocortactin (Tyr421) antibody was purchased from Abcam (MA, USA), mouse monoclonal anti-actin Ab-5 antibody was purchased from BD (Buenos Aires, Argentina), rabbit anti-phosphoSrc (Tyr416) (Cell Signaling Inc., MA, USA) and anti-Src antibodies were generously provided by Arlinet Kierbel (Montevideo Pasteur Institute, Montevideo, Uruguay), and mouse monoclonal anti-phosphoERK1/2 (Tyr204) and rabbit polyclonal anti-ERK antibodies were purchased from Santa Cruz Biotechnology (California, USA). The inhibitors PD98059 and SU6656 were from Invitrogen (Buenos Aires, Argentina) and CalBiochem (Darmstadt, Germany), respectively. Protease inhibitor cocktail was from Sigma (Buenos Aires, Argentina).</text>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="8588" length="34"/>
+        <text>Dulbecco’s Modified Eagle's Medium</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="8624" length="5"/>
+        <text>D-MEM</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="8658" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="8673" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="8915" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="9433" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="9601" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="9802" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093973</infon>
+        <location offset="9931" length="7"/>
+        <text>PD98059</text>
+      </annotation>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C416927</infon>
+        <location offset="9943" length="6"/>
+        <text>SU6656</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10122</offset>
+      <text>Cell Culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10135</offset>
+      <text>HeLa cells were grown in DMEM supplemented with 10% heat-inactivated FBS, 2.2 g/l sodium bicarbonate, 2 mM glutamine and 0.1% penicillin/streptomycin at 37°C under 5% CO2.</text>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10160" length="4"/>
+        <text>DMEM</text>
+      </annotation>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017693</infon>
+        <location offset="10217" length="18"/>
+        <text>sodium bicarbonate</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="10242" length="9"/>
+        <text>glutamine</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="10261" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="10272" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="10302" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>10308</offset>
+      <text>Propagation of Phase II Coxiella burnetii </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10351</offset>
+      <text>Clone 4 phase II Nine Mile strain of C. burnetii bacteria were provided by Ted Hackstadt (Rocky Mountain Laboratories, NIAID, NIH, Hamilton, MT, USA) and handled in a biosafety level II facility. Non-confluent Vero cells were cultured in T25 flasks at 37°C under 5% CO2 in DMEM medium supplemented with 5% FBS, 0.22 g/l sodium bicarbonate and 20 mM Hepes, pH 7 (MfbH). Cultures were infected with C. burnetii phase II suspensions for 6 days at 37°C under 5% CO2. After freezing at −70°C, the flasks were thawed, and the cells scraped and passed 20 times through a 27-gauge needle connected to a syringe. Cell lysates were centrifuged at 800×g for 10 min at 4°C. The supernatants were centrifuged at 24,000×g for 30 min at 4°C, and pellets containing C. burnetii were resuspended in phosphate-buffered saline (PBS; 10 mM sodium phosphate, 0.9% NaCl), aliquoted and frozen at −70°C.</text>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="10617" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10624" length="11"/>
+        <text>DMEM medium</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017693</infon>
+        <location offset="10671" length="18"/>
+        <text>sodium bicarbonate</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006531</infon>
+        <location offset="10700" length="5"/>
+        <text>Hepes</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10713" length="4"/>
+        <text>MfbH</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="10809" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="11133" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="11160" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="11171" length="16"/>
+        <text>sodium phosphate</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="11194" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11244</offset>
+      <text>Infection of HeLa Cells with Coxiella burnetii </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11292</offset>
+      <text>Cells (5×105) were seeded on sterile glass coverslips placed in 24-well plates and grown overnight in MfbH medium. For infection, a 5-µl aliquot of C. burnetii suspension was added per well (Multiplicity of infection: ∼20). Cells were incubated for different lengths of time at 37°C under 5% CO2.</text>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="11394" length="11"/>
+        <text>MfbH medium</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="11584" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11594</offset>
+      <text>Quantification of Internalized Bacteria by Indirect Immunofluorescence</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11665</offset>
+      <text>To determine the number of internalized bacteria a double cycle antibody staining protocol was used . Briefly, HeLa cells were fixed with 2% paraformaldehyde in PBS for 10 min at 37°C, washed with PBS and blocked with 50 mM NH4Cl in PBS. After washing, cells were incubated with rabbit antibody against C. burnetii (1∶1000) and donkey anti-rabbit secondary antibody conjugated with Cy3 (1∶600) in PBS containing 0.5% BSA (nonpermeabilizing conditions to label extracellular bacteria). After washing, cells were incubated with the same rabbit antibody against C. burnetii (1∶1000) and a donkey anti-rabbit secondary antibody conjugated with Cy5 (1∶600) in PBS containing 0.5% BSA and 0.05% saponin (permeabilizing conditions to label total bacteria: intracellular and extracellular bacteria). Coverslips were mounted with Mowiol and examined by confocal microscopy. The intracellular bacteria are expressed as a percentage of the total number of bacteria per cell.</text>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003043</infon>
+        <location offset="11806" length="16"/>
+        <text>paraformaldehyde</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="11826" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="11862" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000643</infon>
+        <location offset="11889" length="5"/>
+        <text>NH4Cl</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="11898" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C089187</infon>
+        <location offset="12047" length="3"/>
+        <text>Cy3</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="12062" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C085321</infon>
+        <location offset="12305" length="3"/>
+        <text>Cy5</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="12320" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="12354" length="7"/>
+        <text>saponin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>12638</offset>
+      <text>Cell Transfection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>12656</offset>
+      <text>Cells were transfected for 6 h with 2 µg/ml pGFP empty vector or pGFP plasmids expressing fusions of GFP with wild-type cortactin (WT) or one of the following mutants: single point mutants, W22A and W525K; double mutants, S405/418D (SD) and S405/418A (2A); and triple mutants, Y421/466/482D (3D) and Y421/466/482F (3F). Cell transfection was carried out using Lipofectamine™ 2000 (Invitrogen, Buenos Aires, Argentina), according to the manufacturer’s instructions. After 6 h of transfection, the cells were washed and incubated for 18 h in MfbH medium at 37°C under 5% CO2.</text>
+      <annotation id="O6">
+        <infon key="type">OTHER</infon>
+        <location offset="12846" length="4"/>
+        <text>W22A</text>
+      </annotation>
+      <annotation id="O7">
+        <infon key="type">OTHER</infon>
+        <location offset="12855" length="5"/>
+        <text>W525K</text>
+      </annotation>
+      <annotation id="O10">
+        <infon key="type">OTHER</infon>
+        <location offset="12878" length="9"/>
+        <text>S405/418D</text>
+      </annotation>
+      <annotation id="O11">
+        <infon key="type">OTHER</infon>
+        <location offset="12897" length="9"/>
+        <text>S405/418A</text>
+      </annotation>
+      <annotation id="O9">
+        <infon key="type">OTHER</infon>
+        <location offset="12933" length="13"/>
+        <text>Y421/466/482D</text>
+      </annotation>
+      <annotation id="O8">
+        <infon key="type">OTHER</infon>
+        <location offset="12956" length="13"/>
+        <text>Y421/466/482F</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C086724</infon>
+        <location offset="13016" length="19"/>
+        <text>Lipofectamine™ 2000</text>
+      </annotation>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="13196" length="11"/>
+        <text>MfbH medium</text>
+      </annotation>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002245</infon>
+        <location offset="13225" length="3"/>
+        <text>CO2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>13236</offset>
+      <text>Western Blotting</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13253</offset>
+      <text>Hela cells were cultured on 60-mm dishes and infected as described above for different lengths of time. After the indicated infection periods, cells were washed with PBS, scraped into ice-cold lysis buffer (50 mM Tris-HCl, pH 7.2, 1% Triton X-100, 0.5% deoxycholate, 0.1% SDS, 50 mM NaCl, 10 mM MgCl2, 2 mM Na3VO4, 10 mM NaF, 0.5 mg/ml DTT, 2 mM EDTA) supplemented with a protease inhibitor cocktail and kept on ice for 20 min. Lysates were clarified by centrifugation at 2000×g for 15 min at 4°C. Clarified lysates were transferred to clean tubes, mixed with Laemmli buffer and boiled for 5 min. The samples were resolved by SDS-PAGE and the proteins transferred to nitrocellulose membranes using standard procedures. Membranes were blocked for 2 h at 4°C in Tween-Tris-buffered saline (TTBS; 0.1% Tween 20, 100 mM Tris/HCl, 0.9% NaCl) supplemented with 5% BSA, then incubated overnight at 4°C with the appropriate primary antibodies. The membranes were washed three times with TTBS, then, incubated for 2 h at room temperature with appropriate peroxidase-conjugated secondary antibodies. Membranes were washed again with TTBS and developed using the ECL Western blotting system (GE Healthcare) according to the supplier’s recommendations. Blotting with anti-GAPDH or anti-actin antibody was carried out to provide loading controls. Band densitometry was carried out using ImageJ software (NIH, USA).</text>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D012965</infon>
+        <location offset="13419" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D006851</infon>
+        <location offset="13466" length="8"/>
+        <text>Tris-HCl</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017830</infon>
+        <location offset="13487" length="12"/>
+        <text>Triton X-100</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003840</infon>
+        <location offset="13506" length="12"/>
+        <text>deoxycholate</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="13525" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="13536" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015636</infon>
+        <location offset="13548" length="5"/>
+        <text>MgCl2</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014638</infon>
+        <location offset="13560" length="6"/>
+        <text>Na3VO4</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012969</infon>
+        <location offset="13574" length="3"/>
+        <text>NaF</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004229</infon>
+        <location offset="13589" length="3"/>
+        <text>DTT</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="13599" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088816</infon>
+        <location offset="13813" length="14"/>
+        <text>Laemmli buffer</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="13879" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003101</infon>
+        <location offset="13920" length="14"/>
+        <text>nitrocellulose</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136,MESH:D014325,MESH:D012965</infon>
+        <location offset="14013" length="26"/>
+        <text>Tween-Tris-buffered saline</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136,MESH:D014325,MESH:D012965</infon>
+        <location offset="14041" length="4"/>
+        <text>TTBS</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="14052" length="8"/>
+        <text>Tween 20</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="14069" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="14074" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="14084" length="4"/>
+        <text>NaCl</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136,MESH:D014325,MESH:D012965</infon>
+        <location offset="14232" length="4"/>
+        <text>TTBS</text>
+      </annotation>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136,MESH:D014325,MESH:D012965</infon>
+        <location offset="14376" length="4"/>
+        <text>TTBS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14661</offset>
+      <text>Fluorescence Microscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14685</offset>
+      <text>HeLa cells were analyzed by confocal microscopy using an FV1000 Olympus Confocal Microscope and FV 10-ASW 1.7 Software (Olympus, Japan). Images were processed using ImageJ software.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>14867</offset>
+      <text>Statistical Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14888</offset>
+      <text>Results were analyzed by the ANOVA test in conjunction with Tuckey and Dunnett tests.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g002.jpg</infon>
+      <infon key="id">pone-0039348-g002</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>14974</offset>
+      <text>Cortactin mutants not phosphorylatable by Src and ERK stimulated and inhibited C. burnetii internalization, respectively.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g002.jpg</infon>
+      <infon key="id">pone-0039348-g002</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>15096</offset>
+      <text>HeLa cells were transfected with pGFP, pGFP-cortactin WT (wild type) or plasmids encoding GFP fusions with one of the following cortactin mutants: (A) pGFP-cortactin 3F, a Src non-phosphorylatable mutant; (B) pGFP-cortactin 3D, which mimics cortactin phosphorylated by Src; or (C) pGFP-cortactin 2A, an ERK non-phosphorylatable mutant, or pGFP-cortactin SD, which mimics cortactin phosphorylated by ERK. Transfected cells were infected for 4 h with C. burnetii, fixed and processed for indirect immunofluorescence to determine intracellular C. burnetii (see Methods). Cells were analyzed by confocal microscopy. Results are expressed as means ± SE of at least three independent experiments. *, P&lt;0.05; **, P&lt;0.01; ***, P&lt;0.001. (%), percentage of total number of bacteria.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g003.jpg</infon>
+      <infon key="id">pone-0039348-g003</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>15870</offset>
+      <text>Src and ERK kinases are involved in C. burnetii internalization.</text>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g003.jpg</infon>
+      <infon key="id">pone-0039348-g003</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>15935</offset>
+      <text>(A) HeLa cells were incubated for 1 h at room temperature with 0.05% DMSO (control), 15 µM PD 98059 (MEK-ERK inhibitor) or 5 µM SU6656 (Src inhibitor). Then the cells were infected for 4 h with C. burnetii in the presence of the inhibitors. Cells were fixed and processed for indirect immunofluorescence using a specific anti-C. burnetii antibody (see Methods). Bars, 10 µm. (B) Quantification of C. burnetii internalized by treated HeLa cells. Results are expressed as means ± SE of three independent experiments. **, P&lt;0.01. (%), percentage of the total number of bacteria.</text>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="16004" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093973</infon>
+        <location offset="16026" length="8"/>
+        <text>PD 98059</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C416927</infon>
+        <location offset="16063" length="6"/>
+        <text>SU6656</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>16524</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16532</offset>
+      <text>The SH3 Domain of Cortactin is Important for C. burnetii Internalization</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16605</offset>
+      <text>Cortactin is an F-actin regulatory protein that plays an important function in various cellular processes such as cell adhesion, motility and endocytosis. However, its role in phagocytosis has been poorly characterized. Interestingly, cortactin is recruited to the contact sites made by several pathogens with the host plasma membrane during infection .</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16959</offset>
+      <text>In its N-terminal acidic region (NTA), cortactin contains a short motif called DDW that binds and activates the Arp2/3 complex . This motif is followed by 6.5 tandem repeats of a 37-residue sequence responsible for F-actin binding. It has a Src homology 3 (SH3) domain at the C-terminus that mediates the interaction with various proteins, including the Arp2/3-stimulating Wiscott-Aldrich protein N-WASP . These interactions link actin remodeling to several specific processes. Mutations in cortactin that abrogate Arp2/3 activation (W22A) or SH3 domain binding function (W525K) have been described , . To analyze the role of the different cortactin motifs in C. burnetii internalization, we tested two cortactin mutants: W22A (20DDW22 motif mutated to 20DDA22), an NTA mutant that has lost its ability to bind and activate Arp2/3 ; and W525K, an SH3 mutant that is unable to bind certain targets such as N-WASP . HeLa cells were transfected with plasmids encoding GFP-cortactin WT, GFP-cortactin W22A or GFP-cortactin W525K, infected with C. burnetii at 37°C for 4 h, processed for indirect immunofluorescence and analyzed by fluorescence microscopy (see Methods). We decided to allow 4 h for C. burnetii internalization in order to detect the intracellular bacteria with sufficient resolution.</text>
+      <annotation id="O12">
+        <infon key="type">OTHER</infon>
+        <location offset="17493" length="4"/>
+        <text>W22A</text>
+      </annotation>
+      <annotation id="O13">
+        <infon key="type">OTHER</infon>
+        <location offset="17531" length="5"/>
+        <text>W525K</text>
+      </annotation>
+      <annotation id="O14">
+        <infon key="type">OTHER</infon>
+        <location offset="17681" length="4"/>
+        <text>W22A</text>
+      </annotation>
+      <annotation id="O15">
+        <infon key="type">OTHER</infon>
+        <location offset="17796" length="5"/>
+        <text>W525K</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">OTHER</infon>
+        <location offset="17942" length="18"/>
+        <text>GFP-cortactin W22A</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">OTHER</infon>
+        <location offset="17964" length="19"/>
+        <text>GFP-cortactin W525K</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18256</offset>
+      <text>To quantify C. burnetii internalization by immunofluorescence we used the conventional double cycle antibody staining protocol for discriminate between extra- and intracellular bacteria (see Methods). In the Fig. 1A (panels d, h, l and p), extracellular bacteria present double staining (green and red pseudocolors) while intracellular ones present single staining (red pseudocolor). The intracellular bacteria are expressed as a percentage of the total number of bacteria per cell (Fig 1B and 1A, panels c, g, k and o). As shown in Fig. 1B, in cells expressing GFP-cortactin W525K, C. burnetii internalization was significantly lower than that observed in cells expressing GFP alone. In contrast, expression of the W22A mutant did not affect C. burnetii internalization. These results suggest that the SH3 domain of cortactin is critical for C. burnetii entry into HeLa cells.</text>
+      <annotation id="4">
+        <infon key="type">OTHER</infon>
+        <location offset="18818" length="19"/>
+        <text>GFP-cortactin W525K</text>
+      </annotation>
+      <annotation id="O19">
+        <infon key="type">OTHER</infon>
+        <location offset="18972" length="4"/>
+        <text>W22A</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g004.jpg</infon>
+      <infon key="id">pone-0039348-g004</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>19134</offset>
+      <text>Tyrosine phosphorylation of cortactin during C. burnetii infection.</text>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19134" length="8"/>
+        <text>Tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g004.jpg</infon>
+      <infon key="id">pone-0039348-g004</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>19202</offset>
+      <text>Lysates of HeLa cells infected for different lengths of time with live (A) or heat-killed (B) C. burnetii were analyzed by SDS-PAGE and Western blot using an antibody against phosphoTyr421-cortactin (P-cortactin) or an anti-GAPDH antibody. 0 min: control HeLa cells incubated in the absence of C. burnetii. The data were analyzed with ImageJ software. The ratio between phosphorylated cortactin and GAPDH levels are shown. Results are expressed as means ± SE from at least three independent experiments. *, P&lt;0.05. (RU), relative units.</text>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="19325" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="O20">
+        <infon key="type">OTHER</infon>
+        <location offset="19377" length="23"/>
+        <text>phosphoTyr421-cortactin</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">OTHER</infon>
+        <location offset="19402" length="11"/>
+        <text>P-cortactin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>19740</offset>
+      <text>A Non-tyrosinephosphorylatable Cortactin Mutant Stimulates C. burnetii Internalization</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19827</offset>
+      <text>Post-translational modifications such as phosphorylation at tyrosine and serine residues at PST region of cortactin regulate its cellular function. Src kinases and other Tyr kinases phosphorylate human cortactin predominantly at three sites in vitro, Tyr421, Tyr470 and Tyr486 (corresponding to Tyr421, Tyr466 and Tyr482 in murine cortactin), while ERK and PAK phosphorylate Ser405/Ser418 and Ser113, respectively , , , –. In addition to that, c-Met and Fer kinases can phosphorylate cortactin on tyrosine residues , . The combined mutation of Tyr421, Tyr466, and Tyr482 abolishes tyrosine phosphorylation of cortactin in cells under various conditions , . Thus, these Src phosphorylation sites have been the focus of functional characterization. At the same time, several mass spectrometry-phosphoproteomic studies have identified additional phosphorylated tyrosine residues , . A number of individual phosphotyrosine sites have been reported independently in different cell types and in response to diverse stimuli, but their regulation and function remain to be investigated. A validated tool to study the role of phosphorylation is to use non-phosphorylatable and phospho-mimetic mutants. To determine whether tyrosine phosphorylation plays a role in internalization, HeLa cells were transfected with a plasmid encoding GFP-cortactin 3F (Y421,466,482F), which encodes a cortactin that cannot be phosphorylated by Src on tyrosines. Transfected HeLa cells were infected with C. burnetii at 37°C for 4 h, processed for indirect immunofluorescence and analyzed by fluorescence microscopy. As shown in Fig. 2A, the levels of C. burnetii internalization were similar in cells expressing either GFP (control) or GFP-cortactin WT, but significantly higher in cells expressing GFP-cortactin 3F. In contrast, when HeLa cells were transfected with a plasmid encoding pGFP-cortactin 3D (Y421,466,482D), which mimics cortactin phosphorylated by Src, internalization of C. burnetii was similar to that in cells expressing GFP-cortactin WT (Fig. 2B). These results suggest that C. burnetii internalization is favored when cortactin is dephosphorylated.</text>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="19887" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="19900" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="O21">
+        <infon key="type">OTHER</infon>
+        <location offset="19997" length="11"/>
+        <text>Tyr kinases</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20078" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20086" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20097" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20122" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20130" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20141" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="20202" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="20209" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="20220" length="3"/>
+        <text>Ser</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20324" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20371" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20379" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20391" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20408" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="20685" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019000</infon>
+        <location offset="20730" length="15"/>
+        <text>phosphotyrosine</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="21041" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="O22">
+        <infon key="type">OTHER</infon>
+        <location offset="21169" length="13"/>
+        <text>Y421,466,482F</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="21251" length="9"/>
+        <text>tyrosines</text>
+      </annotation>
+      <annotation id="O23">
+        <infon key="type">OTHER</infon>
+        <location offset="21706" length="13"/>
+        <text>Y421,466,482D</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g005.jpg</infon>
+      <infon key="id">pone-0039348-g005</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>21972</offset>
+      <text>Tyrosine phosphorylation of Src kinase during the C. burnetii infection.</text>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="21972" length="8"/>
+        <text>Tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g005.jpg</infon>
+      <infon key="id">pone-0039348-g005</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>22045</offset>
+      <text>Lysates of HeLa cells infected with C. burnetii for different lengths of time were analyzed by SDS-PAGE and Western blot using anti-phospho-Src (P-Src) and anti-Src antibodies. 0 min: control HeLa cells incubated in the absence of C. burnetii. Data were analyzed with ImageJ software. The ratio between phosphorylated and total Src levels is shown. Results are expressed as means ± SE of at least three independent experiments. *, P&lt;0.05. (RU), relative units.</text>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="22140" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>22507</offset>
+      <text>A Non-serinephosphorylatable Cortactin Mutant Inhibits C. burnetii Internalization</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22590</offset>
+      <text>Since the cellular function of cortactin is also regulated by phosphorylation of its serine residues, we studied whether serine phosphorylation is important for C. burnetii internalization. HeLa cells were transfected with pGFP, pGFP-cortactin WT, pGFP-cortactin 2A or pGFP-cortactin SD. Cortactin 2A (S405,418A) cannot be phosphorylated by ERK, while cortactin SD (S405,418D) mimics the effects of ERK phosphorylation. As shown in Fig. 2C, expression of the ERK-phosphorylation mimic of cortactin led to internalization similar to that in cells expressing GFP or cortactin WT. Interestingly, the cortactin mutant not phosphorylatable by ERK inhibited internalization, indicating that cortactin phosphorylation on serine residues is important for internalization. These results suggest that serine phosphorylation of cortactin regulates internalization of C. burnetii during infection.</text>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="22675" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="22711" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="O24">
+        <infon key="type">OTHER</infon>
+        <location offset="22892" length="9"/>
+        <text>S405,418A</text>
+      </annotation>
+      <annotation id="O25">
+        <infon key="type">OTHER</infon>
+        <location offset="22956" length="9"/>
+        <text>S405,418D</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="23304" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="23381" length="6"/>
+        <text>serine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g006.jpg</infon>
+      <infon key="id">pone-0039348-g006</infon>
+      <infon key="type">fig_caption_title</infon>
+      <offset>23476</offset>
+      <text>Tyrosine phosphorylation of ERK kinase during C. burnetii infection.</text>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="23476" length="8"/>
+        <text>Tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">pone.0039348.g006.jpg</infon>
+      <infon key="id">pone-0039348-g006</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>23545</offset>
+      <text>Lysates of HeLa cells infected with C. burnetii for different lengths of time were analyzed by SDS-PAGE and Western blot using anti-phospho-ERK (P-ERK) and anti-ERK antibodies. 0 min: control HeLa cells incubated in the absence of C. burnetii. Data were analyzed with ImageJ software. The ratio between phosphorylated and total ERK levels is shown. Results are expressed as means ± SE of at least two independent experiments. *, P&lt;0.05. (RU), relative units.</text>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="23640" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24005</offset>
+      <text>Src and ERK Kinases are Involved in C. burnetii Internalization</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24069</offset>
+      <text>Given that dynamic phosphorylation of tyrosine and serine residues in cortactin is involved in C. burnetii uptake and that cortactin is a substrate of kinases of the Src and ERK families, we analyzed directly whether these kinases are involved in C. burnetii internalization. HeLa cells were treated during infection with Src kinase inhibitor SU6656 or with PD98059, an inhibitor of MEK kinases which are upstream activators of ERK kinases , . Fig. 3A shows extracellular bacteria (panels a, c and e) and total bacteria (panels b, d and f) in untreated or inhibitor-treated cells. Quantification of internalized bacteria is shown in Fig. 3B. Both inhibitors significantly blocked internalization. Similar inhibition of the C. burnetii uptake was observed during infection of a macrophage cell line treated with the MEK kinase inhibitor (Fig. S1A and B). These results suggest that kinases of the Src and ERK families are involved in C. burnetii internalization.</text>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="24107" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="24120" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C416927</infon>
+        <location offset="24412" length="6"/>
+        <text>SU6656</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C093973</infon>
+        <location offset="24427" length="7"/>
+        <text>PD98059</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>25031</offset>
+      <text> C. burnetii Induces Phosphorylation of Cortactin on Tyr421 During Infection</text>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="25084" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25108</offset>
+      <text>Several pathogens have been found to modify the phosphorylation status of cortactin during their interaction with host cells . To determine whether C. burnetii causes cortactin phosphorylation during infection, we examined the phosphorylation status of Tyr421 after different infection periods. HeLa cells were infected with C. burnetii for different periods of time, and clarified lysates were analyzed by SDS-PAGE and Western blotting using an antibody that specifically recognizes cortactin phosphorylated on Tyr421. Fig. 4A shows that the maximal level of phospho-Tyr421 cortactin was observed at 1 h of infection with live bacteria. Similar cortactin phosphorylation levels were observed during infection of a phagocytic cell (Fig. S2B). In contrast, the level of this form of phosphorylated cortactin did not change significantly when the infection was carried out with heat-killed C. burnetii (Fig. 4B). These results suggest that C. burnetii induces phosphorylation of cortactin on Tyr421 early during infection.</text>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="25361" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="25515" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="25620" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="O26">
+        <infon key="type">OTHER</infon>
+        <location offset="25668" length="24"/>
+        <text>phospho-Tyr421 cortactin</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="26098" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>26129</offset>
+      <text>Src and ERK Kinases are Activated During C. burnetii Infection</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26192</offset>
+      <text>Considering that cortactin is phosphorylated on tyrosine residues and that it is a substrate of Src kinase, we reasoned that this enzyme may be activated during C. burnetii infection. To investigate this possibility, clarified lysates of HeLa cells infected with C. burnetii were analyzed by SDS-PAGE and Western blotting using an antibody that specifically recognizes phospho-Src (pTyr416), the activated form of the kinase. Fig. 5 shows the levels of activated Src and total Src. Src was activated early during infection, within 15 min, after which the level of activated enzyme decreased to basal levels. This result suggests that Src kinase is activated early during C. burnetii-host cell interaction.</text>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="26240" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="26484" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019000</infon>
+        <location offset="26574" length="4"/>
+        <text>pTyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26898</offset>
+      <text>Cortactin can also be regulated by phosphorylation of serine residues and ERK is one kinase involved in this reaction. To investigate whether ERK is activated during C. burnetii infection, lysates of infected HeLa cells were analyzed by SDS-PAGE and Western blotting using an antibody that specifically recognizes phosphorylated ERK. As shown in Fig. 6, ERK was activated at 15 min of infection. Similarly, the phosphorylation in ERK was observed during infection of a phagocytic cell (Fig. S2A). This result suggests that ERK, similar to Src kinase, is activated early during C. burnetii-host cell interaction.</text>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="26952" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="27135" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>27510</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27521</offset>
+      <text>Bacterial pathogens manipulate the host cell cytoskeleton to avoid phagocytosis, to invade and/or to become mobile in the host cell cytoplasm. They often interact with actin filaments by modulating the activity of different actin-interacting effectors in the host. One such effector is cortactin, an actin-binding protein that plays a crucial role in the regulation of actin dynamics. Cortactin has been implicated in the infection process of several microbial pathogens .</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27994</offset>
+      <text>The present study contributes to understanding the role of cortactin in bacterial pathogenesis. We provide evidence that the SH3 domain and serine phosphorylation of cortactin are involved in signal transduction pathways that support the internalization of avirulent C. burnetti into non-phagocytic cells, whereas tyrosine phosphorylation of cortactin suppresses this internalization. We also show that Src and ERK kinases are activated during the initial stages of C. burnetti infection.</text>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="28134" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="28308" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28483</offset>
+      <text>Cortactin stimulates actin polymerization by binding, via its N-terminal domain, the Arp2/3 complex, or by binding, through its C-terminal SH3 domain, N-WASP, a well-known activator of Arp2/3 , . We report here that expression in HeLa cells of the cortactin mutant W525K, which carries a mutation in the C-terminal SH3 domain, significantly inhibited C. burnetii internalization (Fig. 1), suggesting an important role for this domain in bacterial entry. We hypothesize that avirulent C. burnetii requires minor modification of the actin cytoskeleton at the plasma membrane to be internalized, so we propose that SH3 domain-mediated recruitment of N-WASP (and then Arp2/3) is sufficient to stimulate actin assembly and bacterial uptake. Our results are similar to those observed in the formation of the pedestal-like structure during E. coli infection. Indeed, expression of the cortactin mutant W525K significantly reduced the number of pedestals induced by enteropathogenic Escherichia coli (EPEC) or enterohemorrhagic E. coli (EHEC) in HeLa cells , . In addition, cell motility can be regulated by cortactin through its C-terminal SH3 domain independently of the presence of the N-terminal portion which is consistent with the ability of the SH3 domain on its own to stimulate N-WASP and actin polymerization in vitro . Cortactin cleavage by calpain has also been shown to be important for cell migration . Cells expressing a calpain-resistant cortactin showed reduced migration and increased membrane protrusion. This phenotype was reverted by expression of a calpain-resistant cortactin with the W525K mutation, which suggests that the SH3 domain of cortactin is required for the stimulation of membrane protrusions.</text>
+      <annotation id="O27">
+        <infon key="type">OTHER</infon>
+        <location offset="28748" length="5"/>
+        <text>W525K</text>
+      </annotation>
+      <annotation id="O28">
+        <infon key="type">OTHER</infon>
+        <location offset="29378" length="5"/>
+        <text>W525K</text>
+      </annotation>
+      <annotation id="O29">
+        <infon key="type">OTHER</infon>
+        <location offset="30083" length="5"/>
+        <text>W525K</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30204</offset>
+      <text>N-WASP activation depends on the phosphorylation status of serine and tyrosine residues in the C-terminal domain of cortactin . Expression of a non-serine-phosphorylatable cortactin mutant impairs pedestal formation in cells infected with EPEC or EHEC . These results suggest that ERK phosphorylation of cortactin contributes to pedestal formation. In HeLa cells expressing the same cortactin mutant we observed significant inhibition of bacterial uptake (Fig. 2). Thus, similarly to pedestal formation induced by E. coli, entry of C. burnetii into HeLa cells requires serine phosphorylation of cortactin. Our conclusion is also supported by the observations that ERK1/2 kinases were transiently activated early during HeLa cell infection and then later deactivated (Fig. 6), and that HeLa cell treated with the inhibitor of MEK-dependent ERK1/2 activation showed a reduction in C. burnetii internalization (Fig. 3).</text>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="30263" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="30274" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="30352" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="30773" length="6"/>
+        <text>serine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31121</offset>
+      <text>In our experimental model, expression of a non-tyrosine-phosphorylatable cortactin mutant increased C. burnetii internalization (Fig. 2). However, pedestal formation induced by EPEC was reduced in HeLa cells expressing the same mutant , . Moreover, we observed cortactin phosphorylation on Tyr421 at 1 h of infection with C. burnetii, after which the phosphorylation returned to basal levels (Fig. 4). Similar kinetics of tyrosine phosphorylation-dephosphorylation were observed in HeLa cells infected with pre-activated EHEC . In vitro experiments have shown that cortactin phosphorylated by Src does not interact with and activate N-WASP, which leads to inhibition of pedestal formation , . Based on these results, we can speculate that during C. burnetii infection of HeLa cells, cortactin must be dephosphorylated on its tyrosine residues in order to interact with N-WASP, leading to actin remodeling and bacterial internalization. At the same time, tyrosine dephosphorylation of cortactin increases its actin-crosslinking activity in vitro . Therefore, cortactin dephosphorylated on its tyrosine residues may cross-link small actin filaments, forming a discrete actin meshwork close to the bacterial attachment site, which then allows C. burnetii internalization.</text>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="31168" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="31411" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="31543" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="31946" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="32075" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="32213" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32390</offset>
+      <text>Cortactin can be tyrosine-phosphorylated not only by Src kinases but also by Abl kinases . Abl kinases can be activated by autophosphorylation and by phosphorylation by Src family kinases , . We observed that Src kinase was activated at 15 min of infection and then the levels of activated enzyme decreased to basal levels (Fig. 5), while cortactin was phosphorylated on Tyr421 at 1 h of infection. We also observed that the pharmacological Src inhibitor decreased C. burnetii internalization (Fig. 3). While these observations may be due to the direct action of Src kinase on cortactin, they may also be due to the action of Abl kinase, activated by Src. Internalization of Chlamydia trachomatis also involves cortactin, and this protein is phosphorylated at 1 h of infection by Abl kinases but not Src . Shigella entry into host cells also requires activation of Abl kinases . Therefore we speculate that during C. burnetii infection, Abl kinases are activated to phosphorylate cortactin. On the other hand, the strong effect of the chemical inhibition of Src kinase could indicate that other Src substrates apart from cortactin might participate in C. burnetii entry.</text>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="32407" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="32761" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33561</offset>
+      <text>We show here that during C. burnetii infection, Src is transiently activated and then inactivated, and cortactin is tyrosine-phosphorylated and then dephosphorylated. We detected that C. burnetii entry induces the tyrosine phosphorylation of cortactin at early time points, with a maximum peak around 60 min (Fig. 4). In addition to that, we found that the 3F cortactin mutant with non-phosphorylatable tyrosines enhances C. burnetii entry at 4 h after infection (Fig. 2). This seems to indicate that the tyrosine phosphorylation of cortactin is required at the initial steps while it would inhibit entry at later time points. These processes are similar to those observed during infection of gastric epithelial cells by Helicobacter pylori. This pathogen promotes an early but transient phosphorylation of cortactin. The infected cells become scattered and elongated, and this phenotype depends on Src phosphorylation of CagA (a protein secreted by a type IV secretion system), which inactivates c-Src and leads to cortactin dephosphorylation by an unknown mechanism . It is tempting to speculate that C. burnetii internalization occurs by a mechanism similar to that of H. pylori. To our knowledge, C. burnetii, H. pylori and EHEC are the only three pathogens known to induce dephosphorylation of cortactin during host cell infection. Recently, H. pylori has been shown to induce cortactin phosphorylation on serines in a CagA-independent manner, and this form of cortactin stimulates actin rearrangement and cell elongation . We show here that expression of a cortactin mutant lacking phosphorylatable serines inhibited C. burnetii internalization, which suggests that serine phosphorylation of cortactin is necessary for C. burnetii entry.</text>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="33677" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="33775" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="33964" length="9"/>
+        <text>tyrosines</text>
+      </annotation>
+      <annotation id="C153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="34066" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="34972" length="7"/>
+        <text>serines</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="35166" length="7"/>
+        <text>serines</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="35233" length="6"/>
+        <text>serine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35305</offset>
+      <text>THP-1 monocytes infected with virulent C. burnetii exhibit intense membrane protrusions associated with major actin cytoskeleton reorganization, while infection with avirulent bacteria induced a few membrane folds without significantly affecting cell morphology . Although it was not the focus of the present study, we think that the membrane folds stimulated by avirulent C. burnetii result from a modest actin cytoskeleton rearrangement that facilitates bacterial uptake. Meconi and collaborators also showed that actin cytoskeleton reorganization is associated with tyrosine phosphorylation of the Src family kinases Hck and Lyn very early during infection of THP-1 cells with virulent, but not avirulent, C. burnetii . In the present study, using an anti-phospho-Src antibody that recognizes several members of the Src family, including Hck and Lyn, we found that Src was activated early during infection with avirulent bacteria. Meconi et al. also found, using an anti-phosphoTyr monoclonal Ab, that virulent C. burnetii, but not avirulent bacteria, stimulate the tyrosine phosphorylation of several proteins. Using a similar experimental strategy, we observed a significant labeling of proteins with masses around 85 kDa at 1 h of HeLa infection with avirulent C. burnetii (data not shown). Cortactin migrates as a doublet of 80 and 85 kDa in SDS-PAGE , . We cannot rule out the possibility that the differences between our results and those of Meconi et al. are due to the different cell types used.</text>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="35874" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019000</infon>
+        <location offset="36279" length="10"/>
+        <text>phosphoTyr</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="36374" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="36654" length="3"/>
+        <text>SDS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36812</offset>
+      <text>In conclusion, our results indicate that serine phosphorylation of cortactin and its SH3 domain are involved in a signal transduction mechanism that favors C. burnetii uptake, while tyrosine phosphorylation suppresses this uptake. Our results suggest that a complex series of events occurs during C. burnetii internalization into non-phagocytic cells. Early after infection, Src and ERK kinases may phosphorylate unknown substrates, perhaps other kinases such as Abl that in turn phosphorylate tyrosine residues in cortactin. This may regulate an early step in internalization. At a later stage, tyrosine dephosphorylation and serine phosphorylation of cortactin take place, which regulates a later step of internalization. In this way, tyrosine phosphatases and serine kinases from the host cell and/or C. burnetti regulate the phosphorylation status of cortactin to favor C. burnetti entry into the host cell. Thus, the results reported here indicate that dynamic phosphorylation of cortactin is important for C. burnetii internalization during infection.</text>
+      <annotation id="C158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="36853" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="36994" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="37306" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="37408" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012694</infon>
+        <location offset="37439" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="O31">
+        <infon key="type">OTHER</infon>
+        <location offset="37549" length="21"/>
+        <text>tyrosine phosphatases</text>
+      </annotation>
+      <annotation id="O30">
+        <infon key="type">OTHER</infon>
+        <location offset="37575" length="14"/>
+        <text>serine kinases</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>37870</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>37893</offset>
+      <text>Competing Interests: The authors have declared that no competing interests exist.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>37975</offset>
+      <text>Funding: This work was partly supported by grants from the Science and Innovation Ministry of Spain (PS-09/00080) to NM-Q and from Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET, PIP 5794) and Secretaría de Ciencia, Técnica y Posgrado (SECTyP, 06/J108), Universidad Nacional de Cuyo to WB. This work was also supported by the Agencia Nacional de Promocioen Cientifica y Tecnologica (PICT # 02336). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. No additional external funding was received for this study.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>38584</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

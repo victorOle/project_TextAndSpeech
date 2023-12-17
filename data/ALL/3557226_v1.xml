@@ -1,0 +1,2631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3557226</id>
+    <passage>
+      <infon key="name_3">surname:Han;given-names:Weijuan</infon>
+      <infon key="name_2">surname:Gao;given-names:Yaoxiang</infon>
+      <infon key="name_1">surname:Lin;given-names:Jing</infon>
+      <infon key="name_0">surname:Li;given-names:Xican</infon>
+      <infon key="article-id_pmid">23173949</infon>
+      <infon key="fpage">140</infon>
+      <infon key="year">2012</infon>
+      <infon key="article-id_publisher-id">1752-153X-6-140</infon>
+      <infon key="article-id_pmc">3557226</infon>
+      <infon key="article-id_doi">10.1186/1752-153X-6-140</infon>
+      <infon key="type">front</infon>
+      <infon key="volume">6</infon>
+      <infon key="license">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</infon>
+      <infon key="kwd">Rhizoma Cimicifugae 升麻 Antioxidant activity Metal chelating Radical-scavenging Phenolic acid</infon>
+      <infon key="lpage">140</infon>
+      <infon key="name_4">surname:Chen;given-names:Dongfeng</infon>
+      <offset>0</offset>
+      <text>Antioxidant activity and mechanism of Rhizoma Cimicifugae</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>58</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>69</offset>
+      <text>As a typical Chinese herbal medicine, rhizoma Cimicifugae (RC, 升麻 in Chinese) possesses various pharmacological effects involved in antioxidant activity. However, its antioxidant activity has not been reported so far. The aim of the present study was to systematically evaluate the antioxidant ability of RC in vitro, then discuss the mechanism.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>419</offset>
+      <text>Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>427</offset>
+      <text>Firstly, five RC extracts (i.e. petroleum ether extract PERC, ethyl acetate extract EARC, absolute ethanol extract AERC, 95% ethanol extract 95ERC, and water extract WRC) were prepared and determined by various antioxidant methods, including anti-lipidperoxidation, protection against DNA damage, ·OH scavenging, ·O2- scavenging, DPPH· (1,1-diphenyl-2-picryl-hydrazl radical) scavenging, ABTS+· (2,2’-azino-bis (3-ethylbenzo- thiazoline-6-sulfonic acid radical ion) scavenging, Cu2+-chelating, and Fe3+ reducing assays. Subsequently, we measured the chemical contents of five RC extracts, including total phenolics, total saponins, total sugars, caffeic acid, ferulic acid and isoferulic acid. Finally, we quantitatively analyzed the correlations between antioxidant levels (1/IC50 values) and chemical contents.</text>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004544</infon>
+        <location offset="459" length="15"/>
+        <text>petroleum ether</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="489" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="526" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="552" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="579" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="724" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="740" length="3"/>
+        <text>·O2</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="757" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="764" length="29"/>
+        <text>1,1-diphenyl-2-picryl-hydrazl</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="815" length="6"/>
+        <text>ABTS+·</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="823" length="68"/>
+        <text>2,2’-azino-bis (3-ethylbenzo- thiazoline-6-sulfonic acid radical ion</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="905" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="925" length="4"/>
+        <text>Fe3+</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="1032" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="1049" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="1065" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="1073" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="1087" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="1104" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1246</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1254</offset>
+      <text>In the study, the antioxidant levels and chemical contents (including total phenolics, total saponins, total sugars, caffeic acid, ferulic acid and isoferulic acid) of five RC extracts were determined by various methods. In all antioxidant assays, five RC extracts increased the antioxidant levels in a dose-dependent manner. However, their antioxidant levels (IC50 values) and chemical contents significantly differed from each other. Quantitative analysis of the correlation showed that total phenolic was of significant positive correlations (average R value was 0.56) with antioxidant levels; In contrast, total sugars and total saponins had no positive correlation with antioxidant (the average R values were −0.20 and −0.26, for total sugars and total saponins, respectively); Among total phenolics, three phenolic acids (caffeic acid, ferulic acid and isoferulic acid) also displayed positive correlations (the average R values were 0.51, 0.50, and 0.51, for caffeic acid, ferulic acid and isoferulic acid, respectively).</text>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="1330" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="1347" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="1363" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="1371" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="1385" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="1402" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="1870" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="1887" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="1995" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="2012" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="2049" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="2066" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="2082" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="2096" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="2113" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="2220" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="2234" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="2251" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>2287</offset>
+      <text>Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>2299</offset>
+      <text>As an effective antioxidant, Rhizoma Cimicifugae can protect DNA and lipids against oxidative damage. Its antioxidant ability can be responsible for its various pharmacological effects and may be mainly attributed to the existence of total phenolics, among which caffeic acid, ferulic acid and isoferulic acid are regarded as main bioactive components. Rhizoma Cimicifugae exerts its antioxidant effect through metal-chelating, and radical-scavenging which is via donating hydrogen atom (H·) and donating electron (e).</text>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="2539" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="2562" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="2576" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="2593" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="2772" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="2787" length="2"/>
+        <text>H·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2819</offset>
+      <text>Background</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2830</offset>
+      <text>As we know, reactive oxygen species (ROS) are various forms of activated oxygen including free radicals and non-free-radical species. ROS can oxidatively damage vital cellular structures such as lipids and DNA [1,2], then lead to severe biological consequences including mutation, cell death, carcinogenesis, and aging [3].</text>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2842" length="23"/>
+        <text>reactive oxygen species</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2867" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="2903" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="2964" length="3"/>
+        <text>ROS</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3154</offset>
+      <text>Therefore, it is important to search for potential therapeutic agents for oxidative damage. In recent years, medicinal plants especially Chinese medicinal herbals have attracted much attention.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3348</offset>
+      <text>As a typical Chinese herbal medicine, rhizoma Cimicifugae (RC, 升麻 in Chinese, the photo is shown in Additional file 1) has been used for over 2000 years [4]. From the viewpoint of tradition Chinese medicine (TCM),RC can elevate yang, lift qi, clear heat, remove toxic, induce sweats to dispel exopathogens, and promote eruption [5].</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3687</offset>
+      <text>Modern medicine indicated that RC possessed various pharmacological effects. Ye reported that RC possessed antidepressant-like properties in rodents [6]; Kim pointed out that RC can treat pain and inflammation [7]; An isopropanolic extract of RC, however, was proved to be able to diminish the urinary content of PYR and DPY and the morphometric correlates of bone loss associated with ovariectomy in rats [8]; The supply of RC can therefore prevent OVX-induced bone loss in mice [9]. In addition, the extract of RC was found to have protective effect against gastric injury [10]. According to free radical biology &amp; medicine [11], these pharmacological effects are related to antioxidant ability. However, its antioxidant ability has not been explored so far.</text>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019840</infon>
+        <location offset="3905" length="13"/>
+        <text>isopropanolic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4448</offset>
+      <text>Therefore, the aim of the study was to investigate the antioxidant ability of RC in vitro, then further discuss the antioxidant mechanism.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4587</offset>
+      <text>Results and discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4610</offset>
+      <text>As an important biomolecule, lipid can be easily attacked by ROS to generate lipid peroxidation which is harmful to cell. For example, the highly reactive ·OH radical can attack to lipid to produce lipidperoxidation (Equations 1–3):</text>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="4671" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="4765" length="3"/>
+        <text>·OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4846</offset>
+      <text>In our study, five RC extracts increased the anti-lipidperoxidation percentages in a dose-dependent manner (Additional file 2). It means that five RC extracts can effectively protect lipid against oxidative damage. Among them, EARC possessed the highest anti-lipidperoxidation activity (Table  1).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>5146</offset>
+      <text>The IC50values of five RC extracts and the positive controls (μg/mL)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7230</offset>
+      <text>Besides lipid, another biomolecule DNA can also be oxidatively damaged by ROS (especially ·OH). It is well known that DNA consists of deoxyribose, organic phosphate and various base pairs. When DNA is attacked by ·OH radical, MDA (malondialdehyde) and a number of oxidative lesions are generated [12]. MDA combines with 2-thiobarbituric acid (TBA) to produce thiobarbituric acid-reactive substances (TBARS) with λmax at 530 nm (Scheme  1).</text>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="7304" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="7320" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003855</infon>
+        <location offset="7364" length="11"/>
+        <text>deoxyribose</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="7385" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="7443" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="7456" length="3"/>
+        <text>MDA</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="7461" length="15"/>
+        <text>malondialdehyde</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="7532" length="3"/>
+        <text>MDA</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="7550" length="21"/>
+        <text>2-thiobarbituric acid</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="7573" length="3"/>
+        <text>TBA</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="7589" length="19"/>
+        <text>thiobarbituric acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7679</offset>
+      <text>The reaction of MDA (malondialdehyde) and 2-thiobarbituric acid (TBA).</text>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="7695" length="3"/>
+        <text>MDA</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="7700" length="15"/>
+        <text>malondialdehyde</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="7721" length="21"/>
+        <text>2-thiobarbituric acid</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="7744" length="3"/>
+        <text>TBA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7750</offset>
+      <text>Therefore, the A532nm value is proportional to the produced amount of ·OH radicals. Higher A532nm values indicate higher levels of ·OH radicals. If an antioxidant sample is added, the A532nm value will decrease, suggesting that some ·OH radicals are scavenged and the hydroxyl-induced DNA damage are protected by the antioxidant.</text>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="7820" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="7881" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="7983" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8018" length="8"/>
+        <text>hydroxyl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8089</offset>
+      <text>Among five RC extracts, 95ERC and EARC were proved to be of protective effect against hydroxyl-induced DNA damage (Table  1 and Additional file 2).</text>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8175" length="8"/>
+        <text>hydroxyl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8239</offset>
+      <text>Previous studies have shown that there are two approaches for natural phenolic antioxidant to protect DNA oxidative damage: one is to scavenge the ·OH radicals then to reduce its attack; one is to fast repair the deoxynucleotide radical cations resulting from ·OH radicals attack [11]. In order to further confirm whether the protective effect against DNA oxidative damage was relevant to radical-scavenging ability, the ·OH and ·O2- radical-scavenging abilities of five RC extracts was determined in vitro.</text>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8386" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8499" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8660" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="8668" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8751</offset>
+      <text>As we know, ·OH radical in body is produced by Fenton reaction (Equation 4). However, our data suggested that five RC extracts can effectively scavenge ·OH radicals (Table  1 and Additional file 2).</text>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8763" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8903" length="3"/>
+        <text>·OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>8954</offset>
+      <text>Besides ·OH radical, superoxide anion radical (·O2-) is also regarded as one important form of ROS in living cell. It can directly attack DNA or lipid [13], and can transferred into ·OH via Haber-Weiss reaction (Equation 5) to indirectly damage DNA or lipid as well [2]. The results in Table  1 and Additional file 2 showed that five RC extracts could also scavenge ·O2- radicals.</text>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="8962" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="8975" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9001" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="9049" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="9136" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9320" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9341</offset>
+      <text>Taken together, the protective effect of RC against hydroxyl-induced DNA oxidative damage can be assumed to be relevant to the ·OH or ·O2- radical-scavenging ability.</text>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="9393" length="8"/>
+        <text>hydroxyl</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="9468" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9475" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>9510</offset>
+      <text>However, as illustrated in Equations 4 and 5, the generations of ·OH and ·O2- radicals rely usually on the catalysis of transition metals (especially Fe and Cu). So we further explored the metal chelating abilities of five RC extracts. The dose–response curves showed that five RC extracts possessed effective metal chelating abilities (Additional file 2). Our previous reports have shown that the chelating ability might be mainly attributed to ortho dihydroxyl groups in phenolic compounds [14]. For example, phenolic acids can bind Fe2+ as the following mechanism (Scheme  2) [15].</text>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="9575" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="9583" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="9660" length="2"/>
+        <text>Fe</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="9667" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="9983" length="8"/>
+        <text>phenolic</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="10021" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="10045" length="4"/>
+        <text>Fe2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10101</offset>
+      <text>The proposal reaction of phenolic acids binding Fe2+.</text>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="10126" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="10149" length="4"/>
+        <text>Fe2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10155</offset>
+      <text>The fact that five RC extracts can effectively bind Fe2+ ion, suggests that metal-chelating may be one of mechanisms for scavenging ·OH or ·O2-.</text>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="10207" length="4"/>
+        <text>Fe2+</text>
+      </annotation>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="10287" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="10294" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10302</offset>
+      <text>In order to verify whether five RC extracts can directly scavenge radicals. We determined their DPPH· and ABTS·+ radical-scavenging abilities.</text>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="10398" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="10408" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10447</offset>
+      <text>As seen in Table  1 and Additional file 2, five RC extracts scavenged both DPPH· and ABTS·+ radicals in a dose-dependent manner. The previous studies have demonstrated that DPPH · may be scavenged by an antioxidant through donation of hydrogen atom (H·) to form a stable DPPH-H molecule [16-18]. Caffeic acid, a phenolic acid occurring in RC, for example, could scavenge DPPH· via the proposed reaction (Scheme  3) [19].</text>
+      <annotation id="C154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="10522" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="10532" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="10620" length="6"/>
+        <text>DPPH ·</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10682" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10697" length="2"/>
+        <text>H·</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="10718" length="6"/>
+        <text>DPPH-H</text>
+      </annotation>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="10743" length="12"/>
+        <text>Caffeic acid</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="10759" length="13"/>
+        <text>phenolic acid</text>
+      </annotation>
+      <annotation id="C155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="10818" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>10881</offset>
+      <text>The proposal reaction of caffeic acid to scavenge DPPH· (step 1).</text>
+      <annotation id="C157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="10906" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="10931" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10948</offset>
+      <text>Radical (A) can be further withdrawn hydrogen atom (H·) to form stable quinone (B) (Scheme  4).</text>
+      <annotation id="C160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="10985" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11000" length="2"/>
+        <text>H·</text>
+      </annotation>
+      <annotation id="C161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011809</infon>
+        <location offset="11019" length="7"/>
+        <text>quinone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11047</offset>
+      <text>The proposal reaction of caffeic acid to scavenge DPPH· (step 2).</text>
+      <annotation id="C164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="11072" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="11097" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11114</offset>
+      <text>Unlike DPPH· scavenging, ABTS ·+ scavenging however is considered as an electron (e) transfer reaction [20]. For example, the proposed reaction for caffeic acid to scavenge ABTS ·+ can be briefly illustrated using Scheme  5. Similarly, if ABTS ·+ is excessive, radical (A) can also further change to quinone (B).</text>
+      <annotation id="C174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="11121" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="11139" length="7"/>
+        <text>ABTS ·+</text>
+      </annotation>
+      <annotation id="C167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="11262" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="11287" length="7"/>
+        <text>ABTS ·+</text>
+      </annotation>
+      <annotation id="C169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="11353" length="7"/>
+        <text>ABTS ·+</text>
+      </annotation>
+      <annotation id="C170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011809</infon>
+        <location offset="11414" length="7"/>
+        <text>quinone</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>11439</offset>
+      <text>The proposal reaction of caffeic acid and ABTS ·+.</text>
+      <annotation id="C175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="11464" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="11481" length="7"/>
+        <text>ABTS ·+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11493</offset>
+      <text>As illustrated in Scheme  3, 4 and 5, the generations of both DPPH· and ABTS·+radicals did not rely on the transition metal catalysis.</text>
+      <annotation id="C180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="11555" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="11565" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11632</offset>
+      <text>Based on the discussion above, it can be deduced that direct radical-scavenging was regarded as another mechanism for five RC extract to scavenge ·OH or ·O2-, and they exerted radical-scavenging action by donating hydrogen atom (H·) and electron (e).</text>
+      <annotation id="C186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="11778" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="11786" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="C182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11846" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="11861" length="2"/>
+        <text>H·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11886</offset>
+      <text>Until now, about 200 compounds have been found in RC [21]. Generally, they belong to three different classes, i.e. phenolics, saponins, and polysaccharides. In the study, we used chemical method to measure the contents of total phenolics, total saponins, and total sugars in fiver RC extracts (Table  2). On the other hand, since 1/IC50 value showed parallelism with antioxidant level, it was therefore used to evaluate antioxidant level in the study (Additional file 2). On this basis, forty-eight correlation graphs were plotted to quantitative analyze the correlation between antioxidant levels and chemical contents in five RC extracts (Additional file 3). The correlation coefficients (R values) in Table  3 indicated that, total phenolics were of significant positive correlations (R = 0.17 ~ 0.99; average, 0.56) with antioxidant levels, while total sugars and total saponins had no positive correlations (for total sugars, R = −0.88 ~ 0.46, the average was −0.20; for total saponins, R = −0.92 ~ 0.94, the average was −0.26) with antioxidant levels. The data clearly demonstrated the significant contribution of phenolic compounds to the antioxidant of RC.</text>
+      <annotation id="C192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="12001" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="12012" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011134</infon>
+        <location offset="12026" length="15"/>
+        <text>polysaccharides</text>
+      </annotation>
+      <annotation id="C193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="12114" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="12131" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="12151" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="12621" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="12743" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="12760" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="12809" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="12868" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="13006" length="8"/>
+        <text>phenolic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>13087</offset>
+      <text>Chemical contents of five RC extracts</text>
+    </passage>
+    <passage>
+      <infon key="type">table_caption</infon>
+      <offset>14482</offset>
+      <text>The R values between chemical contents and 1/IC50</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15142</offset>
+      <text>Among total phenolics, several compounds had been isolated from RC, including salicylic acid, caffeic acid, ferulic acid, isoferulic acid, flavonoids and tannins. In our study, however, three phenolic acids caffeic acid, ferulic acid and isoferulic acid were also identified by HPLC assay (Figure 1 and Additional file 4), in which peak areas were used to characterize the relative contents of three phenolic acids.</text>
+      <annotation id="C210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="15154" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D020156</infon>
+        <location offset="15220" length="14"/>
+        <text>salicylic acid</text>
+      </annotation>
+      <annotation id="C200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="15236" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="15250" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="15264" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005419</infon>
+        <location offset="15281" length="10"/>
+        <text>flavonoids</text>
+      </annotation>
+      <annotation id="C209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013634</infon>
+        <location offset="15296" length="7"/>
+        <text>tannins</text>
+      </annotation>
+      <annotation id="C207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="15334" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+      <annotation id="C204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="15349" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="15363" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="15380" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="15542" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>15558</offset>
+      <text>A typical HPLC profile of EARC (ethyl acetate extract of rhizoma Cimicifugae). Syltech P510 HPLC system (Los Angeles, California, USA), Dikma Diamonsil C18 (250 mm × 4.6 mm, 5 μm size) (Beijing, China), acetonitrile-0.5% acetic acid in water (17:83, v: v), 1.0 mL/min flow rate, 30 μL injection, 316 nm wavelength.</text>
+      <annotation id="C211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="15590" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="C212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="15761" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="C213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019342</infon>
+        <location offset="15779" length="11"/>
+        <text>acetic acid</text>
+      </annotation>
+      <annotation id="C214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="15794" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15892</offset>
+      <text>Then, we used the peak areas to plot the correlation graphs vs 1/IC50 values of five RC extracts, to obtain the correlation coefficients (R values). As shown in Additional file 5 and Table  3, three phenolic acids all presented significant positive correlations (average R value = 0.47, 0.44, and 0.51, respectively for caffeic acid, ferulic acid and isoferulic acid). On the other hand, previous works have shown that three phenolic acids possess strong antioxidant ability [22-24]. Hence, they are considered as three of main bioactive compounds relevant to antioxidant in RC.</text>
+      <annotation id="C218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="16091" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+      <annotation id="C215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="16212" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="16226" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="16243" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017616</infon>
+        <location offset="16317" length="14"/>
+        <text>phenolic acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>16477</offset>
+      <text>Experimental</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>16490</offset>
+      <text>Chemicals and plant material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16519</offset>
+      <text>Trolox (± − 6-hydroxyl-2,5,7,8-tetramethlyhromane-2-carboxylic acid), Ferrozin [3-(2-pyridyl)-5,6-bis (4-phenylsulfonicacid)-1,2,4-triazine], DPPH · (1,1-Diphenyl-2-picrylhydrazyl radical), pyrogallol, linoleic acid, BHT (2.6-ditertiary butyl-p-cresol) and murexide (5,5′-Nitrilodibarbituric acid monoammonium salt) were purchased from Sigma Co. (Sigmaaldrich Trading Co., Shanghai, China); ABTS diammonium salt [2,2′-Azino-bis (3-ethylbenzothiazoline-6-sulfonic acid diammonium salt)], D-2-deoxyribose, and GSH (glutathione) were Amresco Inc. (Solon, OH, USA); DNA sodium salt (fish sperm) was purchased from Aladdin Chemistry Co. (Shanghai, China); Ferulic acid, caffeic acid were purchased from National Institute for the Control of Pharmaceutical and Biological Products (Beijing, China); Acetonitrile, methanol and water were of HPLC grade; All other chemicals used were in analytical grade.</text>
+      <annotation id="C220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010643</infon>
+        <location offset="16519" length="6"/>
+        <text>Trolox</text>
+      </annotation>
+      <annotation id="C231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010643</infon>
+        <location offset="16527" length="59"/>
+        <text>± − 6-hydroxyl-2,5,7,8-tetramethlyhromane-2-carboxylic acid</text>
+      </annotation>
+      <annotation id="C244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="16589" length="8"/>
+        <text>Ferrozin</text>
+      </annotation>
+      <annotation id="C245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="16598" length="61"/>
+        <text>[3-(2-pyridyl)-5,6-bis (4-phenylsulfonicacid)-1,2,4-triazine]</text>
+      </annotation>
+      <annotation id="C236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="16661" length="6"/>
+        <text>DPPH ·</text>
+      </annotation>
+      <annotation id="C246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="16669" length="29"/>
+        <text>1,1-Diphenyl-2-picrylhydrazyl</text>
+      </annotation>
+      <annotation id="C221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011748</infon>
+        <location offset="16709" length="10"/>
+        <text>pyrogallol</text>
+      </annotation>
+      <annotation id="C222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="16721" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="C233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002084</infon>
+        <location offset="16736" length="3"/>
+        <text>BHT</text>
+      </annotation>
+      <annotation id="C234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002084</infon>
+        <location offset="16741" length="29"/>
+        <text>2.6-ditertiary butyl-p-cresol</text>
+      </annotation>
+      <annotation id="C223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009114</infon>
+        <location offset="16776" length="8"/>
+        <text>murexide</text>
+      </annotation>
+      <annotation id="C232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009114</infon>
+        <location offset="16786" length="47"/>
+        <text>5,5′-Nitrilodibarbituric acid monoammonium salt</text>
+      </annotation>
+      <annotation id="C235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="16910" length="20"/>
+        <text>ABTS diammonium salt</text>
+      </annotation>
+      <annotation id="C237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="16932" length="71"/>
+        <text>2,2′-Azino-bis (3-ethylbenzothiazoline-6-sulfonic acid diammonium salt)</text>
+      </annotation>
+      <annotation id="C224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003855</infon>
+        <location offset="17006" length="15"/>
+        <text>D-2-deoxyribose</text>
+      </annotation>
+      <annotation id="C225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="17027" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="17032" length="11"/>
+        <text>glutathione</text>
+      </annotation>
+      <annotation id="O0">
+        <infon key="type">OTHER</infon>
+        <location offset="17081" length="15"/>
+        <text>DNA sodium salt</text>
+      </annotation>
+      <annotation id="C227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="17170" length="12"/>
+        <text>Ferulic acid</text>
+      </annotation>
+      <annotation id="C228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="17184" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="17312" length="12"/>
+        <text>Acetonitrile</text>
+      </annotation>
+      <annotation id="C230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="17326" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="17339" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17432</offset>
+      <text>Rhizoma Cimicifugae was purchased from Guangzhou University of Chinese Medicine Yanghe Interlink Limited Company and identified by Prof. Shuhui Tan. A voucher specimen was deposited in our laboratory.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>17633</offset>
+      <text>Preparation of different extracts of rhizoma Cimicifugae</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17690</offset>
+      <text>The dried rhizoma Cimicifugae was coarsely powder then extracted in sequence with petroleum ether (60–90), ethyl acetate, ethanol, 95% ethanol and water by Soxhlet extractor for 12 hours. The extracts were concentrated under reduced pressure to a constant weight. Then the dried extracts were stored at 4°C until used (Figure 2).</text>
+      <annotation id="C247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004544</infon>
+        <location offset="17772" length="15"/>
+        <text>petroleum ether</text>
+      </annotation>
+      <annotation id="C248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="17797" length="13"/>
+        <text>ethyl acetate</text>
+      </annotation>
+      <annotation id="C249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="17812" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="17825" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="17837" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>18025</offset>
+      <text>Preparation of five extracts of rhizoma Cimicifugae.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>18078</offset>
+      <text>Protective effect against lipid-peroxidation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18123</offset>
+      <text>The protective effect against lipid-peroxidation was investigated using a linoleic acid emulsion [25]. The linoleic acid emulsion was prepared by mixing and homogenizing 312.6 mg of linoleic acid, 78.2 mg of Tween-20 as emulsifier, and 30 mL of 75% ethanol (v/v), 0.1 mL of various concentrations of samples (0.4-2.8 mg/mL) were added to 1.5 mL of linoleic acid emulsion and 0.4 mL distilled water. The reaction mixture (2 mL) was incubated at room temperature in glass bottles for 72 hours. To 0.15 mL of sample solution, 3.65 mL of 75% ethanol, 0.1 mL of ammonium thiocyanate (30%, m/v), and 0.1 mL of ferrous chloride (0.02 M in 3.6% HCl) were added. The mixture was diluted to two-fold volume with methanol in case the color was too dark, the peroxide value was measured by monitoring absorbance at 500 nm in a spectrophotometer (Unico 2100, Shanghai, China). The percentage of inhibition of lipid-peroxidation in linoleic acid emulsion was calculated by following equation:</text>
+      <annotation id="C253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="18197" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="C254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="18230" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="C255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="18305" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="C256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011136</infon>
+        <location offset="18331" length="8"/>
+        <text>Tween-20</text>
+      </annotation>
+      <annotation id="C257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="18372" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="18471" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="C266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="18515" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="18661" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026976</infon>
+        <location offset="18680" length="20"/>
+        <text>ammonium thiocyanate</text>
+      </annotation>
+      <annotation id="C261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029451</infon>
+        <location offset="18727" length="16"/>
+        <text>ferrous chloride</text>
+      </annotation>
+      <annotation id="C262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="18760" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="18825" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010545</infon>
+        <location offset="18870" length="8"/>
+        <text>peroxide</text>
+      </annotation>
+      <annotation id="C265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="19041" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19132</offset>
+      <text>Where A is the absorbance with samples, while A0 is the absorbance without samples.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>19216</offset>
+      <text>Protective effect against hydroxyl-induced DNA damage</text>
+      <annotation id="C269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="19242" length="8"/>
+        <text>hydroxyl</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19270</offset>
+      <text>The experiment was conducted as described in previous report [26]. However, deoxyribose was replaced by DNA sodium salt. Briefly, sample was dissolved in methanol to prepare the sample solution. Various amounts (10–100 μL) of sample solutions (10 mg/mL) were then separately taken into mini tubes. After evaporating the sample solution in tube to dryness, 400 μL phosphate buffer (0.2 M, pH 7.4) was brought to the sample residue. Then, 50 μL DNA (10.0 mg/mL), 75 μL H2O2 (33.6 mM), 50 μL FeCl3 (0.3 mM) and 100 μL Na2EDTA solutions (0.5 mM) were added. The reaction was initiated by mixing 75 μL ascorbic acid (1.2 mM) . After incubation in a water bath at 55°C for 20 min, the reaction was terminated by 250 μL trichloroacetic acid (0.6 M). The color was then developed by addition of 150 μL 2-thiobarbituric acid (TBA) (0.4 M, in 1.25% NaOH aqueous solution) and heated in an oven at 105°C for 15 min. The mixture was cooled and absorbance was measured at 530 nm against the buffer (as blank). The percent of protection of DNA is expressed as follows:</text>
+      <annotation id="C270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003855</infon>
+        <location offset="19346" length="11"/>
+        <text>deoxyribose</text>
+      </annotation>
+      <annotation id="O1">
+        <infon key="type">OTHER</infon>
+        <location offset="19374" length="15"/>
+        <text>DNA sodium salt</text>
+      </annotation>
+      <annotation id="C271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="19424" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="19633" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="C278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="19737" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024555</infon>
+        <location offset="19759" length="5"/>
+        <text>FeCl3</text>
+      </annotation>
+      <annotation id="C273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="19785" length="7"/>
+        <text>Na2EDTA</text>
+      </annotation>
+      <annotation id="C274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001205</infon>
+        <location offset="19867" length="13"/>
+        <text>ascorbic acid</text>
+      </annotation>
+      <annotation id="C281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="19914" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="19983" length="20"/>
+        <text>trichloroacetic acid</text>
+      </annotation>
+      <annotation id="C276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="20064" length="21"/>
+        <text>2-thiobarbituric acid</text>
+      </annotation>
+      <annotation id="C277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="20087" length="3"/>
+        <text>TBA</text>
+      </annotation>
+      <annotation id="C280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="20109" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20380</offset>
+      <text>Where A is the absorbance with samples, while A0 is the absorbance without samples.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>20464</offset>
+      <text>Hydroxyl (·OH) radical-scavenging assay</text>
+      <annotation id="C282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20464" length="8"/>
+        <text>Hydroxyl</text>
+      </annotation>
+      <annotation id="C284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20474" length="3"/>
+        <text>·OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20505</offset>
+      <text>The hydroxyl radical-scavenging activity was investigated by the deoxyribose degradation method [26], with some modifications. In brief, the sample was dissolved in methanol, and then the sample solution was aliquoted into mini tubes. After evaporating the sample solutions in the tubes to dryness (48–240 μg), 300 μL of phosphate buffer (0.2 M, pH 7.4) was added to the sample residue. Subsequently, 50 μL deoxyribose (2.8 mM), 50 μL H2O2 (2.8 mM), 50 μL FeCl3 (25 μM), and 100 μL Na2EDTA (0.8 mM) were added. The reaction was initiated by mixing 50 μL ascorbic acid (1.2 mM) and the total volume of the reaction mixture was adjusted to 600 μL with buffer. After incubation in a water bath at 50°C for 20 min, the reaction was terminated by addition of 500 μL trichloroacetic acid (5%, w/w). The color was then developed by addition of 500 μL TBA (1 g/100 mL, in 1.25% NaOH aqueous solution) and heated in an oven at 105°C for 15 min. The mixture was cooled and the absorbance was measured at 532 nm against the buffer (as a blank control). The inhibition percentage for ·OH was expressed as follows:</text>
+      <annotation id="C300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="20509" length="16"/>
+        <text>hydroxyl radical</text>
+      </annotation>
+      <annotation id="C285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003855</infon>
+        <location offset="20570" length="11"/>
+        <text>deoxyribose</text>
+      </annotation>
+      <annotation id="C286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="20670" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710</infon>
+        <location offset="20826" length="9"/>
+        <text>phosphate</text>
+      </annotation>
+      <annotation id="C288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003855</infon>
+        <location offset="20912" length="11"/>
+        <text>deoxyribose</text>
+      </annotation>
+      <annotation id="C293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006861</infon>
+        <location offset="20940" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="C294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024555</infon>
+        <location offset="20961" length="5"/>
+        <text>FeCl3</text>
+      </annotation>
+      <annotation id="C289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="20987" length="7"/>
+        <text>Na2EDTA</text>
+      </annotation>
+      <annotation id="C290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001205</infon>
+        <location offset="21059" length="13"/>
+        <text>ascorbic acid</text>
+      </annotation>
+      <annotation id="C299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21185" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="21266" length="20"/>
+        <text>trichloroacetic acid</text>
+      </annotation>
+      <annotation id="C292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="21349" length="3"/>
+        <text>TBA</text>
+      </annotation>
+      <annotation id="C295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012972</infon>
+        <location offset="21375" length="4"/>
+        <text>NaOH</text>
+      </annotation>
+      <annotation id="C301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="21577" length="3"/>
+        <text>·OH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21667</offset>
+      <text>Where A is the absorbance containing samples, while A0 is the absorbance without samples.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>21757</offset>
+      <text>Superoxide anion (·O2-) radical-scavenging assay</text>
+      <annotation id="C302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21757" length="10"/>
+        <text>Superoxide</text>
+      </annotation>
+      <annotation id="C305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21775" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21807</offset>
+      <text>Measurement of superoxide anion (·O2−) scavenging activity was based on our method [27]. Briefly, samples were dissolved in methanol at 3 mg/mL. The sample solution x μL (x = 67, 117, 167, 217, 267, and 317) was mixed with Tris–HCl buffer (2950 - x μL, 0.05 M, pH 8.2) containing EDTA (1 mM) and pyrogallol (50 μL, 6 mM in 10.0 mM HCl), then shaken rapidly at 37°C. The absorbance at 325 nm of the mixture was measured (Unico 2100, Shanghai, China) against the Tris–HCl buffer as blank every 30 s for 5 min. The slope of the correlation of absorbance with time was calculated. The reaction mixture without sample was used as the control. The ·O2- scavenging ability was calculated as:</text>
+      <annotation id="C306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21822" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="C320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21840" length="4"/>
+        <text>·O2−</text>
+      </annotation>
+      <annotation id="C307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="21931" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="22030" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="22035" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="22087" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="C309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011748</infon>
+        <location offset="22103" length="10"/>
+        <text>pyrogallol</text>
+      </annotation>
+      <annotation id="C310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="22138" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325</infon>
+        <location offset="22268" length="4"/>
+        <text>Tris</text>
+      </annotation>
+      <annotation id="C313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="22273" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="22449" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22526</offset>
+      <text>Here, ΔA325nm, control is the increase in A325nm of the mixture without the sample and ΔA325nm, sample is that for the mixture with the sample; T = 5 min. The experiment temperature was 37°C.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>22727</offset>
+      <text>Chelating activity on Cu2+</text>
+      <annotation id="C322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="22749" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22754</offset>
+      <text>The Cu2+-chelating activities of five RC extracts were measured by the method [28]. Briefly, 60 μL CuSO4 aqueous solution (20 mM) was added to hexamine HCl buffer (pH 5.3, 30 mM) containing 30 mM KCl and 0.20 mM murexide. After incubation for 1 min at room temperature, 80–230 μL sample solutions (4 mg/mL in methanol) were added. The final volume was adjusted to 1500 μL with methanol. Then, the mixture was shaken vigorously and left at room temperature for 10 min. Absorbance of the solution was then measured by a spectrophotometer (Unico 2100, Shanghai, China) at 485 nm and 520 nm. The absorbance ratio (A485/A520) reflected the free Cu2+ content. Therefore, the percentage of cupric chelating effect was calculated by the following formula:</text>
+      <annotation id="C323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="22758" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+      <annotation id="C328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019327</infon>
+        <location offset="22853" length="5"/>
+        <text>CuSO4</text>
+      </annotation>
+      <annotation id="C329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008709</infon>
+        <location offset="22897" length="8"/>
+        <text>hexamine</text>
+      </annotation>
+      <annotation id="C330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="22906" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="C324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011189</infon>
+        <location offset="22950" length="3"/>
+        <text>KCl</text>
+      </annotation>
+      <annotation id="C325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009114</infon>
+        <location offset="22966" length="8"/>
+        <text>murexide</text>
+      </annotation>
+      <annotation id="C326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="23063" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="23131" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="23394" length="4"/>
+        <text>Cu2+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23531</offset>
+      <text>Where   is the absorbance ratio of the sample, while   is the maximum absorbance ratio and   is the minimum absorbance ratio in the test.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>23679</offset>
+      <text>DPPH· scavenging assay</text>
+      <annotation id="C335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="23679" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23703</offset>
+      <text>DPPH· radical-scavenging activity was determined as previously described by Li [23]. Briefly, 0.8 mL DPPH· solution (0.1 M) was mixed with 4.2 mL various concentrations (15–300 μg/mL) of samples dissolved in 95% ethanol. The mixture was kept at room temperature for 30 min, and then measured with a spectrophotometer (Unico 2100, Shanghai, China) at 519 nm. The DPPH· inhibition percentage of the samples was calculated:</text>
+      <annotation id="C341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="23703" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="23804" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="23915" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="24065" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24142</offset>
+      <text>Where A0 is the absorbance without samples, while A is the absorbance with samples.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>24226</offset>
+      <text>ABTS·+ scavenging assay</text>
+      <annotation id="C344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="24226" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24251</offset>
+      <text>The ABTS·+-scavenging activity was measured as described [23] with some modifications. The ABTS·+ was produced by mixing 0.35 mL ABTS diammonium salt (7.4 mM) with 0.35 mL potassium persulfate (2.6 mM). The mixture was kept in the dark at room temperature for 12 hours to allow completion of radical generation, then diluted with 95% ethanol (about 1:50) so that its absorbance at 734 nm was 0.70 ± 0.02. To determine the scavenging activity, 1.2 mL aliquot of ABTS·+ reagent was mixed with 0.3 mL of sample ethanolic solutions (40–540 μg/mL). After incubation for 6 min, the absorbance at 734 nm was read on a spectrophotometer (Unico 2100, Shanghai, China). The percentage inhibition of the samples was calculated as:</text>
+      <annotation id="C349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="24255" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+      <annotation id="C350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="24342" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+      <annotation id="C348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="24380" length="20"/>
+        <text>ABTS diammonium salt</text>
+      </annotation>
+      <annotation id="C345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C009007</infon>
+        <location offset="24423" length="20"/>
+        <text>potassium persulfate</text>
+      </annotation>
+      <annotation id="C346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="24585" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="24712" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+      <annotation id="C351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="24759" length="9"/>
+        <text>ethanolic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25004</offset>
+      <text>Where A0 is the absorbance at 734 nm without samples, while A is the absorbance at 734 nm with samples.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>25112</offset>
+      <text>Reducing power (Fe3+) assay</text>
+      <annotation id="C354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="25128" length="4"/>
+        <text>Fe3+</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25140</offset>
+      <text>Ferric cyanide (Fe3+) reducing power was determined according to the method of Oyaizu [23,29]. In brief, sample solutions x μL (4 mg/mL, x = 20, 40, 60, 80, and 100) were mixed with (350-x) μL Na2HPO4/KH2PO4 buffer (0.2 M, pH 6.6) and 250 μL K3Fe(CN)6 aqueous solution (1 g/100 mL).</text>
+      <annotation id="C359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005292</infon>
+        <location offset="25140" length="14"/>
+        <text>Ferric cyanide</text>
+      </annotation>
+      <annotation id="C358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296</infon>
+        <location offset="25156" length="4"/>
+        <text>Fe3+</text>
+      </annotation>
+      <annotation id="C360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C018279</infon>
+        <location offset="25333" length="7"/>
+        <text>Na2HPO4</text>
+      </annotation>
+      <annotation id="C357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013216</infon>
+        <location offset="25341" length="6"/>
+        <text>KH2PO4</text>
+      </annotation>
+      <annotation id="C356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C028033</infon>
+        <location offset="25382" length="9"/>
+        <text>K3Fe(CN)6</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25440</offset>
+      <text>The mixture was incubated at 50°C for 20 min, 250 μL of trichloroacetic acid (10 g/100 mL) was added, and the mixture was centrifuged at 3500 r/min for 10 min. As soon as 400 μL supernatant was mixed with 400 μL FeCl3 (0.1 g/100 mL in distilled water), the timer was started. At 90 s, absorbance of the mixture was read at 700 nm (Unico 2100, Shanghai, China). Samples were analyzed in groups of three, and when the analysis of one group has finished, the next group of three samples were mixed with FeCl3 to prevent the mixture from being oxidized by air. The relative reducing ability of the sample was calculated by using the formula:</text>
+      <annotation id="C361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="25496" length="20"/>
+        <text>trichloroacetic acid</text>
+      </annotation>
+      <annotation id="C362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024555</infon>
+        <location offset="25652" length="5"/>
+        <text>FeCl3</text>
+      </annotation>
+      <annotation id="C364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25685" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C024555</infon>
+        <location offset="25940" length="5"/>
+        <text>FeCl3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26106</offset>
+      <text>Here, Amax is the maximum absorbance and Amin is the minimum absorbance in the test. A is the absorbance of sample.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>26222</offset>
+      <text>HPLC analysis for caffeic acid, ferulic acid, and isoferulic acid</text>
+      <annotation id="C365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="26240" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="26254" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="26272" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26288</offset>
+      <text>Caffeic acid, ferulic acid, and isoferulic acid were identified by comparing their retention times using HPLC method. HPLC analysis was performed on a Syltech P510 system (Los Angeles, California, USA) equipped with Dikma Diamonsil C18 (250 mm × 4.6 mm, 5 μm) (Beijing, China). The mobile phase consisted of acetonitrile-0.5% acetic acid in water (17:83, v: v), the flow rate was 1.0 mL/min, injection volume was 30 μL and absorption was measured at 316 nm.</text>
+      <annotation id="C368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="26288" length="12"/>
+        <text>Caffeic acid</text>
+      </annotation>
+      <annotation id="C369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="26302" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="26320" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="26596" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="C372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019342</infon>
+        <location offset="26614" length="11"/>
+        <text>acetic acid</text>
+      </annotation>
+      <annotation id="C373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26629" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>26765</offset>
+      <text>Determination of total phenolics, total sugars and total saponins</text>
+      <annotation id="C375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="26788" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="26805" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="26822" length="8"/>
+        <text>saponins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26831</offset>
+      <text>The total phenolics of five RC extracts were determined by the Folin-Ciocalteu method with a little modifications [30]. Firstly, 0.5 mL extract methanolic solution ( 0.4 mg/mL ) was mixed with 0.5 mL 0.25 M Folin-Ciocalteu reagent. After incubation for 3 min, 1 mL of Na2CO3 solution (15%, w/v) was added. After standing at the room temperature for 30 min, the mixture was centrifuged at 3500 r/min for 3 min. The absorbance of the supernatant was measured at 760 nm (Unico 2100, Shanghai, China). The determinations were performed in triplicate, and the calculations were based on a calibration curve obtained with pyrogallol. The result was expressed as pyrogallol equivalents (Pyr.) in milligrams per gram of extract.</text>
+      <annotation id="C381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="26841" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029556</infon>
+        <location offset="27038" length="23"/>
+        <text>Folin-Ciocalteu reagent</text>
+      </annotation>
+      <annotation id="C379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C005686</infon>
+        <location offset="27099" length="6"/>
+        <text>Na2CO3</text>
+      </annotation>
+      <annotation id="C377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011748</infon>
+        <location offset="27447" length="10"/>
+        <text>pyrogallol</text>
+      </annotation>
+      <annotation id="C378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011748</infon>
+        <location offset="27487" length="10"/>
+        <text>pyrogallol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27572</offset>
+      <text>The total sugars were evaluated according to the phenol-sulfuric acid method [30]. A 40-μL aliquot of sample solution (1 mg/mL) was placed in a flask, then 210 μL distilled water, 250 μL phenol solution (5%, w/v) and 250 μL concentrated sulfuric acid were added. After incubation for 20 min at room temperature, the absorbance of reaction mixture was measured at 490 nm (Unico 2100, Shanghai, China). The measurements were performed in triplicate, and the calculations were based on a calibration curve obtained with glucose. The result was expressed as glucose equivalents in milligrams per gram of extract.</text>
+      <annotation id="C386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="27582" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C387">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019800</infon>
+        <location offset="27621" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="C388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C033158</infon>
+        <location offset="27628" length="13"/>
+        <text>sulfuric acid</text>
+      </annotation>
+      <annotation id="C389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27745" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="27759" length="6"/>
+        <text>phenol</text>
+      </annotation>
+      <annotation id="C385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C033158</infon>
+        <location offset="27809" length="13"/>
+        <text>sulfuric acid</text>
+      </annotation>
+      <annotation id="C383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="28089" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="C384">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="28126" length="7"/>
+        <text>glucose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28197</offset>
+      <text>The total saponins were measured according to the method [30]. RC extract was dissolved in methanol to prepare the sample solution (4 mg/mL), then a 20-μL aliquot of sample solution was taken into a mini tube. After the sample solution in tube was evaporated to dryness (water bath, 80°C), 0.1 mL vanillin-acetic acid solution (5 mg/mL) and 0.4 mL perchloric acid were added to the sample residue. The reaction mixture was incubated at 70°C for 15 min, then diluted by 1.25 mL acetic acid. The mixture was measured using a spectrophotometer (Unico 2100, Shanghai, China) at 540 nm against a blank control, which contained all reagents except sample. All analyses were run in triplicate. Quantification was based on the standard curve for oleanic acid (10–79 μg/mL) and the results were expressed in milligrams of oleanic acid (Ole.) equivalents per gram of extract.</text>
+      <annotation id="C390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="28207" length="8"/>
+        <text>saponins</text>
+      </annotation>
+      <annotation id="C391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="28288" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="C399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="28468" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C100058</infon>
+        <location offset="28494" length="8"/>
+        <text>vanillin</text>
+      </annotation>
+      <annotation id="C394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019342</infon>
+        <location offset="28503" length="11"/>
+        <text>acetic acid</text>
+      </annotation>
+      <annotation id="C392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C576518</infon>
+        <location offset="28545" length="15"/>
+        <text>perchloric acid</text>
+      </annotation>
+      <annotation id="C393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019342</infon>
+        <location offset="28674" length="11"/>
+        <text>acetic acid</text>
+      </annotation>
+      <annotation id="C396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009828</infon>
+        <location offset="28935" length="12"/>
+        <text>oleanic acid</text>
+      </annotation>
+      <annotation id="C397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009828</infon>
+        <location offset="29010" length="12"/>
+        <text>oleanic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>29085</offset>
+      <text>The correlation graphs and R values</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29121</offset>
+      <text>In order to investigate the correlation between antioxidant activities and chemical components of five RC extracts, 48 correlation graphs were plotted between 1/IC50 values (including of LPO, DNA, ·OH, ·O2- ,Cu-chelating, DPPH·, ABTS·+, and reducing power assays) and chemical contents (including total phenolics, caffeic acid, ferulic acid, isoferulic acid, total sugars, and total saponins). In the correlation graphs, the correlation coefficients (R values) were calculated by Origin 6.0 professional software.</text>
+      <annotation id="C413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017665</infon>
+        <location offset="29318" length="3"/>
+        <text>·OH</text>
+      </annotation>
+      <annotation id="C412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="29323" length="4"/>
+        <text>·O2-</text>
+      </annotation>
+      <annotation id="C400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003300</infon>
+        <location offset="29329" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="C401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="29343" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="29350" length="6"/>
+        <text>ABTS·+</text>
+      </annotation>
+      <annotation id="C407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="29424" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="29435" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="29449" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="29463" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000073893</infon>
+        <location offset="29486" length="6"/>
+        <text>sugars</text>
+      </annotation>
+      <annotation id="C406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012503</infon>
+        <location offset="29504" length="8"/>
+        <text>saponins</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>29639</offset>
+      <text>Statistical analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29660</offset>
+      <text>Data are given as the mean ± SD of three measurements. The IC50 values were calculated by linear regression analysis. All linear regression in this paper was analyzed by Origin 6.0 professional software. Significant differences were performed using the T-test (p &lt; 0.05). The analysis was performed using SPSS software (v.12, SPSS, USA).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30007</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30018</offset>
+      <text>As an effective antioxidant, rhizoma Cimicifugae can protect DNA and lipids against oxidative damage. Its antioxidant ability can be responsible for its various pharmacological effects and may be mainly attributed to the existence of total phenolics, among which caffeic acid, ferulic acid and isoferulic acid are regarded as main bioactive components. Rhizoma Cimicifugae exerts its antioxidant effect through metal-chelating, and radical-scavenging which is via donating hydrogen atom (H·) and donating electron (e).</text>
+      <annotation id="C418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010636</infon>
+        <location offset="30258" length="9"/>
+        <text>phenolics</text>
+      </annotation>
+      <annotation id="C414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002109</infon>
+        <location offset="30281" length="12"/>
+        <text>caffeic acid</text>
+      </annotation>
+      <annotation id="C415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004999</infon>
+        <location offset="30295" length="12"/>
+        <text>ferulic acid</text>
+      </annotation>
+      <annotation id="C416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C008180</infon>
+        <location offset="30312" length="15"/>
+        <text>isoferulic acid</text>
+      </annotation>
+      <annotation id="C417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30491" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="C420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="30506" length="2"/>
+        <text>H·</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>30538</offset>
+      <text>Abbreviations</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30552</offset>
+      <text>RC: Rhizoma Cimicifugae; PERC: Petroleum ether extract from rhizoma Cimicifugae; EARC: Ethyl acetate extract from rhizoma Cimicifugae; AERC: Absolute ethanol extract from rhizoma Cimicifugae; 95ERC: 95% ethanol extract from rhizoma Cimicifugae; WRC: Water extract from rhizoma Cimicifugae; DPPH·: 1,1-diphenyl-2-picryl-hydrazl radical; ABTS: 2,2′-azino-bis (3-ethylbenzo- thiazoline-6-sulfonic acid salt); ROS: Reactive oxygen species; TCM: Traditional Chinese medicine; BHT: 2,6-di-tert-butyl-4-methyphenol; GSH: Glutathione; BHA: Butylated hydroxyanisole; TBARS: Thiobarbituric acid reactive substances; TBA: Thiobarbituric acid; MDA: Malondialdehyde.</text>
+      <annotation id="C434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004544</infon>
+        <location offset="30583" length="15"/>
+        <text>Petroleum ether</text>
+      </annotation>
+      <annotation id="C421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C007650</infon>
+        <location offset="30639" length="13"/>
+        <text>Ethyl acetate</text>
+      </annotation>
+      <annotation id="C422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="30702" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="30755" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="C443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="30802" length="5"/>
+        <text>Water</text>
+      </annotation>
+      <annotation id="C444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="30842" length="5"/>
+        <text>DPPH·</text>
+      </annotation>
+      <annotation id="C435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C004931</infon>
+        <location offset="30849" length="29"/>
+        <text>1,1-diphenyl-2-picryl-hydrazl</text>
+      </annotation>
+      <annotation id="C424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="30888" length="4"/>
+        <text>ABTS</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C002502</infon>
+        <location offset="30894" length="62"/>
+        <text>2,2′-azino-bis (3-ethylbenzo- thiazoline-6-sulfonic acid salt)</text>
+      </annotation>
+      <annotation id="C438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="30958" length="3"/>
+        <text>ROS</text>
+      </annotation>
+      <annotation id="C439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017382</infon>
+        <location offset="30963" length="23"/>
+        <text>Reactive oxygen species</text>
+      </annotation>
+      <annotation id="C437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002084</infon>
+        <location offset="31023" length="3"/>
+        <text>BHT</text>
+      </annotation>
+      <annotation id="C436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002084</infon>
+        <location offset="31028" length="31"/>
+        <text>2,6-di-tert-butyl-4-methyphenol</text>
+      </annotation>
+      <annotation id="C425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="31061" length="3"/>
+        <text>GSH</text>
+      </annotation>
+      <annotation id="C426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="31066" length="11"/>
+        <text>Glutathione</text>
+      </annotation>
+      <annotation id="C427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002083</infon>
+        <location offset="31079" length="3"/>
+        <text>BHA</text>
+      </annotation>
+      <annotation id="C428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002083</infon>
+        <location offset="31084" length="24"/>
+        <text>Butylated hydroxyanisole</text>
+      </annotation>
+      <annotation id="C429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="31117" length="19"/>
+        <text>Thiobarbituric acid</text>
+      </annotation>
+      <annotation id="C430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="31158" length="3"/>
+        <text>TBA</text>
+      </annotation>
+      <annotation id="C431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C029684</infon>
+        <location offset="31163" length="19"/>
+        <text>Thiobarbituric acid</text>
+      </annotation>
+      <annotation id="C432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="31184" length="3"/>
+        <text>MDA</text>
+      </annotation>
+      <annotation id="C433">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008315</infon>
+        <location offset="31189" length="15"/>
+        <text>Malondialdehyde</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31209</offset>
+      <text>Competing interests</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31229</offset>
+      <text>The authors declare that they have no competing interests.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31288</offset>
+      <text>Authors’ contribution</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31312</offset>
+      <text>XL &amp; JL made a significant contribution to experiment design, acquisition of data, analysis, drafting of the manuscript. YG and WH have made a substantial contribution to interpretation of data, drafting. DC has carefully revised the manuscript for intellectual content. All authors read and approved the final manuscript.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31635</offset>
+      <text>Supplementary Material</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31658</offset>
+      <text>Acknowledgement</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31674</offset>
+      <text>This work was supported by the National Nature Science Foundation of China (81273896) and National Key Technologies R&amp;D Program of China (No. 2008BAI51B01).</text>
+    </passage>
+  </document>
+</collection>

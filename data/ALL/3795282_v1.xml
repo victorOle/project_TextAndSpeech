@@ -1,0 +1,3641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181117</date>
+  <key>pmc.key</key>
+  <document>
+    <id>3795282</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Bailey;given-names:Jade</infon>
+      <infon key="name_2">surname:Chuaiphichai;given-names:Surawee</infon>
+      <infon key="name_1">surname:Batchelor;given-names:Helen</infon>
+      <infon key="name_0">surname:Benson;given-names:Matthew A.</infon>
+      <infon key="article-id_pmid">23965989</infon>
+      <infon key="year">2013</infon>
+      <infon key="article-id_publisher-id">M113.493023</infon>
+      <infon key="article-id_pmc">3795282</infon>
+      <infon key="article-id_doi">10.1074/jbc.M113.493023</infon>
+      <infon key="type">front</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="lpage">29845</infon>
+      <infon key="fpage">29836</infon>
+      <infon key="issue">41</infon>
+      <infon key="alt-title">Trp-447 Regulates eNOS Uncoupling</infon>
+      <infon key="volume">288</infon>
+      <infon key="license">Author's Choice—Final version full access.Creative Commons Attribution Unported License applies to Author Choice Articles</infon>
+      <infon key="subtitle">EFFECTS ON TETRAHYDROBIOPTERIN-DEPENDENT CATALYSIS AND eNOS DIMERIZATION*</infon>
+      <infon key="kwd">Endothelial Dysfunction Nitric Oxide Synthase Superoxide Ion Tetrahydrobiopterin Tryptophan Superoxide Uncoupling</infon>
+      <infon key="name_8">surname:Crabtree;given-names:Mark J.</infon>
+      <infon key="name_7">surname:Channon;given-names:Keith M.</infon>
+      <infon key="name_6">surname:Bhattacharya;given-names:Shoumo</infon>
+      <infon key="name_5">surname:Stuehr;given-names:Dennis J.</infon>
+      <infon key="name_4">surname:Zhu;given-names:Hanneng</infon>
+      <offset>0</offset>
+      <text>A Pivotal Role for Tryptophan 447 in Enzymatic Coupling of Human Endothelial Nitric Oxide Synthase (eNOS)</text>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19" length="10"/>
+        <text>Tryptophan</text>
+      </annotation>
+      <annotation id="627">
+        <infon key="type">OTHER</infon>
+        <location offset="65" length="33"/>
+        <text>Endothelial Nitric Oxide Synthase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>106</offset>
+      <text>Background: Interaction of tetrahydrobiopterin (BH4) with a key tryptophan residue in the NOS active site is critical for activity.</text>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="133" length="19"/>
+        <text>tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="154" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="170" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>238</offset>
+      <text>Results: Mutation of tryptophan 447 causes eNOS uncoupling and monomerization.</text>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="259" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>317</offset>
+      <text>Conclusion: Tryptophan 447 determines enzymatic coupling of human eNOS.</text>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="329" length="10"/>
+        <text>Tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>389</offset>
+      <text>Significance: The development of BH4-based strategies to restore NOS function must consider the structural effects of BH4 binding and their role in NOS coupling.</text>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="422" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="507" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>551</offset>
+      <text>Tetrahydrobiopterin (BH4) is a required cofactor for the synthesis of NO by NOS. Bioavailability of BH4 is a critical factor in regulating the balance between NO and superoxide production by endothelial NOS (eNOS coupling). Crystal structures of the mouse inducible NOS oxygenase domain reveal a homologous BH4-binding site located in the dimer interface and a conserved tryptophan residue that engages in hydrogen bonding or aromatic stacking interactions with the BH4 ring. The role of this residue in eNOS coupling remains unexplored. We overexpressed human eNOS W447A and W447F mutants in novel cell lines with tetracycline-regulated expression of human GTP cyclohydrolase I, the rate-limiting enzyme in BH4 synthesis, to determine the importance of BH4 and Trp-447 in eNOS uncoupling. NO production was abolished in eNOS-W447A cells and diminished in cells expressing W447F, despite high BH4 levels. eNOS-derived superoxide production was significantly elevated in W447A and W447F versus wild-type eNOS, and this was sufficient to oxidize BH4 to 7,8-dihydrobiopterin. In uncoupled, BH4-deficient cells, the deleterious effects of W447A mutation were greatly exacerbated, resulting in further attenuation of NO and greatly increased superoxide production. eNOS dimerization was attenuated in W447A eNOS cells and further reduced in BH4-deficient cells, as demonstrated using a novel split Renilla luciferase biosensor. Reduction of cellular BH4 levels resulted in a switch from an eNOS dimer to an eNOS monomer. These data reveal a key role for Trp-447 in determining NO versus superoxide production by eNOS, by effects on BH4-dependent catalysis, and by modulating eNOS dimer formation.</text>
+      <annotation id="G9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="551" length="19"/>
+        <text>Tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="572" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="621" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="651" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="710" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="717" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="858" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="922" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="957" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1017" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="1166" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="628">
+        <infon key="type">OTHER</infon>
+        <location offset="1209" length="20"/>
+        <text>GTP cyclohydrolase I</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1259" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1305" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="1313" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="1341" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1444" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="1469" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1595" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="1602" length="20"/>
+        <text>7,8-dihydrobiopterin</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1638" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="1763" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="1788" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1887" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="1996" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="2100" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="2123" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="2133" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2178" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2243</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2256</offset>
+      <text>NOSs catalyze the five-electron oxidation of l-arginine to produce l-citrulline and NO, an important signaling molecule in immunological, neuronal, and cardiovascular homeostasis and disease. In mammals, NO is generated by three distinct NOS isoforms, referred to as inducible (iNOS),2 neuronal, and endothelial (eNOS). All NOS isoforms are obligate homodimers with similar structures. The N-terminal catalytic oxygenase domain (NOSox) binds heme, the substrate l-arginine, and the essential pterin cofactor tetrahydrobiopterin (BH4), whereas the C-terminal reductase domain (NOSred) supplies electrons through bound flavin mononucleotide, flavin adenine dinucleotide, and NADPH. A central linker binds calmodulin and modulates the transfer of electrons from NOSred of one subunit to the NOSox of the other dimer subunit.</text>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="2301" length="10"/>
+        <text>l-arginine</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002956</infon>
+        <location offset="2323" length="12"/>
+        <text>l-citrulline</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="2340" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="2460" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="2698" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="2718" length="10"/>
+        <text>l-arginine</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2764" length="19"/>
+        <text>tetrahydrobiopterin</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="2785" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005486</infon>
+        <location offset="2873" length="21"/>
+        <text>flavin mononucleotide</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005182</infon>
+        <location offset="2896" length="27"/>
+        <text>flavin adenine dinucleotide</text>
+      </annotation>
+      <annotation id="G47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="2929" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>3078</offset>
+      <text>BH4 is required for NO synthesis by all NOS isoforms. Although fully reduced tetrahydropterins support catalysis by NOSs, oxidized pterin species such as 7,8-dihydrobiopterin (BH2) and biopterin are catalytically incompetent, having the same allosteric effects without the ability to catalyze NO production. EPR studies showed that in the absence of BH4 (or presence of excess BH2), superoxide is the sole in vitro product of recombinant eNOS. In the absence of BH4, electron transfer from NOS flavins becomes “uncoupled” from l-arginine oxidation, the ferrous-dioxygen complex dissociates, and superoxide is released from the oxygenase domain. This eNOS-derived superoxide production has been implicated in a wide variety of molecular, animal, and clinical models of vascular disease, including diabetes, cigarette smoking, hypertension, and atherosclerosis.</text>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3078" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="3098" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="640">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="3155" length="17"/>
+        <text>tetrahydropterins</text>
+      </annotation>
+      <annotation id="G60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="3209" length="6"/>
+        <text>pterin</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="3232" length="20"/>
+        <text>7,8-dihydrobiopterin</text>
+      </annotation>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="3254" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="3263" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="3371" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3428" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="3455" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="3461" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="3540" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="3572" length="7"/>
+        <text>flavins</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="3605" length="10"/>
+        <text>l-arginine</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296,MESH:D010100</infon>
+        <location offset="3631" length="16"/>
+        <text>ferrous-dioxygen</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="3673" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="3741" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>3942</offset>
+      <text>As well as being pivotal in the transfer of electrons to the Fe(II)O2 complex and radical formation, the binding of BH4 to iNOS also has positive effects on dimerization and increases the binding affinity of the enzymatic substrate arginine. Previous studies looking at the binding of BH4 to iNOS have demonstrated that BH4 makes hydrogen bonds with the heme propionate and exhibits extensive interactions with the residues Trp-455, Trp-457, Phe-470, Arg-375, and Arg-193, as shown in Fig. 1. In particular, mutation of Trp-457 to Phe and Ala residues in iNOS greatly disrupts the interaction of Trp-457 with BH4 and decreases NO synthesis activity by 3.3-fold and 8-fold, respectively. However, the role of BH4 binding in eNOS, the specific interaction of BH4 with this residue, and the role of eNOS Trp-447 (Trp-457 in iNOS) in enzymatic uncoupling remain unexplored.</text>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296,MESH:D010087</infon>
+        <location offset="4003" length="8"/>
+        <text>Fe(II)O2</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4058" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="4174" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4227" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4262" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="4272" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C068841</infon>
+        <location offset="4296" length="15"/>
+        <text>heme propionate</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4366" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4375" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4384" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="4393" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="4406" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4462" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="4473" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="4481" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4538" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4551" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="4569" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4650" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="4699" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4743" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="4752" length="3"/>
+        <text>Trp</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650001.jpg</infon>
+      <infon key="id">F1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>4812</offset>
+      <text>Human eNOS and murine iNOS have closely related structures.
+A, the active site of iNOS (yellow), showing the heme group (green) and arginine substrate (pale blue). B, the active site of eNOS (gray), demonstrating its close structural similarity with iNOS. Structural superposition of human eNOS and murine iNOS (PDB codes 3NOS and 1NOD, respectively) was performed using PDBe Fold. The top-ranked root mean square deviation between 365 matched residues in a single protein chain was 0.81Å. C, the active site of iNOS showing the W457F mutation. D, the active site of iNOS showing the W457A mutation. Figures were produced using PyMOL on the basis of Fig. 1 by Wang et al. using PDB codes 3NOS (eNOS), 1NOD (iNOS), 1JWJ (iNOS W457F), and 1JWK (iNOS W457A).</text>
+      <annotation id="57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="4921" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="4944" length="8"/>
+        <text>arginine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>5570</offset>
+      <text>eNOS uncoupling is often thought to occur in parallel with eNOS monomerization, and confusion exists as to whether changes in the dimer/monomer ratio are directly related to the functional uncoupling of eNOS because current literature suggests that only the dimeric form of eNOS is biochemically active and able to generate either NO or superoxide. Questions also remain as to whether eNOS in the uncoupled state exists as a monomer, therefore suggesting that the influences of BH4 on “dimer stabilization” and the coupling of eNOS are not necessarily one and the same effect.</text>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="5901" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="5907" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6048" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>6151</offset>
+      <text>Accordingly, we sought to elucidate a mechanistic role for the interaction of BH4 with eNOS Trp-447 in the regulation of eNOS uncoupling and monomerization. To address these questions, we expressed eNOS W447F and eNOS W447A mutants in HEK293 cells and in cells that stably express doxycycline-regulatable GTPCH protein to determine the effects of high or low intracellular BH4. We also developed a novel biosensor of eNOS dimerization on the basis of the reconstitution of split Renilla luciferase, revealing for the first time that the Trp-447 residue within the BH4 binding site of eNOS is required for efficient NO production by the enzyme, is critical for the coupling of eNOS, and also plays a role in dimerization. These findings have significant consequences for the therapeutic potential of BH4-dependent eNOS catalysis and dimerization.</text>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6229" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="6243" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="6432" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6524" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="6688" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6715" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="6766" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="6950" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>6997</offset>
+      <text>EXPERIMENTAL PROCEDURES</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>7021</offset>
+      <text>Molecular Modeling of the eNOS Active Site</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>7064</offset>
+      <text>Figures were produced using PyMOL, on the basis of Fig. 1 by Wang et al. using PDB codes 3NOS (eNOS), 1NOD (iNOS), 1JWJ (iNOS W457F), and 1JWK (iNOS W457A).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>7221</offset>
+      <text>Generation of Tet-regulatable Cells</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>7257</offset>
+      <text>We used National Institutes of Health 3T3 murine fibroblasts stably transfected with a Tet-Off transactivator construct as described previously. In the presence of doxycycline, binding of the transactivator is blocked, and gene expression is prevented. These 3T3-Tet-Off cells, previously shown not to express GTPCH and also confirmed to be devoid of eNOS protein, were stably transfected with a plasmid encoding hemagglutinin antigen-tagged human GTPCH under the control of a tetracycline-responsive element. Individual colonies were isolated and analyzed for GTPCH expression, and a cell line termed “GCH cells” was established from expansion of a single colony. GCH/eNOS cells were produced by stable transfection of GCH cells with a plasmid encoding a human eNOS-eGFP fusion protein as described. In this model, addition of doxycycline to GCH/eNOS cells results in diminished GCH mRNA, GTPCH protein, and BH4 levels, leading to uncoupling of eNOS.</text>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="7421" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013752</infon>
+        <location offset="7734" length="12"/>
+        <text>tetracycline</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="8085" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8166" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8213</offset>
+      <text>Measurement of eNOS Protein Levels by eGFP Fluorescence</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8269</offset>
+      <text>Cell pellets were lysed in phosphate-buffered saline containing 1 mmol/liter dithioerythritol and 100 μmol/liter EDTA as for BH4 analysis. Sample fluorescence was quantified using a TEKAN fluorescence plate reader and a standard curve generated using recombinant eGFP. Because recombinant eNOS was expressed as an eNOS-eGFP fusion protein, eGFP fluorescence and eNOS levels were directly proportional.</text>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="8296" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004226</infon>
+        <location offset="8346" length="16"/>
+        <text>dithioerythritol</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="8382" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="8394" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8672</offset>
+      <text>Generation of Tryptophan eNOS Mutants</text>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="8686" length="10"/>
+        <text>Tryptophan</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>8710</offset>
+      <text>QuikChange site-directed mutagenesis (Stratagene) was used to create W447A, W447F, and C99A human eNOS mutants. Mutant primers were designed and used as follows: W447A, 5′-TGCAGACTGGGCCGCGATCGTGCCCCCC-3′ (sense) and 5′-GGGGGGCACGATCGCGGCCCAGTCTGCA-3′ (antisense); W447F, 5′-GCAGACTGGGCCTTCATCGTGCCCCCCA-3′ (sense) and 5′-TGGGGGGCACGATGAAGGCCCAGTCTGC-3′ (antisense); and C99A, 5′-CACCCCAAGACGCGCCCTGGGCTCCCTG-3′ (sense) and 5′-CAGGGAGCCCAGGGCGCGTCTTGGGGTG-3′ (antisense). The sequence of each eNOS single and double mutant was confirmed by DNA sequencing (SourceBioscience, UK). Mutant constructs were transiently expressed in GCH cells using FuGENE 6 (Roche).</text>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011119</infon>
+        <location offset="8879" length="34"/>
+        <text>5′-TGCAGACTGGGCCGCGATCGTGCCCCCC-3′</text>
+      </annotation>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016375</infon>
+        <location offset="8926" length="34"/>
+        <text>5′-GGGGGGCACGATCGCGGCCCAGTCTGCA-3′</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011119</infon>
+        <location offset="8981" length="34"/>
+        <text>5′-GCAGACTGGGCCTTCATCGTGCCCCCCA-3′</text>
+      </annotation>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016375</infon>
+        <location offset="9028" length="34"/>
+        <text>5′-TGGGGGGCACGATGAAGGCCCAGTCTGC-3′</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011119</infon>
+        <location offset="9086" length="34"/>
+        <text>5′-CACCCCAAGACGCGCCCTGGGCTCCCTG-3′</text>
+      </annotation>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016375</infon>
+        <location offset="9133" length="34"/>
+        <text>5′-CAGGGAGCCCAGGGCGCGTCTTGGGGTG-3′</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9394</offset>
+      <text>Cell Culture</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9407</offset>
+      <text>Cells were cultured in DMEM (Invitrogen) supplemented with 2 mm glutamine, 100 units/ml penicillin, and 0.1 mg/ml streptomycin. Additionally, GCH cells were maintained using media containing the antibiotics hygromycin (200 μg/ml) and genetecin (200 μg/ml), whereas GCH/eNOS-eGFP cell medium also included 2 μg/ml puromycin. Where appropriate, 1 μg/ml doxycycline was added to cell culture medium to abolish transcription of GCH1 mRNA.</text>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="9471" length="9"/>
+        <text>glutamine</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010406</infon>
+        <location offset="9495" length="10"/>
+        <text>penicillin</text>
+      </annotation>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013307</infon>
+        <location offset="9521" length="12"/>
+        <text>streptomycin</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026273</infon>
+        <location offset="9614" length="10"/>
+        <text>hygromycin</text>
+      </annotation>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C010680</infon>
+        <location offset="9641" length="9"/>
+        <text>genetecin</text>
+      </annotation>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011691</infon>
+        <location offset="9720" length="9"/>
+        <text>puromycin</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="9758" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9846</offset>
+      <text>Monomer and Dimer Western Blotting</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>9881</offset>
+      <text>Low-temperature SDS-PAGE was performed for detection of the eNOS monomer and dimer. Briefly, cells lysates were prepared by homogenization in ice-cold CelLytic M buffer (Sigma) containing protease inhibitor (Roche Applied Science) and subjected to three freeze-thaw cycles in liquid nitrogen. Lysates were centrifuged at 13,200 rpm for 10 min at 4 °C, and samples were prepared using Laemmli sample buffer (Sigma). Protein lysates were resolved using a 6% Tris-glycine gel (Invitrogen) under reducing conditions. All gels and buffers were pre-equilibrated to 4 °C before electrophoresis, and the buffer tank was placed in an ice bath during electrophoresis to maintain the gel temperature below 15 °C. Standard blotting techniques were used, and membranes were incubated with mouse anti-eNOS polyclonal antibody (BD Transduction Laboratories) as described previously.</text>
+      <annotation id="81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012967</infon>
+        <location offset="9897" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="608">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="10032" length="17"/>
+        <text>CelLytic M buffer</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="10164" length="8"/>
+        <text>nitrogen</text>
+      </annotation>
+      <annotation id="G125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C088816</infon>
+        <location offset="10265" length="21"/>
+        <text>Laemmli sample buffer</text>
+      </annotation>
+      <annotation id="638">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D005998</infon>
+        <location offset="10337" length="16"/>
+        <text>Tris-glycine gel</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>10752</offset>
+      <text>Creation of eNOS Dimerization Biosensors</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>10793</offset>
+      <text>Rluc8.1 and 8.2 fragments were PCR-amplified using the rluc8 plasmid as a template (a gift from Prof. Sanjiv Gambhir, Stanford University). The rluc8 PCR fragments were cloned into pcDNA3. Gateway destination plasmids were then created by cloning the vector conversion kit (Invitrogen) into the rluc8.1 and rluc8.2 vectors. For the creation of stable cell lines, this destination cassette was cloned into the pIRES-puro and Neo plasmids (Clontech). pENTR clones encoding our genes of interest were either created by PCR or purchased from Geneservice or Thermo Fisher. To create expression plasmids, pENTR clones were recombined with the destination vectors using LR clonase according to the instructions of the manufacturer. Recombinant Rluc8 expression plasmids and a LacZ-encoding control plasmid were then transfected into HEK293T or GCH cells and grown on white 96-well plates using FuGENE HD (Roche). We placed our rluc8.1 and rluc8.2 halves onto either end of eNOS. rluc8.1 was added to the C terminus (reductase domain), and rluc8.2 was added to the N terminus (oxygenase domain).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11881</offset>
+      <text>Detection of Biosensor Luminescence by Protein Fragment Complementation Assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>11959</offset>
+      <text>24 h following transfection, cells were treated with drugs as indicated. Cells were then washed with PBS, and reconstituted Rluc8 activity was measured using benzyl-coelenterazine (Nanolight) on a BMG Polarstar plate reader (5-s read time). Cells were lysed by adding LacZ lysis buffer (120 μm TrisPO4 (pH 7.8), 10 mm 1,2-cyclohexylenedinitrilotetraacetic acid, 30% glycerol, and 1% Triton X-100) to each well, and LacZ activity was measured using ortho-nitrophenyl-β-galactopyranoside. Rluc8 readings were normalized using LacZ activity.</text>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="12060" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017144</infon>
+        <location offset="12117" length="21"/>
+        <text>benzyl-coelenterazine</text>
+      </annotation>
+      <annotation id="639">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D010710,MESH:D003510,MESH:D000085,MESH:D005990,MESH:D017830</infon>
+        <location offset="12227" length="17"/>
+        <text>LacZ lysis buffer</text>
+      </annotation>
+      <annotation id="518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014325,MESH:D010710</infon>
+        <location offset="12253" length="7"/>
+        <text>TrisPO4</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003510,MESH:D000085</infon>
+        <location offset="12277" length="42"/>
+        <text>1,2-cyclohexylenedinitrilotetraacetic acid</text>
+      </annotation>
+      <annotation id="G127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="12325" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017830</infon>
+        <location offset="12342" length="12"/>
+        <text>Triton X-100</text>
+      </annotation>
+      <annotation id="88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C055012</infon>
+        <location offset="12407" length="37"/>
+        <text>ortho-nitrophenyl-β-galactopyranoside</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12502</offset>
+      <text>Analysis of NO Synthesis by eNOS</text>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="12514" length="2"/>
+        <text>NO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12535</offset>
+      <text>Cellular NO synthesis by eNOS was assessed by measuring the conversion of 14C l-arginine to citrulline with HPLC detection, in the presence and absence of NG-monomethyl-l-arginine, as described previously.</text>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="12544" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002250,MESH:D001120</infon>
+        <location offset="12609" length="14"/>
+        <text>14C l-arginine</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002956</infon>
+        <location offset="12627" length="10"/>
+        <text>citrulline</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019323</infon>
+        <location offset="12690" length="24"/>
+        <text>NG-monomethyl-l-arginine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12741</offset>
+      <text>Quantification of Superoxide Production by HPLC</text>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="12759" length="10"/>
+        <text>Superoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>12789</offset>
+      <text>Measurement of 2-hydroxyethidium formation by HPLC was used to quantify superoxide production, as described previously. Cells were washed three times in PBS and incubated in Krebs-Hepes buffer in the presence or absence of 100 μm L-NAME. After 30 min, 25 μm dihydroethidium was added, and cells were incubated for an additional 20 min at 37 °C. Cells were then harvested by scraping, centrifuged, and lysed in ice-cold methanol. 100 mm hydrochloric acid was added (1:1 v/v) prior to loading into the autosampler for analysis. All samples were stored in darkened tubes and protected from light at all times. Separation of ethidium, oxyethidium, and dihydroethidium was performed using a gradient HPLC system (Jasco) with an ODS3 reverse phase column (250 mm, 4.5 mm; Hichrom) and quantified using a fluorescence detector set at 510 nm (excitation) and 595 nm (emission). A linear gradient was applied from mobile phase A (0.1% TFA) to mobile phase B (0.1% TFA in acetonitrile) over 23 min (30–50% acetonitrile).</text>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506392</infon>
+        <location offset="12804" length="17"/>
+        <text>2-hydroxyethidium</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="12861" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="12942" length="3"/>
+        <text>PBS</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C492605</infon>
+        <location offset="12963" length="18"/>
+        <text>Krebs-Hepes buffer</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="13019" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067883</infon>
+        <location offset="13047" length="15"/>
+        <text>dihydroethidium</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="13208" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006851</infon>
+        <location offset="13225" length="17"/>
+        <text>hydrochloric acid</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004996</infon>
+        <location offset="13410" length="8"/>
+        <text>ethidium</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004996</infon>
+        <location offset="13420" length="11"/>
+        <text>oxyethidium</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067883</infon>
+        <location offset="13437" length="15"/>
+        <text>dihydroethidium</text>
+      </annotation>
+      <annotation id="104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014269</infon>
+        <location offset="13715" length="3"/>
+        <text>TFA</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014269</infon>
+        <location offset="13744" length="3"/>
+        <text>TFA</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13751" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C032159</infon>
+        <location offset="13785" length="12"/>
+        <text>acetonitrile</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>13805</offset>
+      <text>Biopterin Quantification by HPLC with Electrochemical Detection</text>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="13805" length="9"/>
+        <text>Biopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>13869</offset>
+      <text>BH4, BH2, and biopterin levels in cell lysates were determined by HPLC, followed by electrochemical and fluorescent detection, as described previously. Briefly, cells were grown to confluency and harvested by trypsinization. Sample pellets were resuspended in 50 mm phosphate-buffered saline (pH 7.4) containing 1 mm dithioerythritol and 100 μm EDTA and subjected to three freeze-thaw cycles. Following centrifugation (15 min at 13,000 rpm and 4 °C), samples were transferred to new, cooled microtubes and precipitated with 1 m cold phosphoric acid, 2 m TCA, and 1 mm dithioerythritol. Samples were mixed vigorously and then centrifuged for 15 min at 13,000 rpm and 4 °C. Samples were injected onto an isocratic HPLC system and quantified using sequential electrochemical (Coulochem III, ESA Inc., UK) and fluorescence (Jasco) detection. HPLC separation was performed using a 250-mm ACE C-18 column (Hichrom) and a mobile phase comprising 50 mm sodium acetate, 5 mm citric acid, 48 μm EDTA, and 160 μm dithioerythritol (pH = 5.2) (all ultrapure electrochemical HPLC grade) at a flow rate of 1.3 ml/min. Background currents of +500 μA and −50 μA were used for the detection of BH4 on electrochemical cells E1 and E2, respectively. 7,8-BH2 and biopterin were measured using a Jasco FP2020 fluorescence detector. Quantification of BH4, BH2, and biopterin was done by comparison with authentic external standards and normalized to sample protein content.</text>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="13869" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="13874" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="13883" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010710,MESH:D000077330</infon>
+        <location offset="14135" length="25"/>
+        <text>phosphate-buffered saline</text>
+      </annotation>
+      <annotation id="G158">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004226</infon>
+        <location offset="14186" length="16"/>
+        <text>dithioerythritol</text>
+      </annotation>
+      <annotation id="G159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="14214" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C030242</infon>
+        <location offset="14402" length="15"/>
+        <text>phosphoric acid</text>
+      </annotation>
+      <annotation id="112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014238</infon>
+        <location offset="14423" length="3"/>
+        <text>TCA</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004226</infon>
+        <location offset="14437" length="16"/>
+        <text>dithioerythritol</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019346</infon>
+        <location offset="14814" length="14"/>
+        <text>sodium acetate</text>
+      </annotation>
+      <annotation id="G164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019343</infon>
+        <location offset="14835" length="11"/>
+        <text>citric acid</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004492</infon>
+        <location offset="14854" length="4"/>
+        <text>EDTA</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004226</infon>
+        <location offset="14871" length="16"/>
+        <text>dithioerythritol</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="15045" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="15099" length="7"/>
+        <text>7,8-BH2</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="15111" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="15197" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="15202" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="15211" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>15329</offset>
+      <text>Statistical Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>15350</offset>
+      <text>Data are presented as mean ± S.E. Data were subjected to the Kolmogorov-Smirnov test to determine distribution. Groups were compared using Mann-Whitney U test for non-parametric data or Student's t test for parametric data. When comparing multiple groups, data were analyzed by analysis of variance with Newman-Keuls post-test for parametric data or Kruskal-Wallis test with Dunn's post-test for non-parametric data. A value of p &lt; 0.05 was considered statistically significant.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15830</offset>
+      <text>RESULTS</text>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15838</offset>
+      <text>Characterization of Mutant eNOS Expression</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15881</offset>
+      <text>We first investigated the effect of Trp-447 mutation on eNOS expression in murine fibroblasts. Western blotting confirmed that transient expression of wild-type and mutant eNOS was equal (Fig. 2A), as quantified by GFP fluorescence (B). The effect of Trp-447 mutation on eNOS dimerization was assessed by immunoblotting, and the ratio of eNOS monomer/dimer was quantified in GCH cells in the presence and absence of doxycycline, generating low or high levels of BH4. As shown in Fig. 2C, in conditions of high BH4 levels, we observed that human eNOS and the respective Trp-447 mutants existed almost entirely as dimers, as did a murine eNOS-positive control. As a positive control for monomerization, expression of C99A resulted in complete loss of the eNOS dimer, perhaps because of disruption of Zn coordination, as described previously. In doxycycline-treated, BH4-deficient cells, W447A eNOS was predominantly monomeric, and the amount of dimer in the W447F mutant was also decreased significantly (Fig. 2C).</text>
+      <annotation id="G184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="15917" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G185">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="16132" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="16297" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="16343" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G182">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="16391" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="16450" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="16679" length="2"/>
+        <text>Zn</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="16724" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="16745" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650002.jpg</infon>
+      <infon key="id">F2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16894</offset>
+      <text>Overexpression of eNOS Trp-447 mutants results in monomerization and altered localization of eNOS protein. GCH cells were cultured in the presence or absence of DOX for 7 days and then transiently transfected with wild-type eNOS, W447A or W447F mutant eNOS DNA. A, Western blot analysis showed equal expression of our wild-type and mutant eNOS constructs using both anti-eNOS and anti-GFP antibodies. sEnd.1 murine endothelial cells and cells stably expressing eNOS-GFP were used as controls. B, equivalent expression levels were demonstrated by fluorescence quantification. C, eNOS dimerization was compared by low temperature Western blotting in cells in the absence (high BH4) or presence (low BH4) of DOX. Only the C99A mutation of eNOS resulted in significant monomerization compared with endothelial cell (EC) cold and boiled sample controls. In contrast, in BH4-deficient cells, following DOX treatment, the eNOS dimer was totally abolished in W447A and significantly attenuated in W447F mutant-expressing cells. These changes were linked with increases in detectable levels of eNOS monomer. Western blot analyses are representative of three separate experiments. N.D. = not detectable.</text>
+      <annotation id="G186">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="16917" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G187">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="17055" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17569" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17591" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G188">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="17599" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="17759" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="17790" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>18088</offset>
+      <text>Mutation of Trp-447 Uncouples eNOS</text>
+      <annotation id="G193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="18100" length="3"/>
+        <text>Trp</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>18123</offset>
+      <text>We next sought to establish the effect of Trp-447 mutation on eNOS uncoupling and subsequent NO and superoxide production. eNOS activity, as assessed by measuring the conversion of radiolabeled arginine to citrulline, was significantly attenuated in BH4-deficient, DOX-treated cells (Fig. 3; †, p &lt; 0.05), as described previously. Expression of C99A or W447A in cells containing either high or low levels of BH4 totally abolished eNOS activity (p &lt; 0.001) with no further effect of doxycycline. In contrast, W447F mutation resulted in an attenuation of eNOS activity in cells containing high levels of BH4, with a further significant decrease observed in BH4-deficient, DOX-treated cells (p &lt; 0.05).</text>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="18165" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G194">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="18216" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="18223" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="18317" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="G197">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002956</infon>
+        <location offset="18329" length="10"/>
+        <text>citrulline</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18373" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="18388" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18531" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="18605" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18725" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="18778" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="18793" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650003.jpg</infon>
+      <infon key="id">F3</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>18825</offset>
+      <text>Trp-447 mutation decreases eNOS activity. GCH cells were cultured in the presence or absence of DOX for 7 days and then transiently transfected with wild-type eNOS, W447A, or W447F mutant eNOS DNA. eNOS activity, as assessed by measuring the conversion of radiolabeled arginine to citrulline, was significantly attenuated in BH4-deficient, DOX-treated cells (†, p &lt; 0.05). Expression of C99A or W447A in cells containing either high, or low levels of BH4 totally abolished eNOS activity (*, p &lt; 0.001) with no further effect of doxycycline. W447F mutation resulted in an attenuation of eNOS activity in cells containing high levels of BH4 with a further significant decrease observed in BH4-deficient, DOX-treated cells (†, p &lt; 0.05). n = 6.</text>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="18825" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="18921" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="19094" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002956</infon>
+        <location offset="19106" length="10"/>
+        <text>citrulline</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19150" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19165" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19276" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19353" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19460" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19512" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19527" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>19571</offset>
+      <text>To further investigate the enzymatic uncoupling of eNOS induced by mutation at Trp-447, we next investigated the ability of eNOS to produce superoxide using dihydroethidium fluorescence. eNOS-derived superoxide was distinguished using the arginine analog L-NAME. As described previously, prevention of BH4 production upon doxycycline exposure of untreated cells caused a striking elevation of superoxide production in an eNOS-independent manner (p &lt; 0.001). We hypothesize that this demonstrates the general antioxidant role of BH4 within the cell. Furthermore, although having no effect in BH4-replete cells, eNOS overexpression in BH4-deficient cells increased the production of superoxide in an L-NAME-inhibitable manner, indicating eNOS uncoupling (p &lt; 0.05). In contrast, W447A mutation significantly elevated eNOS-derived superoxide production in cells with high BH4 levels and in BH4-deficient cells (p &lt; 0.05). The levels of superoxide produced by the W447A mutant eNOS were significantly greater than those produced by wild-type eNOS (p &lt; 0.05). The increased production of superoxide observed in W447F-expressing cells was not inhibitable with L-NAME in BH4-replete cells but totally abolished by L-NAME in cells containing low levels of BH4. In contrast to the differences in 2-hydroxyethidium, specific for superoxide production, the accumulation of ethidium (an indicator of production of other reactive oxygen species) remained unchanged in eNOS wild-type or mutant-expressing cells (Fig. 4).</text>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="19650" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="19711" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067883</infon>
+        <location offset="19728" length="15"/>
+        <text>dihydroethidium</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="19771" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="19810" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="19826" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="19873" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="19893" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="19964" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20099" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20162" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20204" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="20252" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="20269" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G227">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="20399" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20440" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20458" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="20504" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="20654" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="20725" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20735" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="20778" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="20819" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506392</infon>
+        <location offset="20858" length="17"/>
+        <text>2-hydroxyethidium</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="20890" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004996</infon>
+        <location offset="20933" length="8"/>
+        <text>ethidium</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="20988" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650004.jpg</infon>
+      <infon key="id">F4</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>21078</offset>
+      <text>eNOS-derived superoxide production is exacerbated by Trp-447 mutation in a BH4-dependent manner. GCH cells were cultured in the presence or absence of DOX for 7 days and then transiently transfected with wild-type eNOS, W447A, or W447F mutant eNOS DNA. Accumulation of 2-hydroxyethidium following exposure of cells to dihydroethidium was used as an indirect measure of superoxide production and was quantified by HPLC. A, in high BH4 conditions (no DOX), eNOS overexpression had no effect on superoxide production. C99A, W447A, and W447F mutation increased the detectable levels of 2-hydroxyethidium ∼2.5-fold ($, p &lt; 0.05), which was only inhibitable with L-NAME in W447A but not C99A or W447F mutant cells (†, p &lt; 0.05). DOX exposure elevated superoxide levels in untreated and mock control cells, as described previously. However, in these low-BH4 cells, levels of 2-hydroxyethidium were elevated in wild-type and mutant cells (wild type &lt; Trp-eNOS-Phe &lt; W447A) (*, p &lt; 0.05; **, p &lt; 0.01). This elevation in 2-hydroxyethidium accumulation was totally abolished following L-NAME treatment in Trp-447 but not C99A mutant cells. n = 6. B, ethidium accumulation was used as an indicator of overall oxidative stress. DOX treatment strikingly elevated the levels of ethidium within cells with no additional effect of wild-type or mutant eNOS transfection. *, p &lt; 0.05, n = 6.</text>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21091" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="21131" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21153" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21229" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506392</infon>
+        <location offset="21347" length="17"/>
+        <text>2-hydroxyethidium</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C067883</infon>
+        <location offset="21396" length="15"/>
+        <text>dihydroethidium</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21447" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21508" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21527" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21570" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506392</infon>
+        <location offset="21660" length="17"/>
+        <text>2-hydroxyethidium</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="21735" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="21801" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="21823" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="21925" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G256">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506392</infon>
+        <location offset="21946" length="17"/>
+        <text>2-hydroxyethidium</text>
+      </annotation>
+      <annotation id="G257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="22021" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="22030" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="G258">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C506392</infon>
+        <location offset="22090" length="17"/>
+        <text>2-hydroxyethidium</text>
+      </annotation>
+      <annotation id="G259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="22153" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="22173" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004996</infon>
+        <location offset="22218" length="8"/>
+        <text>ethidium</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="22294" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004996</infon>
+        <location offset="22342" length="8"/>
+        <text>ethidium</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>22456</offset>
+      <text>BH4 was only oxidized to BH2 by superoxide produced from wild-type eNOS when the total levels of BH4 were low and insufficient to efficiently couple the enzyme. eNOS wild-type overexpression had no effect on BH4 homeostasis when total levels of BH4 were saturating. Intracellular BH4 was markedly oxidized to BH2 by superoxide produced from W447A and W447F eNOS mutants under conditions of both high and low levels of BH4. This oxidation of BH4 in W447A eNOS-expressing cells with high BH4 levels was comparable with that observed in WT eNOS in low BH4 conditions. In BH4-deficient cells, oxidation of BH4 and the accumulation of BH2 were further exacerbated in W447A eNOS but not either W447F eNOS or wild-type eNOS, as revealed by the diminished ratio of BH4/BH2 in cells expressing W447A eNOS following doxycycline exposure (Fig. 5).</text>
+      <annotation id="G271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22456" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="22481" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="22488" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G272">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22553" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22664" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22701" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22736" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="22765" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="22772" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22874" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22897" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="22942" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23005" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23024" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23058" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23086" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G282">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23213" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23217" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23262" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650005.jpg</infon>
+      <infon key="id">F5</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>23293</offset>
+      <text>Mutant eNOS-derived superoxide exacerbates BH4 oxidation. GCH cells were cultured in the presence or absence of DOX for 7 days and then transiently transfected with wild-type eNOS, W447A, or W447F mutant eNOS DNA. Intracellular biopterins were measured using HPLC as described under “Experimental Procedures.” BH4 (A) was oxidized to BH2 (B) by mutant but not wild-type eNOS-derived superoxide in high BH4-containing cells. Following induction of BH4 deficiency with DOX, eNOS wild-type expression also triggers BH4 oxidation to BH2. C, total biopterin levels remains unaffected by eNOS overexpression. The BH4:BH2 ratio is attenuated by uncoupled eNOS (†, p &lt; 0.05) because of DOX treatment and greatly exacerbated in W447A versus W447F eNOS overexpression (**, p &lt; 0.01), suggesting that W447A mutation worsens enzymatic uncoupling compared with wild-type eNOS (n = 4).</text>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="23313" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23336" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23405" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23603" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23627" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="23676" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23695" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23740" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23760" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23805" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23822" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="23836" length="9"/>
+        <text>biopterin</text>
+      </annotation>
+      <annotation id="G297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="23900" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="23904" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="23971" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>24171</offset>
+      <text>Overall, the diminished NO production, elevated superoxide production, and the accumulation of BH2 suggest that the W447A and W447F mutants uncouple eNOS independently of total BH4 levels. However, the effects of W447A mutation are exacerbated when levels of BH4 are very low, resulting in a worsening of eNOS uncoupling.</text>
+      <annotation id="G302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="24195" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="24219" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="24266" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="24348" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="24430" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_4</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>24493</offset>
+      <text>The eNOS Dimerization Biosensor Reveals That Trp-447 Mutation Causes Monomerization in BH4 Deficiency</text>
+      <annotation id="G307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24538" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="24580" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>24595</offset>
+      <text>Having established that Trp-447 is critical for efficient NO production from eNOS and that its mutation initiated superoxide production rather than NO, was important to determine whether these changes in signaling of eNOS were because of changes in dimerization. To this end, we developed a novel biosensor on the basis of the reconstitution of Renilla luciferase as depicted in Fig. 6. The eNOS dimerization biosensor was created from the rluc8 construct as described under “Experimental Procedures.” We first characterized the biosensor by Western blotting and luminometry. Following transient transfection with either the experimental eNOS-Rluc fusion constructs or a GST control biosensor, HEK293 cells were shown to express either eNOS-Rluc8.1, eNOS-Rluc8.2, GST-Rluc8.1, or GST-Rluc8.2, where appropriate, using Rluc8.1- or Rluc8.2-specific antibodies (Fig. 7A). We placed our rluc8.1 and rluc8.2 halves onto either end of eNOS. rluc8.1 was added to the C terminus (reductase domain), and rluc8.2 was added to the N terminus (oxygenase domain). This was done using two individual constructs, with eNOS tagged only at one end at a time. Cells were then transfected with both constructs, either tagged at the N or C terminus, and luminescence was measured by protein fragment complementation assay. During the setup and initial characterization of our system, we tested the ability of luciferase to generate a detectable signal when eNOS-rluc8.1N and eNOS-rluc8.2N or eNOS-rluc8.1C and eNOS-rluc8.2C were co-overexpressed. A detectable signal was generated from both “N-” or “C-overexpressed” constructs that was significantly smaller than that obtained from eNOS-rluc8.1C and eNOS-rluc8.2N overexpression (Fig. 7B). In cells expressing both the Rluc8.1 and Rluc8.2 fusion proteins, experiments were conducted to assess the effect of BH4-treatment on eNOS dimer formation. These data were then compared with that from the removal of intracellular zinc using N,N,N,N-tetrakis(2-pyridylmethyl)ethylenediamine (TPEN) as a positive control for monomerization. In HEK293 cells, control GST-Rluc and eNOS-Rluc, biosensor expression, and subsequent reconstitution were detected. As an important control to rule out nonspecific reconstitution of Renilla luciferase, no luminescence was detected when eNOS-Rluc8.1 and GST-Rluc8.2 were coexpressed (or vice versa, data not shown). Following exposure to BH4 (10 μm, 4 h), a significant increase in luminescence and, hence, dimer formation was observed in eNOS-Rluc but not control or GST-Rluc-expressing cells. Removal of intracellular Zinc, required for the dimerization of both eNOS and GST, abolished the luminescent signal (Fig. 7C). The next objective was to specifically investigate whether the Trp-447 residue within eNOS has any role in determining eNOS dimerization. The robust signal generated by eNOS-Rluc was dramatically attenuated following expression of C99A-mutant eNOS, described previously to be required for eNOS dimerization. The W447A and W447F eNOS mutants both exhibited a marked attenuation of the luminescence signal and, therefore, eNOS dimerization in the order C99A &lt; W447A &lt; W447F &lt; WT-eNOS (Fig. 7D, *, p &lt; 0.05). The ability of W447A and W447F mutation of eNOS to determine eNOS coupling and the effect of total intracellular BH4 on eNOS dimerization was next determined in GCH-Tet cells where intracellular BH4 deficiency was induced by doxycycline exposure. Mutation of eNOS-W447 in cells with saturating levels of BH4 had no effect on eNOS dimerization. In contrast, W447A and W447F overexpression in BH4-deficient cells markedly decreased eNOS dimerization in a graded manner, with W447A having a more significant effect than W447F (Fig. 8, **, p &lt; 0.001 and *, p &lt; 0.05, respectively).</text>
+      <annotation id="G309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="24619" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="24653" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="24709" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="24743" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G319">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="26433" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="26546" length="4"/>
+        <text>zinc</text>
+      </annotation>
+      <annotation id="G314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044387</infon>
+        <location offset="26557" length="48"/>
+        <text>N,N,N,N-tetrakis(2-pyridylmethyl)ethylenediamine</text>
+      </annotation>
+      <annotation id="G315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044387</infon>
+        <location offset="26607" length="4"/>
+        <text>TPEN</text>
+      </annotation>
+      <annotation id="G320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="26992" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="27174" length="4"/>
+        <text>Zinc</text>
+      </annotation>
+      <annotation id="G317">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="27339" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="27895" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G322">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="27977" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="28007" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+      <annotation id="G323">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="28086" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G324">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="28173" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650006.jpg</infon>
+      <infon key="id">F6</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>28373</offset>
+      <text>Novel Renilla luciferase biosensor of eNOS dimerization. We developed a novel protein-protein interaction assay on the basis of the reconstitution of split Renilla luciferase (rluc8). eNOS-separate constructs were generated to express eNOS tagged with Rluc-8.1on the N terminus and Rluc-8.2 on the C terminus. Cotransfection of these two constructs allows dimerization. Following the addition of coelenterazine substrate, the magnitude of dimerization was quantified by protein fragment complementation assay and luminescence as described under “Experimental Procedures.”</text>
+      <annotation id="G325">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017144</infon>
+        <location offset="28769" length="14"/>
+        <text>coelenterazine</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650007.jpg</infon>
+      <infon key="id">F7</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>28949</offset>
+      <text>Overexpression of W447A and W447F results in dramatic monomerization of eNOS. HEK cells were transfected with both eNOS-Rluc constructs as well as GST-Rluc control plasmids. A, characterization of plasmid overexpression was done by Western blotting using specific eNOS and Rluc antibodies. B, different rluc biosensor constructs were tested where rluc8.1 and rluc 8.2 were placed on the N- and C terminus (N-C), the C- and C terminus (C-C), or the N- and N terminus (N-N) on each eNOS construct, respectively. Un = untransfected; *, p &lt; 0.05 versus C-C and N-N. C, transfected cells were then subjected to treatment with either BH4 or N,N,N,N-tetrakis(2-pyridylmethyl)ethylenediamine (TPEN) and eNOS dimerization compared with control GST-overexpressing cells. Overexpression of both eNOS-Rluc8.1 and eNOS-Rluc8.2 revealed a robust luminescence signal. eNOS dimerization only, not GST dimerization, was significantly increased by BH4 treatment (†, p &lt; 0.05, *, p &lt; 0.01 versus control, $, p &lt; 0.05 versus GST expressing cells). Sequestration of intracellular zinc with TPEN abolished all dimerization in eNOS- and GST-expressing cells (n = 3). D, eNOS dimerization is prevented in C99A mutants and significantly attenuated in HEK cells expressing W447A and W447F mutant eNOS. *, p &lt; 0.01; n = 3.</text>
+      <annotation id="G330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="29577" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G326">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044387</infon>
+        <location offset="29584" length="48"/>
+        <text>N,N,N,N-tetrakis(2-pyridylmethyl)ethylenediamine</text>
+      </annotation>
+      <annotation id="G327">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044387</infon>
+        <location offset="29634" length="4"/>
+        <text>TPEN</text>
+      </annotation>
+      <annotation id="G331">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="29879" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G328">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015032</infon>
+        <location offset="30008" length="4"/>
+        <text>zinc</text>
+      </annotation>
+      <annotation id="G329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C044387</infon>
+        <location offset="30018" length="4"/>
+        <text>TPEN</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">zbc0451363650008.jpg</infon>
+      <infon key="id">F8</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>30247</offset>
+      <text>BH4 deficiency exacerbates monomerization of eNOS. GCH cells were cultured in the presence or absence of DOX for 7 days and then transiently transfected with either wild-type, W447A, or W447F mutant eNOS in the Rluc constructs, as described previously. Dimerization was again assessed by protein fragment complementation luminescence assay. Modulation of BH4 levels by DOX had no effect on eNOS dimerization. In contrast, W447A and W447F dramatically inhibited the ability of eNOS to dimerize (*, p &lt; 0.05; **, p &lt; 0.001). W447A eNOS dimerization was significantly lower than W447F (†, p &lt; 0.05). C99A mutation resulted in significantly attenuated dimerization of eNOS (**, p &lt; 0.001; N.D., none detectable with a limit of detection of 2 × 105 RLU, equal to 0.02 on the y axis. n = 4.</text>
+      <annotation id="G334">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="30247" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G332">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="30352" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G335">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="30602" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G333">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="30616" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>31035</offset>
+      <text>DISCUSSION</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>31046</offset>
+      <text>In this study, we investigated the role of Trp-447 in human eNOS uncoupling and reveal for the first time that Trp-447, situated within the BH4 binding site, is critical for the enzymatic coupling of eNOS and, therefore, efficient NO production by the enzyme. Moreover, mutation of this key residue results in an attenuated interaction of BH4 with eNOS and substantial superoxide production. We also use novel biosensors to demonstrate the effect of mutation of this residue on eNOS dimerization. This study identifies a pivotal role for Trp-447 and reveals new aspects of the relationship between eNOS uncoupling and dimerization, two independent mechanisms of eNOS activity and regulation.</text>
+      <annotation id="G336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="31089" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G337">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="31157" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="31186" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G338">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="31277" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="31385" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G339">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="31415" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="31584" length="3"/>
+        <text>Trp</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>31738</offset>
+      <text>The major findings of this study are as follows. First, mutation of W447A prevents eNOS dimer formation in low but not high BH4-containing cells. Second, W447A expression effectively abolishes, whereas W447F significantly attenuates, NO production from eNOS independently of BH4 levels. These effects are exacerbated when BH4 levels are diminished. Third, these changes in eNOS activity are associated with changes in superoxide production and BH4 oxidation. Finally, discordance exists between superoxide production and the monomerization of eNOS, thus suggesting that both the eNOS monomer and dimer are significant sources of superoxide following mutation of Trp-447. Interestingly, this source of superoxide production appears to switch from eNOS dimers in replete BH4 conditions to eNOS monomers when BH4 levels are deficient. Taken together, these findings provide clear evidence to support an important catalytic role for Trp-447 in the regulation of eNOS coupling and eNOS dimerization.</text>
+      <annotation id="G350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="31862" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G343">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="31972" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32013" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G352">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32060" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G344">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="32156" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G353">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32182" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G345">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="32233" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="32367" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G347">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="32400" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G348">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="32439" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G354">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32507" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32544" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G349">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="32667" length="3"/>
+        <text>Trp</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>32733</offset>
+      <text>These findings provide important insights into the role of BH4 in regulating eNOS activity and eNOS coupling, which is well established to occur in a variety of in vitro, cell culture, and animal models of vascular disease. Previous studies have used models of BH4 deficiency to investigate vascular diseases such as hypercholesterolemia, hypertension, and diabetes and showed that many pathophysiological effects can be effectively rescued using BH4 supplementation either by pharmacological or genetic intervention. This is the first study to specifically investigate the impact of altering the interaction of BH4 with the eNOS active site on eNOS coupling rather than modulation of BH4 levels per se, therefore eliminating nonspecific effects of reduced BH4 levels on systems where BH4 also plays important regulatory roles in a NOS-independent manner, such as other intracellular antioxidant or redox effects.</text>
+      <annotation id="G356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32792" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="32994" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33180" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33345" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33418" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33490" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33518" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>33647</offset>
+      <text>We show a critical role for Trp-447 in eNOS function and further advance previous work on the basis of the equivalent Trp-457 mutation in mouse iNOS where possible enzymatic uncoupling was not addressed. Structural studies of the iNOSoxy domain distinguish functional roles of BH4 that are modulated by Trp-457 (the Trp-447 equivalent in eNOS). We hypothesized that induction of eNOS uncoupling because of the mutation of W447A is due to altered BH4 binding to the enzyme. However, although W457A and W457F mutation in iNOS abolishes or inhibits NO synthesis, crystallographic structures demonstrate how W457A and W447F iNOS mutation does not result in dramatic changes in wild type position, orientation, and hydrogen bonding of BH4. However, the structural basis for changes in dimer formation and iNOS function observed result from the rearrangement of Arg-193 following W457A mutation and the ability of Arg-193 to fill the open space left by replacement of the large tryptophan with the small arginine residue. In the W457A mutant iNOSox structure, the rearrangement of positively charged Arg-193 to form a T-shaped π-cation interaction with BH4 further stabilizes protein binding to BH4 while further destabilizing protein binding to the pterin radical that forms during catalysis. When BH4 forms the cation radical, as suggested by the eNOSox crystallographic structure and by EPR experiments, the protein binding of BH4 would be further destabilized by repulsive positive charge distribution between Arg-193 and the cofactor. Consistent with these predictions on the basis of the crystallographic structures, the rate of radical formation is further decreased or remains unchanged, whereas the rate of radical decay is further increased in W457A iNOSox relative to the W457F mutant, revealing that Trp-457 is implicated in the regulation of electron transfer during NO synthesis. Trp-457 mutants of iNOS in the presence of BH4 and l-Arg lead to reduced BH4 and l-Arg affinity and slower synthesis of NO. Full-length W457A iNOS, as well as the W457A and W457F iNOSox mutants, all exhibit diminished rates of NO synthesis and are uncoupled with respect to enzyme NADPH oxidation. NO synthesis activities of full-length and corresponding neuronal NOS mutants W678L and W678H were less than the wild-type ones, and iNOS W457 mutations primarily slowed the rate of BH4 radical formation and sped up radical decay. Slower electron transfer from BH4 to Fe(II)O2 could uncouple NOS oxygen activation from NO synthesis if Fe(II)O2 decay is sufficiently fast in full- length NOS. In such a circumstance, superoxide release from the Fe(II)O2 intermediate would occur at the expense of NADPH oxidation and would uncouple NADPH oxidation from NO synthesis in NOS.</text>
+      <annotation id="G363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="33675" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="33765" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="33924" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="33950" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="33963" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34093" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="34193" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="34357" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="G395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34377" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="34503" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="34555" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G371">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="34619" length="10"/>
+        <text>tryptophan</text>
+      </annotation>
+      <annotation id="G372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="34645" length="8"/>
+        <text>arginine</text>
+      </annotation>
+      <annotation id="G373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="34741" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34794" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34836" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="34940" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35071" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="35155" length="3"/>
+        <text>Arg</text>
+      </annotation>
+      <annotation id="G375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="35453" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="35521" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="35535" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35578" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="35586" length="5"/>
+        <text>l-Arg</text>
+      </annotation>
+      <annotation id="G401">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="35608" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="35616" length="5"/>
+        <text>l-Arg</text>
+      </annotation>
+      <annotation id="G380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="35655" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="35762" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G382">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="35816" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="G383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="35833" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G402">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36015" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G403">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36094" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="2X749">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296,MESH:D010087</infon>
+        <location offset="36101" length="8"/>
+        <text>Fe(II)O2</text>
+      </annotation>
+      <annotation id="G385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="36129" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="G386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="36152" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="2X752">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296,MESH:D010087</infon>
+        <location offset="36168" length="8"/>
+        <text>Fe(II)O2</text>
+      </annotation>
+      <annotation id="G388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="36249" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="2X754">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005296,MESH:D010087</infon>
+        <location offset="36277" length="8"/>
+        <text>Fe(II)O2</text>
+      </annotation>
+      <annotation id="G390">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="36329" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="G391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009249</infon>
+        <location offset="36364" length="5"/>
+        <text>NADPH</text>
+      </annotation>
+      <annotation id="G392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="36385" length="2"/>
+        <text>NO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>36407</offset>
+      <text>Because of the lack of eNOS mutant crystal structures, we assume the same electronic and structural effect of the Trp-447 mutant to be true in eNOS. For the first time, we present that Trp-447 plays an important role in dimer assembly in low BH4 conditions, more similar to neuronal NOS W678L mutation in the presence of both BH4 and l-Arg, where only 15% of the purified enzyme is dimeric and a drastically diminished production of NO is observed. As with neuronal NOS, mutation of Trp-447 did not result in totally abolished dimer formation, therefore suggesting that BH4 is not an absolute requirement for dimerization.</text>
+      <annotation id="G404">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="36521" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="36592" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G408">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36649" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36733" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001120</infon>
+        <location offset="36741" length="5"/>
+        <text>l-Arg</text>
+      </annotation>
+      <annotation id="G407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="36840" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="36890" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="36977" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>37030</offset>
+      <text>The BH4 dependence of dimer formation and superoxide production by W447A and W447F mutants differs compared with wild-type eNOS. The W447A mutation is more sensitive to intracellular BH4 concentration than either W447F or wild-type eNOS, respectively. Evidence for this comes from the different magnitude of superoxide production in altered BH4 conditions. In cells containing high levels of BH4, an elevation in eNOS mutant-derived superoxide production occurs with no concurrent change in eNOS dimer formation. In contrast, DOX-induced BH4 deficiency increases superoxide to a greater extent but with a corresponding decrease (WT &gt; W447F &gt; W447A) in dimerization, suggesting substantial monomer-derived superoxide. This supports previous reports that indicate that BH4 deficiency-induced eNOS uncoupling occurs simultaneously with monomerization. Studies of high glucose-treated endothelial cells and diabetic mice reveal BH4 oxidation, superoxide production with a simultaneous increase in eNOS monomer. This is in discordance with other publications that state that the eNOS dimer is required for superoxide production. The inhibition of superoxide production from the eNOS monomer by L-NAME is somewhat confusing because all superoxide would be derived from the reductase domain and would, therefore, not be expected to be inhibited with L-NAME.</text>
+      <annotation id="G425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37034" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G412">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="37072" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G426">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37213" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="37338" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G427">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37371" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37422" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="37463" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G415">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="37556" length="3"/>
+        <text>DOX</text>
+      </annotation>
+      <annotation id="G429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37568" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G416">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="37593" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G417">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="37735" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37797" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005947</infon>
+        <location offset="37895" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="G431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="37954" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="37969" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G420">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38131" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G421">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38172" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G422">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="38219" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G423">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38260" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G424">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="38373" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>38381</offset>
+      <text>We hypothesize that there is a small amount of electron flow in the eNOS monomer that enables some degree of superoxide production from its reduced flavins. However, there is no precedent to expect that this monomer would be able to transfer electrons to its heme or would generate more superoxide per mole than a BH4-free eNOS dimer. As we report here, the superoxide produced by both W447F and W447A when BH4 levels are limiting occur along with a decrease in dimer formation, and the superoxide production became mostly inhibitable by L-NAME. We hypothesize that, in Trp-447 mutant cells in this circumstance, the bulk of the superoxide is produced from the remaining dimer (as evidenced by the background dimerization detected with our biosensor and by Western blotting in W447F mutant cells), which is likely BH4-deficient but still capable of reducing its heme and generating superoxide. This path would have significantly greater activity than flavin auto-oxidation in the monomer and, therefore, would overwhelm the small amount of superoxide produced by the monomer, despite the monomer being the major form of the eNOS enzyme present under this condition in the cell. This explains both the increased superoxide and the ability of L-NAME to inhibit the signal. These data are supported by our findings in C99A mutants. We now provide evidence that monomeric eNOS, produced by the mutation of C99A, is capable of producing superoxide in a BH4-independent manner. The lack of an effect of L-NAME is also striking. Production of superoxide from C99A eNOS appears to be different from that of WT or the W447 mutants.</text>
+      <annotation id="G432">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38490" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G453">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="38529" length="7"/>
+        <text>flavins</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="38640" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="G434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38668" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38695" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G435">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38739" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="38788" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="38868" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G437">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="38919" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="38951" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G439">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="39010" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="39195" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006418</infon>
+        <location offset="39243" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="G441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="39263" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005415</infon>
+        <location offset="39332" length="6"/>
+        <text>flavin</text>
+      </annotation>
+      <annotation id="G443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="39421" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="39592" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G445">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="39622" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="39813" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="39829" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G447">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="39878" length="6"/>
+        <text>L-NAME</text>
+      </annotation>
+      <annotation id="G448">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="39917" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>40004</offset>
+      <text>The studies presented here are of great significance to advance our understanding of BH4 as a regulator of eNOS coupling, affecting signaling cascades dependent on NO and reactive oxygen species, and, importantly, as a therapeutic to restore endothelial function in vascular disease. Indeed, several studies have already explored the effect of BH4 administration, either intravascularly or orally, on endothelial functions. In clinical studies, pharmacological supplementation of BH4 improves endothelium-dependent relaxations and augments NO-mediated effects on forearm blood flow in smokers and those with diabetes and elevated cholesterol. These studies have been limited to acute or short-term administration, used very high doses, and only determined the effects on endothelial-dependent relaxation rather than other variables related to vascular disease progression or risk. Indeed, numerous studies have found that pharmacologic supplementation of BH4 augments NO-mediated effects in either cell culture or in vitro vessel rings, animal models, or patients with vascular disease risk factors. Specifically, increasing BH4 biosynthesis in cultured endothelial cells, which are relatively BH4-deficient, restores eNOS activity and increases the proportion of eNOS protein present as the homodimeric form. Gene transfer of GTPCH in carotid arteries of DOCA-salt hypertensive rats restores BH4 levels and improves endothelial function, and when GTPCH is constitutively overexpressed specifically within endothelial cells in transgenic mice, tissue BH4 levels were increased and eNOS activity was restored. In GTPCH transgenic mice rendered diabetic with streptozotocin, the loss of vascular BH4 was prevented, leading to reduced evidence of eNOS uncoupling, and restored endothelial function. When GTPCH transgenic mice were crossed with ApoE KO mice, endothelial function was improved, and atherosclerotic plaque progression was reduced. Previous clinical studies from our group show that oral BH4 treatment in patients with coronary artery disease significantly elevates BH4 levels in blood, but this effect is significantly limited by systemic oxidation of exogenous BH4 to BH2, which lacks eNOS cofactor activity. Accordingly, the ratio of reduced to oxidized biopterins in blood and vascular tissue is unchanged by exogenous BH4 treatment, resulting in no net effect on eNOS coupling, endothelial function, or vascular superoxide production. Targeting BH4 is a rational therapeutic strategy in cardiovascular disease, but future studies should be directed toward interventions that can favorably alter the endogenous BH4/BH2 ratio and augment BH4 binding to eNOS in human vascular endothelium via a selective increase in absolute BH4 levels, prevention of BH4 oxidation, or increased BH4 recycling.</text>
+      <annotation id="G461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="40089" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G454">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="40168" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G455">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="40184" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="G462">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="40348" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G463">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="40484" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G456">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="40544" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="40634" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="G464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="40959" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="40972" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G465">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41129" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41198" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G482">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D064791</infon>
+        <location offset="41360" length="4"/>
+        <text>DOCA</text>
+      </annotation>
+      <annotation id="G483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012965</infon>
+        <location offset="41365" length="4"/>
+        <text>salt</text>
+      </annotation>
+      <annotation id="G467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41397" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G468">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41555" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G459">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013311</infon>
+        <location offset="41661" length="14"/>
+        <text>streptozotocin</text>
+      </annotation>
+      <annotation id="G469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="41698" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G470">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42002" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G471">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42080" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G472">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42177" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="42184" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="42271" length="10"/>
+        <text>biopterins</text>
+      </annotation>
+      <annotation id="G473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42337" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D013481</infon>
+        <location offset="42431" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="G474">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42464" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G475">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42629" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G481">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="42633" length="3"/>
+        <text>BH2</text>
+      </annotation>
+      <annotation id="G476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42655" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G477">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42742" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42768" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42796" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>42811</offset>
+      <text>Because of the sensitivity of BH4 to oxidation, there is therapeutic potential for non-BH4, alternative pteridine analogues that possess more stable oxidative states. These compounds may further improve the impaired relaxation associated with endothelial dysfunction and substitute for BH4 within the vasculature. Two analogues of BH4 that can act as oxidatively stable alternatives to BH4, causing NO-mediated vasorelaxation, have been developed. Treatment with 6-hydroxymethyl pterin and 6-acetyl-7,7- dimethyl-7,8-dihydropterin improved endothelium-dependent vasorelaxation in isolated perfused lungs from both normoxic and hypoxic rats and increased eNOS expression in these rats. The development of future compounds to restore NOS function in vascular disease states must consider the structural effects of BH4 binding to eNOS W447 and the role of this residues in eNOS coupling for BH4-based strategies to be successful.</text>
+      <annotation id="G489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42841" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G490">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="42898" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011621</infon>
+        <location offset="42915" length="9"/>
+        <text>pteridine</text>
+      </annotation>
+      <annotation id="G491">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43097" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G492">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43142" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G493">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43197" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009569</infon>
+        <location offset="43210" length="2"/>
+        <text>NO</text>
+      </annotation>
+      <annotation id="G487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C013044</infon>
+        <location offset="43274" length="22"/>
+        <text>6-hydroxymethyl pterin</text>
+      </annotation>
+      <annotation id="330">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011622</infon>
+        <location offset="43301" length="40"/>
+        <text>6-acetyl-7,7- dimethyl-7,8-dihydropterin</text>
+      </annotation>
+      <annotation id="G494">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43623" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G495">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43699" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>43738</offset>
+      <text>We propose that, rather than characterizing uncoupled eNOS as “dysfunctional,” uncoupling by mechanisms such as impaired BH4 binding, BH4 deficiency, or posttranslantionally by glutathione, are in fact a tightly regulated mechanism that renders eNOS as a redox “hub.” This would mean that Trp-447 is a critical residue that ultimately determines BH4 binding and BH4-dependent uncoupling, linking BH4 binding with of a plethora of targets and pathways that lie downstream of eNOS that have been demonstrated to be modulated by cellular redox state. Further studies using purified protein in vitro will give further insights into the role of Trp-447 on eNOS enzyme kinetics, electron flow, and triihydrobiopterin radical formation. Observations suggest that changes in redox status can exert a powerful influence on cellular homeostasis via eNOS, and further studies are required to elucidate the mechanisms for this redox-sensitive, downstream signaling.</text>
+      <annotation id="G500">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43859" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G501">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="43872" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G496">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005978</infon>
+        <location offset="43915" length="11"/>
+        <text>glutathione</text>
+      </annotation>
+      <annotation id="G497">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="44027" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G502">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="44084" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G503">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="44100" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G504">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="44134" length="3"/>
+        <text>BH4</text>
+      </annotation>
+      <annotation id="G498">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014364</infon>
+        <location offset="44378" length="3"/>
+        <text>Trp</text>
+      </annotation>
+      <annotation id="G499">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001708</infon>
+        <location offset="44430" length="18"/>
+        <text>triihydrobiopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>44700</offset>
+      <text>This research was supported, in whole or in part, by National Institute for Health Research (NIHR). This work was also supported by British Heart Foundation Centre of Research Excellence Intermediate Fellowship Award RE/08/004 (to M. J. C.), by RE/08/004 Programme Grant RG/12/5/29756, by The Wellcome Trust Grant 090532/Z/09/Z, and by the Oxford Biomedical Research Centre.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45075</offset>
+      <text>iNOS</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45080</offset>
+      <text>inducible NOS</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45094</offset>
+      <text>eNOS</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45099</offset>
+      <text>endothelial NOS</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45115</offset>
+      <text>BH4</text>
+      <annotation id="G505">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="45115" length="3"/>
+        <text>BH4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45119</offset>
+      <text>tetrahydrobiopterin</text>
+      <annotation id="G506">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C003402</infon>
+        <location offset="45119" length="19"/>
+        <text>tetrahydrobiopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45139</offset>
+      <text>BH2</text>
+      <annotation id="G507">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="45139" length="3"/>
+        <text>BH2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45143</offset>
+      <text>7,8-dihydrobiopterin</text>
+      <annotation id="G508">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C017226</infon>
+        <location offset="45143" length="20"/>
+        <text>7,8-dihydrobiopterin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45164</offset>
+      <text>eGFP</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45169</offset>
+      <text>enhanced GFP</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45182</offset>
+      <text>DOX</text>
+      <annotation id="G509">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="45182" length="3"/>
+        <text>DOX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45186</offset>
+      <text>doxycycline</text>
+      <annotation id="G510">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004318</infon>
+        <location offset="45186" length="11"/>
+        <text>doxycycline</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45198</offset>
+      <text>GTPCH</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45204</offset>
+      <text>GTP cyclohydrolase I</text>
+      <annotation id="637">
+        <infon key="type">OTHER</infon>
+        <location offset="45204" length="20"/>
+        <text>GTP cyclohydrolase I</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45225</offset>
+      <text>l-NAME</text>
+      <annotation id="G512">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="45225" length="6"/>
+        <text>l-NAME</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45232</offset>
+      <text>NG-nitro-l-arginine methyl ester.</text>
+      <annotation id="G513">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019331</infon>
+        <location offset="45232" length="32"/>
+        <text>NG-nitro-l-arginine methyl ester</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <infon key="section_type">DISCUSS</infon>
+      <offset>45266</offset>
+      <text>The abbreviations used are: </text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>45295</offset>
+      <text>REFERENCES</text>
+    </passage>
+  </document>
+</collection>

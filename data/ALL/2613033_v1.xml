@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20140719</date>
+  <key>pmc.key</key>
+  <document>
+    <id>2613033</id>
+    <passage>
+      <infon key="name_3">surname:Kisialiou;given-names:Aliaksei</infon>
+      <infon key="name_2">surname:Abecasis;given-names:Gonçalo R.</infon>
+      <infon key="name_1">surname:Shen;given-names:Jian</infon>
+      <infon key="name_0">surname:Tanaka;given-names:Toshiko</infon>
+      <infon key="article-id_pmid">19148276</infon>
+      <infon key="year">2009</infon>
+      <infon key="article-id_publisher-id">08-PLGE-RA-0874R2</infon>
+      <infon key="article-id_pmc">2613033</infon>
+      <infon key="article-id_doi">10.1371/journal.pgen.1000338</infon>
+      <infon key="type">front</infon>
+      <infon key="issue">1</infon>
+      <infon key="alt-title">Genome-Wide Association of PUFA</infon>
+      <infon key="elocation-id">e1000338</infon>
+      <infon key="volume">5</infon>
+      <infon key="license">This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration, which stipulates that, once placed in the public domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.</infon>
+      <infon key="name_10">surname:Tsai;given-names:Michael Y.</infon>
+      <infon key="name_11">surname:Ferrucci;given-names:Luigi</infon>
+      <infon key="name_12">surname:Georges;given-names:Michel</infon>
+      <infon key="name_9">surname:Arnett;given-names:Donna</infon>
+      <infon key="name_8">surname:Cherubini;given-names:Antonio</infon>
+      <infon key="name_7">surname:Bandinelli;given-names:Stefania</infon>
+      <infon key="name_6">surname:Singleton;given-names:Andrew</infon>
+      <infon key="name_5">surname:Guralnik;given-names:Jack M.</infon>
+      <infon key="name_4">surname:Ordovas;given-names:Jose M.</infon>
+      <offset>0</offset>
+      <text>Genome-Wide Association Study of Plasma Polyunsaturated Fatty Acids in the InCHIANTI Study</text>
+      <annotation id="G0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="40" length="27"/>
+        <text>Polyunsaturated Fatty Acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>91</offset>
+      <text>Polyunsaturated fatty acids (PUFA) have a role in many physiological processes, including energy production, modulation of inflammation, and maintenance of cell membrane integrity. High plasma PUFA concentrations have been shown to have beneficial effects on cardiovascular disease and mortality. To identify genetic contributors of plasma PUFA concentrations, we conducted a genome-wide association study of plasma levels of six omega-3 and omega-6 fatty acids in 1,075 participants in the InCHIANTI study on aging. The strongest evidence for association was observed in a region of chromosome 11 that encodes three fatty acid desaturases (FADS1, FADS2, FADS3). The SNP with the most significant association was rs174537 near FADS1 in the analysis of arachidonic acid (AA; p = 5.95×10−46). Minor allele homozygotes had lower AA compared to the major allele homozygotes and rs174537 accounted for 18.6% of the additive variance in AA concentrations. This SNP was also associated with levels of eicosadienoic acid (EDA; p = 6.78×10−9) and eicosapentanoic acid (EPA; p = 1.07×10−14). Participants carrying the allele associated with higher AA, EDA, and EPA also had higher low-density lipoprotein (LDL-C) and total cholesterol levels. Outside the FADS gene cluster, the strongest region of association mapped to chromosome 6 in the region encoding an elongase of very long fatty acids 2 (ELOVL2). In this region, association was observed with EPA (rs953413; p = 1.1×10−6). The effects of rs174537 were confirmed in an independent sample of 1,076 subjects participating in the GOLDN study. The ELOVL2 SNP was associated with docosapentanoic and DHA but not with EPA in GOLDN. These findings show that polymorphisms of genes encoding enzymes in the metabolism of PUFA contribute to plasma concentrations of fatty acids.</text>
+      <annotation id="G1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="91" length="27"/>
+        <text>Polyunsaturated fatty acids</text>
+      </annotation>
+      <annotation id="G2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="120" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="284" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="431" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525,MESH:D043371</infon>
+        <location offset="521" length="31"/>
+        <text>omega-3 and omega-6 fatty acids</text>
+      </annotation>
+      <annotation id="G23">
+        <infon key="type">OTHER</infon>
+        <location offset="708" length="22"/>
+        <text>fatty acid desaturases</text>
+      </annotation>
+      <annotation id="G5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="843" length="16"/>
+        <text>arachidonic acid</text>
+      </annotation>
+      <annotation id="G6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="861" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="917" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="1022" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="391">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="1085" length="18"/>
+        <text>eicosadienoic acid</text>
+      </annotation>
+      <annotation id="393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="1105" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="1129" length="20"/>
+        <text>eicosapentanoic acid</text>
+      </annotation>
+      <annotation id="G12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="1151" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="1229" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="394">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="1233" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="1242" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="2X47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="1287" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="G16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="1304" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="427">
+        <infon key="type">OTHER</infon>
+        <location offset="1440" length="35"/>
+        <text>elongase of very long fatty acids 2</text>
+      </annotation>
+      <annotation id="G17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="1532" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="1713" length="15"/>
+        <text>docosapentanoic</text>
+      </annotation>
+      <annotation id="G18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="1733" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="1750" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="1850" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="1894" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract_title_1</infon>
+      <offset>1935</offset>
+      <text>Author Summary</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>1950</offset>
+      <text>Polyunsaturated fatty acids (PUFA) have a number of beneficial effects on human health. Plasma PUFA concentrations are determined by a combination of dietary intake and metabolic efficiency. To determine the genes involved in PUFA homeostasis, we scanned the genome for genetic variations associated with plasma PUFA concentrations. The fatty acid desaturase gene, studied in previous candidate gene association studies, was the strongest determinant of plasma PUFA. A second gene encoding a fatty acid elongase was associated with long chain PUFA. The results of this study contribute to our understanding of the genetics of PUFA homeostasis. These genetic markers may be useful tools to examine the inter-relationship between diet, genetics, and disease.</text>
+      <annotation id="G27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="1950" length="27"/>
+        <text>Polyunsaturated fatty acids</text>
+      </annotation>
+      <annotation id="G28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="1979" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2045" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2176" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2262" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="429">
+        <infon key="type">OTHER</infon>
+        <location offset="2287" length="21"/>
+        <text>fatty acid desaturase</text>
+      </annotation>
+      <annotation id="G32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2411" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G36">
+        <infon key="type">OTHER</infon>
+        <location offset="2442" length="19"/>
+        <text>fatty acid elongase</text>
+      </annotation>
+      <annotation id="G33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2493" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2576" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>2707</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2720</offset>
+      <text>Polyunsaturated fatty acids (PUFA) refer to the class of fatty acids with multiple desaturations in the aliphatic tail. Short chain PUFA (up to 16 carbons) are synthesized endogenously by fatty acid synthase. Long chain PUFA are fatty acids of 18 carbons or more in length with two or more double bonds. Depending on the position of the first double bond proximate to the methyl end, PUFA are classified as n-6 or n-3. Long chain PUFA are either directly absorbed from food or synthesized from the two essential fatty acids linoleic acid (LA; 18:2n-6) and alpha-linolenic acid (ALA; 18:3n-3) through a series of desaturation and elongation processes [1]. The initial step in PUFA biosynthesis is the desaturation of ALA and LA by the enzyme d6-desaturase (FADS2; GeneID 9415) (Figure 1). PUFA modulate inflammatory response through a number of different mechanisms including modulation of cyclooxygenase and lipoxigenase activity [2]. Cyclooxygenase and lipoxigenase are essential for production of eicosanoids and resolvins [2]–[4]. Since n-3 and n-6 fatty acids compete for the same metabolic pathway and produce eicosanoids with differing effects, it has been theorized that the balance of the two classes of PUFA may be important in the pathogenesis of inflammatory diseases.</text>
+      <annotation id="G37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2720" length="27"/>
+        <text>Polyunsaturated fatty acids</text>
+      </annotation>
+      <annotation id="G38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2749" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="2777" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2852" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="2867" length="7"/>
+        <text>carbons</text>
+      </annotation>
+      <annotation id="G58">
+        <infon key="type">OTHER</infon>
+        <location offset="2908" length="19"/>
+        <text>fatty acid synthase</text>
+      </annotation>
+      <annotation id="G42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="2940" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="2949" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002244</infon>
+        <location offset="2967" length="7"/>
+        <text>carbons</text>
+      </annotation>
+      <annotation id="G45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="3104" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="3150" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="477">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="3232" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="3244" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="G48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="3259" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="3263" length="7"/>
+        <text>18:2n-6</text>
+      </annotation>
+      <annotation id="G49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="3276" length="20"/>
+        <text>alpha-linolenic acid</text>
+      </annotation>
+      <annotation id="G50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="3298" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="413">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="3303" length="7"/>
+        <text>18:3n-3</text>
+      </annotation>
+      <annotation id="G51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="3395" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="3436" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="3444" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="3508" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015777</infon>
+        <location offset="3719" length="11"/>
+        <text>eicosanoids</text>
+      </annotation>
+      <annotation id="444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525</infon>
+        <location offset="3735" length="9"/>
+        <text>resolvins</text>
+      </annotation>
+      <annotation id="G59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525,MESH:D043371</infon>
+        <location offset="3760" length="23"/>
+        <text>n-3 and n-6 fatty acids</text>
+      </annotation>
+      <annotation id="G56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015777</infon>
+        <location offset="3835" length="11"/>
+        <text>eicosanoids</text>
+      </annotation>
+      <annotation id="G57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="3932" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>4002</offset>
+      <text>The metabolic pathway of n-3 and n-6 fatty acids.</text>
+      <annotation id="G61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525,MESH:D043371</infon>
+        <location offset="4027" length="23"/>
+        <text>n-3 and n-6 fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>4052</offset>
+      <text>The fatty acids examined in the study are indicated in bold. The dashed arrows indicate pathways absent in mammals.</text>
+      <annotation id="G62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="4056" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4168</offset>
+      <text>Epidemiological studies have shown that fatty acid consumption and plasma levels, in particular of the n-3 family, are associated with reduced risk of cardiovascular disease [5]–[7], diabetes [8]–[10], depression [11],[12], and dementia [13]. However, not all studies show significant associations and there has been inconsistencies in the direction of the associations especially for the n-6 acids [14],[15]. The different methods (dietary questionnaire or biomarkers) for accessing PUFA status may contribute to discrepant results [16]–[18]. The disadvantage of using dietary PUFA intake is the evidence of inaccuracies intrinsic in any reporting methods of dietary intake that plasma levels would circumvent. In addition, direct measures of PUFA reflect the cumulative effects of intake and endogenous metabolism. Dietary fatty acids can be converted into longer chain PUFA or stored for energy thus another reason for inconsistent results may be due the general lack of control for individual differences in metabolism once fatty acids are consumed.</text>
+      <annotation id="G63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="4208" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525</infon>
+        <location offset="4271" length="10"/>
+        <text>n-3 family</text>
+      </annotation>
+      <annotation id="G70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D043371</infon>
+        <location offset="4557" length="9"/>
+        <text>n-6 acids</text>
+      </annotation>
+      <annotation id="G64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="4652" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="4746" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="4912" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="4993" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="5040" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="5196" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5228</offset>
+      <text>Previous studies have examined the association of genetic variants, especially polymorphisms in the FADS genes, on fatty acid concentrations in plasma and erythrocyte membranes [19]–[21]. There are 3 FADS (FADS1 [GeneID 3992] ,FADS2, and FADS3 [GeneID 3992]) clustered on chromosome 11. Variants in FADS1 and FADS2 have been consistently shown to be associated with PUFA concentrations. It is unknown whether other loci also determine fatty acid concentrations. To address this question, we conducted a genome-wide association study of plasma fatty acid concentration in participants in the InCHIANTI study.</text>
+      <annotation id="G71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="5343" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="5594" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="5663" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="5771" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>5838</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5846</offset>
+      <text>Linoleic acid (LA) constituted the highest proportion of total fatty acids followed by arachidonic acid (AA) (Table 1) The narrow heritability was highest for AA (37.7%) followed by LA (35.9%), eicosadienoic acid (EDA, 33.3%), alpha-linolenic acid (ALA, 28.1%), eicosapentanoic acid (EPA, 24.4%), and docosahexanoic acid (DHA,12.0%). For EDA, AA, and EPA, genome-wide significant signals fell in the FADS1/FADS2/FADS3 region on chromosome 11 (Figure 2, Figure 3, Table S1). Of these, the most significant SNP was rs174537 for AA (P = 5.95×10−46), where the variant explained 18.6% of the additive variance of AA concentrations. This SNP was significantly associated with EDA (P = 6.78×10−9), and EPA (P = 1.04×10−14). The association with LA (P = 5.58×10−7) and ALA (P = 2.76×10−5) did not reach genome-wide significance, and there was no association with DHA (P = 0.3188). Presence of the minor allele (T) was associated with lower concentrations of longer chain fatty acids (EDA, AA, EPA), but with higher concentrations of LA and ALA (Table 2). With the exception of DHA, the SNPs exhibiting the strongest evidence of association with the fatty acids examined in this study mapped to the FADS1, FADS2, and FADS3 cluster. The most significant SNP for DHA was on chromosome 12 within the SLC26A10 gene (GeneID 65012, rs2277324; PDHA = 2.65×10−9). In all cases, inclusion of the most significant SNP as a covariate in the model resulted in attenuation of the effect of the other SNPs in the region (Figure S1). Accordingly, associated SNPs in this region were in significant linkage disequilibrium with each other in the InCHIANTI sample (Figure S2).</text>
+      <annotation id="G75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="5846" length="13"/>
+        <text>Linoleic acid</text>
+      </annotation>
+      <annotation id="G76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="5861" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="5909" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="5933" length="16"/>
+        <text>arachidonic acid</text>
+      </annotation>
+      <annotation id="G79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="5951" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="6005" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="6028" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="6040" length="18"/>
+        <text>eicosadienoic acid</text>
+      </annotation>
+      <annotation id="395">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="6060" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="6073" length="20"/>
+        <text>alpha-linolenic acid</text>
+      </annotation>
+      <annotation id="G85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="6095" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="6108" length="20"/>
+        <text>eicosapentanoic acid</text>
+      </annotation>
+      <annotation id="G87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="6130" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="6147" length="19"/>
+        <text>docosahexanoic acid</text>
+      </annotation>
+      <annotation id="G89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="6168" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="396">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="6184" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="6189" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="6197" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="6372" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="6455" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="6517" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="6542" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="6585" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="6608" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="6702" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="6810" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="6823" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="6828" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="6832" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="6872" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="6879" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="6916" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="6988" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="7099" length="3"/>
+        <text>DHA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>7543</offset>
+      <text>Genome-wide scans of omega-6 fatty acid profiles in InCHIANTI study.</text>
+      <annotation id="G109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D043371</infon>
+        <location offset="7564" length="18"/>
+        <text>omega-6 fatty acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>7612</offset>
+      <text>Genome-wide associations of plasma linoleic acid (A), eicasadienoic acids (B) and arachidonic acid (C) with 495,343 autosomal and X chromosome SNPs that passed quality control graphed by chromosome position and −log10 p-value. The most significant variant was within the FAD1/FAD2/FAD3 cluster on chromosome 11. The genes nearby or within the SNPs that were selected for replication in GOLDN are indicated.</text>
+      <annotation id="G110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="7647" length="13"/>
+        <text>linoleic acid</text>
+      </annotation>
+      <annotation id="G111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="7666" length="19"/>
+        <text>eicasadienoic acids</text>
+      </annotation>
+      <annotation id="G112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="7694" length="16"/>
+        <text>arachidonic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_title_caption</infon>
+      <offset>8021</offset>
+      <text>Genome-wide scans of omega-3 fatty acid profiles in InCHIANTI study.</text>
+      <annotation id="G113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525</infon>
+        <location offset="8042" length="18"/>
+        <text>omega-3 fatty acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">fig_caption</infon>
+      <offset>8090</offset>
+      <text>Genome-wide associations of plasma alpha linolenic acid (A), eicosapentanoic acid (B) and docasahexanoic acid (C) with 495,343 autosomal and X chromosome SNPs that passed quality control graphed by chromosome position and −log10 p-value. The most significant variant was within the FAD1/FAD2/FAD3 cluster on chromosome 11. The genes nearby or within the SNPs that were selected for replication in GOLDN are indicated.</text>
+      <annotation id="G114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="8125" length="20"/>
+        <text>alpha linolenic acid</text>
+      </annotation>
+      <annotation id="G115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="8151" length="20"/>
+        <text>eicosapentanoic acid</text>
+      </annotation>
+      <annotation id="G116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="8180" length="19"/>
+        <text>docasahexanoic acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_title_caption</infon>
+      <offset>8510</offset>
+      <text>Descriptive Characteristics of InCHIANTI and GOLDN study.</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>9288</offset>
+      <text>Values represent mean (SD).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>9316</offset>
+      <text>Fatty acids are plasma concentrations (% total fatty acids) for InCHIANTI and erythrocytes concentration for GOLDN.</text>
+      <annotation id="G117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="9316" length="11"/>
+        <text>Fatty acids</text>
+      </annotation>
+      <annotation id="G118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="9363" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_title_caption</infon>
+      <offset>9432</offset>
+      <text>Associations of fatty acids and plasma lipids by rs174537 (FADS1) and rs953413 (ELOVL2) in InCHIANTI and GOLDN study.</text>
+      <annotation id="G119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="9448" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="9471" length="6"/>
+        <text>lipids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>11244</offset>
+      <text>Values represent mean (SD).</text>
+    </passage>
+    <passage>
+      <infon key="type">table_footnote</infon>
+      <offset>11272</offset>
+      <text>Fatty acids are plasma concentrations (% total fatty acids) for InCHIANTI and erythrocytes concentration for GOLDN.</text>
+      <annotation id="G120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="11272" length="11"/>
+        <text>Fatty acids</text>
+      </annotation>
+      <annotation id="G121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="11319" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11388</offset>
+      <text>To investigate whether this SNP has an effect on other cardiovascular disease risk factors, we examined the association of rs174537 with plasma lipid parameters. Significant association was observed with total cholesterol (P = 0.027) and LDL-cholesterol (P = 0.011), but not with either HDL-C (P = 0.775) or triglycerides (P = 0.862; Table 2). The minor allele homozygotes (TT) had 8 mg/dL lower total cholesterol and 9 mg/dL lower LDL-C compared with GG subjects.</text>
+      <annotation id="479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="11532" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="G122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="11598" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2X243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="11626" length="15"/>
+        <text>LDL-cholesterol</text>
+      </annotation>
+      <annotation id="2X245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="11675" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="11696" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="G124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="11790" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2X244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="11820" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11869</offset>
+      <text>To identify other putative chromosome regions associated with fatty acid concentrations beyond the FADS cluster, we examined the top 3 non-redundant (r2&lt;0.2) SNPs from the analysis of each fatty acid and selected the SNPs that mapped to candidate gene regions (defined as 20kb upstream of intron 1, or downstream of last exon) for replication in an independent study (Table S1). These included rs16940765 (HRH4 [GeneID 59340], chr18, PEDA = 2.18×10−6), rs17718324 (SPARC [GeneID 6678], chr5, PAA = 7.64×10−7) and rs953413 (ELOVL2 [GeneID 54898], chr6, PAA = 1.1×10−6). In the InCHIANTI study, these four SNPs most strongly associated with a specific fatty acid, unlike FADS cluster that was associated with multiple fatty acids. We noted, however that rs16940765 (HRH4), rs953413 (ELOVL2) and rs2277324 (SLC26A10) showed significant association at the 0.05 level for AA (P = 0.003), DHA (0.004), and EPA (P = 0.004) respectively. In addition, there were four SNPs (rs953413, rs1570069, rs3798719, rs7744440) in the ELOVL2 gene were associated with EPA with p values ranging from 9.51×10−5 to 1.10×10−6 (Figure S3). In total, 5 SNPs (rs174537, rs2277324, rs16940765, rs17718324, rs953413) were selected for replication.</text>
+      <annotation id="G128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="11931" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="12058" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="12519" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="12585" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="12736" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="12752" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="12769" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="12917" length="3"/>
+        <text>EPA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13123</offset>
+      <text>In the GOLDN study, there were significant associations of FADS SNP, rs174537, with ALA, LA, AA, EPA and DHA (P&lt;0.001) and marginal association with docosapentaenoic acid (DPA) (P = 0.068) (Table 2 ). As with the InCHIANTI study, presence of the T allele was associated with higher ALA and LA concentration and lower AA, EPA, DPA and DHA concentrations. Consistent with the InCHIANTI study, this SNP was associated with total cholesterol and LDL-C but not triglycerides or HDL-C. We also observed strong associations of rs953413 with docosapentanoic acid (DPA; P = 0.002) and DHA (P&lt;0.001). The presence of the minor allele (A) was associated with lower DHA and higher DPA and higher AA compared to the minor allele carriers (Table 2). The remaining 3 SNP (rs2277324, rs16940765, rs17718324) were not associated with fatty acid concentrations in the GOLDN study (data not shown).</text>
+      <annotation id="G136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="13207" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="13212" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="13216" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="13220" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="13228" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="13272" length="21"/>
+        <text>docosapentaenoic acid</text>
+      </annotation>
+      <annotation id="G142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="13295" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="13405" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="13413" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="13440" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="13444" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="13449" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="13457" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="13549" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2X306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="13565" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="G150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="13579" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="2X307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="13596" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="13657" length="20"/>
+        <text>docosapentanoic acid</text>
+      </annotation>
+      <annotation id="G152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="13679" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G153">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="13699" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="13777" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G155">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="13792" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G156">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="13807" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G157">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="13940" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>14011</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14022</offset>
+      <text>The genome-wide association approach enables comprehensive examination of the genome to identify novel loci contributing to PUFA homeostasis. In addition, the significance of the genes previously reported in association with PUFA can be assessed relative to other regions in the genome. Here, we demonstrated that polymorphisms in the FADS cluster are the strongest determinants of plasma and erythrocyte fatty acid concentrations, explaining up to 18.6% of the additive variance in plasma AA levels. Consistent with prior reports, the greatest evidence of association was observed in the region containing FADS1, FEN1 (flap structure specific endonuclease, GeneID 2237), two hypothetical proteins (C11orf9 [GeneID 745], C11orf10 [GeneID 746]), and the promoter region of FADS2 [20],[21]. With the exception of EDA, the direction of the association of rs174537 with plasma and erythrocyte fatty acids is consistent with previous reports. We find that there are higher levels of ALA and LA which is suggestive of an accumulation of the initial products of the PUFA metabolic pathway. The cluster of SNP ranging from rs174537 to rs509360 showed the strongest evidence for association, and contains the haplotype block previously examined in relation to plasma and erythrocyte fatty acids [20],[21]. Based on the HapMap CEU data, the r2 between rs174537 and previously reported SNPs were ≥0.8. If functional polymorphisms exist within this region, it could affect the expression of both desaturases. To this end, in a recent report of genome-wide association of global gene expression, the rs174546 that is in LD with the rs174537 (r2 = 0.99) was associated with FADS1 expression (LOD = 5, P = 1.6×10−6) but not FADS2 (LOD = 0.7, P = 0.07) in lymphoblastoid cells [22],[23]. The allele associated with higher AA showed greater expression of FADS1, consistent with our results. Since FADS1 and FADS2expression varies by tissue type, it would be of interest to examine the effect of the variant on gene expression in other cell types [24].</text>
+      <annotation id="G160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="14146" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="14247" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G162">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="14427" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="14512" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="14833" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="G165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="14911" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D017962</infon>
+        <location offset="15000" length="3"/>
+        <text>ALA</text>
+      </annotation>
+      <annotation id="G167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787</infon>
+        <location offset="15008" length="2"/>
+        <text>LA</text>
+      </annotation>
+      <annotation id="G168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="15081" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G169">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="15296" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G170">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="15828" length="2"/>
+        <text>AA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16082</offset>
+      <text>The T allele associated with lower AA was also associated with decreased LDL-C and total cholesterol. The association with LDL-C was also observed in a large meta-analysis of plasma lipid concentrations in ∼8500 subjects [25],[26]. In this meta-analysis, there was stronger evidence of association with high density lipoprotein (HDL-C) and triglycerides (TG), where the T allele displayed lower HDL-C and higher triglyceride concentrations. Finally, in the Welcome Trust Case-Control Consortium coronary artery disease (CAD) study, the T allele was associated with increased prevalence of CAD (P = 0.0375) [27]. The increased prevalence of CAD, low HDL-C and high TG is consistent with lower AA concentrations in the T allele carriers. Endogenous PUFA are natural ligands of peroxisome proliferator activating receptor alpha (PPARA) [28]. PPARA activation has been shown to elevate HDL-C and lower TG by inducing the expression of ApoA1, Apo-AII, lipoprotein lipase and suppressing ApoCIII [29]–[32]. Thus the low AA, EPA and EDA in the T allele carriers will results in lower PPARA activation. Under this hypothesis, we would expect the T allele carriers to display higher LDL-C since PPARA is known to enhance LDL-C clearance [33] . However, in both the InCHIANTI and GOLDN study, lower concentrations of LDL-C are observed. It is likely that there are other mechanisms by which fatty acids regulate lipoprotein homeostasis, for example through membrane fluidity. It may be possible, that the higher concentrations of linoleic and linolenic acid in the T allele carriers results in increased membrane fluidity, thus increasing LDL-receptor recycling leading to lower LDL-C.</text>
+      <annotation id="G171">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="16117" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="2X355">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="16155" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="G172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="16171" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2X356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="16205" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="16264" length="5"/>
+        <text>lipid</text>
+      </annotation>
+      <annotation id="2X365">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="16385" length="24"/>
+        <text>high density lipoprotein</text>
+      </annotation>
+      <annotation id="2X361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="16411" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="16422" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="G174">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="16437" length="2"/>
+        <text>TG</text>
+      </annotation>
+      <annotation id="2X362">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="16477" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G175">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="16494" length="12"/>
+        <text>triglyceride</text>
+      </annotation>
+      <annotation id="2X363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="16731" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="16746" length="2"/>
+        <text>TG</text>
+      </annotation>
+      <annotation id="G177">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="16774" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G178">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="16829" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="2X364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="16964" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="16980" length="2"/>
+        <text>TG</text>
+      </annotation>
+      <annotation id="2X366">
+        <infon key="type">OTHER</infon>
+        <location offset="17029" length="18"/>
+        <text>lipoprotein lipase</text>
+      </annotation>
+      <annotation id="G180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D016718</infon>
+        <location offset="17096" length="2"/>
+        <text>AA</text>
+      </annotation>
+      <annotation id="G181">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="17100" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="400">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C015876</infon>
+        <location offset="17108" length="3"/>
+        <text>EDA</text>
+      </annotation>
+      <annotation id="2X357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="17256" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="2X358">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="17294" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="2X359">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="17389" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="G183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="17463" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="2X367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008074</infon>
+        <location offset="17484" length="11"/>
+        <text>lipoprotein</text>
+      </annotation>
+      <annotation id="466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D019787,MESH:D017962</infon>
+        <location offset="17602" length="27"/>
+        <text>linoleic and linolenic acid</text>
+      </annotation>
+      <annotation id="2X360">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="17751" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17766</offset>
+      <text>The elongation of very long chain fatty acid (ELOVL) family genes are elongases that catalyze the rate-limiting condensation reaction resulting in the synthesis of very long chain fatty acids (VLCFA) [34]. To date, six ELOVL genes have been described. The ELOVL1, 3 and 6 are involved in synthesis of monounsaturated and saturated long chain fatty acids while ELOVL2, 4 and 5 elongate polyunsaturated fatty acids [35]. In this study, rs953413 in the ELOVL2 was the third most significant SNP in the analysis of EPA, with strong, although not genome-wide level significant association with long chain fatty acids EPA and DHA. In GOLDN, there were no significant associations of this SNP with EPA, but a significant association was observed with DPA. In mammals, two elongation steps are required for the synthesis of DHA from EPA. First, EPA is elongated to DPA, then to 24:5n-3 followed by a desaturation and retroconversion step to form DHA [1] (Figure 1). The two initial elongation steps of 20 and 22-C fatty acids are mediated by ELOVL2 [36]. The rs953413 is associated with substrate EPA (InCHIANTI), and product DPA (GOLDN) and DHA (both studies) of the EVOLV2 pathway. Plasma DPA levels were not measured in InCHIANTI, thus whether this association is also observed in this population cannot be investigated. Why the ELOVL2 SNP was not associated with EPA in GOLDN is not clear, however it may reflect the differences in fatty acid metabolism in erythrocytes versus plasma as they reflect two slightly different pools of fatty acids [37]. Plasma fatty acids reflect short term intake of fatty acids whereas erythrocyte levels reflect long term intake. Thus the different results between the plasma and erythrocyte fatty acids may reflect dietary differences between subjects in the GOLDN (USA) and the InCHIANTI study (Italy). Regardless of these differences, the results of this study suggestive of the role of ELOVL2 in the conversion of EPA to DHA in humans. The presence of the minor (A) allele was associated with higher EPA/DPA and lower DHA. If rs953413, located in intron 1, is the functional SNP (or is in LD with the functional SNP), this variant would likely be associated with lower expression of the ELOVL2 or result in a less efficient variant of the elongase resulting in decreased elongation of EPA to DHA. In lymphoblastoid cells, this SNP was not associated with ELOVL2 expression (LOD = 0.4, P = 0.2) [22],[23]. Further investigation in other cell lines and functional analysis of the different variants is warranted.</text>
+      <annotation id="G227">
+        <infon key="type">OTHER</infon>
+        <location offset="17770" length="61"/>
+        <text>elongation of very long chain fatty acid (ELOVL) family genes</text>
+      </annotation>
+      <annotation id="G198">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="17946" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="18108" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G200">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="18151" length="27"/>
+        <text>polyunsaturated fatty acids</text>
+      </annotation>
+      <annotation id="G201">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="18277" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G228">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="18366" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G229">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="18378" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="18386" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="18457" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G204">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="18510" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G205">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="18582" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="18591" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="18603" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="18623" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G209">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="18704" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D005227</infon>
+        <location offset="18760" length="23"/>
+        <text>20 and 22-C fatty acids</text>
+      </annotation>
+      <annotation id="G210">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="18855" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="18884" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="18900" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G213">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="18949" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="19125" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G215">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="19194" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="19294" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G217">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="19319" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G218">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="19360" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="19487" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="19713" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G221">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="19720" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="19799" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G223">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C026219</infon>
+        <location offset="19803" length="3"/>
+        <text>DPA</text>
+      </annotation>
+      <annotation id="G224">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="19817" length="3"/>
+        <text>DHA</text>
+      </annotation>
+      <annotation id="G225">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015118</infon>
+        <location offset="20084" length="3"/>
+        <text>EPA</text>
+      </annotation>
+      <annotation id="G226">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004281</infon>
+        <location offset="20091" length="3"/>
+        <text>DHA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20318</offset>
+      <text>In summary, we have shown that the major loci for fatty acid concentrations in both plasma and erythrocyte membranes are in genes involved in the metabolism of PUFA. The FADS locus on chromosome 11 was the major contributor of plasma fatty acid concentrations, and thus may have implications for cardiovascular disease. In addition, we have identified a second promising locus in ELOVL2 that is involved in the homeostasis of longer chain n-3 fatty acids. Future studies should investigate the interactions between dietary intake, circulating levels of fatty acids and genetic variants on risk of diseases such as cardiovascular disease.</text>
+      <annotation id="G231">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="20368" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005231</infon>
+        <location offset="20478" length="4"/>
+        <text>PUFA</text>
+      </annotation>
+      <annotation id="G233">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="20552" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G234">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D015525</infon>
+        <location offset="20757" length="15"/>
+        <text>n-3 fatty acids</text>
+      </annotation>
+      <annotation id="G235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="20871" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>20956</offset>
+      <text>Material and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>20977</offset>
+      <text>Sample Description</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20996</offset>
+      <text>The InCHIANTI study is a population-based epidemiological study aimed at evaluating factors that influence mobility in the older population living in the Chianti region of Tuscany, Italy. Details of the study have been previously reported [38]. Briefly, 1616 residents were selected from the population registry of Greve in Chianti (a rural area: 11 709 residents with 19.3% of the population greater than 65 years of age) and Bagno a Ripoli (Antella village near Florence; 4704 inhabitants, with 20.3% greater than 65 years of age). The participation rate was 90% (n = 1453) and participants ranged between 21–102 years of age. Overnight fasted blood samples were collected for genomic DNA extraction and measurement of plasma fatty acids. Genotyping was completed for 1231 subjects using the Illumina Infinium HumanHap 550 genotyping chip (ver1 and ver3 chips were used). The study protocol was approved by the Italian National Institute of Research and Care of Aging Institutional Review.</text>
+      <annotation id="G236">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="21724" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21994</offset>
+      <text>There were 85 parent-offspring pairs, 6 sib-pairs and 2 half-sibling pairs documented. We investigated any further familial relationships using IBD of 10,000 random SNPs using RELPAIR and uncovered 1 parent-offspring, 79 siblings and 13 half-sibling [39]. We utilized the correct family structure inferred from genetic data for all analyses. In addition, we identified 2 duplicated samples and removed these from the study. Sample quality was assessed using the GAINQC program (http://www.sph.umich.edu/csg/abecasis/GainQC/). The average genotype completeness and heterozygosity rates were 98% and 32% respectively. We excluded subjects that had less than 97% of genotyped completeness (n = 12), heterozygosity rate of less than 30% (n = 5) and misspecified sex based on heterozygosity of the X chromosome SNPs (n = 1). The final sample size used for SNP quality control was 1210.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>22887</offset>
+      <text>The confirmation study population consisted of 1120 white men and women in the United States participating in the Genetics of Lipid Lowering Drugs and Diet Network (GOLDN) Study. The majority of participants were re-recruited from the ongoing National Heart and Lung and Blood Institutes (NHLBI) Family Heart Study (FHS) [40] in two genetically homogeneous centers (Minneapolis, MN and Salt Lake City, UT). GOLDN is part of the Program for Genetic Interactions (PROGENI) Network, a group of NIH-funded intervention studies of gene-environmental interactions. The primary aim of the GOLDN study was to characterize the genetic components of triglycerides response following a high fat meal and hypolipedemic drug, fenofibrate. Detailed study design and methodology has been previously described [41],[42].</text>
+      <annotation id="G237">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="23527" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="G238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011345</infon>
+        <location offset="23600" length="11"/>
+        <text>fenofibrate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>23692</offset>
+      <text>In the replication sample, we excluded persons with missing genotypes or extreme fatty acid values. The final data set consists of information on 1076 individuals. The protocol for this study was approved by the Human Studies Committee of Institutional Review Board at University of Minnesota, University of Utah and Tufts University/New England Medical Center. Written informed consent was obtained from all participants.</text>
+      <annotation id="G239">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="23773" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24115</offset>
+      <text>Biochemical Measurements</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24140</offset>
+      <text> InCHIANTI: Plasma fatty acid measurement methods has been described previously [43]. Briefly, blood samples were collected in the morning after a 12-hr overnight fast. Aliquots of plasma were immediately obtained and stored at −80 C. Fatty acid methyl esters (FAME) were prepared through transesterification using Lepage and Roy’s method with modification [44],[45]. Separation of FAME was carried out on an HP-6890 gas chromatograph (Hewlett- Packard, Palo Alto, CA) with a 30-m fused silica column (HP-225; Hewlett-Packard). FAMEs were identified by comparison with pure standards (NU Chek Prep, Inc., Elysian, MA). For quantitative analysis of fatty acids as methyl esters, calibration curves for FAME (ranging from C14:0 to C24:1) were prepared by adding six increasing amounts of individual FAME standards to the same amount of internal standard (C17:0; 50xg). The correlation coefficients for the calibration curves of fatty acids were in all cases higher than 0.998 in the range of concentrations studied. Fatty acid concentration was expressed as a percentage of total fatty acids. The coefficient of variation for all fatty acids was on average 1.6% for intraassay and 3.3% for interassay. HDL-C, total cholesterol and triglycerides were determined using commercial enzymatic tests (Roche Diagnostics, Mannheim, Germany). Serum low-density lipoprotein cholesterol (LDL-C) was computed with the Friedewald formula (LDL-C = total cholesterol − HDL-C − triglicerides/5).</text>
+      <annotation id="G240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="24159" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G241">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D004952</infon>
+        <location offset="24375" length="24"/>
+        <text>Fatty acid methyl esters</text>
+      </annotation>
+      <annotation id="G242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D004952</infon>
+        <location offset="24401" length="4"/>
+        <text>FAME</text>
+      </annotation>
+      <annotation id="G243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D004952</infon>
+        <location offset="24522" length="4"/>
+        <text>FAME</text>
+      </annotation>
+      <annotation id="G244">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D012822</infon>
+        <location offset="24627" length="6"/>
+        <text>silica</text>
+      </annotation>
+      <annotation id="G245">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="24788" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G246">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004952</infon>
+        <location offset="24803" length="13"/>
+        <text>methyl esters</text>
+      </annotation>
+      <annotation id="G247">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D004952</infon>
+        <location offset="24841" length="4"/>
+        <text>FAME</text>
+      </annotation>
+      <annotation id="G248">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D004952</infon>
+        <location offset="24937" length="4"/>
+        <text>FAME</text>
+      </annotation>
+      <annotation id="G249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="25066" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="25154" length="10"/>
+        <text>Fatty acid</text>
+      </annotation>
+      <annotation id="G251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="25218" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="G252">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="25268" length="11"/>
+        <text>fatty acids</text>
+      </annotation>
+      <annotation id="2X484">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="25340" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="G253">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="25353" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="G254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="25369" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="2X486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="25478" length="35"/>
+        <text>low-density lipoprotein cholesterol</text>
+      </annotation>
+      <annotation id="2X482">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="25515" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="2X483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="25564" length="5"/>
+        <text>LDL-C</text>
+      </annotation>
+      <annotation id="G255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="25578" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="2X485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008075</infon>
+        <location offset="25592" length="5"/>
+        <text>HDL-C</text>
+      </annotation>
+      <annotation id="480">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="25600" length="13"/>
+        <text>triglicerides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25630</offset>
+      <text> GOLDN: Fatty acids (FA) in erythrocyte membrane were measured following procedures described previously [46] Briefly, lipids were extracted from the erythrocyte membranes with a mixture of chloroform:methanol (2:1, v/v), collected in heptanes and injected onto a capillary Varian CP7420 100-m column with a Hewlett Packard 5890 gas chromatograph (GC) equipped with a HP6890A autosampler. The GC was configured for a single capillary column with a flame ionization detector and interfaced with HP chemstation software. The initial temperature of 190°C was increased to 240°C over 50 minutes. Fatty acid methylesters from 12:0 through 24:1n9 were separated, identified and expressed as percent of total fatty acid. Triglycerides were measured using a glycerol blanked enzymatic method (Trig/GB, Roche Diagnostics Corporation, Indianapolis, IN) and cholesterol was measured using a cholesterol esterase, cholesterol oxidase reaction (Chol R1, Roche Diagnostics Corporation) on the Roche/Hitachi 911 Automatic Analyzer (Roche Diagnostics Corporation). For HDL-cholesterol, the non-HDL-cholesterol was first precipitated with magnesium/dextran. LDL-cholesterol was measured by a homogeneous direct method (LDL Direct Liquid Select Cholesterol Reagent, Equal Diagnostics, Exton, PA).</text>
+      <annotation id="G261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="25638" length="11"/>
+        <text>Fatty acids</text>
+      </annotation>
+      <annotation id="G262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="25651" length="2"/>
+        <text>FA</text>
+      </annotation>
+      <annotation id="452">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008055</infon>
+        <location offset="25749" length="6"/>
+        <text>lipids</text>
+      </annotation>
+      <annotation id="G263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002725</infon>
+        <location offset="25820" length="10"/>
+        <text>chloroform</text>
+      </annotation>
+      <annotation id="G264">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="25831" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="G265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006536</infon>
+        <location offset="25865" length="8"/>
+        <text>heptanes</text>
+      </annotation>
+      <annotation id="G266">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227,MESH:D004952</infon>
+        <location offset="26222" length="23"/>
+        <text>Fatty acid methylesters</text>
+      </annotation>
+      <annotation id="G267">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="26332" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G268">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="26344" length="13"/>
+        <text>Triglycerides</text>
+      </annotation>
+      <annotation id="G269">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005990</infon>
+        <location offset="26380" length="8"/>
+        <text>glycerol</text>
+      </annotation>
+      <annotation id="G270">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="26477" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="469">
+        <infon key="type">OTHER</infon>
+        <location offset="26510" length="20"/>
+        <text>cholesterol esterase</text>
+      </annotation>
+      <annotation id="470">
+        <infon key="type">OTHER</infon>
+        <location offset="26532" length="19"/>
+        <text>cholesterol oxidase</text>
+      </annotation>
+      <annotation id="2X517">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008076</infon>
+        <location offset="26683" length="15"/>
+        <text>HDL-cholesterol</text>
+      </annotation>
+      <annotation id="G273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="26712" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="G274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008274</infon>
+        <location offset="26752" length="9"/>
+        <text>magnesium</text>
+      </annotation>
+      <annotation id="G275">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D003911</infon>
+        <location offset="26762" length="7"/>
+        <text>dextran</text>
+      </annotation>
+      <annotation id="2X518">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="26771" length="15"/>
+        <text>LDL-cholesterol</text>
+      </annotation>
+      <annotation id="386">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="26857" length="11"/>
+        <text>Cholesterol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>26911</offset>
+      <text>Assessment of Dietary Intake</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26940</offset>
+      <text>In the InCHIANTI, dietary intake was assessed using a food-frequency questionnaire (FFQ) created for the European Prospective Investigation into Cancer and nutrition (EPIC) study, and has previously been validated to provide good estimates of dietary intake in this study population [47],[48]. In GOLDN, habitual dietary intake was estimated using the validated dietary history questionnaire (DHQ) developed by the National Cancer Institute [49]. We excluded subjects that reported &lt;800 kcal and &gt;5500 kcal in men and &lt;600kcal and &gt;4500kcal in women.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27491</offset>
+      <text>Genotyping</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27502</offset>
+      <text> InCHIANTI: Genome-wide genotyping was performed using the Illumina Infinium HumanHap550 genotyping chip (chip version 1 and 3) as previously described [50]. The SNP quality control was assessed using GAINQC. The exclusion criteria for SNPs were minor allele frequency &lt;1% (n = 25,422), genotyping completeness &lt;99% (n = 23,610) and Hardy Weinberg-equilibrium (HWE) &lt;0.0001 (n = 517). </text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27900</offset>
+      <text> GOLDN: Five SNPs were selected for replication in the GOLDN study: rs953413, rs2277324, rs16940765, rs17718324 and rs174537. One of these, rs2277324, failed genotyping and therefore another SNP in high LD, rs923838 (r2 = 0.89 in hapmap), was used as a proxy for this SNP. DNA was extracted from blood samples and purified using commercial Puregene reagents (Gentra System, Inc.) following manufacturer’s instructions. SNPs were genotyped using the 5’nuclease allelic discrimination Taqman assay with allelic specific probes on the ABI Prism 7900HT Sequence Detection System (Applies Biosystems, Foster City, Calif, USA) according to standard laboratory protocols. The primers and probes were pre-designed (the assay -on -demand) by the manufacturer (Applied Biosystem) (Assay ID: FEN_rs174537: C___2269026_10, HRH4_rs16940765: C__32711739_10, SPARC_rs17718324: C__34334455_10, ELOVL2_rs953413: C___7617198_10, rs923828: C___2022671_10).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28846</offset>
+      <text>Statistical Analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28867</offset>
+      <text> InCHIANTI GWAS: Inverse normal transformation was applied to plasma fatty acid concentrations to avoid inflated type I error due to non-normality [51]. The genotypes were coded 0, 1 and 2 reflecting the number of copies of an allele being tested (additive genetic model). For X-chromosome analysis, the average phenotype of males hemizygous for a particular allele was treated assumed to match the average phenotype of females homozygous for the same allele. Association analysis was conducted by fitting simple regression test using the fastAssoc option in MERLIN [52]. Narrow heritability reflects the ratio of the trait’s additive variance to the total variance [51],[53]. In all the analyses, the models were adjusted for sex, age and age squared. The genomic control method was used to control for effects of population structure and cryptic relatedness [54]. An approximate genome-wide significance threshold of 1×10−7 (∼0.05/495343 SNPs) was used. For each fatty acid concentration, a second analysis included the most significant SNP from the first pass analysis as a covariate. Linkage disequilibrium coefficints within the region of interest were calculated using GOLD [55].</text>
+      <annotation id="G278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="28936" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="29832" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30060</offset>
+      <text>For the other phenotypes (total cholesterol, triglycerides, LDL-cholesterol, HDL-cholesterol and BMI), the traits were normalized either by natural log or square root transformation when necessary. Associations for each SNP were investigated using the general linear model (GLM) procedure in SAS.</text>
+      <annotation id="G280">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="30092" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+      <annotation id="G281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="30105" length="13"/>
+        <text>triglycerides</text>
+      </annotation>
+      <annotation id="2X527">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008078</infon>
+        <location offset="30120" length="15"/>
+        <text>LDL-cholesterol</text>
+      </annotation>
+      <annotation id="2X528">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008076</infon>
+        <location offset="30137" length="15"/>
+        <text>HDL-cholesterol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30357</offset>
+      <text> GOLDN: Inverse normal transformation was applied to erythrocyte membrane fatty acid concentration to achieve approximate normality. For the additive model, genotype coding was based on the number of variant alleles at the polymorphic site. With no significant sex modification observed, men and women were analyzed together. We used the generalized estimating equation (GEE) linear regression with exchangeable correlation structure as implemented in the GENMOD procedure in SAS (Windows version 9.0, SAS Institute, Cary, NC) to adjust for correlated observations due to familial relationships. Potential confounding factors included study center, age, sex, BMI, smoking (never, former and current smoker), alcohol consumption (non-drinker and current drinker), physical activity, drugs for lowering cholesterol, diabetes and hypertension and hormones. A two-tailed P value of &lt;0.05 was considered to be statistically significant.</text>
+      <annotation id="G284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005227</infon>
+        <location offset="30431" length="10"/>
+        <text>fatty acid</text>
+      </annotation>
+      <annotation id="G285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="31065" length="7"/>
+        <text>alcohol</text>
+      </annotation>
+      <annotation id="G286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002784</infon>
+        <location offset="31158" length="11"/>
+        <text>cholesterol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>31289</offset>
+      <text>Supporting Information</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>31312</offset>
+      <text>The authors have declared that no competing interests exist.</text>
+    </passage>
+    <passage>
+      <infon key="type">footnote</infon>
+      <offset>31373</offset>
+      <text>This study was supported in part by the R&amp;D contract with MedStar Research Institute, the Intramural Research Program of the NIH, National Institute on Aging and by National Heart, Lung, and Blood Institute Grant U01 HL72524, Genetic and Environmental Determinants of Triglycerides; Grants HL-54776 and DK075030, and by contracts 53-K06-5-10 and 58-1950-9-001 from the US Department of Agriculture Research Service.</text>
+      <annotation id="G287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014280</infon>
+        <location offset="31641" length="13"/>
+        <text>Triglycerides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>31789</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

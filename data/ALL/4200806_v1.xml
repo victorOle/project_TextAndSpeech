@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20181114</date>
+  <key>pmc.key</key>
+  <document>
+    <id>4200806</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Zheng;given-names:Qisheng</infon>
+      <infon key="name_2">surname:Chen;given-names:Ying</infon>
+      <infon key="name_1">surname:Liu;given-names:Renping</infon>
+      <infon key="name_0">surname:Jiang;given-names:Ming</infon>
+      <infon key="article-id_pmid">25257535</infon>
+      <infon key="fpage">17188</infon>
+      <infon key="issue">9</infon>
+      <infon key="year">2014</infon>
+      <infon key="article-id_publisher-id">ijms-15-17188</infon>
+      <infon key="article-id_pmc">4200806</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.3390/ijms150917188</infon>
+      <infon key="volume">15</infon>
+      <infon key="license">This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</infon>
+      <infon key="section_type">TITLE</infon>
+      <infon key="kwd">Vam3 Syk docking molecular dynamics simulation Syk inhibitor</infon>
+      <infon key="lpage">17203</infon>
+      <infon key="name_5">surname:Liu;given-names:Peixun</infon>
+      <infon key="name_4">surname:Fan;given-names:Saijun</infon>
+      <offset>0</offset>
+      <text>A Combined Experimental and Computational Study of Vam3, a Derivative of Resveratrol, and Syk Interaction</text>
+      <annotation id="gy2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="51" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="73" length="11"/>
+        <text>Resveratrol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <infon key="section_type">ABSTRACT</infon>
+      <offset>106</offset>
+      <text>Spleen tyrosine kinase (Syk) plays an indispensable role through preliminary extracellular antigen-induced crosslinking of Fc receptor (FcR) in the pathogenesis of autoimmune disorders, such as rheumatoid arthritis. In this study, we identify Vam3, a dimeric derivative of resveratrol isolated from grapes, as an ATP-competitive inhibitor of Syk with an IC50 of 62.95 nM in an in vitro kinase assay. Moreover, docking and molecular dynamics simulation approaches were performed to get more detailed information about the binding mode of Vam3 and Syk. The results show that 11b-OH on ring-C and 4b-OH on ring-D could form two hydrogen bonds with Glu449 and Phe382 of Syk, respectively. In addition, arene-cation interaction between ring-D of Vam3 and Lys402 of Syk was also observed. These results indicate that ring-C and D play an essential role in Vam3–Syk interaction. Our studies may be helpful in the structural optimization of Vam3, and also aid the design of novel Syk inhibitors in the future.</text>
+      <annotation id="gy15">
+        <infon key="type">OTHER</infon>
+        <location offset="106" length="22"/>
+        <text>Spleen tyrosine kinase</text>
+      </annotation>
+      <annotation id="gy26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="349" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="379" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="419" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="643" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="731" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="gy24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="751" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="gy21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="762" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="164">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006841</infon>
+        <location offset="804" length="5"/>
+        <text>arene</text>
+      </annotation>
+      <annotation id="gy17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="847" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="856" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="gy13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="956" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="1039" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1110</offset>
+      <text>1. Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>1126</offset>
+      <text>Allergic and autoimmune disorders share significant functional overlap in the biologic pathways responsible for the activation of signal transduction events leading to production of numerous proinflammatory factors involved in disease initiation and progression. Given the reciprocal connections in these mechanistic pathways, it would be advantageous to target strategic master regulators with novel therapeutics to treat allergic and autoimmune diseases. One such crucial regulator is spleen tyrosine kinase (Syk). Syk is a cytosolic non-receptor tyrosine kinase. It serves as a key mediator of B-cell receptor and Fc receptor mediated signaling in inflammatory cells such as B cells, mast cells, macrophages, dendritic cells, and neutrophils and is involved in bone resorption by osteoclasts. Activation of Syk occurs through preliminary extracellular antigen-induced crosslinking of FcεR1 and FcγRs I, IIA, and IIIA. Upon abnormal activation, Syk, a master upstream regulator of signal transduction, propagates downstream signaling molecules, resulting in initiation of disease. Furthermore, in specific contexts, uncontrolled activation of B cell receptor (BCR) signaling via Syk would lead to development of lymphomas and leukemia. Murine studies have shown that Syk expression is required for the survival of Non-Hodgkin Lymphomas-like (NHL-like) tumors in vitro. Pharmacologic inhibition of Syk induced apoptosis in murine B-cell lymphomas in vitro and resulted in regression of NHL-like B-cell lymphomas.</text>
+      <annotation id="gy28">
+        <infon key="type">OTHER</infon>
+        <location offset="1613" length="22"/>
+        <text>spleen tyrosine kinase</text>
+      </annotation>
+      <annotation id="gy27">
+        <infon key="type">OTHER</infon>
+        <location offset="1675" length="15"/>
+        <text>tyrosine kinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>2650</offset>
+      <text>Full-length Syk is composed of two N-terminal Src homology 2 (SH2) domains followed by an interdomain linker and a C-terminal kinase domain. The tandem SH2 (tSH2) module is also separated by an inter-SH2 linker and serves as a docking platform for immune receptor tyrosine-based activating motifs (ITAMs) which are displayed at the cytosolic side of the plasma membrane. The truncated kinase domain of Syk (Syk-KD), which contains an ATP-binding pocket shows significant catalytic activity and has been extensively used for inhibitor design.</text>
+      <annotation id="gy29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="2914" length="8"/>
+        <text>tyrosine</text>
+      </annotation>
+      <annotation id="gy31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3084" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>3192</offset>
+      <text>In recent years, a number of Syk inhibitors have been discovered for treatment of autoimmune, allergic and autoinflammatory diseases and most of them are ATP-competitive Syk inhibitors. Several research groups have independently reported the crystal structures of the Syk catalytic domain, co-crystallized and ligand soaked with small molecule inhibitors. For example, as shown in Figure 1, OSB and 1B6 are two ATP-competitive inhibitors of Syk with an IC50 of 60 and 26 nM, respectively. The crystal structures of OSB and 1B6 with the catalytic domain of Syk were reported by Marcos Castillo et al. and Fernando Padilla et al., respectively.</text>
+      <annotation id="gy35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3346" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="3583" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="285">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="3591" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="3603" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy34">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="3707" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="3715" length="3"/>
+        <text>1B6</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g001.jpg</infon>
+      <infon key="id">ijms-15-17188-f001</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>3835</offset>
+      <text>Structures of 1B6 and OSB.</text>
+      <annotation id="287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="3849" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="3857" length="3"/>
+        <text>OSB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>3862</offset>
+      <text>Vam3 (amurensis H), a resveratrol dimer, was first isolated from ethanol extracts of Vitis amurensis Rupr as a secondary natural product. Previous studies indicated that Vam3 has anti-inflammatory effects, including alleviate the asthmatic inflammation in asthmatic mice and decrease cigarette smoke-induced autophagy in human bronchial epithelial cells. However, the molecular basis by which Vam3 inhibits inflammation is not clear. In this study, we identified Vam3 as a potent ATP-competitive inhibitor of Syk kinase and it might exert its anti-inflammatories through the Syk pathway. As depicted in Figure 2c, Vam3 is a polyphenol hydroxyl natural product. Compared with other Syk inhibitors which contain different amounts of N atoms, Vam3 owns a polyphenol hydroxyl scaffold with no N atoms. This might provide a new strategy to design novel Syk inhibitors. However, the solubility of Vam3 in water is poor. Structural changes on Vam3 to improve its solubility should not decrease the binding affinity of Vam3. Therefore, interaction between Vam3 and Syk interaction should be understood first. Indeed, characterizing the 3D-structure of Syk–Vam3 complex using crystallization or nuclear magnetic resonance (NMR) techniques is the best way, but it is time and resource consuming.</text>
+      <annotation id="gy71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="3862" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="3868" length="11"/>
+        <text>amurensis H</text>
+      </annotation>
+      <annotation id="gy58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="3884" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="3927" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="gy54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4032" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4255" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4325" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="4342" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4476" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D059808</infon>
+        <location offset="4486" length="19"/>
+        <text>polyphenol hydroxyl</text>
+      </annotation>
+      <annotation id="gy68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="4593" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="gy48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4602" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D059808</infon>
+        <location offset="4614" length="19"/>
+        <text>polyphenol hydroxyl</text>
+      </annotation>
+      <annotation id="gy47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D009584</infon>
+        <location offset="4651" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="gy67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4753" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="4761" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="gy53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4798" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4873" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="4910" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5010" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g002.jpg</infon>
+      <infon key="id">ijms-15-17188-f002</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>5150</offset>
+      <text>(a) IC50 determination of Vam3 with recombination Syk protein; (b) Ki determination of Vam3 with recombination Syk protein; (c) Chemical structure of Vam3.</text>
+      <annotation id="gy80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5176" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5237" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5300" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">INTRO</infon>
+      <offset>5306</offset>
+      <text>Fortunately, the comparably fast and inexpensive docking protocols can be combined with accurate but more expensive molecular dynamics (MD) simulation techniques to predict more reliable protein–ligand complex structures. In our work, molecular docking and dynamics simulation were carried out to investigate the binding mode of the Vam3 with Syk. To investigate the reliability of our stimulation methods, OSB and 1B6 were employed as controls during the docking studies and dynamics simulations. Resveratrol, the monomer of Vam3, was used as a negative control to validate the binding mode of Vam3–Syk complex. We hope that we can reveal the mechanism of the Vam3–Syk interaction and give some useful information to structure optimization of Vam3 as Syk selective inhibitor with good properties.</text>
+      <annotation id="gy93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5639" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="5713" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="5721" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="5804" length="11"/>
+        <text>Resveratrol</text>
+      </annotation>
+      <annotation id="gy88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5832" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5901" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="5967" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6050" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6110</offset>
+      <text>2. Results and Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6136</offset>
+      <text>2.1. Vam3 Inhibited Syk Kinase Activity in Vitro</text>
+      <annotation id="gy97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6141" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6185</offset>
+      <text>Resveratrol is a polyphenolic compound found in grapes. Previous studies reported that resveratrol was a major Syk inhibitor and inhibits activation of Syk kinase in mast cell. Vam3 is a derivative of resveratrol. Ring-C and D of Vam3 share the same structure with Resveratrol. This suggests that Vam3 may also have the capacity for Syk inhibition.</text>
+      <annotation id="gy110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="6185" length="11"/>
+        <text>Resveratrol</text>
+      </annotation>
+      <annotation id="276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D059808</infon>
+        <location offset="6202" length="21"/>
+        <text>polyphenolic compound</text>
+      </annotation>
+      <annotation id="gy108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="6272" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6362" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="6386" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6415" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="6450" length="11"/>
+        <text>Resveratrol</text>
+      </annotation>
+      <annotation id="gy104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6482" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6534</offset>
+      <text>To confirm that Syk was the cellular target of Vam3, in vitro kinase assays were performed by using purified Syk protein. As shown in Figure 2, Vam3 inhibited Syk kinase activity with an IC50 of 62.95 nM and Vam3 was shown to be an ATP-competitive inhibitor of Syk kinase with a Ki of 61.09 nM.</text>
+      <annotation id="gy116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6581" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6678" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6742" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="6766" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6829</offset>
+      <text>2.2. Extra Precision Docking Studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>6866</offset>
+      <text>Extra precision docking of Glide was carried out to investigate the binding mode of Vam3 with Syk. As for 1B6 and OSB, as revealed in Figure 3, two binding conformations of docking were performed respectively and there was no large difference between them. Therefore the conformations which achieved the highest GlideScore (G-score) were used as the initial structures for future binding mode analysis including a 15 ns MD simulation. As for Vam3, however, only one binding conformation was performed. This mainly came from the large rigidity of Vam3 and special shape of the ATP-binding pocket of Syk. Therefore the only credible docking result of Vam3 was used in future binding mode analysis. As shown in Figure 4, the three molecules (1B6, OSB and Vam3), as all of them are ATP-competitive inhibitor of Syk, were docked into the APT-binding pocket of Syk and all of them were positioned in the same location of Syk. 1B6 and OSB possessed a “U”-shaped conformations in the pocket while Vam3 shown the “ψ”-shape conformation. The binding modes of 1B6, OSB and Vam3 are shown in panels of Figure 4b–d, respectively. The detailed interactions will be discussed further in the following molecular dynamics simulations.</text>
+      <annotation id="gy120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="6950" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="6972" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="6980" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="7308" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="7412" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="7442" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="7515" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="290">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="7605" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="7610" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="7618" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="7644" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="291">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="7786" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="7794" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="7855" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="292">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="7915" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="7920" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="7928" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g003.jpg</infon>
+      <infon key="id">ijms-15-17188-f003</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>8095</offset>
+      <text>Superposition of conformations of docking results of 1B6 (a) and OSB (b).</text>
+      <annotation id="293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="8148" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="8160" length="3"/>
+        <text>OSB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g004.jpg</infon>
+      <infon key="id">ijms-15-17188-f004</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>8169</offset>
+      <text>(a) Docked structures of 1B6 (green), OSB (yellow) and Vam3(pink) with Syk; (b) The binding site positioned around 1B6; (c) The binding site positioned around OSB; (d) The binding site positioned around Vam3.</text>
+      <annotation id="294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="8194" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy151">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="8207" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="8224" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="295">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="8284" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy152">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="8328" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="8372" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8378</offset>
+      <text>2.3. Molecular Dynamics Simulation Studies</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>8421</offset>
+      <text>In the docking studies, flexibility of the protein was not taken into consideration. In order to find the key residues and position of Vam3–Syk interaction, we performed 15 ns MD simulations with the Desmond program in which flexibility of proteins were taken into consideration. Three different systems were studied, including 1B6-bound system, OSB-bound system and Vam3-bound system. 1B6-bound system and OSB-bound system were taken as controls. The root mean square deviation (RMSD) values of the backbone atoms relative to the initial structure were calculated to measure the convergence of the systems and ensure the rationality of the sampling method. As depicted in Figure 5, the RMSD of the three were about 3.5 Å after 10 ns and all of them almost remained at this level in the following simulation processes. This indicated that the three systems were stable after 10 ns of simulation.</text>
+      <annotation id="gy161">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="8556" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="8749" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy154">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="8767" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy159">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="8788" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="8807" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy160">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="8828" length="3"/>
+        <text>OSB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g005.jpg</infon>
+      <infon key="id">ijms-15-17188-f005</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>9320</offset>
+      <text>The results of molecular dynamics (MD) simulation. The MD simulation time vs. root mean-square deviation (RMSD) of the backbone atoms for 1B6-bound system (black), OSB-bound system (red) and Vam3-bound system (green).</text>
+      <annotation id="298">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="9458" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy163">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="9484" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="9511" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>9538</offset>
+      <text>To estimate the difference between the MD average structures and crystal structures of controls, the average structures of the MD-simulated complexes from the last 5 ns of MD simulations were superimposed with the crystal structure of 1B6–Syk and OSB–Syk complexes. As shown in Figure 6 and Figure 7, the MD average structures of the two control complexes are overall very similar to their crystal structures. As for 1B6-bound system, 1B6 formed the same H-bonds with Glu449 and Ala451 of Syk just as in crystal structure. The same hydrophobic interactions with Leu377, Pro455 and Leu501 were also observed. Similarly in OSB-bound system, the same H-bonds and hydrophobic interactions in crystal structure of OSB with Syk were also found in MD average structure of OSB–Syk complex. However, there were also little difference between MD average structures and crystal structures of controls. For example, H-bond with Lys402 in the crystal structure of 1B6 with Syk did not exist in crystal structure of 1B6 with Syk. OSB formed an H-bond with ASN499 but it was not found in MD average structure of OSB–Syk complex. The little difference between the MD average structures and crystal structures come from the little location drift and the later might due to the reason that we used whole Syk in our stimulations while crystal structures only contains catalytic domain. These results suggested that our methods, which using docking and molecular dynamics stimulation to investigate the interaction between Vam3 and Syk was reasonable and the MD average structures were very similar with the crystal structures.</text>
+      <annotation id="299">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="9773" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy193">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="9785" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="300">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="9955" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="301">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="9973" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy180">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="10006" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="gy179">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="10017" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="gy190">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="10100" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy195">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011392</infon>
+        <location offset="10108" length="3"/>
+        <text>Pro</text>
+      </annotation>
+      <annotation id="gy189">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="10119" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy168">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="10159" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy184">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="10247" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy196">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="10303" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy192">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="10454" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="10489" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="303">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="10540" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy183">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="10554" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy173">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="10580" length="3"/>
+        <text>ASN</text>
+      </annotation>
+      <annotation id="gy191">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="10635" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy176">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="11041" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>11154</offset>
+      <text>Moreover, the analysis of root-mean-square fluctuation (RMSF) vs. the residue number for these three systems is illustrated in panel of Figure 8. In the figure, the ligand was not included. The residues (amino acids 377–628) of the catalytic domain was evaluated. RMSF can reflect the mobility of the residue around its mean position and is helpful to find the residues and regions of Syk with major conformational changes. Obviously, the RMSF distribution of Vam3-bound system was different with 1B6- and OSB-bound systems, which indicating that Vam3 could have a distinct interaction mode with Syk. This may come from the difference between the structures of Vam3, 1B6 and OSB.</text>
+      <annotation id="gy202">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="11358" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="gy207">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="11614" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="304">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="11651" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy208">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="11660" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy206">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="11701" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy203">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="11815" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="305">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="11821" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy199">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="11829" length="3"/>
+        <text>OSB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g006.jpg</infon>
+      <infon key="id">ijms-15-17188-f006</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>11836</offset>
+      <text>(a) Superposition of MD average structures of 1B6 with Syk (purple) and crystal structures of 1B6–Syk complex (green); (b) Superposition of MD average structures of OSB with Syk (purple) and crystal structures of OSB–Syk complex (green).</text>
+      <annotation id="306">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="11882" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="11930" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy211">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="12001" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy212">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="12049" length="3"/>
+        <text>OSB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g007.jpg</infon>
+      <infon key="id">ijms-15-17188-f007</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>12078</offset>
+      <text>The key interactions between 1B6 and OSB with Syk in the crystal structures are shown in (a,c); The key interactions between 1B6 and OSB with Syk in the MD average structures are preformed in (b,d), respectively.</text>
+      <annotation id="308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="12107" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy214">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="12115" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="12203" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy216">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="12211" length="3"/>
+        <text>OSB</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g008.jpg</infon>
+      <infon key="id">ijms-15-17188-f008</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>12291</offset>
+      <text>The root-mean-square fluctuation (RMSF) of the catalytic domain of Syk for each residue for the 1B6-bound (black), OSB-bound (red) and Vam3-bound (green) system.</text>
+      <annotation id="310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="12387" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy219">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="12406" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy220">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12426" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>12453</offset>
+      <text>2.4. Binding Mode Analysis of Vam3–Syk Complex</text>
+      <annotation id="gy222">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12483" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>12502</offset>
+      <text>The binding mode for the MD average structures of Syk with vam3 is displayed in Figure 9a,b. It can be observed that Vam3 extend deeply into the binding site of Syk. As is revealed previously, compared to 1B6 and OSB of which both could form three H-bonds with Syk, Vam3 could form two H-bonds with Syk. The H atom on 11b-OH of Vam3 could form hydrogen bond with the backbone atom of Glu449 and this kind of H-bond was also observed in 1B6–Syk interaction. The O atom on 4b-OH of Vam3 also had hydrogen bond interaction with the backbone atom of Phe382 and it is not observed in 1B6–Syk and OSB–Syk interactions or other inhibitors–Syk interactions. However, Vam3 could not form H-bond with Ala451 and Asp512 which many Syk inhibitors favors to form H-bonds with. In addition, arene–cation action between ring-D of Vam3 and Lys402 was also observed. These results indicated that ring-C and ring-D and the two –OH groups on them were necessary for the activity of Vam3.</text>
+      <annotation id="gy243">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12561" length="4"/>
+        <text>vam3</text>
+      </annotation>
+      <annotation id="gy254">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12619" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="12707" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy260">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="12715" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy251">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12768" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy235">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12810" length="1"/>
+        <text>H</text>
+      </annotation>
+      <annotation id="gy242">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12830" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy262">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12846" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="gy261">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="12886" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="12938" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy240">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010100</infon>
+        <location offset="12963" length="1"/>
+        <text>O</text>
+      </annotation>
+      <annotation id="gy255">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="12982" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy238">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="12996" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="gy230">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="13048" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="13081" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy232">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="13093" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="gy265">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="13161" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy259">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000409</infon>
+        <location offset="13193" length="3"/>
+        <text>Ala</text>
+      </annotation>
+      <annotation id="gy250">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001224</infon>
+        <location offset="13204" length="3"/>
+        <text>Asp</text>
+      </annotation>
+      <annotation id="165">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006841</infon>
+        <location offset="13279" length="5"/>
+        <text>arene</text>
+      </annotation>
+      <annotation id="gy257">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="13317" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy249">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="13326" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="gy263">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="13465" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>13483</offset>
+      <text>Hydrophobic interactions are also presented between Syk and Vam3. The phenyl ring-B of Vam3 formed hydrophobic interaction with the side chain of Val385 and ring-A formed hydrophobic interactions with the side chain of Leu377 and Leu501. Fernando Padilla et al. had demonstrated that optimizing interactions of ATP-competitive Syk inhibitors with Pro455 and Asn457, present in only nine aligned kinases of a total of 433, was an attractive way of introducing high levels of Syk specificity. Unfortunately, interaction between Pro455 and Vam3 or Asn457 and Vam3 was not observed. This suggested that Vam3 may not have good Syk selectivity profile.</text>
+      <annotation id="gy284">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="13543" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy288">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="13570" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy271">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014633</infon>
+        <location offset="13629" length="3"/>
+        <text>Val</text>
+      </annotation>
+      <annotation id="gy286">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="13702" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy273">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="13713" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy276">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="13794" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy277">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011392</infon>
+        <location offset="13830" length="3"/>
+        <text>Pro</text>
+      </annotation>
+      <annotation id="gy279">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="13841" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="gy283">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D011392</infon>
+        <location offset="14009" length="3"/>
+        <text>Pro</text>
+      </annotation>
+      <annotation id="gy278">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14020" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy289">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D001216</infon>
+        <location offset="14028" length="3"/>
+        <text>Asn</text>
+      </annotation>
+      <annotation id="gy287">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14039" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy274">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14082" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g009.jpg</infon>
+      <infon key="id">ijms-15-17188-f009</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>14130</offset>
+      <text>Binding mode of Vam3 with Syk. (a) The key Vam3–Syk interactions in the Syk ATP binding pocket in 3-dimensional structure; (b) The two-dimensional projection of Vam3-Syk interaction.</text>
+      <annotation id="gy297">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14146" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy293">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14173" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy294">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14206" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy296">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14291" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>14315</offset>
+      <text>Furthermore, to validate the binding mode of Vam3 and Syk, the same molecular docking and 15 ns MD simulation studies of resveratrol and Syk was carried out. Resveratrol is the monomer of Vam3. It also possesses the same polyphenol hydroxyl structure like Vam3 and shows weak potency for Syk inhibition. Therefore, molecular docking and MD simulation studies on resveratrol may help us better understand the binding mode of Vam3 and Syk.</text>
+      <annotation id="gy311">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14360" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy302">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="14436" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy307">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="14473" length="11"/>
+        <text>Resveratrol</text>
+      </annotation>
+      <annotation id="gy309">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14503" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy313">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D059808</infon>
+        <location offset="14536" length="19"/>
+        <text>polyphenol hydroxyl</text>
+      </annotation>
+      <annotation id="gy312">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14571" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy308">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="14677" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy310">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="14739" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>14753</offset>
+      <text>Resveratrol was docked into the ATP-binding pocket of Syk and the conformation with the higher G-score was used in the MD simulation study. As depicted in Figure 10, the RMSD of the resveratrol–Syk system had reached a plateau after 8 ns. There were RMSD fluctuations from 10 to 15 ns as expected, and the fluctuations may come from the small size and weak binding ability of resveratrol. This indicated that the simulation was not necessarily converged when it reached a plateau in the RMSD.</text>
+      <annotation id="gy318">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="14753" length="11"/>
+        <text>Resveratrol</text>
+      </annotation>
+      <annotation id="gy320">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="14785" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy321">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="14935" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy316">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="15129" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>15248</offset>
+      <text>The average structure of resveratrol–Syk complex from the last 5 ns of the MD simulation was carried out, as shown in Figure 11a. As for resveratrol, it formed H-bond with Glu 449 of Syk and hydrophobic interactions with Leu 377 and Leu 501. As revealed in Figure 11b, resveratrol positioned the same location with ring-A and C of Vam3. Similarly, Vam3 could formed H-bond with Glu 449 of Syk and hydrophobic interactions with Leu 377 and Leu 501. Besides, ring-D of Vam3 formed another H-bond with Phe 382 of Syk and arene–cation action with Lys 402 of Syk. This could explain the potency for Syk inhibition of Vam3 is much better than resveratrol. In addition, to compare the binding modes of Vam3 and resveratrol with Syk, the RMSF analysis was carried out. As depicted in Figure 12, the RMSF distribution of resveratrol-bound system was similar with Vam3-bound system. This may come for the similar structures between resveratrol and Vam3. In summary, resveratrol and Vam3 which have the same skeleton share the similar inhibition mechanism for Syk. More interactions were observed between Vam3 and Syk than resveratrol, which could explain the better inhibiting capacity for Syk of Vam3. These evidence suggest that the binding mode of Vam3–Syk complex is reasonable.</text>
+      <annotation id="gy357">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="15273" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy379">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="15385" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy351">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="15420" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="gy366">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="15469" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy378">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="15481" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy356">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="15517" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy368">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="15579" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy363">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="15596" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy377">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="15626" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="gy367">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="15675" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy342">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D007930</infon>
+        <location offset="15687" length="3"/>
+        <text>Leu</text>
+      </annotation>
+      <annotation id="gy381">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="15715" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy373">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="15747" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="166">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006841</infon>
+        <location offset="15766" length="5"/>
+        <text>arene</text>
+      </annotation>
+      <annotation id="gy361">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008239</infon>
+        <location offset="15791" length="3"/>
+        <text>Lys</text>
+      </annotation>
+      <annotation id="gy370">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="15860" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy350">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="15885" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy341">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="15943" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy374">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="15952" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy380">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16060" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy375">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16102" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy346">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16170" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy340">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16186" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy376">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16204" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy329">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16220" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy369">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16342" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy372">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16360" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy364">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16435" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy336">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16489" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g010.jpg</infon>
+      <infon key="id">ijms-15-17188-f010</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16527</offset>
+      <text>The MD simulation time vs. root mean-square deviation (RMSD) of the backbone atoms for resveratrol–Syk system.</text>
+      <annotation id="gy383">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16614" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g011.jpg</infon>
+      <infon key="id">ijms-15-17188-f011</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16640</offset>
+      <text>(a) The two-dimensional projection of resveratrol–Syk interaction. (b) Superposition of MD average structures of resveratrol with Syk (cyan) and Vam3 with Syk (pink).</text>
+      <annotation id="gy385">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16678" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy389">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16753" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy388">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16785" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="section_type">FIG</infon>
+      <infon key="file">ijms-15-17188-g012.jpg</infon>
+      <infon key="id">ijms-15-17188-f012</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>16809</offset>
+      <text>The RMSF of the catalytic domain of Syk for resveratrol-bound system (purple) and Vam3-bound system (green).</text>
+      <annotation id="gy393">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="16853" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy392">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16891" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">RESULTS</infon>
+      <offset>16918</offset>
+      <text>Therefore, as the essential roles of ring-C and D in Vam3–Syk interaction, structural optimization of Vam3 could focus on ring-A and B of Vam3 using chemical approach, such as bioisosteres. In addition, optimization of ring-A, the hydrophobic ring, with hydrophilic groups may improve its solubility.</text>
+      <annotation id="gy397">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="16971" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy398">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="17020" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy399">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="17056" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17221</offset>
+      <text>3. Materials and Methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17246</offset>
+      <text>3.1. Experimental Studies</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17272</offset>
+      <text>3.1.1. Plant Material</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17294</offset>
+      <text>Vam3 was isolated from the ethanol extracts of a methanol extracts of Vitis amurensis Rupr, as described previously. This compound was prepared by dissolving in dimethyl sulfoxide (DMSO) and the final concentration of DMSO was adjusted to 0.1% (v/v) in culture media.</text>
+      <annotation id="gy409">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="17294" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy410">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000431</infon>
+        <location offset="17321" length="7"/>
+        <text>ethanol</text>
+      </annotation>
+      <annotation id="gy411">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000432</infon>
+        <location offset="17343" length="8"/>
+        <text>methanol</text>
+      </annotation>
+      <annotation id="gy407">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="17455" length="18"/>
+        <text>dimethyl sulfoxide</text>
+      </annotation>
+      <annotation id="gy406">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="17475" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="gy405">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="17512" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17562</offset>
+      <text>3.1.2. In Vitro Fluorescence Polarization Kinase Assay</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>17617</offset>
+      <text>The reactions were carried out in a total volume of 25 μL in 96-well microtiter plates. The Syk tyrosine kinase activity at single dose concentration of 12.5 ng/μL, 10 μL of volume, was carried out served as the enzyme source. The total volume of 10 μL mixture containing 0.2 μg/μL Poly (Glu, Tyr) sodium salt (4:1, Glu:Tyr, Sigma–Aldrich, St. Louis, MO, USA) and 10 μM ATP (Promega, Madison, WI, USA) served as the standardized substrate. The concentration range of the tested inhibitors employed in reactions was 0.0032, 0.016, 0.08, 0.4, 2, 10 μM or DMSO with 5 μL volume. All of the enzymatic reactions were conducted at 37 °C for 60 min. The assay was terminated by adding 25 μL of ADP-GloTM Reagent (Promega, Madison, WI, USA). The 96-well plate was shaken and then incubated for 40 min at ambient temperature. Fifty microliter of Kinase detection reagent was added and the 96-well reaction plate was then read using the ADP-Glo Luminescences Protocol on a GloMax plate reader (Promega: Catalog #E7031). For each concentration of Vam3, the rate of reaction at each concentration of ATP was determined and plotted against the ATP concentration to determine the apparent Km and Vmax (maximal rate). Finally, the apparent Km (or apparent Km/Vmax) was plotted against the inhibitor concentration to determine the Ki. All data analysis was performed using Prism and Prism enzyme kinetics programs.</text>
+      <annotation id="gy422">
+        <infon key="type">OTHER</infon>
+        <location offset="17709" length="19"/>
+        <text>Syk tyrosine kinase</text>
+      </annotation>
+      <annotation id="172">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C027606</infon>
+        <location offset="17899" length="27"/>
+        <text>Poly (Glu, Tyr) sodium salt</text>
+      </annotation>
+      <annotation id="gy414">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="17933" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="gy419">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014443</infon>
+        <location offset="17937" length="3"/>
+        <text>Tyr</text>
+      </annotation>
+      <annotation id="gy428">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="17987" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy431">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D004121</infon>
+        <location offset="18170" length="4"/>
+        <text>DMSO</text>
+      </annotation>
+      <annotation id="gy418">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="18304" length="17"/>
+        <text>ADP-GloTM Reagent</text>
+      </annotation>
+      <annotation id="281">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">-</infon>
+        <location offset="18454" length="24"/>
+        <text>Kinase detection reagent</text>
+      </annotation>
+      <annotation id="gy425">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="18653" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy429">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="18705" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy430">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="18748" length="3"/>
+        <text>ATP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>19029</offset>
+      <text>3.2. Computational Studies</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>19056</offset>
+      <text>3.2.1. Preparation of Protein Target Structure</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>19103</offset>
+      <text>The crystal structure of full-length Syk in complex with ANP (PDB code: 4FL2, with the resolution of 2.19 Ǻ) was retrieved from the RCSB Brookhaven Protein Data Bank (PDB). The structure is the only well-defined full-length Syk with a resolution of 2.19 Ǻ except for the first part of the N-terminus (amino acids 1–8) and for the interdomain linker region (amino acids 265–336). Indeed, using the catalytic domain alone in the simulation would save time. However, the simulation of the whole protein with inhibitor would provide more information about the SH2 domains, which is helpful to further study. Therefore 4FL2 was used as the receptor. Furthermore, 4FL2 is a full-length Syk in complex with AMP–PNP revealing an autoinhibited conformation which is close to the conformation of Syk–ATP complex. Therefore, using 4FL2 as the receptor is more suitable than the other structures and can make docking and MD simulation results persuasive and convincing. As for the missing residues being far away from the ATP-binding pocket, lacking of these 73 residues would not largely affect the results of our simulations. Therefore, we do not model this part. Then the structure was prepared using the following procedures by the Protein Preparation Wizard in the Schrödinger software suite, including adding hydrogen atoms, assigning partial charges using the OPLS_2005 force field and assigning protonation states, and structure minimizing in vacuum. Finally, the cocrystal ANP was removed, and the resulting structure was used as the receptor model in the following studies.</text>
+      <annotation id="gy442">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="19160" length="3"/>
+        <text>ANP</text>
+      </annotation>
+      <annotation id="gy438">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="19404" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="gy443">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000596</infon>
+        <location offset="19460" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="gy434">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000266</infon>
+        <location offset="19803" length="7"/>
+        <text>AMP–PNP</text>
+      </annotation>
+      <annotation id="gy444">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="19893" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy441">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="20113" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy440">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="20406" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+      <annotation id="gy436">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000227</infon>
+        <location offset="20573" length="3"/>
+        <text>ANP</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>20686</offset>
+      <text>3.2.2. Ligand Preparation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>20712</offset>
+      <text>The structure of Vam3 and resveratrol was constructed using Mastro, while the ligands OSB and 1B6 were retrieved from the Protein Data Bank (PDB code: 4F4P and 4Y0T, respectively). All the ligands were prepared by using the LigPrep and then to proceed with stereoisomer generation, neutralization of charged structures and determination of the most probable ionization state at pH 7.2 ± 0.2. The OPLS-2005 forcefield was used for optimization to produce the low-energy conformer of the ligand.</text>
+      <annotation id="gy449">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="20729" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy450">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="20738" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy446">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="20798" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="314">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="20806" length="3"/>
+        <text>1B6</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>21207</offset>
+      <text>3.2.3. Molecular Docking</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>21232</offset>
+      <text>The ligands Vam3, resveratrol, OSB and 1B6 were docked into the receptor using Glide software. Glide approximated a complete systematic search of the conformational, orientational and positional space of the docked ligand, and a series of hierarchical filters was used to search for possible locations of the ligand in the active-site region. In this work, grid box was centered on the ATP centroid in the X-ray crystal structure of Syk and the ligands were docked into the box using the “extra precision” glide docking (Glide XP) which docks ligands flexibly and the protein rigidly. The quality of the geometric matches of the docked binding structures with the lowest GlideScore was visually checked and the best one was selected as the initial complex for further studies. GlideScore is based on ChemScore, but includes a steric-clash term and adds buried polar terms devised by Schrödinger to penalize electrostatic mismatches:where vdW, Coul, Lipo, H-bond, Metal, BuryP, RotB and Site are the van der Waals energy, Coulomb energy, Lipophilic contact term, Hydrogen-bonding term, Metal-binding term, Penalty for buried polar groups, Penalty for freezing rotatable bonds and Polar interactions in the active site, respectively.</text>
+      <annotation id="gy458">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="21244" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy461">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000077185</infon>
+        <location offset="21250" length="11"/>
+        <text>resveratrol</text>
+      </annotation>
+      <annotation id="gy451">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000631</infon>
+        <location offset="21263" length="3"/>
+        <text>OSB</text>
+      </annotation>
+      <annotation id="315">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000577</infon>
+        <location offset="21271" length="3"/>
+        <text>1B6</text>
+      </annotation>
+      <annotation id="gy460">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="21618" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008670</infon>
+        <location offset="22195" length="5"/>
+        <text>Metal</text>
+      </annotation>
+      <annotation id="gy457">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="22294" length="8"/>
+        <text>Hydrogen</text>
+      </annotation>
+      <annotation id="107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D008670</infon>
+        <location offset="22317" length="5"/>
+        <text>Metal</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>22469</offset>
+      <text>3.2.4. Molecular Dynamics Stimulation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">METHODS</infon>
+      <offset>22507</offset>
+      <text>The initial coordinates for the MD calculations were taken from the docking results. For each system, MD studies were performed using OPLS_2005 force field in an explicit solvent with the TIP3P model of water within the Desmond software. The dimensions of each orthorhombic water box were 100 × 100 × 100 Å, which ensured that the entire surface of each complex was covered by the solvent model and the systems were neutralized by adding Cl− counter ions to balance the net charges of the systems. Before equilibration and long production MD simulations, the systems were minimized and pre-equilibrated using the default relaxation routine implemented in Desmond. The solvated system was minimized first with solute restrained and then again minimized without solute restraints by using hybrid method of steepest descent and the LBFGS (limited-memory Broyden–Fletcher–Goldfarb–Shanno) algorithm with a maximum of 2000 steps including initial 10 steps of steepest descent. The minimized system was passed through a short 12 ps simulation in the NVT ensemble using a temperature of 10 K with nonhydrogen solute atoms restrained. Subsequently, the system was simulated for 12 ps in the NPT ensemble using temperature 10 K with restraints on nonhydrogen solute atoms. In the next step, the system was simulated for 24 ps in NPT ensemble using a temperature of 300 K restraining the nonhydrogen solute atoms. In the last step of equilibration process, the system was further simulated for 24 ps in the NPT ensemble with no restraints at temperature 300 K. The temperatures and pressures in the short initial simulations were controlled using Berendsen thermostats and barostats, respectively. Then, each system was performed for a 15 ns long production MD simulation. The OPLS_2005 force field was used along with the MacroModel module to provide and check the necessary force field parameters for the ligands. When MacroModel performs an energy calculation, the program checks the quality of each parameter in use. The use of low quality parameters, especially torsional ones, may result in inaccurate conformational energy differences and geometries. Bond, angle, torsional angle and improper angle checked parameters were listed as high- and medium-quality force field parameters for all ligands studied. During the MD simulations, the equations of motion were integrated with a 2 fs time step in the NPTensemble. The Shake algorithm was applied to all hydrogen atoms; the van der Waals (VDW) cutoff was set to 9 Å. The temperature was maintained at 300 K, employing the Nose-Hoover thermostat method with a relaxation time of 1 ps. Long-range electrostatic forces were taken into account by means of the particle-mesh Ewald (PME) approach. Data were collected every 12 ps during the MD runs. Visualization of protein–ligand complexes and MD trajectory analyses were carried out with the VMD software package. The equilibration was monitored by examining the stability of the temperature, energy, and the density of the system as well as the RMSD of the backbone atoms.</text>
+      <annotation id="gy466">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22710" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="gy464">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="22781" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="gy467">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D002712</infon>
+        <location offset="22945" length="3"/>
+        <text>Cl−</text>
+      </annotation>
+      <annotation id="gy469">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006859</infon>
+        <location offset="24958" length="8"/>
+        <text>hydrogen</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>25589</offset>
+      <text>4. Conclusions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">CONCL</infon>
+      <offset>25604</offset>
+      <text>In this study, we first demonstrated that Vam3 is an ATP-competitive inhibitor of Syk with IC50 of 62.95 nM and Ki of 61.09 nM by using in vitro fluorescence polarization kinase assay. Moreover, to investigate the mechanism of Vam3–Syk interaction, docking studies and molecular dynamics stimulations were performed. Through our stimulations, we have predicted optimal binding conformation of Vam3 with Syk. 11b-OH and 4b-OH of Vam3 formed two H-bonds with Glu449 and Phe382 in the active site of Syk, respectively. Arene-cation action was also found in Vam3–Syk interaction. Together with hydrophobic interactions, these actions form the basis of the well inhibitory activity of Vam3. These results may not only useful for the structural optimization of Vam3 but also for the rational design of novel Syk inhibitors with new scaffold.</text>
+      <annotation id="gy485">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="25646" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy479">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D000255</infon>
+        <location offset="25657" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="gy473">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="25831" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy478">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="25997" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy476">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="26032" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy489">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="26061" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="gy483">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D010649</infon>
+        <location offset="26072" length="3"/>
+        <text>Phe</text>
+      </annotation>
+      <annotation id="167">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D006841</infon>
+        <location offset="26120" length="5"/>
+        <text>Arene</text>
+      </annotation>
+      <annotation id="gy486">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="26158" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy487">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="26284" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+      <annotation id="gy488">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000598179</infon>
+        <location offset="26359" length="4"/>
+        <text>Vam3</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>26444</offset>
+      <text>Author Contributions</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">AUTH_CONT</infon>
+      <offset>26465</offset>
+      <text>Renpin Liu and Ying Chen designed and performed the in vitro fluorescence polarization kinase assay, and Ming Jiang and Qisheng Zheng performed all the computational studies. Ming Jiang, Renpin Liu, Saijun Fan, and Peixun Liu reviewed the data and wrote the paper. Ming Jiang, Qisheng Zheng and Peixun Liu checked, revised and finalized the paper.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>26813</offset>
+      <text>Conflicts of Interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <infon key="section_type">COMP_INT</infon>
+      <offset>26835</offset>
+      <text>The authors declare no conflict of interest.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <infon key="section_type">REF</infon>
+      <offset>26880</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>

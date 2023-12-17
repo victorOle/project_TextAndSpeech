@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PMC</source>
+  <date>20180414</date>
+  <key>pmc.key</key>
+  <document>
+    <id>5887008</id>
+    <infon key="license">CC BY</infon>
+    <passage>
+      <infon key="name_3">surname:Miall;given-names:R. Chris</infon>
+      <infon key="name_2">surname:Wilson;given-names:Martin</infon>
+      <infon key="name_1">surname:Chowdhury;given-names:Alimul</infon>
+      <infon key="name_0">surname:Jalali;given-names:Roya</infon>
+      <infon key="article-id_pmid">29404634</infon>
+      <infon key="fpage">997</infon>
+      <infon key="issue">4</infon>
+      <infon key="year">2018</infon>
+      <infon key="article-id_publisher-id">5170</infon>
+      <infon key="article-id_pmc">5887008</infon>
+      <infon key="type">front</infon>
+      <infon key="article-id_doi">10.1007/s00221-018-5170-1</infon>
+      <infon key="title">Keywords</infon>
+      <infon key="volume">236</infon>
+      <infon key="license">
+Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</infon>
+      <infon key="kwd">Cerebellum GABA Glutamate MR spectroscopy Motor adaptation Non-invasive stimulation</infon>
+      <infon key="lpage">1006</infon>
+      <infon key="name_5">surname:Galea;given-names:Joseph M.</infon>
+      <infon key="name_4">surname:Galea;given-names:Joseph M.</infon>
+      <offset>0</offset>
+      <text>Neural changes associated with cerebellar tDCS studied using MR spectroscopy</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>77</offset>
+      <text>Anodal cerebellar transcranial direct current stimulation (tDCS) is known to enhance motor learning, and therefore, has been suggested to hold promise as a therapeutic intervention. However, the neural mechanisms underpinning the effects of cerebellar tDCS are currently unknown. We investigated the neural changes associated with cerebellar tDCS using magnetic resonance spectroscopy (MRS). 34 healthy participants were divided into two groups which received either concurrent anodal or sham cerebellar tDCS during a visuomotor adaptation task. The anodal group underwent an additional session involving MRS in which the main inhibitory and excitatory neurotransmitters: GABA and glutamate (Glu) were measured pre-, during, and post anodal cerebellar tDCS, but without the behavioural task. We found no significant group-level changes in GABA or glutamate during- or post-tDCS compared to pre-tDCS levels, however, there was large degree of variability across participants. Although cerebellar tDCS did not affect visuomotor adaptation, surprisingly cerebellar tDCS increased motor memory retention with this being strongly correlated with a decrease in cerebellar glutamate levels during tDCS across participants. This work provides novel insights regarding the neural mechanisms which may underlie cerebellar tDCS, but also reveals limitations in the ability to produce robust effects across participants and between studies.</text>
+      <annotation id="C0">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="749" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C5">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="758" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="C1">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="769" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C2">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="916" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C3">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="924" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="C4">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="1243" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>1506</offset>
+      <text>Introduction</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>1519</offset>
+      <text>Numerous studies have shown a facilitatory effect of anodal cerebellar transcranial direct current stimulation (tDCS) on both motor and cognitive behavioural tasks (Galea et al. ; Grimaldi et al. ; Cantarero et al. ). For instance, Galea et al. () applied anodal cerebellar tDCS during visuomotor adaptation and found anodal cerebellar tDCS led to faster adaptation, relative to either primary motor cortex (M1) anodal tDCS or sham tDCS (Galea et al. ). This effect on motor adaptation/learning has been replicated in visuomotor adaptation (Hardwick and Celnik ; Block and Celnik ; Doppelmayr et al. ; Leow et al. ), force-field adaptation (Herzfeld et al. ), locomotor adaptation (Jayaram et al. ), saccade adaptation (Panouilleres et al. ; Avila et al. ), motor skill learning (Cantarero et al. ), and language prediction tasks (Miall et al. ). As a result, it has been suggested that cerebellar tDCS is not only a useful tool to understand cerebellar function but also as a possible clinical technique to restore cerebellar function in patients suffering from cerebellar-based disorders (Grimaldi et al. ). However, there are also inconsistencies regarding the impact of cerebellar tDCS with several studies reporting cerebellar tDCS to have little or no effect on motor learning (Conley et al. ; Minarik et al. ; Jalali et al. ) or large variability between- and within-subjects (Dyke et al. ). Therefore, understanding the underlying causes of this variability is essential.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>2999</offset>
+      <text>Previous work has investigated the neural changes associated with M1 anodal tDCS using a range of MRI techniques (Stagg et al. ; Kim et al. ; Antal et al. ; Hunter et al. ; Kunze et al. ). For example, magnetic resonance spectroscopy (MRS) revealed that M1 anodal tDCS caused a decrease in gamma-aminobutyric acid (GABA), with the magnitude of this decrease being correlated with improvements in both sequence learning (Stagg et al. ) and force-field adaptation (Kim et al. ), but they did not report any significant change in Glu or any correlation between the change in Glu and motor behaviour.</text>
+      <annotation id="C6">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="3289" length="23"/>
+        <text>gamma-aminobutyric acid</text>
+      </annotation>
+      <annotation id="C7">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="3314" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C8">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="3526" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C9">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="3571" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>3596</offset>
+      <text>Despite this work relating to M1 tDCS, no previous research has attempted to use MRS to investigate the neural changes observed with cerebellar tDCS. Given the abundance of GABA and Glu within the cerebellar cortex (Waddell et al. ), we predicted that these were the two metabolites most likely to be affected by anodal cerebellar tDCS. Therefore, using MRS, the changes in GABA and Glu were quantified within the right cerebellar cortex directly underneath the anodal electrode pre, during and post tDCS. We sought to understand if there is any detectable change in GABA or Glu in response to cerebellar tDCS and if their alteration could predict individual differences in the effect of cerebellar tDCS on visuomotor adaptation performance. According to previous findings, we hypothesised that a reduction in GABA induced by cerebellar anodal tDCS would be positively correlated with the degree of visuomotor adaptation.</text>
+      <annotation id="C10">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="3769" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C11">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="3778" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C12">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="3970" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C13">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="3979" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C14">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="4163" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C15">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="4171" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C16">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="4406" length="4"/>
+        <text>GABA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>4518</offset>
+      <text>Materials and methods</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>4540</offset>
+      <text>Participants</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>4553</offset>
+      <text>34 healthy young individuals participated in this study (mean age: 22 ± 2 years; 11 male) and were divided into two groups of 17: anodal (23 ± 5 years; 8 male) and sham (19 ± 2 years; 3 male). All were naïve to the behavioural task, self-assessed right handed, had normal/corrected vision, and reported to have no history of any neurological condition. The study was approved by the Ethical Review Committee at the University of Birmingham and was in accordance with the declaration of Helsinki. Written informed consent was obtained from all participants after screening for suitability for MR imaging and brain stimulation. Participants were recruited through online advertising and received monetary compensation.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5286</offset>
+      <text>All participants first completed a behavioural task, testing visuomotor adaptation during active or sham TDCS. At the end of the behavioural session, 29 of the 34 participants reported their attention, fatigue, and quality of sleep using a questionnaire with a scale from 1 to 7. They also reported whether they believed they had received active or sham stimulation, and their hours of sleep during the previous night (Table 1). After completing the behavioural task, all 17 participants from the anodal group underwent a session of MRS, with concurrent tDCS. The sham group were not imaged.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>5879</offset>
+      <text>Transcranial direct current stimulation (tDCS)</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>5926</offset>
+      <text>For the behavioural session, anodal tDCS (DC-Stimulator, NeuroConn, Germany) was delivered through a pair of rubber electrodes (4 × 4 cm2) within two 5 × 5 cm2 pads soaked in a saline solution (Wagner et al. ) and attached to the head with Coban self-adhesive tape. The anodal electrode was placed over the right cerebellar cortex, 3 cm lateral to the inion. The cathodal electrode (reference) was placed over the right buccinator muscle (Galea et al. ) as it has been shown to be an effective montage for cerebellar stimulation (Rampersad et al. ). At the onset of stimulation, current was increased in a ramp-like fashion over a period of 10 s. For the behavioural study, in the anodal group, a 2 mA current (current density J = 0.08 mA/cm2) was applied for 25 min. In the sham group, tDCS was ramped up over period of 10 s, remained on for 10 s before being ramped down and switching off. Participants during the behavioural task were blinded to whether anodal or sham was applied (Table 1).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>6945</offset>
+      <text>For the MR session, 1.8 mA anodal tDCS was delivered (J = 0.07 mA/cm2) through a pair of rubber electrodes (5 × 5 cm2). The electrodes were attached to each participant’s head, in the same position as the behavioural session, using EEG paste and Coban self-adhesive tape. Electrodes were connected to an MR-compatible tDCS machine (DC-Stimulator-MR, NeuroConn, Germany). Ideally 2 mA stimulation would have been used, however, high impedance (&gt; 55 kΩ) within the MRI-compatible tDCS equipment meant this was not possible.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7486</offset>
+      <text>To avoid MR image artefacts, the tDCS current was set at 0 mA for the pre-and post-stimulation data acquisition, rather than switching the tDCS device off. This was because the tDCS device employed two filters to prevent leakage of radio-frequency electromagnetic fields into the MRI faraday cage, which operated only when the tDCS device was active. Participants were informed of when the stimulation was turned on and were instructed not to fall asleep during the scans.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>7960</offset>
+      <text>Behavioural protocol</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>7981</offset>
+      <text>Participants were seated at a table, with their chin supported by a rest (Fig. 1a), in front of a computer monitor (30-inch; 1280 × 1024 pixel resolution; 105 cm from chin rest). A Polhemus motion tracking sensor (Colchester, VT, USA) was attached to their right index finger and their arm was placed underneath a horizontally suspended wooden board, which prevented direct vision of the arm (Fig. 1a). The visual display consisted of a 1-cm diameter starting box, a green cursor (0.25 cm diameter) representing the position of the subject’s index finger, and a circular white target (0.33 cm diameter). Targets appeared in 1 of 8 positions (45° apart) arrayed radially at 8 cm from the central start position. Targets were selected pseudo-randomly so that every set of eight consecutive trials (one epoch) included all eight target positions. Participants controlled the green cursor on the screen by moving their right index finger across the table top (Fig. 1a). At the beginning of each trial, participants were asked to move their index finger to the start position and a target then appeared. Participants were instructed to make a fast ‘shooting’ movement through the target such that online corrections were effectively prevented. At the moment the cursor passed through the invisible boundary circle (an invisible circle centred on the starting position with an 8 cm radius), the cursor was hidden and the intersection point was marked with a static yellow square to denote the terminal (endpoint) error. In addition, a small square icon at the top of the screen changed colour based on movement speed. If the movement was completed within 100–300 ms, then it remained white. If the movement was slower than 300 ms, then the box turned red (too slow). Importantly, the participants were reminded that spatial accuracy was the main goal of the task. After each trial, subjects moved back to the central start position, with the cursor only reappearing once they were within 2 cm of its location.</text>
+    </passage>
+    <passage>
+      <infon key="file">221_2018_5170_Fig1_HTML.jpg</infon>
+      <infon key="id">Fig1</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>10010</offset>
+      <text>Visuomotor adaptation task. a Experimental set up; participants sat behind a table facing a vertically orientated screen placed 105 cm in front of them. b Task protocol: Following 2 baseline blocks (each 96 trials: pre 1–2), an abrupt 30° VR was applied to the screen cursor and was maintained across 3 blocks (adapt 1–3). Cerebellar tDCS (anodal/sham) was applied from pre 2 until adapt 3 (pink). Following this, retention was examined by removing visual feedback (grey) for the final 3 blocks (post 1–3)</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>10524</offset>
+      <text>Visuomotor adaptation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>10546</offset>
+      <text>The aim of the behavioural experiment was to replicate the findings of Galea et al. (). Therefore, participants were exposed to 8 blocks of 96 trials (12 epochs of all 8 targets). The first 2 blocks acted as baseline and consisted of veridical feedback with (pre1) and without (pre2) online visual feedback (Fig. 1b). During the no visual feedback trials, participants were instructed to continue to strike through the visible target, but received no visual feedback either during or at the end of their movement. Following this, participants were exposed to 3 blocks of trials (adapt 1–3) in which an abrupt 30° counter clockwise (CCW) visual rotation was applied. Finally, to assess retention, three blocks (post-1–3) were performed without visual feedback. tDCS was applied from the start of pre2 and throughout the adaptation blocks, lasting 25 min (Fig. 1b).</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>11418</offset>
+      <text>MRS acquisition</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>11434</offset>
+      <text>The anodal group also participated in a MRS session in which data was acquired pre-, during and post-25 min of cerebellar tDCS (Fig. 2) on a Philips Achieva 3T system (Philips Medical Systems, Best, The Netherlands) with a 32-channel radio frequency head receive-coil. The aim of this session was to measure tDCS-induced changes in GABA and Glu concentrations within the cerebellum. Three orthogonal T2-weighted localiser scans (34 slices, 4 mm thickness, and 1 mm gap, voxel size = 0.8 mm × 1.1 mm, 40 s duration) were collected to allow precise manual localisation of the 2 cm × 2 cm × 2 cm MRS single voxel in the posterior part of the cerebellum underneath the electrode. A high-resolution T1-weighted had been acquired in a different session (sagittal, 175 slices, voxel size 1 × 1 × 1 mm, TR/TE = 8.4/3.8 ms, NSA = 1, 10.40 min duration). A cod liver oil capsule was placed on the top right corner of the electrode. As this could be seen in the localizer images, it was used as a marker to aid the placement of the MRS voxel (Fig. 3a).</text>
+      <annotation id="C17">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="11766" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C18">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="11775" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">221_2018_5170_Fig2_HTML.jpg</infon>
+      <infon key="id">Fig2</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>12515</offset>
+      <text>Graphical representation of MRS session using voxel localiser scans (T2) and MEGA-PRESS pulse sequence. MRS data was acquired pre-, during, and post-tDCS (lasting 25 min each) performed sequentially within the same individually localised voxel</text>
+    </passage>
+    <passage>
+      <infon key="file">221_2018_5170_Fig3_HTML.jpg</infon>
+      <infon key="id">Fig3</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>12760</offset>
+      <text>MRS voxel localisation. a A single 2 × 2 × 2 cm voxel size was located manually in the posterior part of the right cerebellum underneath the anodal electrode. A cod liver oil capsule (yellow arrow) was situated at the top left edge of the electrode to assist with voxel localisation. Three sets of data were acquired: pre-, during and post- cerebellar tDCS; example MRS spectra are shown for three participants including N-acetylaspartate (NAA) and highlighting the (b) GABA and c GLX metabolite signals</text>
+      <annotation id="C21">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000179</infon>
+        <location offset="13181" length="17"/>
+        <text>N-acetylaspartate</text>
+      </annotation>
+      <annotation id="C19">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:C000179</infon>
+        <location offset="13200" length="3"/>
+        <text>NAA</text>
+      </annotation>
+      <annotation id="C20">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="13230" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C22">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698,MESH:D005973</infon>
+        <location offset="13241" length="3"/>
+        <text>GLX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13275</offset>
+      <text>A GABA signal was measured from the proton spin coherence resonance at 3.0 ppm, accomplished by J-difference editing after scanning using a MEscher–GArwood-Point RESolved Spectroscopy (MEGA-PRESS) (Mescher et al. ) sequence with a pulse repetition time (TR) of 2000 ms, echo time (TE) of 68 ms and total duration 25 min. We produced an average GABA spectrum from a total of 512 spectral acquisitions each with a bandwidth of 2150 Hz, sampled at 2048 data points, and with prior water suppression using variable power radio-frequency pulses with optimized relaxation delays (VAPOR) (Tkac et al. ) at 4.68 ppm.</text>
+      <annotation id="C23">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="13277" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C24">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="13619" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C25">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="13753" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>13892</offset>
+      <text>To achieve an edited GABA spectral signal without contamination from macromolecules (MM), the two frequency selective 180° RF pulses (Gaussian pulses with duration of 16.5 ms) in the MEGA-PRESS sequence were applied with the centre of the frequency band interleaving between 1.9 ppm (edit-On) and 1.5 ppm (edit-Off) (Henry et al. ), across the 512 spectral acquisitions. The edit-Off spectra were subtracted from the edit-On spectra resulting in a spectrum with an unequivocal GABA signal. The acquired edit-Off spectra were also separately analysed to measure concentrations of other metabolites including GLX (Glu + Glutamine (Gln)). Typical spectra identifying GABA and GLX from three participants are shown in Fig. 3b, c. Additional unsuppressed water scans were also acquired to allow corrected metabolite signal quantification. Both metabolites were expressed relative to water concentration.</text>
+      <annotation id="C26">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="13913" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C27">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="14369" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C31">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698,MESH:D005973</infon>
+        <location offset="14499" length="3"/>
+        <text>GLX</text>
+      </annotation>
+      <annotation id="C32">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="14504" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C33">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="14510" length="9"/>
+        <text>Glutamine</text>
+      </annotation>
+      <annotation id="C29">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="14521" length="3"/>
+        <text>Gln</text>
+      </annotation>
+      <annotation id="C28">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="14556" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C30">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698,MESH:D005973</infon>
+        <location offset="14565" length="3"/>
+        <text>GLX</text>
+      </annotation>
+      <annotation id="C36">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="14642" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C35">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="14770" length="5"/>
+        <text>water</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>14800</offset>
+      <text>This study required three separate scans to measure GABA pre-, during- and post- tDCS in a single voxel. To examine the temporal stability and reproducibility of the GABA signal measurements in three subsequent scans, we carried out three test scans on a phantom containing 18 mM of GABA. We found the GABA signal to be highly consistent across the scans. All spectra were aligned and the measured concentration from all three scans were similar: GABA:H2O = mean ± standard deviation (stdev) = (1.2 ± 0.11) × 10−3. The small stdev confirms the stability of our GABA measurements during in vitro conditions.</text>
+      <annotation id="C37">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="14852" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C38">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="14966" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C39">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="15083" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C40">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="15102" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C41">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="15247" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C42">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="15252" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C43">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="15361" length="4"/>
+        <text>GABA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>15429</offset>
+      <text>Data analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>15443</offset>
+      <text>Visuomotor adaptation task</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>15470</offset>
+      <text>Data and statistical analysis was performed using MATLAB (The Math Works, USA) and SPSS (IBM, USA). Index finger position (X &amp; Y position) data was collected at 120 Hz. For each trial, angular hand direction (°) was calculated as the difference between the angular hand position and angular target position at the point when the cursor intersected the 8 cm invisible circle centred on the starting position. During veridical feedback (pre1, Fig. 1b), the goal was for hand direction error to be 0°. However, with the visuomotor transformation (adapt 1–3), hand direction had to compensate; that is, for the − 30° (CCW) visuomotor rotation, a hand direction of + 30° relative to the target was required. Positive values indicate a CW direction, whereas negative values indicate a CCW direction. In addition, reaction time (RT: difference between the target appearing and the participant moving out of the start position) and movement time (MT: difference between reaction time and movement end) were calculated for each trial. We removed any trial in which hand direction, RT or MT exceeded 2.5 standard deviations above the group mean. This accounted for 1.2% of trials. Epochs were created by binning 8 consecutive movements, 1 towards each target.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>16735</offset>
+      <text>The angular hand direction (°) of anodal and sham groups was compared for each block of baseline using separate 2-tailed independent t tests. For adaptation and retention, separate repeated-measures ANOVAs compared groups (anodal/sham) across blocks (3). Finally, for reaction time (RT) and movement time, two separate repeated-measures ANOVAs compared groups (anodal/sham) across all 8 blocks (Pre 1–2, Adapt 1–3, Post 1–3). The threshold for all statistical comparisons was P &lt; 0.05. Effect sizes are reported as partial eta squared for ANOVA and Cohen’s d for t tests. All data are presented as mean ± standard error of the mean, unless otherwise specified.</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>17414</offset>
+      <text>MRS analysis</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>17427</offset>
+      <text>Spectroscopy data was analysed using TARQUIN version 4.3.4 (Wilson et al. ). First, pre-processing was carried out including inspection and removal of corrupted spectra arising from motion or technical problems. Then, raw data were Fourier-transformed to a spectrum of 2048 data points, the signal was smoothed by a 3 Hz Lorentzian filter, phased and referenced to water signal at 4.7 ppm. Random drift due to scanner instability or subject motion was corrected by aligning the water peak before fitting a Lorentzian–Gaussian (Voigt) line shape model. The amount of drift was plotted and used to assess the quality of acquisition. Scans with less than 10 Hz drift were taken to have acceptable spectra. However, high drift was not the only criterion used to remove data; quality control was performed based on a flat baseline, the shape of the GABA peak in the average spectrum and the smoothness of the residual between the actual data and the fitted model. Signal to noise ratio (SNR) or Cramér–Rao bound (CRLB) were not recommended to be used as quality control in TARQUIN due to the small GABA signal SNR (according to TARQUIN forum discussions). As a result, four subjects were removed from analysis due to an unreliable spectrum and/or poor fitting in one of the three acquisitions (pre-, during, or post-tDCS).</text>
+      <annotation id="C46">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="17792" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C47">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="17905" length="5"/>
+        <text>water</text>
+      </annotation>
+      <annotation id="C44">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="18271" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C45">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="18520" length="4"/>
+        <text>GABA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>18753</offset>
+      <text>A basis set predefined in TARQUIN was initially constructed based on known peak positions (Voigt function). This basis set was fit to the average spectrum allowing peak amplitudes, widths, and frequencies to be optimized (Wilson et al. ). The basis set was then updated with the newly determined frequencies and peak widths and this process of basis set refinement was repeated until fitting resulted in negligible adjustment to the basis set. To detect GABA, all edit-On and edit-Off spectra were averaged separately and then subtracted from each other, but GLX (Glu + Gln) was measured from the average of edit off spectra and Glu extracted from GLX using the predefined basis set in TARQUIN. The reason for using edit off is to avoid subtraction artefacts from the misalignment of the edit-on and edit-off spectra (Evans et al. ).</text>
+      <annotation id="C48">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="19207" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C50">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698,MESH:D005973</infon>
+        <location offset="19312" length="3"/>
+        <text>GLX</text>
+      </annotation>
+      <annotation id="C52">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="19317" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C53">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005973</infon>
+        <location offset="19323" length="3"/>
+        <text>Gln</text>
+      </annotation>
+      <annotation id="C49">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="19382" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C51">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698,MESH:D005973</infon>
+        <location offset="19401" length="3"/>
+        <text>GLX</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>19591</offset>
+      <text>Next, the T1-image of each participant was co-registered to their T2-image using Statistical Parametric Mapping (SPM12) (Friston et al. ) and the quality of registration was checked by plotting joint histograms of co-registered T1 vs. T2 images, and by inspection of land marks (specifically on the cerebellum). Then segmentation of the T1 image was carried out using the FMRIB automated segmentation tool (FAST) (Zhang et al. ) to calculate the relative volume of each tissue type; grey matter, white matter (WM) and cerebral spinal fluid (CSF) within the MRS voxel. The amplitude of GABA and Glu were corrected for the proportion of GM volume in the voxel by multiplying by  (Stagg et al. ; Kim et al. ). Finally, the percentage change ratios for both metabolites for pre- versus during-tDCS, and pre- versus post-tDCS scans were calculated by (100 × (during-pre)/pre) and (100 × (post-pre)/pre) respectively (Stagg et al. ).</text>
+      <annotation id="C54">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="20176" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C55">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="20185" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20521</offset>
+      <text>To assess the modulation of metabolites in response to cerebellar tDCS, repeated-measures ANOVAs compared concentrations of each metabolite pre-, during, and post- tDCS. A Bonferroni correction for multiple comparisons meant the threshold for statistical comparisons was set at P &lt; 0.016. All data are presented as mean ± standard error of the mean, unless otherwise specified.</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>20908</offset>
+      <text>Finally, we examined whether changes in GABA and Glu could predict visuomotor performance. Therefore, partial correlations were carried out between: (1) the change in GABA:H2O ratio during tDCS with both total adaptation and retention; (2) the change in GABA:H2O ratio change post-tDCS and retention. In both cases, we controlled for Glu:H2O ratio change because Glu is precursor for GABA synthesis. Correlations were also carried out between (3) the change in Glu:H2O ratio during tDCS and total adaptation and retention, and (4) the change in Glu:H2O ratio change post-tDCS and retention. A Bonferroni correction for multiple comparisons meant the threshold for statistical comparisons was set at P &lt; 0.008.</text>
+      <annotation id="C56">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="20948" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C57">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="20957" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C58">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="21075" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C59">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21080" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C60">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="21162" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C61">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21167" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C62">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="21242" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C63">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21246" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C64">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="21271" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C65">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="21292" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C66">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="21369" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C67">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21373" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C68">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="21453" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C69">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="21457" length="3"/>
+        <text>H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>21622</offset>
+      <text>Results</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>21630</offset>
+      <text>Visuomotor adaptation</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>21652</offset>
+      <text>The performance of 17 anodal and 17 sham participants were compared across all blocks. Both groups behaved similarly during baseline with no significant differences in hand direction between groups during either pre1 (anodal: 1.20 ± 0.22, sham 1.83 ± 0.32; t(32) = − 1.4, p = 0.1, d = 0.08; Fig. 4) or pre2 (anodal: 2.24 ± 0.33, sham: 1.53 ± 0.34; t(32) = 0.9, p = 0.4, d = 0.2). For adaptation, we found no significant differences between the anodal and sham groups. Specifically, there was a significant main effect for blocks (F(2,32) = 205.6, p &lt; 0.005, ɳ2 = 0.86), but no significant main effect for group (F(1, 32) = 2.3, p = 0.14, ɳ2 = 0.07) or block–group interaction (F(1,32) = 0.63, p = 0.43, ɳ2 = 0.02; Fig. 4). Based on these results (total adaptation: anodal = 20.84 SD = 2.3, sham = 19.44 SD = 2.98), a power analysis revealed (d = 0.53, power = 0.8) that group sizes of 45 participants would be required to observe a significant result. For retention, we found an unexpected difference between groups whereby the anodal group retained significantly more than the sham group. Specifically, there was a significant main effect for blocks (F(2,32) = 114.9, p &lt; 0.005, ɳ2 = 0.78) and group (F(1,32) = 4.7, p = 0.037, ɳ2 = 0.13), but no significant block–group interaction (F(1,32) = 0.6, p = 0.44, ɳ2 = 0.02; Fig. 4). For RT, there were no significant main effect for group (anodal: 0.43 ± 0.04, sham: 0.39 ± 0.05; F(1,32) = 2.02, p = 0.2, ɳ2 = 0.06), blocks (F(2,32) = 2.5, p = 0.1, ɳ2 = 0.07), or block–group interaction (F(1,32) = 1.2, p = 0.3, ɳ2 = 0.04). Similarly, for MT there were no significant main effect for group (anodal: 0.22 ± 0.08, sham: 0.24 ± 0.08, F(1,32) = 3.3, p = 0.08, ɳ2 = 0.09) or block–group interaction (F(1,32) = 0.4, p = 0.8, ɳ2 = 0.01), but a significant main effect for blocks (F(2,32) = 9.9, p &lt; 0.005, ɳ2= 0.24).</text>
+    </passage>
+    <passage>
+      <infon key="file">221_2018_5170_Fig4_HTML.jpg</infon>
+      <infon key="id">Fig4</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>23715</offset>
+      <text>Influence of cerebellar tDCS on visuomotor adaptation. Epoch data (average across 8 trials) for angular hand direction (˚) for the anodal (blue) and sham cerebellar tDCS groups. Positive values indicate CW hand direction. The inset bar graphs indicate mean hand direction for the anodal and sham groups during adaptation (adapt 1–3) and retention (post-1–3). Solid lines, mean; shaded areas/error bars, S.E.M</text>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>24129</offset>
+      <text>MRS</text>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>24133</offset>
+      <text>tDCS did not consistently modulate GABA or glu</text>
+      <annotation id="C70">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="24168" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C71">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="24176" length="3"/>
+        <text>glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>24180</offset>
+      <text>In the anodal group, we measured metabolites within the right posterior cerebellar cortex underneath the anodal electrode at three time-points: pre-, during and post-25 min of anodal cerebellar tDCS. First, grey matter tissue fraction was not significantly different across the three time-points (F(2,24) = 0.95, p = 0.4, ɳ2 = 0.07). Crucially, there was no significant change in either GABA:H20 (F(2,24) = 0.56, p = 0.58, ɳ2 = 0.04; Bonferroni-corrected threshold p = 0.016; Fig. 5a) or Glu:H2O (F(2,24) = 4.2, p = 0.02, ɳ2 = 0.26; Fig. 5b) across the three time points.</text>
+      <annotation id="C72">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="24567" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C75">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24572" length="3"/>
+        <text>H20</text>
+      </annotation>
+      <annotation id="C73">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="24668" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C74">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24672" length="3"/>
+        <text>H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">221_2018_5170_Fig5_HTML.jpg</infon>
+      <infon key="id">Fig5</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>24786</offset>
+      <text>Cerebellar tDCS dependent changes in GABA and Glu. The average a GABA:H2O and b Glu:H2O ratio pre-, during and post-cerebellar tDCS. Change (%) in c GABA:H2O; d Glu:H2O during and post-cerebellar tDCS relative to baseline (pre-tDCS). The box-plot limits represent the 25th and 75th data percentiles and the middle line represents the median. The error bars represent the range of data</text>
+      <annotation id="C76">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="24823" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C77">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="24832" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C78">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="24851" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C79">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24856" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C80">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="24866" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C81">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24870" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C82">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="24935" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C83">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24940" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C84">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="24947" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C85">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="24951" length="3"/>
+        <text>H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_3</infon>
+      <offset>25171</offset>
+      <text>tDCS-induced changes in Glu:H2O during tDCS were inversely correlated with retention</text>
+      <annotation id="C86">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="25195" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C87">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25199" length="3"/>
+        <text>H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>25256</offset>
+      <text>Given the large between-subject variability (e.g. from ~ 90% increase to a 100% decrease for GABA:H2O and from ~ 20% decrease to ~ 40% increase for Glu:H2O during vs. pre; Fig. 5c, d), we went on to examine whether changes in GABA and Glu could predict visuomotor adaptation performance across participants. There was no significant correlation between the change in the GABA:H2O ratio during tDCS with total adaptation (r = − 0.40, p = 0.15; Bonferroni-corrected threshold p = 0.008, Fig. 6a) or total retention (r = − 0.19, p = 0.49), nor between the change in the GABA:H2O ratio post-tDCS with total retention (r = − 0.07, p = 0.81). In addition, there was no significant correlation between the change in the Glu:H2O ratio during tDCS with total adaptation (r = − 0.08, p = 0.78), but there was a significant correlation with total retention (r = − 0.74, p = 0.004, Fig. 6b). There was also no significant correlation between the change in the Glu:H2O ratio post-tDCS and total retention (r = − 0.29, p = 0.32).</text>
+      <annotation id="C88">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="25349" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C89">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25354" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C90">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="25404" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C91">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25408" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C92">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="25482" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C93">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="25491" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C94">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="25627" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C95">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25632" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C96">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="25823" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C97">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25828" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C98">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="25969" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C99">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="25973" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C100">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="26204" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C101">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26208" length="3"/>
+        <text>H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>26327</offset>
+      <text>Finally, in a purely explorative nature we observed that cerebellar tDCS led to enhanced performance during the late phase (adapt 3) of adaptation. As previous work has suggested that this part of adaptation is more cerebellar-dependent (McDougle et al. ), we asked whether this performance was correlated with changes in either the GABA:H2O or Glu:H2O ratio during tDCS. There was a significant negative correlation between the change in GABA:H2O ratio during tDCS and late (adapt 3) adaptation (r = − 0.66, p = 0.014), but not in Glu:H20 (r = 0.20, p = 0.50). Although exploratory, this provides subtle evidence that participants who showed a decrease in GABA during cerebellar tDCS also displayed greater late adaptation.</text>
+      <annotation id="C102">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="26660" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C103">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26665" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C104">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="26672" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C105">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26676" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C106">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="26766" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C107">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26771" length="3"/>
+        <text>H2O</text>
+      </annotation>
+      <annotation id="C108">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="26859" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C110">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="26863" length="3"/>
+        <text>H20</text>
+      </annotation>
+      <annotation id="C109">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="26984" length="4"/>
+        <text>GABA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="file">221_2018_5170_Fig6_HTML.jpg</infon>
+      <infon key="id">Fig6</infon>
+      <infon key="type">fig_caption</infon>
+      <offset>27067</offset>
+      <text>Correlations between MRS and visuomotor adaptation. a There was no significant correlation between the changes in the GABA:H20 ratio during cerebellar tDCS and total adaptation. The red line represents the sham group’s mean performance during total adaptation (shaded area = SD across group). b A significant negative correlation was observed between changes in the Glu:H2O ratio during cerebellar tDCS and total retention. The red line represents the sham group’s mean performance during total retention (shaded area = SD across group)</text>
+      <annotation id="C111">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="27185" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C114">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27190" length="3"/>
+        <text>H20</text>
+      </annotation>
+      <annotation id="C112">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="27433" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C113">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D014867</infon>
+        <location offset="27437" length="3"/>
+        <text>H2O</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>27616</offset>
+      <text>Self-reported ratings of attention, fatigue, and sleep</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>27671</offset>
+      <text>There were no significant differences between groups for the self-reported ratings of attention, fatigue and quality of sleep (Table 1).</text>
+    </passage>
+    <passage>
+      <infon key="file">Tab1.xml</infon>
+      <infon key="id">Tab1</infon>
+      <infon key="type">table_caption</infon>
+      <offset>27809</offset>
+      <text>Self-reported rate of attention, fatigue, quality of sleep (1 is poorest and 7 is the maximal), perceived tDCS as active (1) or sham (0) and sleep hours. All the values are averaged and compared using independent t tests between the groups, and presented as mean ± standard deviation (SD)</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>28103</offset>
+      <text>Discussion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28114</offset>
+      <text>This study revealed no statistically significant behavioural differences between anodal and sham cerebellar tDCS groups during visuomotor adaptation, and no consistent change in GABA and Glu in response to concurrent cerebellar tDCS. However, surprisingly, we found cerebellar tDCS led to an improvement in motor memory retention which was strongly correlated with a decrease in Glu during tDCS.</text>
+      <annotation id="C115">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="28292" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C116">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="28301" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C117">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="28493" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>28510</offset>
+      <text>Cerebellar tDCS did not significantly improve visuomotor adaptation, but enhanced retention</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>28602</offset>
+      <text>Although participants showed a clear ability to adapt to the novel visuomotor rotation, the expected significant enhancement of adaptation by anodal cerebellar tDCS, that had been shown in various studies (Galea et al. ; Hardwick and Celnik ; Block and Celnik ; Leow et al. ), was not observed here. Despite our sample size being in the same range of previously published tDCS papers, a recent study indicates this could be significantly under powered (Minarik et al. ). Minarik et al. () showed that with a suggested tDCS effect size of 0.45, the likelihood of observing a significant result with 14 participants per group was approximately 20%. In fact, a power analysis based on our results revealed that we achieved an effect size of 0.53, suggesting group sizes of 45 participants would have been required to observe a significant difference between the anodal and sham tDCS groups. In accordance with this, some previous work indicates that there is substantial variation in the behavioural effect of cerebellar tDCS across participants (Jalali et al. ).</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>29663</offset>
+      <text>Unexpectedly, the anodal group showed greater motor memory retention in comparison to sham tDCS. Although in force-field adaptation it has been shown that cerebellar tDCS influences both the formation of motor memory and its retention (Herzfeld et al. ), this effect of stimulation has not been previously shown in similar visuomotor adaptation tasks (Galea et al. ; Jalali et al. ). At present, we have no clear reason why we observed a positive effect of cerebellar tDCS on memory retention during a visuomotor adaptation task; however, we return to this question when discussing the strong correlation observed between retention and Glu across participants.</text>
+      <annotation id="C118">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30299" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>30324</offset>
+      <text>No significant detectable change in GABA or glu in response to cerebellar tDCS</text>
+      <annotation id="C119">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="30360" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C120">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30368" length="3"/>
+        <text>glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>30403</offset>
+      <text>Similar to the behavioural results, there was no consistent group effect of tDCS on GABA or Glu measured within the cerebellum either during or after stimulation. This is in contrast to several previous studies that have shown a significant decrease in GABA in response to M1 tDCS (Stagg , Stagg et al. ; Stagg et al. ; Kim et al. ; Bachtiar et al. ), but similar to reports of no significant changes in Glu being observed following M1 tDCS (Stagg et al. ; Kim et al. ). However, as this is a different brain region with different stimulation duration/intensity it is very difficult to make comparisons. It is possible that cerebellar tDCS simply does not cause consistent between-subject changes in GABA and Glu as it is also shown for M1 tDCS (Tremblay et al. ). Alternatively, as each MRS measurement represented the average of 25 min of acquisition we may have been unable to capture any fast or short-lasting changes in these metabolites.</text>
+      <annotation id="C121">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="30487" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C122">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30495" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C123">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="30656" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C124">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="30807" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C125">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="31103" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C126">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="31112" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_2</infon>
+      <offset>31348</offset>
+      <text>No correlation between changes in GABA and adaptation, but online cerebellar tDCS reductions in Glu were correlated with motor retention</text>
+      <annotation id="C127">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="31382" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C128">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="31444" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>31485</offset>
+      <text>Although there were no consistent metabolite concentration changes during or post- cerebellar tDCS, we observed large inter-subject variability. Therefore, we examined whether changes in GABA and Glu could predict visuomotor performance with cerebellar tDCS. Our findings demonstrated no significant correlation across participants between changes in GABA during stimulation and total adaptation, however there was an, exploratory, significant negative correlation with the late phase of adaptation. This latter result might confirm the finding by McDougle et al. , who reported that the late phase of adaptation is more cerebellar-dependant (McDougle et al. ). As this correlation was specific to GABA, and not Glu, it might suggest a role for GABA in the online effects of cerebellar tDCS during visuomotor adaptation, however, further investigation is required. Specifically, during the current task it is likely that adaptation involved cerebellar-dependent sensorimotor recalibration but also the use of explicit strategies (Taylor et al. ). Importantly, it has recently been shown that cerebellar tDCS increases implicit learning only when strategic re-aiming is suppressed during adaptation (Leow et al. ). Therefore, it is possible that a stronger relationship between cerebellar tDCS changes in GABA and visuomotor adaptation performance would be observed when using a task that minimised the use of strategies.</text>
+      <annotation id="C129">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="31672" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C130">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="31681" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C131">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="31836" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C132">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="32183" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C133">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="32197" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C134">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="32230" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C135">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="32789" length="4"/>
+        <text>GABA</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>32906</offset>
+      <text>Surprisingly, we also found that participants who showed decreases in Glu during cerebellar tDCS within the MRS session showed greater levels of motor memory retention post-tDCS during the behavioural session. At present, it is difficult to explain this correlation. One possibility is that a decrease in Glu reflects a decrease in glutamatergic input into the cerebellar cortex (from mossy fibres and/or granule cells) and would, therefore, lead to reduced activity of Purkinje cells. This would reduce cerebellar brain inhibition (CBI) and enhance M1 function. It is known that excitation of M1 facilitates retention, potentially retaining or consolidating what has been learnt by the cerebellum (Galea et al. ; Sami et al. ). Although extremely interesting, as the positive effect of cerebellar tDCS on retention was unexpected and contrary to previous literature, we believe it is crucial that future work attempts to replicate the negative correlation between levels of Glu and motor retention.</text>
+      <annotation id="C136">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="32976" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C137">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="33211" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C138">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="33881" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>33906</offset>
+      <text>A major limitation of this study was the lack of a sham tDCS MRS session. As we compared changes in GABA and Glu across MRS scans, it is possible that inter-individual variability in these measures simply reflected either unreliable GABA quantification or natural variations in neurotransmitter levels at rest. Although our small phantom study suggested that we could measure GABA across three scans with little variability, this does not mean that our in vivo measurements of GABA and Glu did not suffer from inter-scan variability. Therefore, to confirm the significant correlation between the changes in Glu and memory retention, future work should include a sham tDCS condition which would enable tDCS-dependent changes in MRS signal to be dissociated from natural changes occurring at rest.</text>
+      <annotation id="C139">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="34006" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C140">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="34015" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C141">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="34139" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C142">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="34282" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C143">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="34383" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C144">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="34392" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C145">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="34513" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>34702</offset>
+      <text>Lastly, not having any measures of participant alertness during data acquisition leaves the possibility that some of the heterogeneity in the observed MRS results could have been driven by variability in the alertness of the participants while lying in the scanner even though according to their report, none of the participants fell asleep. MRS data from a sham tDCS condition would have been useful in assessing this possibility- revealing the GABA and Glu changes which might simply be associated with lying in the scanner for this kind of duration.</text>
+      <annotation id="C146">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="35148" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C147">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="35157" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>35255</offset>
+      <text>Conclusion</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>35266</offset>
+      <text>In summary, we found no statistically significant behavioural differences between anodal and sham cerebellar tDCS groups during visuomotor adaptation, and no consistent change in GABA and Glu in response to concurrent cerebellar tDCS. However, cerebellar tDCS did lead to an improvement in motor memory retention which was strongly correlated with a decrease in Glu during tDCS. Thus, this work provides novel insights regarding the neural mechanisms that could underlie cerebellar tDCS. Although interesting, these effects are incompatible with previous literature highlighting the need for replication and limitations in the ability to produce robust cerebellar tDCS effects across participants and between studies.</text>
+      <annotation id="C148">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D005680</infon>
+        <location offset="35445" length="4"/>
+        <text>GABA</text>
+      </annotation>
+      <annotation id="C149">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="35454" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="C150">
+        <infon key="type">Chemical</infon>
+        <infon key="identifier">MESH:D018698</infon>
+        <location offset="35628" length="3"/>
+        <text>Glu</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>35984</offset>
+      <text>Compliance with ethical standards</text>
+    </passage>
+    <passage>
+      <infon key="type">title_1</infon>
+      <offset>36018</offset>
+      <text>Conflict of interest</text>
+    </passage>
+    <passage>
+      <infon key="type">paragraph</infon>
+      <offset>36039</offset>
+      <text>Authors have no conflict of interest, financial or otherwise.</text>
+    </passage>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>36101</offset>
+      <text>References</text>
+    </passage>
+  </document>
+</collection>
